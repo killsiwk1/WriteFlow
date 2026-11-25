@@ -4,6 +4,8 @@
 
 ## 下载使用
 
+**3.0.3 离线版下载**　[安卓 APK](https://github.com/killsiwk1/WriteFlow/raw/refs/heads/main/downloads/v3.0.3/WriteFlow-Android.apk) · [Windows 安装包](https://github.com/killsiwk1/WriteFlow/raw/refs/heads/main/downloads/v3.0.3/WriteFlow-Windows-Setup.exe) · [Mac 安装包](https://github.com/killsiwk1/WriteFlow/raw/refs/heads/main/downloads/v3.0.3/WriteFlow-macOS.pkg) · [离线网页](https://github.com/killsiwk1/WriteFlow/raw/refs/heads/main/downloads/v3.0.3/WriteFlow.html)
+
 [下载离线网页版](https://github.com/killsiwk1/WriteFlow/raw/refs/heads/main/dist/WriteFlow.html)。将 HTML 保存到电脑，用现代浏览器打开即可开始练习。请使用同一浏览器和固定的文件位置，并定期在设置里备份。GitHub 文件预览只能查看源码。
 
 ## 个人云同步（开发版）
