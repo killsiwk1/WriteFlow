@@ -1,0 +1,2638 @@
+[
+ {
+  "id": "WF2801",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "At four the announcement reached the front of the hall but not the entrance. A line formed there while several seats stood empty. A student near the door repeated the message and led the first group inside. By the time a second speaker was connected, the line had already disappeared. The equipment helped later; the immediate change came from one person noticing where information had stopped.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "四点，通知传到礼堂前部，却没传到入口。入口排起了队，厅里还有几个空座。门边一名学生重复了通知，带第一组人进入。第二台音箱接好时，队伍已经消散。设备后来帮上了忙，而当下的改变来自一个人发现信息传到了哪里就中断了。",
+  "why": "按时序区分先产生效果的行动和后投入使用的设备。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "按时序区分先产生效果的行动和后投入使用的设备。"
+   ]
+  ],
+  "options": [
+   "把改动与保持不变的条件一起写清，使结果容易理解。",
+   "按时序区分先产生效果的行动和后投入使用的设备。",
+   "以分工、问题、调整和结果组成事件经过。"
+  ],
+  "source": "model-structure:51",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2802",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "At four the announcement reached the front of the hall but not the entrance. A line formed there while several seats stood empty. A student near the door repeated the message and led the first group inside. By the time a second speaker was connected, the line had already disappeared. The equipment helped later; the immediate change came from one person noticing where information had stopped.\n\n文中的 “announcement” 在此处最接近哪个意思？",
+  "cn": "四点，通知传到礼堂前部，却没传到入口。入口排起了队，厅里还有几个空座。门边一名学生重复了通知，带第一组人进入。第二台音箱接好时，队伍已经消散。设备后来帮上了忙，而当下的改变来自一个人发现信息传到了哪里就中断了。",
+  "why": "联系上下文，“announcement” 表示“通知”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "通知"
+   ]
+  ],
+  "options": [
+   "查看",
+   "托盘",
+   "通知"
+  ],
+  "source": "model-word:51",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2803",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "In the picture, a girl is sitting by a train window. Her blue bag is under the seat, and a paper ticket is in her hand. Outside, two people are waving. The girl is smiling back at them. I think she knows them, but the picture does not show their faces clearly.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "图中，一个女孩坐在火车窗边。蓝包在座位下，手里拿着纸票。窗外有两个人在挥手，女孩也朝他们微笑。我想她认识他们，不过图里看不清他们的脸。",
+  "why": "先写可见的位置和动作，再把人物关系作为推测。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "先写可见的位置和动作，再把人物关系作为推测。"
+   ]
+  ],
+  "options": [
+   "以不符合最初印象的细节引出谨慎推断。",
+   "先写可见的位置和动作，再把人物关系作为推测。",
+   "以前后景组织细节，再根据路面痕迹判断天气。"
+  ],
+  "source": "model-structure:52",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2804",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "In the picture, a girl is sitting by a train window. Her blue bag is under the seat, and a paper ticket is in her hand. Outside, two people are waving. The girl is smiling back at them. I think she knows them, but the picture does not show their faces clearly.\n\n文中的 “clearly” 在此处最接近哪个意思？",
+  "cn": "图中，一个女孩坐在火车窗边。蓝包在座位下，手里拿着纸票。窗外有两个人在挥手，女孩也朝他们微笑。我想她认识他们，不过图里看不清他们的脸。",
+  "why": "联系上下文，“clearly” 表示“清楚地”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "清楚地"
+   ]
+  ],
+  "options": [
+   "画框",
+   "清楚地",
+   "参加"
+  ],
+  "source": "model-word:52",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2805",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The market photo has two layers. In front, a seller is pulling a green sheet over a box of pears. Behind her, the customers are opening umbrellas, though one child is still looking at the fruit. The dark marks on the road suggest that rain has just begun. The photo catches the moment before everyone moves.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "这张集市照有前后两层。近处，摊主正把一块绿布拉到一箱梨上。后面，顾客们开始撑伞，一个孩子却仍盯着水果。地上的深色痕迹提示雨才刚下。这张照片抓住了大家即将行动的瞬间。",
+  "why": "以前后景组织细节，再根据路面痕迹判断天气。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "以前后景组织细节，再根据路面痕迹判断天气。"
+   ]
+  ],
+  "options": [
+   "先写可见的位置和动作，再把人物关系作为推测。",
+   "以不符合最初印象的细节引出谨慎推断。",
+   "以前后景组织细节，再根据路面痕迹判断天气。"
+  ],
+  "source": "model-structure:53",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2806",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The market photo has two layers. In front, a seller is pulling a green sheet over a box of pears. Behind her, the customers are opening umbrellas, though one child is still looking at the fruit. The dark marks on the road suggest that rain has just begun. The photo catches the moment before everyone moves.\n\n文中的 “layers” 在此处最接近哪个意思？",
+  "cn": "这张集市照有前后两层。近处，摊主正把一块绿布拉到一箱梨上。后面，顾客们开始撑伞，一个孩子却仍盯着水果。地上的深色痕迹提示雨才刚下。这张照片抓住了大家即将行动的瞬间。",
+  "why": "联系上下文，“layers” 表示“层次”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "层次"
+   ]
+  ],
+  "options": [
+   "首演夜",
+   "层次",
+   "查看"
+  ],
+  "source": "model-word:53",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2807",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "At first glance this looks like a finished team photograph. The players face the camera, and a silver cup stands in the middle. Yet a bag marks an empty space beside the coach, and several eyes turn toward the edge of the frame. Perhaps another teammate is about to join them. The picture supports that possibility, though it cannot tell us who is missing.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "乍看这像一张已摆好姿势的全队合影。队员面对镜头，中间摆着银杯。但教练旁有个包占着空位，几个人望向画面边缘。也许还有一名队友将要加入。照片支持这种可能，却无法告诉我们缺席者是谁。",
+  "why": "以不符合最初印象的细节引出谨慎推断。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "以不符合最初印象的细节引出谨慎推断。"
+   ]
+  ],
+  "options": [
+   "以不符合最初印象的细节引出谨慎推断。",
+   "以前后景组织细节，再根据路面痕迹判断天气。",
+   "先写可见的位置和动作，再把人物关系作为推测。"
+  ],
+  "source": "model-structure:54",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2808",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "At first glance this looks like a finished team photograph. The players face the camera, and a silver cup stands in the middle. Yet a bag marks an empty space beside the coach, and several eyes turn toward the edge of the frame. Perhaps another teammate is about to join them. The picture supports that possibility, though it cannot tell us who is missing.\n\n文中的 “glance” 在此处最接近哪个意思？",
+  "cn": "乍看这像一张已摆好姿势的全队合影。队员面对镜头，中间摆着银杯。但教练旁有个包占着空位，几个人望向画面边缘。也许还有一名队友将要加入。照片支持这种可能，却无法告诉我们缺席者是谁。",
+  "why": "联系上下文，“glance” 表示“一瞥”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "一瞥"
+   ]
+  ],
+  "options": [
+   "预留",
+   "成员人数",
+   "一瞥"
+  ],
+  "source": "model-word:54",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2809",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "I counted the tickets again. There were four, but only three of us. Then I saw a small star on the last ticket. A little boy at the gate had the same star on his paper hat. I ran back. His mother checked the seat number and smiled. Now everyone could go in.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "我又数了一遍票。有四张，我们却只有三人。最后一张上有一颗小星星。门口一个小男孩的纸帽上也有同样的星星。我跑了回去。他妈妈核对了座位号，笑了。这下大家都能进去了。",
+  "why": "用多一张票制造问题，凭可见线索找到可能失主，再核实。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "用多一张票制造问题，凭可见线索找到可能失主，再核实。"
+   ]
+  ],
+  "options": [
+   "让开头的小图案对应现实地标，用结尾对话解释线索来源。",
+   "先引导读者作悬疑猜测，用幕布图案和首演日期收回线索。",
+   "用多一张票制造问题，凭可见线索找到可能失主，再核实。"
+  ],
+  "source": "model-structure:55",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2810",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "I counted the tickets again. There were four, but only three of us. Then I saw a small star on the last ticket. A little boy at the gate had the same star on his paper hat. I ran back. His mother checked the seat number and smiled. Now everyone could go in.\n\n文中的 “seat number” 在此处最接近哪个意思？",
+  "cn": "我又数了一遍票。有四张，我们却只有三人。最后一张上有一颗小星星。门口一个小男孩的纸帽上也有同样的星星。我跑了回去。他妈妈核对了座位号，笑了。这下大家都能进去了。",
+  "why": "联系上下文，“seat number” 表示“座位号”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "座位号"
+   ]
+  ],
+  "options": [
+   "标签",
+   "座位号",
+   "即时的"
+  ],
+  "source": "model-word:55",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2811",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "She turned the receipt over. The little arch on the back looked familiar. Across the square, two lanes ran between identical white houses, but only one began under an arch. Mei followed it to a shop with a blue door. The baker held up her forgotten bag. “I drew that map for people who take the wrong turn,” he said.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "她把小票翻了过来，背面的小拱门看着眼熟。广场对面两条巷子夹在相同的白房子之间，只有一条从拱门下开始。梅沿巷走到蓝门小店。面包师举起她落下的包说：“这图是我画给容易走错路的人看的。”",
+  "why": "让开头的小图案对应现实地标，用结尾对话解释线索来源。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "让开头的小图案对应现实地标，用结尾对话解释线索来源。"
+   ]
+  ],
+  "options": [
+   "让开头的小图案对应现实地标，用结尾对话解释线索来源。",
+   "用多一张票制造问题，凭可见线索找到可能失主，再核实。",
+   "先引导读者作悬疑猜测，用幕布图案和首演日期收回线索。"
+  ],
+  "source": "model-structure:56",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2812",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "She turned the receipt over. The little arch on the back looked familiar. Across the square, two lanes ran between identical white houses, but only one began under an arch. Mei followed it to a shop with a blue door. The baker held up her forgotten bag. “I drew that map for people who take the wrong turn,” he said.\n\n文中的 “receipt” 在此处最接近哪个意思？",
+  "cn": "她把小票翻了过来，背面的小拱门看着眼熟。广场对面两条巷子夹在相同的白房子之间，只有一条从拱门下开始。梅沿巷走到蓝门小店。面包师举起她落下的包说：“这图是我画给容易走错路的人看的。”",
+  "why": "联系上下文，“receipt” 表示“小票”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "小票"
+   ]
+  ],
+  "options": [
+   "小票",
+   "凸棱",
+   "零钱"
+  ],
+  "source": "model-word:56",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2813",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The date on the envelope was tomorrow. For a moment I thought someone had made a remarkable mistake. Then I noticed the tiny pencil mark beside the date: a curtain. Inside was the first letter my brother had written after taking the lead in the play. The date was opening night. He had left the envelope on my desk because he wanted me there, not because he had sent a letter from the future.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "信封上的日期是明天。我一度以为有人犯了个离奇的错误，接着看见日期旁的铅笔小画：一面幕布。里面是哥哥得到话剧主角后写的第一封信。那个日期是首演夜。他把信留在我桌上，是希望我到场，并不是从未来寄信。",
+  "why": "先引导读者作悬疑猜测，用幕布图案和首演日期收回线索。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "先引导读者作悬疑猜测，用幕布图案和首演日期收回线索。"
+   ]
+  ],
+  "options": [
+   "让开头的小图案对应现实地标，用结尾对话解释线索来源。",
+   "用多一张票制造问题，凭可见线索找到可能失主，再核实。",
+   "先引导读者作悬疑猜测，用幕布图案和首演日期收回线索。"
+  ],
+  "source": "model-structure:57",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2814",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The date on the envelope was tomorrow. For a moment I thought someone had made a remarkable mistake. Then I noticed the tiny pencil mark beside the date: a curtain. Inside was the first letter my brother had written after taking the lead in the play. The date was opening night. He had left the envelope on my desk because he wanted me there, not because he had sent a letter from the future.\n\n文中的 “envelope” 在此处最接近哪个意思？",
+  "cn": "信封上的日期是明天。我一度以为有人犯了个离奇的错误，接着看见日期旁的铅笔小画：一面幕布。里面是哥哥得到话剧主角后写的第一封信。那个日期是首演夜。他把信留在我桌上，是希望我到场，并不是从未来寄信。",
+  "why": "联系上下文，“envelope” 表示“信封”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "信封"
+   ]
+  ],
+  "options": [
+   "提出",
+   "幻灯片",
+   "信封"
+  ],
+  "source": "model-word:57",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2815",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "I like taking a phone on a family walk. We can use its map when we miss a turn. But if I look at the screen all the time, I miss what Dad wants to show me. I keep it in my pocket until we need directions.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "我喜欢全家散步时带手机，拐错路可以看地图。但一直看屏幕，就会错过爸爸想指给我看的东西。我把它放在口袋里，需要认路时才拿出来。",
+  "why": "同一物品的便利与代价落在同一场景，结尾给出折中办法。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "同一物品的便利与代价落在同一场景，结尾给出折中办法。"
+   ]
+  ],
+  "options": [
+   "分析同一规则对不同人群的影响，再提出保留优点的调整。",
+   "区分听不清与没理解，比较两种教学方式的适用条件。",
+   "同一物品的便利与代价落在同一场景，结尾给出折中办法。"
+  ],
+  "source": "model-structure:58",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2816",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "I like taking a phone on a family walk. We can use its map when we miss a turn. But if I look at the screen all the time, I miss what Dad wants to show me. I keep it in my pocket until we need directions.\n\n文中的 “screen” 在此处最接近哪个意思？",
+  "cn": "我喜欢全家散步时带手机，拐错路可以看地图。但一直看屏幕，就会错过爸爸想指给我看的东西。我把它放在口袋里，需要认路时才拿出来。",
+  "why": "联系上下文，“screen” 表示“屏幕”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "屏幕"
+   ]
+  ],
+  "options": [
+   "文字稿",
+   "屏幕",
+   "小票"
+  ],
+  "source": "model-word:58",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2817",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Recorded lessons let me pause when a speaker talks too fast. Last week I replayed one sentence three times and finally caught the ending. A recording is less helpful when I hear every word but still do not understand the idea. Then a short question in class can save time. I would keep both options for different problems.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "录播课能在讲得太快时暂停。上周我把一句话重放三遍，才终于听清末尾。但如果每个词都听到了却不理解意思，录播帮助就小些，这时课上一句简短提问能省时间。针对不同困难，我会把两种办法都保留。",
+  "why": "区分听不清与没理解，比较两种教学方式的适用条件。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "区分听不清与没理解，比较两种教学方式的适用条件。"
+   ]
+  ],
+  "options": [
+   "分析同一规则对不同人群的影响，再提出保留优点的调整。",
+   "同一物品的便利与代价落在同一场景，结尾给出折中办法。",
+   "区分听不清与没理解，比较两种教学方式的适用条件。"
+  ],
+  "source": "model-structure:59",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2818",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Recorded lessons let me pause when a speaker talks too fast. Last week I replayed one sentence three times and finally caught the ending. A recording is less helpful when I hear every word but still do not understand the idea. Then a short question in class can save time. I would keep both options for different problems.\n\n文中的 “replayed” 在此处最接近哪个意思？",
+  "cn": "录播课能在讲得太快时暂停。上周我把一句话重放三遍，才终于听清末尾。但如果每个词都听到了却不理解意思，录播帮助就小些，这时课上一句简短提问能省时间。针对不同困难，我会把两种办法都保留。",
+  "why": "联系上下文，“replayed” 表示“重放”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "重放"
+   ]
+  ],
+  "options": [
+   "重放",
+   "独自的",
+   "座位号"
+  ],
+  "source": "model-word:59",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2819",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A shared booking sheet makes the studio timetable visible to everyone. It also favors students who can check it early in the morning. If the same names always take the best slots, the system may be clear without being equally accessible. Keeping a few afternoon slots for later requests would preserve the advantage of a public list while easing that disadvantage.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "共享预约表让所有人都能看见工作室安排，但也偏向清晨就能查看的人。如果总是同样的人拿到最佳时段，制度虽然透明，使用机会未必平等。预留几个下午时段供较晚申请，能保留公开列表的好处，也减轻这一弊端。",
+  "why": "分析同一规则对不同人群的影响，再提出保留优点的调整。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "分析同一规则对不同人群的影响，再提出保留优点的调整。"
+   ]
+  ],
+  "options": [
+   "同一物品的便利与代价落在同一场景，结尾给出折中办法。",
+   "分析同一规则对不同人群的影响，再提出保留优点的调整。",
+   "区分听不清与没理解，比较两种教学方式的适用条件。"
+  ],
+  "source": "model-structure:60",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2820",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A shared booking sheet makes the studio timetable visible to everyone. It also favors students who can check it early in the morning. If the same names always take the best slots, the system may be clear without being equally accessible. Keeping a few afternoon slots for later requests would preserve the advantage of a public list while easing that disadvantage.\n\n文中的 “slots” 在此处最接近哪个意思？",
+  "cn": "共享预约表让所有人都能看见工作室安排，但也偏向清晨就能查看的人。如果总是同样的人拿到最佳时段，制度虽然透明，使用机会未必平等。预留几个下午时段供较晚申请，能保留公开列表的好处，也减轻这一弊端。",
+  "why": "联系上下文，“slots” 表示“时段”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "时段"
+   ]
+  ],
+  "options": [
+   "时段",
+   "时间表",
+   "包括"
+  ],
+  "source": "model-word:60",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2821",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Our class often loses its whiteboard pen. It rolls off the desk, and the next teacher cannot find it. We can put a cup beside the board and draw a pen on its label. After each lesson, one pupil can check that the pen is in the cup.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "班里的白板笔经常找不到。它会滚下桌子，下一位老师就找不着了。可以在白板旁放个杯子，标签上画一支笔。每节课后由一名同学确认笔已放回杯里。",
+  "why": "从笔滚落的原因出发，提出固定位置和检查人。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "从笔滚落的原因出发，提出固定位置和检查人。"
+   ]
+  ],
+  "options": [
+   "找出地图缺失的信息，再以真实使用者试走检验修改。",
+   "从笔滚落的原因出发，提出固定位置和检查人。",
+   "观察发现障碍在理解而非能见度，措施与检验均针对该原因。"
+  ],
+  "source": "model-structure:61",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2822",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Our class often loses its whiteboard pen. It rolls off the desk, and the next teacher cannot find it. We can put a cup beside the board and draw a pen on its label. After each lesson, one pupil can check that the pen is in the cup.\n\n文中的 “label” 在此处最接近哪个意思？",
+  "cn": "班里的白板笔经常找不到。它会滚下桌子，下一位老师就找不着了。可以在白板旁放个杯子，标签上画一支笔。每节课后由一名同学确认笔已放回杯里。",
+  "why": "联系上下文，“label” 表示“标签”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "标签"
+   ]
+  ],
+  "options": [
+   "速写",
+   "标签",
+   "借阅"
+  ],
+  "source": "model-word:61",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2823",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "New students keep getting lost on the way to the art room. The map shows the room clearly, but it does not show that the central stairs stop on the second floor. Add a stair symbol at the east end and test the change with two pupils who have never used the route. Ask where they hesitated before printing more copies.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "新生去美术教室总是迷路。地图标出了教室，却没标出中间楼梯只到二楼。应在东端加上楼梯标志，请两名没走过这条路线的学生试用，问清哪里还会犹豫，再多印。",
+  "why": "找出地图缺失的信息，再以真实使用者试走检验修改。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "找出地图缺失的信息，再以真实使用者试走检验修改。"
+   ]
+  ],
+  "options": [
+   "观察发现障碍在理解而非能见度，措施与检验均针对该原因。",
+   "找出地图缺失的信息，再以真实使用者试走检验修改。",
+   "从笔滚落的原因出发，提出固定位置和检查人。"
+  ],
+  "source": "model-structure:62",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2824",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "New students keep getting lost on the way to the art room. The map shows the room clearly, but it does not show that the central stairs stop on the second floor. Add a stair symbol at the east end and test the change with two pupils who have never used the route. Ask where they hesitated before printing more copies.\n\n文中的 “symbol” 在此处最接近哪个意思？",
+  "cn": "新生去美术教室总是迷路。地图标出了教室，却没标出中间楼梯只到二楼。应在东端加上楼梯标志，请两名没走过这条路线的学生试用，问清哪里还会犹豫，再多印。",
+  "why": "联系上下文，“symbol” 表示“符号”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "符号"
+   ]
+  ],
+  "options": [
+   "符号",
+   "备用的",
+   "确认"
+  ],
+  "source": "model-word:62",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2825",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Visitors were leaving before the final exhibition room. A larger arrow seemed an obvious fix until we watched a family reach the doorway: they saw the arrow but thought their ticket covered only the first room. We added a line explaining that one ticket includes both. Next week we will count how many visitors continue, keeping the route itself unchanged.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "参观者常在最后一间展室前离开。我们本以为加大箭头就行，直到看见一家人走到门口：他们看见了箭头，却以为票只管第一间。我们加了一行字说明一张票可看两间。下周将保持路线不变，数数继续参观的人有多少。",
+  "why": "观察发现障碍在理解而非能见度，措施与检验均针对该原因。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "观察发现障碍在理解而非能见度，措施与检验均针对该原因。"
+   ]
+  ],
+  "options": [
+   "观察发现障碍在理解而非能见度，措施与检验均针对该原因。",
+   "从笔滚落的原因出发，提出固定位置和检查人。",
+   "找出地图缺失的信息，再以真实使用者试走检验修改。"
+  ],
+  "source": "model-structure:63",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2826",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Visitors were leaving before the final exhibition room. A larger arrow seemed an obvious fix until we watched a family reach the doorway: they saw the arrow but thought their ticket covered only the first room. We added a line explaining that one ticket includes both. Next week we will count how many visitors continue, keeping the route itself unchanged.\n\n文中的 “covered” 在此处最接近哪个意思？",
+  "cn": "参观者常在最后一间展室前离开。我们本以为加大箭头就行，直到看见一家人走到门口：他们看见了箭头，却以为票只管第一间。我们加了一行字说明一张票可看两间。下周将保持路线不变，数数继续参观的人有多少。",
+  "why": "联系上下文，“covered” 表示“包括”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "包括"
+   ]
+  ],
+  "options": [
+   "包括",
+   "首演夜",
+   "屏幕"
+  ],
+  "source": "model-word:63",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2827",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "If you forget your bus card, give it one home. Mine goes in the front pocket of my schoolbag. Each night I touch the pocket before I close the bag. Try it for three days. If that pocket is too small, choose another one and use it every time.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "如果你总忘带公交卡，就给它定一个固定位置。我的卡在书包前袋。每晚合上书包前我都会摸一下那个袋子。试三天；要是袋子太小，就另选一个，以后都用它。",
+  "why": "从自身做法出发，给对方一个可调整的小步骤。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "从自身做法出发，给对方一个可调整的小步骤。"
+   ]
+  ],
+  "options": [
+   "把笼统目标改成与对方困难相符且可以检查的行为。",
+   "从自身做法出发，给对方一个可调整的小步骤。",
+   "给出可执行的起步方案，并保留随时调整的余地。"
+  ],
+  "source": "model-structure:64",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2828",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "If you forget your bus card, give it one home. Mine goes in the front pocket of my schoolbag. Each night I touch the pocket before I close the bag. Try it for three days. If that pocket is too small, choose another one and use it every time.\n\n文中的 “pocket” 在此处最接近哪个意思？",
+  "cn": "如果你总忘带公交卡，就给它定一个固定位置。我的卡在书包前袋。每晚合上书包前我都会摸一下那个袋子。试三天；要是袋子太小，就另选一个，以后都用它。",
+  "why": "联系上下文，“pocket” 表示“口袋”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "口袋"
+   ]
+  ],
+  "options": [
+   "首演夜",
+   "口袋",
+   "重放"
+  ],
+  "source": "model-word:64",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2829",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "For your first solo museum visit, choose three objects before you go. Write one question beside each name. Once you arrive, take a short break after the second object and decide whether you still want the third. A small plan gives you a direction without turning the afternoon into a race.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "第一次独自逛博物馆，出发前选三件展品，每个名字旁写一个问题。到馆后看完第二件就稍歇，决定是否仍想去看第三件。小计划能给你方向，也不至于让整个下午变成赛跑。",
+  "why": "给出可执行的起步方案，并保留随时调整的余地。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "给出可执行的起步方案，并保留随时调整的余地。"
+   ]
+  ],
+  "options": [
+   "从自身做法出发，给对方一个可调整的小步骤。",
+   "把笼统目标改成与对方困难相符且可以检查的行为。",
+   "给出可执行的起步方案，并保留随时调整的余地。"
+  ],
+  "source": "model-structure:65",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2830",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "For your first solo museum visit, choose three objects before you go. Write one question beside each name. Once you arrive, take a short break after the second object and decide whether you still want the third. A small plan gives you a direction without turning the afternoon into a race.\n\n文中的 “solo” 在此处最接近哪个意思？",
+  "cn": "第一次独自逛博物馆，出发前选三件展品，每个名字旁写一个问题。到馆后看完第二件就稍歇，决定是否仍想去看第三件。小计划能给你方向，也不至于让整个下午变成赛跑。",
+  "why": "联系上下文，“solo” 表示“独自的”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "独自的"
+   ]
+  ],
+  "options": [
+   "独自的",
+   "港口",
+   "推车"
+  ],
+  "source": "model-word:65",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2831",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "You said every discussion ends before you find a chance to speak. Instead of preparing a whole speech, prepare one question about the first example. Ask it while that example is still on the table. Afterward, note whether the group answers the point you raised. That is a more practical first goal than trying to speak for the longest time.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "你说每次讨论还没找到开口机会就结束了。与其准备整篇发言，不如就第一个例子准备一个问题。趁大家还在谈它时提问。事后记下小组有没有回应你提出的要点。这个初步目标比争取说得最久更可行。",
+  "why": "把笼统目标改成与对方困难相符且可以检查的行为。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "把笼统目标改成与对方困难相符且可以检查的行为。"
+   ]
+  ],
+  "options": [
+   "从自身做法出发，给对方一个可调整的小步骤。",
+   "把笼统目标改成与对方困难相符且可以检查的行为。",
+   "给出可执行的起步方案，并保留随时调整的余地。"
+  ],
+  "source": "model-structure:66",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2832",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "You said every discussion ends before you find a chance to speak. Instead of preparing a whole speech, prepare one question about the first example. Ask it while that example is still on the table. Afterward, note whether the group answers the point you raised. That is a more practical first goal than trying to speak for the longest time.\n\n文中的 “practical” 在此处最接近哪个意思？",
+  "cn": "你说每次讨论还没找到开口机会就结束了。与其准备整篇发言，不如就第一个例子准备一个问题。趁大家还在谈它时提问。事后记下小组有没有回应你提出的要点。这个初步目标比争取说得最久更可行。",
+  "why": "联系上下文，“practical” 表示“可行的”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "可行的"
+   ]
+  ],
+  "options": [
+   "凸棱",
+   "可行的",
+   "使难过"
+  ],
+  "source": "model-word:66",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2833",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "I can go to school by bus or on foot. The bus is faster on dry mornings, but I have to wait at the stop. Walking takes twenty minutes from my door. I choose the bus when I carry my sports bag and walk when my bag is light.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "我可以坐公交或步行上学。天气干爽的早晨公交更快，但需要在站点等。走路从家门口算起要二十分钟。背运动包时我坐车，包轻时我步行。",
+  "why": "围绕时间和携带物比较两种出行方式。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "围绕时间和携带物比较两种出行方式。"
+   ]
+  ],
+  "options": [
+   "围绕时间和携带物比较两种出行方式。",
+   "固定价格条件，比较画图与随身记录两种用途。",
+   "先对齐调查对象，再按决策目的比较所得信息。"
+  ],
+  "source": "model-structure:67",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2834",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "I can go to school by bus or on foot. The bus is faster on dry mornings, but I have to wait at the stop. Walking takes twenty minutes from my door. I choose the bus when I carry my sports bag and walk when my bag is light.\n\n文中的 “on foot” 在此处最接近哪个意思？",
+  "cn": "我可以坐公交或步行上学。天气干爽的早晨公交更快，但需要在站点等。走路从家门口算起要二十分钟。背运动包时我坐车，包轻时我步行。",
+  "why": "联系上下文，“on foot” 表示“步行”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "步行"
+   ]
+  ],
+  "options": [
+   "上交",
+   "画面",
+   "步行"
+  ],
+  "source": "model-word:67",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2835",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The two notebooks cost the same, so I compared how I would use them. The large one lies flat and leaves space for diagrams. The pocket one is harder to draw in, but I can reach it quickly on a bus. For my science class I would choose the large book. For collecting phrases outside school I would take the smaller one.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "两本笔记本价格相同，于是我比较用途。大本能摊平，画示意图也有空间。小本不太好画图，却能在公交上很快拿出来。科学课我选大本，在校外记短语则带小本。",
+  "why": "固定价格条件，比较画图与随身记录两种用途。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "固定价格条件，比较画图与随身记录两种用途。"
+   ]
+  ],
+  "options": [
+   "先对齐调查对象，再按决策目的比较所得信息。",
+   "固定价格条件，比较画图与随身记录两种用途。",
+   "围绕时间和携带物比较两种出行方式。"
+  ],
+  "source": "model-structure:68",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2836",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The two notebooks cost the same, so I compared how I would use them. The large one lies flat and leaves space for diagrams. The pocket one is harder to draw in, but I can reach it quickly on a bus. For my science class I would choose the large book. For collecting phrases outside school I would take the smaller one.\n\n文中的 “diagrams” 在此处最接近哪个意思？",
+  "cn": "两本笔记本价格相同，于是我比较用途。大本能摊平，画示意图也有空间。小本不太好画图，却能在公交上很快拿出来。科学课我选大本，在校外记短语则带小本。",
+  "why": "联系上下文，“diagrams” 表示“示意图”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "示意图"
+   ]
+  ],
+  "options": [
+   "提出",
+   "示意图",
+   "意见"
+  ],
+  "source": "model-word:68",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2837",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Both surveys ask whether students use the reading room, but they cannot answer exactly the same question. A show of hands gives an immediate total, while a private form lets a pupil explain why a visit was difficult. For arranging chairs, the quick count may be enough. For changing opening hours, the explanations matter more than a number alone.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "两种调查都问学生是否使用阅览室，却不能回答完全相同的问题。举手能立即得出总数，私下填表则能解释到访困难的原因。安排椅子时快速计数也许就够了；调整开放时间时，解释比单一数字更重要。",
+  "why": "先对齐调查对象，再按决策目的比较所得信息。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "先对齐调查对象，再按决策目的比较所得信息。"
+   ]
+  ],
+  "options": [
+   "先对齐调查对象，再按决策目的比较所得信息。",
+   "围绕时间和携带物比较两种出行方式。",
+   "固定价格条件，比较画图与随身记录两种用途。"
+  ],
+  "source": "model-structure:69",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2838",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Both surveys ask whether students use the reading room, but they cannot answer exactly the same question. A show of hands gives an immediate total, while a private form lets a pupil explain why a visit was difficult. For arranging chairs, the quick count may be enough. For changing opening hours, the explanations matter more than a number alone.\n\n文中的 “surveys” 在此处最接近哪个意思？",
+  "cn": "两种调查都问学生是否使用阅览室，却不能回答完全相同的问题。举手能立即得出总数，私下填表则能解释到访困难的原因。安排椅子时快速计数也许就够了；调整开放时间时，解释比单一数字更重要。",
+  "why": "联系上下文，“surveys” 表示“调查”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "调查"
+   ]
+  ],
+  "options": [
+   "调查",
+   "口袋",
+   "文字稿"
+  ],
+  "source": "model-word:69",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2839",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Our garden bench is empty at noon, but several people sit there after school. At noon the whole seat is in the sun. Later a tree makes a cool shadow over it. Perhaps people are choosing the shade. I want to look again on a cloudy day.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "花园里的长椅中午没人坐，放学后却有好几个人。中午整个椅面都晒着，晚些时候树荫遮住了它。人们也许是在找阴凉。我还想在阴天看看。",
+  "why": "分时观察后提出可能原因，主动留下另一种检验条件。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "分时观察后提出可能原因，主动留下另一种检验条件。"
+   ]
+  ],
+  "options": [
+   "把观察到的差异与可能干扰解释的开放时间区分开。",
+   "并列两种解释，再指出需要哪些额外证据。",
+   "分时观察后提出可能原因，主动留下另一种检验条件。"
+  ],
+  "source": "model-structure:70",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2840",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Our garden bench is empty at noon, but several people sit there after school. At noon the whole seat is in the sun. Later a tree makes a cool shadow over it. Perhaps people are choosing the shade. I want to look again on a cloudy day.\n\n文中的 “shadow” 在此处最接近哪个意思？",
+  "cn": "花园里的长椅中午没人坐，放学后却有好几个人。中午整个椅面都晒着，晚些时候树荫遮住了它。人们也许是在找阴凉。我还想在阴天看看。",
+  "why": "联系上下文，“shadow” 表示“影子”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "影子"
+   ]
+  ],
+  "options": [
+   "影子",
+   "层次",
+   "现有的"
+  ],
+  "source": "model-word:70",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2841",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Fewer pupils borrowed books on Monday than on Friday. It would be easy to say that nobody likes reading at the start of the week. However, the library opened only at lunch on Monday and stayed open after school on Friday. Before discussing reading habits, I would compare two days with equal opening hours.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "周一借书的学生比周五少。人们容易说大家周初不爱阅读，但周一图书馆只在午餐时开放，周五则放学后仍开着。讨论阅读习惯之前，我会先比较开放时长相等的两天。",
+  "why": "把观察到的差异与可能干扰解释的开放时间区分开。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "把观察到的差异与可能干扰解释的开放时间区分开。"
+   ]
+  ],
+  "options": [
+   "把观察到的差异与可能干扰解释的开放时间区分开。",
+   "分时观察后提出可能原因，主动留下另一种检验条件。",
+   "并列两种解释，再指出需要哪些额外证据。"
+  ],
+  "source": "model-structure:71",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2842",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Fewer pupils borrowed books on Monday than on Friday. It would be easy to say that nobody likes reading at the start of the week. However, the library opened only at lunch on Monday and stayed open after school on Friday. Before discussing reading habits, I would compare two days with equal opening hours.\n\n文中的 “borrowed” 在此处最接近哪个意思？",
+  "cn": "周一借书的学生比周五少。人们容易说大家周初不爱阅读，但周一图书馆只在午餐时开放，周五则放学后仍开着。讨论阅读习惯之前，我会先比较开放时长相等的两天。",
+  "why": "联系上下文，“borrowed” 表示“借阅”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "借阅"
+   ]
+  ],
+  "options": [
+   "借阅",
+   "首演夜",
+   "标注"
+  ],
+  "source": "model-word:71",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2843",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The club received more complaints after it moved the comment box beside the exit. That rise could reflect a worse experience, but it could also mean that visitors finally noticed where to leave a note. I would compare the subjects of the comments and ask a few departing visitors whether they had seen the old box. The total alone cannot distinguish those explanations.\n\n哪项分析准确描述了作者组织这篇文章的方法？",
+  "cn": "社团把意见箱搬到出口旁后，收到的投诉多了。这可能反映体验变差，也可能只是访客终于看见了留言处。我会比较留言涉及的话题，再问几位离场者是否见过原来的箱子。仅凭总数区分不了这两种解释。",
+  "why": "并列两种解释，再指出需要哪些额外证据。",
+  "point": "文章结构与写作意图",
+  "hint": "对照各选项提到的细节及其出现顺序。",
+  "slots": [
+   [
+    "并列两种解释，再指出需要哪些额外证据。"
+   ]
+  ],
+  "options": [
+   "并列两种解释，再指出需要哪些额外证据。",
+   "分时观察后提出可能原因，主动留下另一种检验条件。",
+   "把观察到的差异与可能干扰解释的开放时间区分开。"
+  ],
+  "source": "model-structure:72",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2844",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The club received more complaints after it moved the comment box beside the exit. That rise could reflect a worse experience, but it could also mean that visitors finally noticed where to leave a note. I would compare the subjects of the comments and ask a few departing visitors whether they had seen the old box. The total alone cannot distinguish those explanations.\n\n文中的 “reflect” 在此处最接近哪个意思？",
+  "cn": "社团把意见箱搬到出口旁后，收到的投诉多了。这可能反映体验变差，也可能只是访客终于看见了留言处。我会比较留言涉及的话题，再问几位离场者是否见过原来的箱子。仅凭总数区分不了这两种解释。",
+  "why": "联系上下文，“reflect” 表示“反映”。",
+  "point": "语境词义",
+  "hint": "根据词语所在句子的意思判断。",
+  "slots": [
+   [
+    "反映"
+   ]
+  ],
+  "options": [
+   "反映",
+   "有序",
+   "包括"
+  ],
+  "source": "model-word:72",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2845",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇邀请信的行文顺序。\n萨姆：我们班周六要去野餐。你愿意来吗？我们九点在校门口集合，一起走到公园。带点水，再带顶帽子。请在周五告诉我你能否参加。梅",
+  "cn": "萨姆：我们班周六要去野餐。你愿意来吗？我们九点在校门口集合，一起走到公园。带点水，再带顶帽子。请在周五告诉我你能否参加。梅",
+  "why": "开头交代活动，中间写集合办法，末句约定回复时间。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Sam, Our class is having a picnic on Saturday. Would you like to come?"
+   ],
+   [
+    "We will meet at the school gate at nine and walk to the park together. Bring some water and a hat."
+   ],
+   [
+    "Please tell me on Friday if you can join us. Yours, May"
+   ]
+  ],
+  "options": [
+   "Please tell me on Friday if you can join us. Yours, May",
+   "We will meet at the school gate at nine and walk to the park together. Bring some water and a hat.",
+   "Dear Sam, Our class is having a picnic on Saturday. Would you like to come?"
+  ],
+  "source": "model-order:1",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2846",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇邀请信的行文顺序。\n伊娃：你曾说想看看一部戏是怎样排出来的。我们戏剧社周三有场公开排练，我就想到了你。我们四点在十二号教室集合。你可以看我们排练，也可以帮最后一幕选配乐。告诉我你更喜欢哪一项，我好给你留个位置。利奥",
+  "cn": "伊娃：你曾说想看看一部戏是怎样排出来的。我们戏剧社周三有场公开排练，我就想到了你。我们四点在十二号教室集合。你可以看我们排练，也可以帮最后一幕选配乐。告诉我你更喜欢哪一项，我好给你留个位置。利奥",
+  "why": "用对方的兴趣引出邀请，再提供两个具体的参与方式。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Eva, You once said you wanted to see how a play is made. Our drama club has an open rehearsal on Wednesday, and I thought of you."
+   ],
+   [
+    "We meet in Room 12 at four. You can watch us practice or help choose the music for the final scene."
+   ],
+   [
+    "Let me know which you would prefer so I can save you a place. Best, Leo"
+   ]
+  ],
+  "options": [
+   "Let me know which you would prefer so I can save you a place. Best, Leo",
+   "We meet in Room 12 at four. You can watch us practice or help choose the music for the final scene.",
+   "Dear Eva, You once said you wanted to see how a play is made. Our drama club has an open rehearsal on Wednesday, and I thought of you."
+  ],
+  "source": "model-order:2",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2847",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇邀请信的行文顺序。\n格林先生：您来我们班时，问过小镇设计新公园时可能会忽略哪些人。从那以后，我们小组为图书馆旁的空地画了两套方案。您愿意下周四三点来参加讨论吗？我们特别想听听您对步道的看法。如果不方便到场，简短的书面意见也很有帮助。妮娜",
+  "cn": "格林先生：您来我们班时，问过小镇设计新公园时可能会忽略哪些人。从那以后，我们小组为图书馆旁的空地画了两套方案。您愿意下周四三点来参加讨论吗？我们特别想听听您对步道的看法。如果不方便到场，简短的书面意见也很有帮助。妮娜",
+  "why": "用上次交流建立联系，把请求限定到步道，并给出替代参与方式。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Mr. Green, When you spoke to our class, you asked who gets left out when a town designs a new park."
+   ],
+   [
+    "Our group has since drawn two plans for the space beside the library. Would you be willing to join our discussion next Thursday at three?"
+   ],
+   [
+    "We would particularly value your thoughts on the paths. If visiting is difficult, a short written comment would also help. Sincerely, Nina"
+   ]
+  ],
+  "options": [
+   "Our group has since drawn two plans for the space beside the library. Would you be willing to join our discussion next Thursday at three?",
+   "Dear Mr. Green, When you spoke to our class, you asked who gets left out when a town designs a new park.",
+   "We would particularly value your thoughts on the paths. If visiting is difficult, a short written comment would also help. Sincerely, Nina"
+  ],
+  "source": "model-order:3",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2848",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇个人经历的行文顺序。\n放学后我的自行车轮胎没气了。我不知道怎么修。朋友小博陪我等着，我给爸爸打了电话。我们一起把车推到校门口。走了挺久，但有人陪我说话，我很高兴。",
+  "cn": "放学后我的自行车轮胎没气了。我不知道怎么修。朋友小博陪我等着，我给爸爸打了电话。我们一起把车推到校门口。走了挺久，但有人陪我说话，我很高兴。",
+  "why": "用一个小麻烦开头，通过等候和推车两个动作写出陪伴。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "My bike had a flat tire after school."
+   ],
+   [
+    "I did not know how to fix it. My friend Bo waited with me while I called Dad."
+   ],
+   [
+    "We pushed the bike to the gate together. It was a long walk, but I was glad I had someone to talk to."
+   ]
+  ],
+  "options": [
+   "We pushed the bike to the gate together. It was a long walk, but I was glad I had someone to talk to.",
+   "My bike had a flat tire after school.",
+   "I did not know how to fix it. My friend Bo waited with me while I called Dad."
+  ],
+  "source": "model-order:4",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2849",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇个人经历的行文顺序。\n我反复练习演讲，直到闭着眼也能背出每一句。可一上台，我就忘了第二句。我抬头看见一名同学指着第一张幻灯片上的照片。我索性不再回忆忘掉的词，转而讲照片背后的故事。讲完时，我已经不需要笔记了。",
+  "cn": "我反复练习演讲，直到闭着眼也能背出每一句。可一上台，我就忘了第二句。我抬头看见一名同学指着第一张幻灯片上的照片。我索性不再回忆忘掉的词，转而讲照片背后的故事。讲完时，我已经不需要笔记了。",
+  "why": "准备充分与突然忘词形成转折，照片成为解决困难的线索。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "I had practiced my speech until I could say every line with my eyes closed."
+   ],
+   [
+    "On stage, however, I forgot the second sentence. I looked up and saw a classmate pointing at the photo on my first slide."
+   ],
+   [
+    "Instead of searching for the missing words, I told the story behind that picture. By the time I finished, I no longer needed my notes."
+   ]
+  ],
+  "options": [
+   "I had practiced my speech until I could say every line with my eyes closed.",
+   "Instead of searching for the missing words, I told the story behind that picture. By the time I finished, I no longer needed my notes.",
+   "On stage, however, I forgot the second sentence. I looked up and saw a classmate pointing at the photo on my first slide."
+  ],
+  "source": "model-order:5",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2850",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇个人经历的行文顺序。\n我以前以为好的组长随时都能回答所有问题。造桥比赛中，纸桥一弯，我就坚持加纸，结果只让桥越来越重。后来一位安静的组员问，能不能把一张纸折出一道道窄棱。她那一张纸承住了我那厚厚一叠都撑不住的重量。下一次开会时，我少带了几条指令，多搬了一把椅子。",
+  "cn": "我以前以为好的组长随时都能回答所有问题。造桥比赛中，纸桥一弯，我就坚持加纸，结果只让桥越来越重。后来一位安静的组员问，能不能把一张纸折出一道道窄棱。她那一张纸承住了我那厚厚一叠都撑不住的重量。下一次开会时，我少带了几条指令，多搬了一把椅子。",
+  "why": "先写原来的看法，再用失败与成功形成对照；末句以行动暗示变化。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "I used to think a good team leader had an answer ready for every question. During our bridge-building contest, I insisted on adding more paper whenever the bridge bent."
+   ],
+   [
+    "It only grew heavier. Then a quiet teammate asked if she could fold one sheet into narrow ridges."
+   ],
+   [
+    "Her single sheet held what my thick pile could not. At our next meeting, I brought fewer instructions and one extra chair."
+   ]
+  ],
+  "options": [
+   "Her single sheet held what my thick pile could not. At our next meeting, I brought fewer instructions and one extra chair.",
+   "It only grew heavier. Then a quiet teammate asked if she could fold one sheet into narrow ridges.",
+   "I used to think a good team leader had an answer ready for every question. During our bridge-building contest, I insisted on adding more paper whenever the bridge bent."
+  ],
+  "source": "model-order:6",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2851",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇观点表达的行文顺序。\n我觉得班里应该放一小盒备用铅笔。有时候铅笔会在测验前突然断掉。同学可以借一支，按时开考。我们可以把盒子放在门边，下课后把笔还回去。",
+  "cn": "我觉得班里应该放一小盒备用铅笔。有时候铅笔会在测验前突然断掉。同学可以借一支，按时开考。我们可以把盒子放在门边，下课后把笔还回去。",
+  "why": "首句表态，接着举一个具体场景，最后说明做法。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "I think our class should keep a small box of spare pencils."
+   ],
+   [
+    "Sometimes a pencil breaks just before a test."
+   ],
+   [
+    "A student can borrow one and start on time. We can put the box near the door and return the pencils after class."
+   ]
+  ],
+  "options": [
+   "A student can borrow one and start on time. We can put the box near the door and return the pencils after class.",
+   "Sometimes a pencil breaks just before a test.",
+   "I think our class should keep a small box of spare pencils."
+  ],
+  "source": "model-order:7",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2852",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇观点表达的行文顺序。\n我支持让图书馆放学后多开半小时。我们班好几名同学等公交车就要等这么久，雨天操场又没处躲雨。图书馆能给他们提供安静的阅读空间。为了避免增加某位老师的工作负担，我们读书社可以在闭馆前帮忙把书归位。",
+  "cn": "我支持让图书馆放学后多开半小时。我们班好几名同学等公交车就要等这么久，雨天操场又没处躲雨。图书馆能给他们提供安静的阅读空间。为了避免增加某位老师的工作负担，我们读书社可以在闭馆前帮忙把书归位。",
+  "why": "从等车学生的具体需要提出主张，再回应值班负担。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "I would keep the library open for half an hour after school."
+   ],
+   [
+    "Several students in my class wait that long for a bus, and the playground offers no shelter on wet days."
+   ],
+   [
+    "The library would give them a quiet place to read. To avoid extra work for one teacher, our reading club could help put books back before closing time."
+   ]
+  ],
+  "options": [
+   "The library would give them a quiet place to read. To avoid extra work for one teacher, our reading club could help put books back before closing time.",
+   "I would keep the library open for half an hour after school.",
+   "Several students in my class wait that long for a bus, and the playground offers no shelter on wet days."
+  ],
+  "source": "model-order:8",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2853",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇观点表达的行文顺序。\n受欢迎的社团未必最需要大教室。棋社人数是舞蹈组的两倍，但十二名棋手可以共用三张桌子。六名舞者却要有足够的转身空间，才能避免互相碰撞。在只按人数分配教室之前，我们应看看各组怎样练习。公平的决定既要考虑人数，也要考虑大家做什么。",
+  "cn": "受欢迎的社团未必最需要大教室。棋社人数是舞蹈组的两倍，但十二名棋手可以共用三张桌子。六名舞者却要有足够的转身空间，才能避免互相碰撞。在只按人数分配教室之前，我们应看看各组怎样练习。公平的决定既要考虑人数，也要考虑大家做什么。",
+  "why": "提出容易被忽略的判断标准，用两个社团的对比支持结论。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "A popular club is not always the club that needs the biggest room."
+   ],
+   [
+    "Our chess club has twice as many members as the dance group, yet twelve chess players can share three tables. Six dancers need enough space to turn without hitting one another."
+   ],
+   [
+    "Before we assign rooms by membership alone, we should watch each group practice. A fair decision takes account of what people do as well as how many people attend."
+   ]
+  ],
+  "options": [
+   "Our chess club has twice as many members as the dance group, yet twelve chess players can share three tables. Six dancers need enough space to turn without hitting one another.",
+   "Before we assign rooms by membership alone, we should watch each group practice. A fair decision takes account of what people do as well as how many people attend.",
+   "A popular club is not always the club that needs the biggest room."
+  ],
+  "source": "model-order:9",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2854",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇电子邮件的行文顺序。\n主题：我的红包。乔，你好！今天我把一个红色小包落在了桌子底下。钥匙在里面。你回家前能看看教室吗？要是找到了，请交给林老师。谢谢！本",
+  "cn": "主题：我的红包。乔，你好！今天我把一个红色小包落在了桌子底下。钥匙在里面。你回家前能看看教室吗？要是找到了，请交给林老师。谢谢！本",
+  "why": "主题点明物品，正文交代位置及找到后的处理办法。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Subject: My red bag. Hi Joe, I left a small red bag under our table today."
+   ],
+   [
+    "My keys are inside. Could you check the classroom before you go home?"
+   ],
+   [
+    "If you find it, please give it to Ms. Lin. Thanks, Ben"
+   ]
+  ],
+  "options": [
+   "If you find it, please give it to Ms. Lin. Thanks, Ben",
+   "My keys are inside. Could you check the classroom before you go home?",
+   "Subject: My red bag. Hi Joe, I left a small red bag under our table today."
+  ],
+  "source": "model-order:10",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2855",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇电子邮件的行文顺序。\n主题：周四排练调整。大家好！周四礼堂要用来面试，请改带剧本到八号教室。我们可以在那里读第一场戏，舞蹈要留到周五。每组能有一人回复，确认大家都收到消息了吗？林",
+  "cn": "主题：周四排练调整。大家好！周四礼堂要用来面试，请改带剧本到八号教室。我们可以在那里读第一场戏，舞蹈要留到周五。每组能有一人回复，确认大家都收到消息了吗？林",
+  "why": "先说明变动原因，再区分仍可进行和需要改期的内容。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Subject: A change to Thursday's practice. Hi team, The hall will be used for interviews on Thursday."
+   ],
+   [
+    "Please bring your scripts to Room 8 instead. We can read the first scene there, although we will have to save the dance for Friday."
+   ],
+   [
+    "Could one person from each pair reply so I know everyone has heard? Lin"
+   ]
+  ],
+  "options": [
+   "Subject: A change to Thursday's practice. Hi team, The hall will be used for interviews on Thursday.",
+   "Could one person from each pair reply so I know everyone has heard? Lin",
+   "Please bring your scripts to Room 8 instead. We can read the first scene there, although we will have to save the dance for Friday."
+  ],
+  "source": "model-order:11",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2856",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇电子邮件的行文顺序。\n主题：发布前核对一个数字。余老师，您好！草稿写有六十户家庭到场，但登记表记录的是六十次到访。同一家人来两次可能就记两次。请确认您希望我们报告哪一种数字。在确认前，我已把句子改为人次，并给编辑留了说明。艾达",
+  "cn": "主题：发布前核对一个数字。余老师，您好！草稿写有六十户家庭到场，但登记表记录的是六十次到访。同一家人来两次可能就记两次。请确认您希望我们报告哪一种数字。在确认前，我已把句子改为人次，并给编辑留了说明。艾达",
+  "why": "对照草稿与原始记录，给出暂时处理方式并请求确认。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Subject: Checking one figure before publication. Dear Ms."
+   ],
+   [
+    "Yu, Our draft says sixty families attended the fair, but the sign-in sheet records sixty visits. A family that came twice may therefore appear twice."
+   ],
+   [
+    "Could you confirm which figure you want us to report? Until then, I have changed the sentence to refer to visits and left a note for the editor. Best, Ada"
+   ]
+  ],
+  "options": [
+   "Yu, Our draft says sixty families attended the fair, but the sign-in sheet records sixty visits. A family that came twice may therefore appear twice.",
+   "Subject: Checking one figure before publication. Dear Ms.",
+   "Could you confirm which figure you want us to report? Until then, I have changed the sentence to refer to visits and left a note for the editor. Best, Ada"
+  ],
+  "source": "model-order:12",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2857",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇书信的行文顺序。\n伊娃：你问我放学后做什么。周五我帮姨妈给番茄浇水。昨天我在一株苗上发现一朵小黄花。姨妈说那里会长出一个番茄。你家附近种着什么呢？梅",
+  "cn": "伊娃：你问我放学后做什么。周五我帮姨妈给番茄浇水。昨天我在一株苗上发现一朵小黄花。姨妈说那里会长出一个番茄。你家附近种着什么呢？梅",
+  "why": "回应上封信，用一个新发现展开近况，再问对方。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Eva, You asked what I do after school. On Fridays I help my aunt water her tomatoes."
+   ],
+   [
+    "Yesterday I found a tiny yellow flower on one plant. My aunt says a tomato will grow there."
+   ],
+   [
+    "What is growing near your home? Love, May"
+   ]
+  ],
+  "options": [
+   "What is growing near your home? Love, May",
+   "Yesterday I found a tiny yellow flower on one plant. My aunt says a tomato will grow there.",
+   "Dear Eva, You asked what I do after school. On Fridays I help my aunt water her tomatoes."
+  ],
+  "source": "model-order:13",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2858",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇书信的行文顺序。\n雷叔叔：我走了您在地图上标出的路线。老面包店已经关了，所以您写的“闻到面包香就转弯”逗笑了我。不过石阶还在。我坐在最高一级，为您画下港口。希望这幅速写能唤起您熟悉的午后时光。乔",
+  "cn": "雷叔叔：我走了您在地图上标出的路线。老面包店已经关了，所以您写的“闻到面包香就转弯”逗笑了我。不过石阶还在。我坐在最高一级，为您画下港口。希望这幅速写能唤起您熟悉的午后时光。乔",
+  "why": "把变化与保留的地标并列，用附上的画联系两代人的经历。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Uncle Ray, I tried the walk you marked on the map. The old bakery has closed, so your instruction to turn at the smell of bread made me laugh."
+   ],
+   [
+    "The stone steps are still there, though. I sat on the top one and drew the harbor for you."
+   ],
+   [
+    "I hope the sketch brings back a familiar afternoon. Yours, Jo"
+   ]
+  ],
+  "options": [
+   "I hope the sketch brings back a familiar afternoon. Yours, Jo",
+   "The stone steps are still there, though. I sat on the top one and drew the harbor for you.",
+   "Dear Uncle Ray, I tried the walk you marked on the map. The old bakery has closed, so your instruction to turn at the smell of bread made me laugh."
+  ],
+  "source": "model-order:14",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2859",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇书信的行文顺序。\n写给未来的我：今天我怕忘词，推掉了介绍班级话剧的机会。下周我要从小事开始，在排练时迎接十名访客。你拆开这封信时，请公平地问自己：即便那天仍然紧张，你迈出下一步了吗？凯",
+  "cn": "写给未来的我：今天我怕忘词，推掉了介绍班级话剧的机会。下周我要从小事开始，在排练时迎接十名访客。你拆开这封信时，请公平地问自己：即便那天仍然紧张，你迈出下一步了吗？凯",
+  "why": "以一次回避起笔，提出小目标，用可检验的问题收束。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear future me, Today I turned down a chance to introduce our play because I was afraid of forgetting a line."
+   ],
+   [
+    "Next week I will start smaller by welcoming ten visitors at rehearsal."
+   ],
+   [
+    "When you open this letter, ask yourself a fair question: did you take the next step, even on a day when you still felt nervous? Yours, Kai"
+   ]
+  ],
+  "options": [
+   "Next week I will start smaller by welcoming ten visitors at rehearsal.",
+   "Dear future me, Today I turned down a chance to introduce our play because I was afraid of forgetting a line.",
+   "When you open this letter, ask yourself a fair question: did you take the next step, even on a day when you still felt nervous? Yours, Kai"
+  ],
+  "source": "model-order:15",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2860",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇感谢信的行文顺序。\n米娅：谢谢你放学后陪我等车。车没来时我很担心。你帮我读懂了新告示，我们一起找到了正确的站点。多亏你，第二天早上我就知道该怎么办了。本",
+  "cn": "米娅：谢谢你放学后陪我等车。车没来时我很担心。你帮我读懂了新告示，我们一起找到了正确的站点。多亏你，第二天早上我就知道该怎么办了。本",
+  "why": "先写感谢对象做了什么，再写次日仍受益。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Mia, Thank you for waiting with me after class."
+   ],
+   [
+    "I was worried when my bus did not come. You helped me read the new sign, and we found the right stop together."
+   ],
+   [
+    "I knew what to do the next morning because of you. Ben"
+   ]
+  ],
+  "options": [
+   "I was worried when my bus did not come. You helped me read the new sign, and we found the right stop together.",
+   "Dear Mia, Thank you for waiting with me after class.",
+   "I knew what to do the next morning because of you. Ben"
+  ],
+  "source": "model-order:16",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2861",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇感谢信的行文顺序。\n吴先生：谢谢您借灯给我们小组办展览。我们差点撤下那幅铅笔画，因为没人看得清细线条。把您的灯放到画框旁后，参观者真的停下来看了。一个孩子甚至发现了角落里的小鸟。我们周一归还。佳",
+  "cn": "吴先生：谢谢您借灯给我们小组办展览。我们差点撤下那幅铅笔画，因为没人看得清细线条。把您的灯放到画框旁后，参观者真的停下来看了。一个孩子甚至发现了角落里的小鸟。我们周一归还。佳",
+  "why": "用借灯前后观展行为的差异说明帮助的效果。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Mr. Wu, Thank you for lending our group a lamp for the exhibition."
+   ],
+   [
+    "We had almost removed the pencil drawing because nobody could see its fine lines. With your lamp beside the frame, visitors actually stopped to look."
+   ],
+   [
+    "One child even noticed the tiny bird in the corner. We will return the lamp on Monday. Sincerely, Jia"
+   ]
+  ],
+  "options": [
+   "One child even noticed the tiny bird in the corner. We will return the lamp on Monday. Sincerely, Jia",
+   "We had almost removed the pencil drawing because nobody could see its fine lines. With your lamp beside the frame, visitors actually stopped to look.",
+   "Dear Mr. Wu, Thank you for lending our group a lamp for the exhibition."
+  ],
+  "source": "model-order:17",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2862",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇感谢信的行文顺序。\n李老师：第一份报告被您写满问题退回时，我以为您想要另一个结论。核对资料后我才明白，您要我说明结论是如何得出的。我保留了结论，用证据替换了两处猜测。谢谢您给我空间，让我自己弄清这个区别。伊莱",
+  "cn": "李老师：第一份报告被您写满问题退回时，我以为您想要另一个结论。核对资料后我才明白，您要我说明结论是如何得出的。我保留了结论，用证据替换了两处猜测。谢谢您给我空间，让我自己弄清这个区别。伊莱",
+  "why": "从误读反馈到理解用意，最后感谢具体的教学方式。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Ms. Lee, When my first report came back covered in questions, I thought you wanted a different conclusion."
+   ],
+   [
+    "Only after checking my sources did I realize you wanted me to show how I had reached it. I kept my conclusion but replaced two guesses with evidence."
+   ],
+   [
+    "Thank you for giving me room to make that distinction myself. Sincerely, Eli"
+   ]
+  ],
+  "options": [
+   "Thank you for giving me room to make that distinction myself. Sincerely, Eli",
+   "Only after checking my sources did I realize you wanted me to show how I had reached it. I kept my conclusion but replaced two guesses with evidence.",
+   "Dear Ms. Lee, When my first report came back covered in questions, I thought you wanted a different conclusion."
+  ],
+  "source": "model-order:18",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2863",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇道歉信的行文顺序。\n小博：对不起，我把你的尺子留了一夜。我误把它装进自己的笔袋了。我知道你美术课要用。我明早第一遍铃响前送到你桌上。梅",
+  "cn": "小博：对不起，我把你的尺子留了一夜。我误把它装进自己的笔袋了。我知道你美术课要用。我明早第一遍铃响前送到你桌上。梅",
+  "why": "承认疏忽并给出具体归还时间。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Bo, I am sorry I kept your ruler overnight."
+   ],
+   [
+    "I put it in my pencil case by mistake. I know you needed it in art class."
+   ],
+   [
+    "I will bring it to your desk before the first bell tomorrow. May"
+   ]
+  ],
+  "options": [
+   "I will bring it to your desk before the first bell tomorrow. May",
+   "Dear Bo, I am sorry I kept your ruler overnight.",
+   "I put it in my pencil case by mistake. I know you needed it in art class."
+  ],
+  "source": "model-order:19",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2864",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇道歉信的行文顺序。\n各位队友：我昨天错过了排练开头。我看了旧时间表，却没核对改期消息。我到了后大家不得不重排开场。对不起，耽误了你们的时间。我已设提醒，每次排练前都看组内通知。萨姆",
+  "cn": "各位队友：我昨天错过了排练开头。我看了旧时间表，却没核对改期消息。我到了后大家不得不重排开场。对不起，耽误了你们的时间。我已设提醒，每次排练前都看组内通知。萨姆",
+  "why": "先说原因，再具体承认他人付出的时间，最后落实预防办法。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear team, I missed the start of practice yesterday. I read the old timetable and did not check the message about the change."
+   ],
+   [
+    "You had to repeat the opening scene when I arrived. I am sorry for costing you that time."
+   ],
+   [
+    "I have now set a reminder to check the group notice before each rehearsal. Sam"
+   ]
+  ],
+  "options": [
+   "Dear team, I missed the start of practice yesterday. I read the old timetable and did not check the message about the change.",
+   "I have now set a reminder to check the group notice before each rehearsal. Sam",
+   "You had to repeat the opening scene when I arrived. I am sorry for costing you that time."
+  ],
+  "source": "model-order:20",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2865",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇道歉信的行文顺序。\n诺拉：我没问你愿不愿意出镜就发了合影。我先撤下了帖子，又请保存照片的两位朋友删除副本。我本该先问你。如果再发一个版本，是否出镜由你决定。对不起。乔",
+  "cn": "诺拉：我没问你愿不愿意出镜就发了合影。我先撤下了帖子，又请保存照片的两位朋友删除副本。我本该先问你。如果再发一个版本，是否出镜由你决定。对不起。乔",
+  "why": "写明实际补救措施，把后续选择交还给对方。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Nora, I shared the group photo before checking whether you wanted your picture included. Taking the post down was the first step, and I have also asked the two friends who saved it to delete their copies."
+   ],
+   [
+    "I should have asked you first. If we post another version, you can choose whether to appear in it."
+   ],
+   [
+    "I am sorry. Jo"
+   ]
+  ],
+  "options": [
+   "Dear Nora, I shared the group photo before checking whether you wanted your picture included. Taking the post down was the first step, and I have also asked the two friends who saved it to delete their copies.",
+   "I am sorry. Jo",
+   "I should have asked you first. If we post another version, you can choose whether to appear in it."
+  ],
+  "source": "model-order:21",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2866",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇建议信的行文顺序。\n丹：你说铅笔放包里容易折。试试有硬盖的小笔盒，让笔尖背向开口。明天先在上学的短路程中试一试，再带去旅行。安娜",
+  "cn": "丹：你说铅笔放包里容易折。试试有硬盖的小笔盒，让笔尖背向开口。明天先在上学的短路程中试一试，再带去旅行。安娜",
+  "why": "根据具体困扰给出工具、放法和试用时机。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Dan, You said your pencils break in your bag."
+   ],
+   [
+    "Try a small pencil case with a hard lid. Put the sharp ends away from the opening."
+   ],
+   [
+    "You can test it on the short walk to school tomorrow before taking it on your trip. Ana"
+   ]
+  ],
+  "options": [
+   "Dear Dan, You said your pencils break in your bag.",
+   "You can test it on the short walk to school tomorrow before taking it on your trip. Ana",
+   "Try a small pencil case with a hard lid. Put the sharp ends away from the opening."
+  ],
+  "source": "model-order:22",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2867",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇建议信的行文顺序。\n金：如果长长的书单让你迟迟不开始，就先选一篇能在公交车上读完的故事。标一句喜欢的话，不必遇到每个生词都停下。周末告诉我你还记得哪一篇，我们据此一起选下一本。 本",
+  "cn": "金：如果长长的书单让你迟迟不开始，就先选一篇能在公交车上读完的故事。标一句喜欢的话，不必遇到每个生词都停下。周末告诉我你还记得哪一篇，我们据此一起选下一本。 本",
+  "why": "降低起步难度，再用回忆结果指导下一次选书。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Kim, If a long reading list makes you put off starting, choose one story that fits your bus ride."
+   ],
+   [
+    "Mark one line you like instead of stopping for every new word. At the end of the week, tell me which story you still remember."
+   ],
+   [
+    "That will help us choose the next book together. Ben"
+   ]
+  ],
+  "options": [
+   "Dear Kim, If a long reading list makes you put off starting, choose one story that fits your bus ride.",
+   "That will help us choose the next book together. Ben",
+   "Mark one line you like instead of stopping for every new word. At the end of the week, tell me which story you still remember."
+  ],
+  "source": "model-order:23",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2868",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇建议信的行文顺序。\n各位社团负责人：买更响的音箱前，试试把现有的那台移离墙面。昨天排练时，前排字字听清，侧面的人却漏听了通知。请每个角落各有一人复述测试句，他们的回答能告诉你调整位置是否已经足够。丽塔",
+  "cn": "各位社团负责人：买更响的音箱前，试试把现有的那台移离墙面。昨天排练时，前排字字听清，侧面的人却漏听了通知。请每个角落各有一人复述测试句，他们的回答能告诉你调整位置是否已经足够。丽塔",
+  "why": "先提供低成本试验，用可观察结果判断是否采购。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear club leaders, Before buying a louder speaker, try moving the existing one away from the wall."
+   ],
+   [
+    "At yesterday's rehearsal, the front row heard every word while those at the side missed the announcements. Ask one person in each corner to repeat a test sentence."
+   ],
+   [
+    "Their answers will tell you whether a new position is enough. Sincerely, Rita"
+   ]
+  ],
+  "options": [
+   "Their answers will tell you whether a new position is enough. Sincerely, Rita",
+   "Dear club leaders, Before buying a louder speaker, try moving the existing one away from the wall.",
+   "At yesterday's rehearsal, the front row heard every word while those at the side missed the announcements. Ask one person in each corner to repeat a test sentence."
+  ],
+  "source": "model-order:24",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2869",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇求助信的行文顺序。\n林老师：我能打开班级练习单，但找不到第二页。我看过打印稿的正反两面了。午餐前能让我看一下您那份吗？我想今天做完最后一题。谢谢！汤姆",
+  "cn": "林老师：我能打开班级练习单，但找不到第二页。我看过打印稿的正反两面了。午餐前能让我看一下您那份吗？我想今天做完最后一题。谢谢！汤姆",
+  "why": "区分已能完成的部分和需要的具体帮助。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Ms. Lin, I can open the class worksheet, but I cannot find page two."
+   ],
+   [
+    "I checked both sides of my printout. Could I look at your copy before lunch?"
+   ],
+   [
+    "I want to finish the last question today. Thank you, Tom"
+   ]
+  ],
+  "options": [
+   "I want to finish the last question today. Thank you, Tom",
+   "Dear Ms. Lin, I can open the class worksheet, but I cannot find page two.",
+   "I checked both sides of my printout. Could I look at your copy before lunch?"
+  ],
+  "source": "model-order:25",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2870",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇求助信的行文顺序。\n车站工作人员：昨天我把一个绿包落在五点到北门的公交车上。司机建议联系你们。内袋里有张借书证，我可以说出证上的名字。请问有人交来过这样的包吗？雷",
+  "cn": "车站工作人员：昨天我把一个绿包落在五点到北门的公交车上。司机建议联系你们。内袋里有张借书证，我可以说出证上的名字。请问有人交来过这样的包吗？雷",
+  "why": "提供车次线索和可核对的特征，再提出查询请求。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear station staff, Yesterday I left a green bag on the bus that reached North Gate at five."
+   ],
+   [
+    "The driver suggested contacting your desk. There is a library card in the inside pocket, and I can give you the name on it."
+   ],
+   [
+    "Could you tell me whether a bag like this has been handed in? Yours, Lei"
+   ]
+  ],
+  "options": [
+   "Dear station staff, Yesterday I left a green bag on the bus that reached North Gate at five.",
+   "Could you tell me whether a bag like this has been handed in? Yours, Lei",
+   "The driver suggested contacting your desk. There is a library card in the inside pocket, and I can give you the name on it."
+  ],
+  "source": "model-order:26",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2871",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇求助信的行文顺序。\n霍尔博士：我们在比较两项调查，一份算人次，一份算人数。我们试过用总数除以开放天数，但那解决的是另一个问题。如果找不回原始记录，您能指点我们怎样把局限说明白吗？我们希望获得措辞上的指导。梅",
+  "cn": "霍尔博士：我们在比较两项调查，一份算人次，一份算人数。我们试过用总数除以开放天数，但那解决的是另一个问题。如果找不回原始记录，您能指点我们怎样把局限说明白吗？我们希望获得措辞上的指导。梅",
+  "why": "明确已尝试的方法及局限，把请求限定为表述指导。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Dr. Hall, Our group is comparing two surveys, but one counts visits and the other counts visitors."
+   ],
+   [
+    "We tried dividing the total by the number of open days; that solved a different problem. Could you suggest a way to explain the limitation clearly if the original records cannot be recovered?"
+   ],
+   [
+    "We would value guidance on the wording. Sincerely, Mei"
+   ]
+  ],
+  "options": [
+   "We would value guidance on the wording. Sincerely, Mei",
+   "We tried dividing the total by the number of open days; that solved a different problem. Could you suggest a way to explain the limitation clearly if the original records cannot be recovered?",
+   "Dear Dr. Hall, Our group is comparing two surveys, but one counts visits and the other counts visitors."
+  ],
+  "source": "model-order:27",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2872",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇申请信的行文顺序。\n孙老师：我想周五在图书义卖活动帮忙。我能搬小箱子、整理图书。美术课后我三点到四点有空。请告诉我集合地点。林",
+  "cn": "孙老师：我想周五在图书义卖活动帮忙。我能搬小箱子、整理图书。美术课后我三点到四点有空。请告诉我集合地点。林",
+  "why": "说明申请任务、能做什么及可用时间。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear Ms. Sun, I would like to help at the book sale on Friday."
+   ],
+   [
+    "I can carry small boxes and put books in order. I am free from three to four, after my art class."
+   ],
+   [
+    "Please let me know where I should meet the team. Yours, Lin"
+   ]
+  ],
+  "options": [
+   "Dear Ms. Sun, I would like to help at the book sale on Friday.",
+   "Please let me know where I should meet the team. Yours, Lin",
+   "I can carry small boxes and put books in order. I am free from three to four, after my art class."
+  ],
+  "source": "model-order:28",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2873",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇申请信的行文顺序。\n各位组织者：我申请在校展览接待参观者。上学期我带三位新同学参观过教学楼，其中一位不能爬楼时，我找到了电梯并改了路线。我能参加周二的培训，也能在周六上午工作。佳",
+  "cn": "各位组织者：我申请在校展览接待参观者。上学期我带三位新同学参观过教学楼，其中一位不能爬楼时，我找到了电梯并改了路线。我能参加周二的培训，也能在周六上午工作。佳",
+  "why": "用一次解决实际困难的经历说明胜任能力。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear organizers, I am applying to welcome visitors at the school exhibition."
+   ],
+   [
+    "Last term I guided three new pupils around the building. When one could not use the stairs, I found the lift and changed our route."
+   ],
+   [
+    "I can attend the practice session on Tuesday and work on Saturday morning. Sincerely, Jia"
+   ]
+  ],
+  "options": [
+   "Last term I guided three new pupils around the building. When one could not use the stairs, I found the lift and changed our route.",
+   "I can attend the practice session on Tuesday and work on Saturday morning. Sincerely, Jia",
+   "Dear organizers, I am applying to welcome visitors at the school exhibition."
+  ],
+  "source": "model-order:29",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2874",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇申请信的行文顺序。\n遴选小组：我希望以学生编辑身份参与口述史项目。上次制作广播剧时，我学会对照原录音核实听不清的话，而不凭空猜测。我还列出每一项改动供说话者复核。这些经验有助于我整理易读的文字稿，同时保留每个人实际说的话。诺拉",
+  "cn": "遴选小组：我希望以学生编辑身份参与口述史项目。上次制作广播剧时，我学会对照原录音核实听不清的话，而不凭空猜测。我还列出每一项改动供说话者复核。这些经验有助于我整理易读的文字稿，同时保留每个人实际说的话。诺拉",
+  "why": "经历和岗位职责逐一对应，说明能力可以如何迁移。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Dear selection team, I would like to join the oral history project as a student editor."
+   ],
+   [
+    "While preparing our last radio play, I learned to check unclear speech against the original recording instead of guessing. I also kept a list of every change for the speaker to review."
+   ],
+   [
+    "That experience would help me prepare readable transcripts while preserving what each person actually said. Sincerely, Nora"
+   ]
+  ],
+  "options": [
+   "While preparing our last radio play, I learned to check unclear speech against the original recording instead of guessing. I also kept a list of every change for the speaker to review.",
+   "Dear selection team, I would like to join the oral history project as a student editor.",
+   "That experience would help me prepare readable transcripts while preserving what each person actually said. Sincerely, Nora"
+  ],
+  "source": "model-order:30",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2875",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇通知的行文顺序。\n班级野餐。请周六九点在东门集合，自带水和午餐，一起走到公园。如遇下雨，请在同一时间到三号教室参加室内游戏。二班",
+  "cn": "班级野餐。请周六九点在东门集合，自带水和午餐，一起走到公园。如遇下雨，请在同一时间到三号教室参加室内游戏。二班",
+  "why": "时间地点明确，附上雨天安排。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Class picnic. Meet at the east gate at nine on Saturday."
+   ],
+   [
+    "Bring water and a packed lunch. We will walk to the park together."
+   ],
+   [
+    "If it rains, meet in Room 3 at the same time for indoor games. Class Two"
+   ]
+  ],
+  "options": [
+   "Class picnic. Meet at the east gate at nine on Saturday.",
+   "If it rains, meet in Room 3 at the same time for indoor games. Class Two",
+   "Bring water and a packed lunch. We will walk to the park together."
+  ],
+  "source": "model-order:31",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2876",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇通知的行文顺序。\n周一至周三还书通知。维修地面期间总服务台移位。请每天下午四点前把书还到六号教室旁的蓝箱。大开本图画书无法塞进投书口，请交给室内的老师。周四恢复正常服务。图书馆工作组",
+  "cn": "周一至周三还书通知。维修地面期间总服务台移位。请每天下午四点前把书还到六号教室旁的蓝箱。大开本图画书无法塞进投书口，请交给室内的老师。周四恢复正常服务。图书馆工作组",
+  "why": "通用还书流程后单独说明例外。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Library returns, Monday to Wednesday. The main desk will be moved while the floor is repaired."
+   ],
+   [
+    "Please return books to the blue box beside Room 6 before four each day. Large picture books do not fit the slot; hand them to the teacher inside the room."
+   ],
+   [
+    "Normal service resumes on Thursday. The library team"
+   ]
+  ],
+  "options": [
+   "Normal service resumes on Thursday. The library team",
+   "Please return books to the blue box beside Room 6 before four each day. Large picture books do not fit the slot; hand them to the teacher inside the room.",
+   "Library returns, Monday to Wednesday. The main desk will be moved while the floor is repaired."
+  ],
+  "source": "model-order:32",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2877",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇通知的行文顺序。\n晚场音乐会入场安排调整。持纸质票的观众可从任一入口入场。需要取票者请先到西门内的服务台。东侧台阶在维修，需要平坦路线的观众请从西门沿蓝色标志前行。开演时间仍是七点。音乐会筹备组",
+  "cn": "晚场音乐会入场安排调整。持纸质票的观众可从任一入口入场。需要取票者请先到西门内的服务台。东侧台阶在维修，需要平坦路线的观众请从西门沿蓝色标志前行。开演时间仍是七点。音乐会筹备组",
+  "why": "分对象列出路线和先后步骤，最后确认开演时间。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Revised entry arrangements for the evening concert. Visitors with printed tickets may use either entrance."
+   ],
+   [
+    "Those collecting tickets must first visit the desk inside the west door. The east steps are being repaired, so anyone needing a level route should follow the blue signs from the west gate."
+   ],
+   [
+    "The starting time remains seven. Concert committee"
+   ]
+  ],
+  "options": [
+   "Those collecting tickets must first visit the desk inside the west door. The east steps are being repaired, so anyone needing a level route should follow the blue signs from the west gate.",
+   "Revised entry arrangements for the evening concert. Visitors with printed tickets may use either entrance.",
+   "The starting time remains seven. Concert committee"
+  ],
+  "source": "model-order:33",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2878",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇日记的行文顺序。\n五月八日，星期五。我提前十分钟到校。院子里静悄悄，一只鸟正从水洼里喝水。平常我总直奔教室，今天却停下来看了一会儿。第一遍铃响时，我心里很平静。",
+  "cn": "五月八日，星期五。我提前十分钟到校。院子里静悄悄，一只鸟正从水洼里喝水。平常我总直奔教室，今天却停下来看了一会儿。第一遍铃响时，我心里很平静。",
+  "why": "记录一处日常变化及当天感受。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "May 8, Friday."
+   ],
+   [
+    "I arrived at school ten minutes early. The yard was quiet, and a bird was drinking from a puddle."
+   ],
+   [
+    "I usually run straight to class, but today I stopped to watch. I felt calm when the first bell rang."
+   ]
+  ],
+  "options": [
+   "I usually run straight to class, but today I stopped to watch. I felt calm when the first bell rang.",
+   "I arrived at school ten minutes early. The yard was quiet, and a bird was drinking from a puddle.",
+   "May 8, Friday."
+  ],
+  "source": "model-order:34",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2879",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇日记的行文顺序。\n十月十二日。今晚我试着不听音乐学习。头十分钟很想念那些熟悉的歌，想停下来。随后发现自己已读完整段，也没把同一行读两遍。我打算再试一个安静的晚上，再判断差别是否真实。",
+  "cn": "十月十二日。今晚我试着不听音乐学习。头十分钟很想念那些熟悉的歌，想停下来。随后发现自己已读完整段，也没把同一行读两遍。我打算再试一个安静的晚上，再判断差别是否真实。",
+  "why": "写一次小实验，结合现象留下待验证的问题。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "October 12."
+   ],
+   [
+    "I tried studying without music this evening. For the first ten minutes I missed the familiar songs and wanted to stop."
+   ],
+   [
+    "Then I noticed I had finished the paragraph without reading the same line twice. I will try one more quiet evening before deciding whether the difference was real."
+   ]
+  ],
+  "options": [
+   "I tried studying without music this evening. For the first ten minutes I missed the familiar songs and wanted to stop.",
+   "Then I noticed I had finished the paragraph without reading the same line twice. I will try one more quiet evening before deciding whether the difference was real.",
+   "October 12."
+  ],
+  "source": "model-order:35",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2880",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇日记的行文顺序。\n三月六日。我差点写下今天没人听我的主意。回想一下，我其实能说出两个追问过的人；让我难过的是大家最后选了别的方案。这是两件事。明天我想问问那个方案为什么胜出，不带着“我已经被无视了”的预设开口。",
+  "cn": "三月六日。我差点写下今天没人听我的主意。回想一下，我其实能说出两个追问过的人；让我难过的是大家最后选了别的方案。这是两件事。明天我想问问那个方案为什么胜出，不带着“我已经被无视了”的预设开口。",
+  "why": "修正最初的情绪判断，再给第二天的行动留方向。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "March 6."
+   ],
+   [
+    "I almost wrote that nobody listened to my idea today. Looking back, I can name two people who asked about it; what upset me was that the group chose another plan."
+   ],
+   [
+    "Those are different things. Tomorrow I want to ask why their plan won, without starting the conversation as if I had already been ignored."
+   ]
+  ],
+  "options": [
+   "Those are different things. Tomorrow I want to ask why their plan won, without starting the conversation as if I had already been ignored.",
+   "I almost wrote that nobody listened to my idea today. Looking back, I can name two people who asked about it; what upset me was that the group chose another plan.",
+   "March 6."
+  ],
+  "source": "model-order:36",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2881",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇演讲稿的行文顺序。\n大家早上好。闭着眼能找到座位吗？大概不能。再想想第一次走进一间屋子找座位的感受。学校演出时，请主动从门口为一位客人带路。短短一段路就能让陌生人感到受欢迎。谢谢。",
+  "cn": "大家早上好。闭着眼能找到座位吗？大概不能。再想想第一次走进一间屋子找座位的感受。学校演出时，请主动从门口为一位客人带路。短短一段路就能让陌生人感到受欢迎。谢谢。",
+  "why": "用问题让听众代入，再提出一个具体行动。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Good morning, everyone. Can you find your seat with your eyes closed?"
+   ],
+   [
+    "Probably not. Now imagine finding a seat in a room you have never visited."
+   ],
+   [
+    "At our school show, offer to guide one guest from the door. A short walk can make a stranger feel welcome. Thank you."
+   ]
+  ],
+  "options": [
+   "Probably not. Now imagine finding a seat in a room you have never visited.",
+   "Good morning, everyone. Can you find your seat with your eyes closed?",
+   "At our school show, offer to guide one guest from the door. A short walk can make a stranger feel welcome. Thank you."
+  ],
+  "source": "model-order:37",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2882",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇演讲稿的行文顺序。\n朋友们，想想你们最近归还的书。还能说出记得的一句话吗？我们读书社每周请大家带来一句。你可以朗读它，解释选择原因，再听听别人的选择。周三请带来一句话，它可能开启一段意想不到的对话。",
+  "cn": "朋友们，想想你们最近归还的书。还能说出记得的一句话吗？我们读书社每周请大家带来一句。你可以朗读它，解释选择原因，再听听别人的选择。周三请带来一句话，它可能开启一段意想不到的对话。",
+  "why": "以听众记忆开场，展示活动并发出明确邀请。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Friends, think of the last book you returned. Could you tell us one line you remember?"
+   ],
+   [
+    "Our reading club asks for one line each week. You can read it aloud, explain why you chose it, and listen to someone else's choice."
+   ],
+   [
+    "Bring one sentence on Wednesday. It may be the beginning of a conversation you did not expect."
+   ]
+  ],
+  "options": [
+   "Bring one sentence on Wednesday. It may be the beginning of a conversation you did not expect.",
+   "Our reading club asks for one line each week. You can read it aloud, explain why you chose it, and listen to someone else's choice.",
+   "Friends, think of the last book you returned. Could you tell us one line you remember?"
+  ],
+  "source": "model-order:38",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2883",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇演讲稿的行文顺序。\n我们说一场校园活动成功时，算的是什么？上周维修台只接待了六人。但其中一人带走了原本差点扔掉、现在又能亮的灯；另一人又回来教我们修开关。人数当然要算，报告里也该留出篇幅，写写人来了以后发生的事。谢谢。",
+  "cn": "我们说一场校园活动成功时，算的是什么？上周维修台只接待了六人。但其中一人带走了原本差点扔掉、现在又能亮的灯；另一人又回来教我们修开关。人数当然要算，报告里也该留出篇幅，写写人来了以后发生的事。谢谢。",
+  "why": "用低人数和实际收益构成张力，引导听众重新考虑标准。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "When we call a school event successful, what are we counting?"
+   ],
+   [
+    "Last week our repair table served only six visitors. Yet one of them left with a working lamp she had nearly thrown away, and another returned to teach us how to fix a switch."
+   ],
+   [
+    "Count attendance, certainly, but leave room in the report for what happened after people arrived. Thank you."
+   ]
+  ],
+  "options": [
+   "Count attendance, certainly, but leave room in the report for what happened after people arrived. Thank you.",
+   "When we call a school event successful, what are we counting?",
+   "Last week our repair table served only six visitors. Yet one of them left with a working lamp she had nearly thrown away, and another returned to teach us how to fix a switch."
+  ],
+  "source": "model-order:39",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2884",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇海报和活动介绍的行文顺序。\n来做纸灯笼！周六两点到五号教室。纸、绳子和颜料都已备好。未满十岁请带一位成人。活动结束可带走灯笼。请在周五前登记。",
+  "cn": "来做纸灯笼！周六两点到五号教室。纸、绳子和颜料都已备好。未满十岁请带一位成人。活动结束可带走灯笼。请在周五前登记。",
+  "why": "醒目标题后交代材料、参加条件及登记办法。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Make a paper lantern! Come to Room 5 at two on Saturday."
+   ],
+   [
+    "We have paper, string and colors. Bring an adult if you are under ten."
+   ],
+   [
+    "You can take your lantern home at the end. Write your name on the list by Friday."
+   ]
+  ],
+  "options": [
+   "You can take your lantern home at the end. Write your name on the list by Friday.",
+   "We have paper, string and colors. Bring an adult if you are under ten.",
+   "Make a paper lantern! Come to Room 5 at two on Saturday."
+  ],
+  "source": "model-order:40",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2885",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇海报和活动介绍的行文顺序。\n让衬衫再用一次。五月十日请把不再穿的干净衬衫带到缝纫社。我们将示范怎样把衣袖改成小包。欢迎初学者，工具由社团提供。限十二席，请在周四前到美术服务台预约。",
+  "cn": "让衬衫再用一次。五月十日请把不再穿的干净衬衫带到缝纫社。我们将示范怎样把衣袖改成小包。欢迎初学者，工具由社团提供。限十二席，请在周四前到美术服务台预约。",
+  "why": "展示成品用途，并用席位限制说明报名必要性。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "A second life for a shirt."
+   ],
+   [
+    "Bring a clean shirt you no longer wear to the sewing club on May 10. We will show you how to turn its sleeves into a small bag."
+   ],
+   [
+    "Beginners are welcome, and tools are provided. There are twelve seats, so reserve yours at the art desk before Thursday."
+   ]
+  ],
+  "options": [
+   "Beginners are welcome, and tools are provided. There are twelve seats, so reserve yours at the art desk before Thursday.",
+   "Bring a clean shirt you no longer wear to the sewing club on May 10. We will show you how to turn its sleeves into a small bag.",
+   "A second life for a shirt."
+  ],
+  "source": "model-order:41",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2886",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇海报和活动介绍的行文顺序。\n在小镇醒来前听见它。周日六点在老面包店外集合，参加短途声音漫步。你会学到通过改变与声源的距离来记录场景。一部手机就够了。我们只录公共场所的声音，录入人声会先征求同意。请于周五晚前向社团秘书报名。",
+  "cn": "在小镇醒来前听见它。周日六点在老面包店外集合，参加短途声音漫步。你会学到通过改变与声源的距离来记录场景。一部手机就够了。我们只录公共场所的声音，录入人声会先征求同意。请于周五晚前向社团秘书报名。",
+  "why": "先用体验吸引读者，再说明器材、活动边界和报名方式。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Hear the town before it wakes. Join our short sound walk at six on Sunday outside the old bakery."
+   ],
+   [
+    "You will learn to record a scene by changing distance from one sound. A phone is enough."
+   ],
+   [
+    "We will record public sounds only and ask before including anyone's voice. Send your name to the club secretary by Friday evening."
+   ]
+  ],
+  "options": [
+   "We will record public sounds only and ask before including anyone's voice. Send your name to the club secretary by Friday evening.",
+   "Hear the town before it wakes. Join our short sound walk at six on Sunday outside the old bakery.",
+   "You will learn to record a scene by changing distance from one sound. A phone is enough."
+  ],
+  "source": "model-order:42",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2887",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇人物介绍的行文顺序。\n我们学校的厨师姓金。他戴白帽子，六点前就起床。有一次我忘带午饭钱，他往我餐盘里放了一碗饭，说我明天再带钱来就行。现在我总是先和他打招呼，再选菜。",
+  "cn": "我们学校的厨师姓金。他戴白帽子，六点前就起床。有一次我忘带午饭钱，他往我餐盘里放了一碗饭，说我明天再带钱来就行。现在我总是先和他打招呼，再选菜。",
+  "why": "从外表和工作写起，用一次善意举动表现性格。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "Our school cook is called Mr."
+   ],
+   [
+    "Jin. He wears a white cap and gets up before six."
+   ],
+   [
+    "When I forgot my lunch money, he put a bowl of rice on my tray and said I could bring the money tomorrow. Now I always say hello before I choose my food."
+   ]
+  ],
+  "options": [
+   "When I forgot my lunch money, he put a bowl of rice on my tray and said I could bring the money tomorrow. Now I always say hello before I choose my food.",
+   "Our school cook is called Mr.",
+   "Jin. He wears a white cap and gets up before six."
+  ],
+  "source": "model-order:43",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2888",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇人物介绍的行文顺序。\n邻居伊娃修钟，但我最留意的是她待人的耐心。有位顾客说不出自己听到的声音，伊娃就在柜台上摆三只钟，让他逐个听。听到第三只时他笑了：就是这种声音。她光靠倾听就解决了一半问题。",
+  "cn": "邻居伊娃修钟，但我最留意的是她待人的耐心。有位顾客说不出自己听到的声音，伊娃就在柜台上摆三只钟，让他逐个听。听到第三只时他笑了：就是这种声音。她光靠倾听就解决了一半问题。",
+  "why": "确定人物特征，再用一段完整的小事证明。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "My neighbor Eva repairs clocks, but what I notice most is her patience with people."
+   ],
+   [
+    "A customer once described a sound he could not name. Eva put three clocks on the counter and let him listen to each."
+   ],
+   [
+    "By the third clock he was smiling: he had found the sound. She had solved half the problem simply by listening."
+   ]
+  ],
+  "options": [
+   "A customer once described a sound he could not name. Eva put three clocks on the counter and let him listen to each.",
+   "My neighbor Eva repairs clocks, but what I notice most is her patience with people.",
+   "By the third clock he was smiling: he had found the sound. She had solved half the problem simply by listening."
+  ],
+  "source": "model-order:44",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2889",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇人物介绍的行文顺序。\n人们常说我们的舞台监督很安静。从观众席看确实如此。但在幕布后，林同时留意三件事：演员最后一步、门上的灯，以及旁边乐手的手。她轻轻一点头，三方就接到共同的信号。演出能顺畅进行，是因为有人准确掌握了何时该引起注意。",
+  "cn": "人们常说我们的舞台监督很安静。从观众席看确实如此。但在幕布后，林同时留意三件事：演员最后一步、门上的灯，以及旁边乐手的手。她轻轻一点头，三方就接到共同的信号。演出能顺畅进行，是因为有人准确掌握了何时该引起注意。",
+  "why": "切换观察位置，用看似不起眼的动作重写读者对人物的印象。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "People often describe our stage manager as quiet."
+   ],
+   [
+    "From the audience that seems true. Behind the curtain, however, Lin watches three things at once: the actor's last step, the light above the door and the hand of the musician beside her."
+   ],
+   [
+    "Her smallest nod brings them together. The show runs smoothly because someone has learned exactly when to be noticed."
+   ]
+  ],
+  "options": [
+   "Her smallest nod brings them together. The show runs smoothly because someone has learned exactly when to be noticed.",
+   "People often describe our stage manager as quiet.",
+   "From the audience that seems true. Behind the curtain, however, Lin watches three things at once: the actor's last step, the light above the door and the hand of the musician beside her."
+  ],
+  "source": "model-order:45",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2890",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇地点介绍的行文顺序。\n图书馆后有个小花园。穿过蓝门，在水龙头那里左转，就会看见树下两条长椅。我喜欢靠墙的那一条，因为即使刮风也能在那里读书。",
+  "cn": "图书馆后有个小花园。穿过蓝门，在水龙头那里左转，就会看见树下两条长椅。我喜欢靠墙的那一条，因为即使刮风也能在那里读书。",
+  "why": "按入口、转弯点、目的地的顺序介绍，并说明个人偏好。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "There is a small garden behind our library."
+   ],
+   [
+    "Go through the blue gate and turn left at the tap."
+   ],
+   [
+    "You will see two benches under a tree. I like the one near the wall because I can read there even on a windy day."
+   ]
+  ],
+  "options": [
+   "There is a small garden behind our library.",
+   "You will see two benches under a tree. I like the one near the wall because I can read there even on a windy day.",
+   "Go through the blue gate and turn left at the tap."
+  ],
+  "source": "model-order:46",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2891",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇地点介绍的行文顺序。\n逛我们市场最简单的办法是循着早餐的香味。面包摊就在东门旁，再往前一条窄巷通向菜摊，尽头的广场可以坐下。若想找桌子，请九点前去；再晚些同一片广场就挤满送货推车了。",
+  "cn": "逛我们市场最简单的办法是循着早餐的香味。面包摊就在东门旁，再往前一条窄巷通向菜摊，尽头的广场可以坐下。若想找桌子，请九点前去；再晚些同一片广场就挤满送货推车了。",
+  "why": "用感官线索引路，补充不同时段的实际差别。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "The easiest way to explore our market is to follow the smell of breakfast."
+   ],
+   [
+    "The bread stall stands by the east gate."
+   ],
+   [
+    "Beyond it, a narrow lane leads to the vegetable sellers, and the square at the far end has room to sit. Go before nine if you want a table; later the same square fills with delivery carts."
+   ]
+  ],
+  "options": [
+   "The bread stall stands by the east gate.",
+   "Beyond it, a narrow lane leads to the vegetable sellers, and the square at the far end has room to sit. Go before nine if you want a table; later the same square fills with delivery carts.",
+   "The easiest way to explore our market is to follow the smell of breakfast."
+  ],
+  "source": "model-order:47",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2892",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇地点介绍的行文顺序。\n从河边看，老车站像一整座狭长的建筑。绕到临街面，就会发现两个不同高度的入口。上方曾供乘客使用，下方曾通往货场。建议从低处参观，再走外面的台阶上去。爬这短短一段，比只看正面更能理解它独特的形状。",
+  "cn": "从河边看，老车站像一整座狭长的建筑。绕到临街面，就会发现两个不同高度的入口。上方曾供乘客使用，下方曾通往货场。建议从低处参观，再走外面的台阶上去。爬这短短一段，比只看正面更能理解它独特的形状。",
+  "why": "从视角变化写到建筑功能，使游览顺序有解释作用。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "From the river, the old station looks like a single long building."
+   ],
+   [
+    "Walk around to the street side and you discover two entrances at different heights. The upper one served passengers; the lower one once opened onto a goods yard."
+   ],
+   [
+    "Start your visit below and climb the outside steps. That short climb explains the building's unusual shape better than a front view can."
+   ]
+  ],
+  "options": [
+   "Walk around to the street side and you discover two entrances at different heights. The upper one served passengers; the lower one once opened onto a goods yard.",
+   "From the river, the old station looks like a single long building.",
+   "Start your visit below and climb the outside steps. That short climb explains the building's unusual shape better than a front view can."
+  ],
+  "source": "model-order:48",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2893",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇事件描述的行文顺序。\n周五我们班在院子里卖旧书。我写价格，小博找零钱。起初没人看到小招牌，于是我们把它放到椅子上。后来来的孩子多了。我们把钱放进盒子，准备买新班级图书。",
+  "cn": "周五我们班在院子里卖旧书。我写价格，小博找零钱。起初没人看到小招牌，于是我们把它放到椅子上。后来来的孩子多了。我们把钱放进盒子，准备买新班级图书。",
+  "why": "以分工、问题、调整和结果组成事件经过。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "On Friday our class sold used books in the yard."
+   ],
+   [
+    "I wrote the prices and Bo gave people change. At first nobody saw the small sign, so we put it on a chair."
+   ],
+   [
+    "More children came after that. We put the money in a box for new class books."
+   ]
+  ],
+  "options": [
+   "On Friday our class sold used books in the yard.",
+   "More children came after that. We put the money in a box for new class books.",
+   "I wrote the prices and Bo gave people change. At first nobody saw the small sign, so we put it on a chair."
+  ],
+  "source": "model-order:49",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2894",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇事件描述的行文顺序。\n周二的纸桥比赛中，第一座桥放两枚硬币就弯了。队友把同一张纸折成细棱，我保持桌子间距不变。第二次它撑住了五枚硬币。我们把两次结果写在板上，让访客看出形状改变的作用。",
+  "cn": "周二的纸桥比赛中，第一座桥放两枚硬币就弯了。队友把同一张纸折成细棱，我保持桌子间距不变。第二次它撑住了五枚硬币。我们把两次结果写在板上，让访客看出形状改变的作用。",
+  "why": "把改动与保持不变的条件一起写清，使结果容易理解。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "During Tuesday's bridge contest, our first paper bridge bent under two coins."
+   ],
+   [
+    "A teammate folded the same sheet into small ridges while I kept the gap between the desks unchanged."
+   ],
+   [
+    "On the next attempt it held five coins. We recorded both results on the board so visitors could see what a change of shape had done."
+   ]
+  ],
+  "options": [
+   "On the next attempt it held five coins. We recorded both results on the board so visitors could see what a change of shape had done.",
+   "A teammate folded the same sheet into small ridges while I kept the gap between the desks unchanged.",
+   "During Tuesday's bridge contest, our first paper bridge bent under two coins."
+  ],
+  "source": "model-order:50",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2895",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇事件描述的行文顺序。\n四点，通知传到礼堂前部，却没传到入口。入口排起了队，厅里还有几个空座。门边一名学生重复了通知，带第一组人进入。第二台音箱接好时，队伍已经消散。设备后来帮上了忙，而当下的改变来自一个人发现信息传到了哪里就中断了。",
+  "cn": "四点，通知传到礼堂前部，却没传到入口。入口排起了队，厅里还有几个空座。门边一名学生重复了通知，带第一组人进入。第二台音箱接好时，队伍已经消散。设备后来帮上了忙，而当下的改变来自一个人发现信息传到了哪里就中断了。",
+  "why": "按时序区分先产生效果的行动和后投入使用的设备。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "At four the announcement reached the front of the hall but not the entrance."
+   ],
+   [
+    "A line formed there while several seats stood empty. A student near the door repeated the message and led the first group inside."
+   ],
+   [
+    "By the time a second speaker was connected, the line had already disappeared. The equipment helped later; the immediate change came from one person noticing where information had stopped."
+   ]
+  ],
+  "options": [
+   "By the time a second speaker was connected, the line had already disappeared. The equipment helped later; the immediate change came from one person noticing where information had stopped.",
+   "At four the announcement reached the front of the hall but not the entrance.",
+   "A line formed there while several seats stood empty. A student near the door repeated the message and led the first group inside."
+  ],
+  "source": "model-order:51",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2896",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇图片描述的行文顺序。\n图中，一个女孩坐在火车窗边。蓝包在座位下，手里拿着纸票。窗外有两个人在挥手，女孩也朝他们微笑。我想她认识他们，不过图里看不清他们的脸。",
+  "cn": "图中，一个女孩坐在火车窗边。蓝包在座位下，手里拿着纸票。窗外有两个人在挥手，女孩也朝他们微笑。我想她认识他们，不过图里看不清他们的脸。",
+  "why": "先写可见的位置和动作，再把人物关系作为推测。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "In the picture, a girl is sitting by a train window."
+   ],
+   [
+    "Her blue bag is under the seat, and a paper ticket is in her hand. Outside, two people are waving."
+   ],
+   [
+    "The girl is smiling back at them. I think she knows them, but the picture does not show their faces clearly."
+   ]
+  ],
+  "options": [
+   "Her blue bag is under the seat, and a paper ticket is in her hand. Outside, two people are waving.",
+   "The girl is smiling back at them. I think she knows them, but the picture does not show their faces clearly.",
+   "In the picture, a girl is sitting by a train window."
+  ],
+  "source": "model-order:52",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2897",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇图片描述的行文顺序。\n这张集市照有前后两层。近处，摊主正把一块绿布拉到一箱梨上。后面，顾客们开始撑伞，一个孩子却仍盯着水果。地上的深色痕迹提示雨才刚下。这张照片抓住了大家即将行动的瞬间。",
+  "cn": "这张集市照有前后两层。近处，摊主正把一块绿布拉到一箱梨上。后面，顾客们开始撑伞，一个孩子却仍盯着水果。地上的深色痕迹提示雨才刚下。这张照片抓住了大家即将行动的瞬间。",
+  "why": "以前后景组织细节，再根据路面痕迹判断天气。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "The market photo has two layers."
+   ],
+   [
+    "In front, a seller is pulling a green sheet over a box of pears. Behind her, the customers are opening umbrellas, though one child is still looking at the fruit."
+   ],
+   [
+    "The dark marks on the road suggest that rain has just begun. The photo catches the moment before everyone moves."
+   ]
+  ],
+  "options": [
+   "The dark marks on the road suggest that rain has just begun. The photo catches the moment before everyone moves.",
+   "In front, a seller is pulling a green sheet over a box of pears. Behind her, the customers are opening umbrellas, though one child is still looking at the fruit.",
+   "The market photo has two layers."
+  ],
+  "source": "model-order:53",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2898",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 4,
+  "text": "依照中文梗概，还原这篇图片描述的行文顺序。\n乍看这像一张已摆好姿势的全队合影。队员面对镜头，中间摆着银杯。但教练旁有个包占着空位，几个人望向画面边缘。也许还有一名队友将要加入。照片支持这种可能，却无法告诉我们缺席者是谁。",
+  "cn": "乍看这像一张已摆好姿势的全队合影。队员面对镜头，中间摆着银杯。但教练旁有个包占着空位，几个人望向画面边缘。也许还有一名队友将要加入。照片支持这种可能，却无法告诉我们缺席者是谁。",
+  "why": "以不符合最初印象的细节引出谨慎推断。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "At first glance this looks like a finished team photograph."
+   ],
+   [
+    "The players face the camera, and a silver cup stands in the middle. Yet a bag marks an empty space beside the coach, and several eyes turn toward the edge of the frame."
+   ],
+   [
+    "Perhaps another teammate is about to join them. The picture supports that possibility, though it cannot tell us who is missing."
+   ]
+  ],
+  "options": [
+   "The players face the camera, and a silver cup stands in the middle. Yet a bag marks an empty space beside the coach, and several eyes turn toward the edge of the frame.",
+   "Perhaps another teammate is about to join them. The picture supports that possibility, though it cannot tell us who is missing.",
+   "At first glance this looks like a finished team photograph."
+  ],
+  "source": "model-order:54",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2899",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 1,
+  "text": "依照中文梗概，还原这篇故事续写的行文顺序。\n我又数了一遍票。有四张，我们却只有三人。最后一张上有一颗小星星。门口一个小男孩的纸帽上也有同样的星星。我跑了回去。他妈妈核对了座位号，笑了。这下大家都能进去了。",
+  "cn": "我又数了一遍票。有四张，我们却只有三人。最后一张上有一颗小星星。门口一个小男孩的纸帽上也有同样的星星。我跑了回去。他妈妈核对了座位号，笑了。这下大家都能进去了。",
+  "why": "用多一张票制造问题，凭可见线索找到可能失主，再核实。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "I counted the tickets again. There were four, but only three of us."
+   ],
+   [
+    "Then I saw a small star on the last ticket. A little boy at the gate had the same star on his paper hat."
+   ],
+   [
+    "I ran back. His mother checked the seat number and smiled. Now everyone could go in."
+   ]
+  ],
+  "options": [
+   "I ran back. His mother checked the seat number and smiled. Now everyone could go in.",
+   "Then I saw a small star on the last ticket. A little boy at the gate had the same star on his paper hat.",
+   "I counted the tickets again. There were four, but only three of us."
+  ],
+  "source": "model-order:55",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2900",
+  "cat": "句子结构",
+  "kind": "段落排序",
+  "level": 3,
+  "text": "依照中文梗概，还原这篇故事续写的行文顺序。\n她把小票翻了过来，背面的小拱门看着眼熟。广场对面两条巷子夹在相同的白房子之间，只有一条从拱门下开始。梅沿巷走到蓝门小店。面包师举起她落下的包说：“这图是我画给容易走错路的人看的。”",
+  "cn": "她把小票翻了过来，背面的小拱门看着眼熟。广场对面两条巷子夹在相同的白房子之间，只有一条从拱门下开始。梅沿巷走到蓝门小店。面包师举起她落下的包说：“这图是我画给容易走错路的人看的。”",
+  "why": "让开头的小图案对应现实地标，用结尾对话解释线索来源。",
+  "point": "篇章顺序与照应",
+  "hint": "从三个片段中依次选择开头、中段与结尾。",
+  "slots": [
+   [
+    "She turned the receipt over. The little arch on the back looked familiar."
+   ],
+   [
+    "Across the square, two lanes ran between identical white houses, but only one began under an arch. Mei followed it to a shop with a blue door."
+   ],
+   [
+    "The baker held up her forgotten bag. “I drew that map for people who take the wrong turn,” he said."
+   ]
+  ],
+  "options": [
+   "The baker held up her forgotten bag. “I drew that map for people who take the wrong turn,” he said.",
+   "Across the square, two lanes ran between identical white houses, but only one began under an arch. Mei followed it to a shop with a blue door.",
+   "She turned the receipt over. The little arch on the back looked familiar."
+  ],
+  "source": "model-order:56",
+  "tip": "核对上下文，再读一遍完整表达。"
+ }
+]

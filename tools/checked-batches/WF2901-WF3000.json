@@ -1,0 +1,2902 @@
+[
+ {
+  "id": "WF2901",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "安静的清晨｜请求室友确认可行的安排\n写作情境：向室友解释早班车时间，并商定一种不会吵醒对方的起床办法。请还原参考句。",
+  "cn": "安静的清晨",
+  "why": "参考句：Would it help if I packed my bag before bed and used a quieter alarm?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Would it help if I"
+   ],
+   [
+    "packed my bag before bed"
+   ],
+   [
+    "and used a quieter alarm?"
+   ]
+  ],
+  "options": [
+   "packed my bag before bed",
+   "and used a quieter alarm?",
+   "Would it help if I"
+  ],
+  "source": "writing-order:1",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2902",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "爷爷的抽屉｜用动作表现爷爷珍惜旧物\n写作情境：用抽屉中两件旧物说明爷爷的爱好，选一件写出它背后的故事。请还原参考句。",
+  "cn": "爷爷的抽屉",
+  "why": "参考句：He tested the bent key once more before placing it back beside the old lock.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "He tested the bent key"
+   ],
+   [
+    "once more before placing it"
+   ],
+   [
+    "back beside the old lock."
+   ]
+  ],
+  "options": [
+   "back beside the old lock.",
+   "He tested the bent key",
+   "once more before placing it"
+  ],
+  "source": "writing-order:2",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2903",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "餐桌上的空位｜询问客人的饮食需要\n写作情境：邀请新转学的同学来吃周日晚餐，说明家庭习惯并询问忌口。请还原参考句。",
+  "cn": "餐桌上的空位",
+  "why": "参考句：Is there anything you would like us to leave out of the meal?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Is there anything you"
+   ],
+   [
+    "would like us to"
+   ],
+   [
+    "leave out of the meal?"
+   ]
+  ],
+  "options": [
+   "leave out of the meal?",
+   "Is there anything you",
+   "would like us to"
+  ],
+  "source": "writing-order:3",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2904",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "忘记的食谱｜交代菜肴如何得到补救\n写作情境：讲一次凭记忆做菜的经历，解释哪一步出了问题、家人怎样补救。请还原参考句。",
+  "cn": "忘记的食谱",
+  "why": "参考句：The sauce tasted too salty, so Mum stirred in another cup of plain tomatoes.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The sauce tasted too"
+   ],
+   [
+    "salty, so Mum stirred in"
+   ],
+   [
+    "another cup of plain tomatoes."
+   ]
+  ],
+  "options": [
+   "salty, so Mum stirred in",
+   "another cup of plain tomatoes.",
+   "The sauce tasted too"
+  ],
+  "source": "writing-order:4",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2905",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "两种周日安排｜按家庭需要作选择\n写作情境：比较全家骑行和在家做饭，从天气和家庭成员的需要解释你的选择。请还原参考句。",
+  "cn": "两种周日安排",
+  "why": "参考句：Since Grandma finds steep hills tiring, cooking together would include everyone.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Since Grandma finds"
+   ],
+   [
+    "steep hills tiring, cooking"
+   ],
+   [
+    "together would include everyone."
+   ]
+  ],
+  "options": [
+   "steep hills tiring, cooking",
+   "Since Grandma finds",
+   "together would include everyone."
+  ],
+  "source": "writing-order:5",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2906",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "镜头后的朋友｜用细节表现朋友愿意帮忙\n写作情境：介绍一位总给别人拍照的朋友，用一次他主动放下相机的经历表现他的性格。请还原参考句。",
+  "cn": "镜头后的朋友",
+  "why": "参考句：He put the camera down and held the ladder steady for the youngest photographer.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "He put the camera"
+   ],
+   [
+    "down and held the ladder"
+   ],
+   [
+    "steady for the youngest photographer."
+   ]
+  ],
+  "options": [
+   "steady for the youngest photographer.",
+   "down and held the ladder",
+   "He put the camera"
+  ],
+  "source": "writing-order:6",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2907",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "借来的外套｜提出能兑现的补救\n写作情境：向朋友说明外套上的污渍从哪里来，并提出归还时间和清洁方案。请还原参考句。",
+  "cn": "借来的外套",
+  "why": "参考句：I will have the sleeve cleaned and bring the jacket back on Friday.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I will have the"
+   ],
+   [
+    "sleeve cleaned and bring"
+   ],
+   [
+    "the jacket back on Friday."
+   ]
+  ],
+  "options": [
+   "the jacket back on Friday.",
+   "I will have the",
+   "sleeve cleaned and bring"
+  ],
+  "source": "writing-order:7",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2908",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "带新同学认路｜提醒新生辨认易错路口\n写作情境：给新生介绍从校门到教室的路线，指出一个容易走错的路口。请还原参考句。",
+  "cn": "带新同学认路",
+  "why": "参考句：Turn after the library, not at the smaller lane just before it.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Turn after the library,"
+   ],
+   [
+    "not at the smaller"
+   ],
+   [
+    "lane just before it."
+   ]
+  ],
+  "options": [
+   "not at the smaller",
+   "Turn after the library,",
+   "lane just before it."
+  ],
+  "source": "writing-order:8",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2909",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "改变我想法的一课｜写出促使自己再试的问题\n写作情境：讲述一道自己起初不肯再试的题，以及老师问的哪个问题让你重新动笔。请还原参考句。",
+  "cn": "改变我想法的一课",
+  "why": "参考句：When Ms. Lin asked which part I could already prove, I reached for my pencil again.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "When Ms. Lin asked which"
+   ],
+   [
+    "part I could already prove,"
+   ],
+   [
+    "I reached for my pencil again."
+   ]
+  ],
+  "options": [
+   "When Ms. Lin asked which",
+   "I reached for my pencil again.",
+   "part I could already prove,"
+  ],
+  "source": "writing-order:9",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2910",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "午餐队伍的新规则｜向学生清楚交代生效时间\n写作情境：告诉全校学生新队伍从哪里开始、何时实行，并说明给行动不便同学的安排。请还原参考句。",
+  "cn": "午餐队伍的新规则",
+  "why": "参考句：Starting Monday, please line up along the wall opposite the kitchen.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Starting Monday, please"
+   ],
+   [
+    "line up along the"
+   ],
+   [
+    "wall opposite the kitchen."
+   ]
+  ],
+  "options": [
+   "wall opposite the kitchen.",
+   "line up along the",
+   "Starting Monday, please"
+  ],
+  "source": "writing-order:10",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2911",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "上课前十分钟｜用观察写早到后的感受\n写作情境：记录你提早到校看到的两件小事，以及这一早晨怎样影响你当天的心情。请还原参考句。",
+  "cn": "上课前十分钟",
+  "why": "参考句：Hearing the caretaker hum in the empty hall made the building feel surprisingly friendly.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Hearing the caretaker hum"
+   ],
+   [
+    "in the empty hall made"
+   ],
+   [
+    "the building feel surprisingly friendly."
+   ]
+  ],
+  "options": [
+   "the building feel surprisingly friendly.",
+   "in the empty hall made",
+   "Hearing the caretaker hum"
+  ],
+  "source": "writing-order:11",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2912",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "第一本速写本｜指出素描中值得保留的细节\n写作情境：选一张最不满意的画，说明后来发现其中哪个细节值得保留。请还原参考句。",
+  "cn": "第一本速写本",
+  "why": "参考句：The wheel was crooked, but its shadow still showed exactly where the light came from.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The wheel was crooked, but"
+   ],
+   [
+    "its shadow still showed exactly"
+   ],
+   [
+    "where the light came from."
+   ]
+  ],
+  "options": [
+   "The wheel was crooked, but",
+   "where the light came from.",
+   "its shadow still showed exactly"
+  ],
+  "source": "writing-order:12",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2913",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "雨天的体育活动｜说明雨天活动如何适应空间\n写作情境：给体育委员推荐一种适合室内的活动，交代规则和有限空间的用法。请还原参考句。",
+  "cn": "雨天的体育活动",
+  "why": "参考句：Pairs can pass a soft ball while standing on marked spots a meter apart.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Pairs can pass a"
+   ],
+   [
+    "soft ball while standing on"
+   ],
+   [
+    "marked spots a meter apart."
+   ]
+  ],
+  "options": [
+   "Pairs can pass a",
+   "marked spots a meter apart.",
+   "soft ball while standing on"
+  ],
+  "source": "writing-order:13",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2914",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "积水的球场｜比赛延期通知提供下一次更新办法\n写作情境：向参赛队说明比赛延期原因，给出新场地和查询时间的方法。请还原参考句。",
+  "cn": "积水的球场",
+  "why": "参考句：Check the team board at noon on Friday for the revised kickoff time.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Check the team board"
+   ],
+   [
+    "at noon on Friday"
+   ],
+   [
+    "for the revised kickoff time."
+   ]
+  ],
+  "options": [
+   "at noon on Friday",
+   "for the revised kickoff time.",
+   "Check the team board"
+  ],
+  "source": "writing-order:14",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2915",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "怎样过课间｜说明课间选择的具体影响\n写作情境：向校报说明你支持哪种课间安排，比较活动和休息对下一节课的影响。请还原参考句。",
+  "cn": "怎样过课间",
+  "why": "参考句：A five-minute walk helps me settle down for the next lesson.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "A five-minute walk"
+   ],
+   [
+    "helps me settle down"
+   ],
+   [
+    "for the next lesson."
+   ]
+  ],
+  "options": [
+   "for the next lesson.",
+   "A five-minute walk",
+   "helps me settle down"
+  ],
+  "source": "writing-order:15",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2916",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "小卖部零食架｜把推荐与预算联系起来\n写作情境：替值班老师设计两种方便携带的点心组合，解释价格和包装上的考虑。请还原参考句。",
+  "cn": "小卖部零食架",
+  "why": "参考句：A banana and a plain roll cost less together than the large packaged snack.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "A banana and a"
+   ],
+   [
+    "plain roll cost less together"
+   ],
+   [
+    "than the large packaged snack."
+   ]
+  ],
+  "options": [
+   "than the large packaged snack.",
+   "plain roll cost less together",
+   "A banana and a"
+  ],
+  "source": "writing-order:16",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2917",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "夜里的车站｜用行动推动错过末班车的叙事\n写作情境：写错过末班车后的经过，写清如何联系家人及等候时的感受。请还原参考句。",
+  "cn": "夜里的车站",
+  "why": "参考句：I called my sister and waited beside the staffed ticket window.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I called my"
+   ],
+   [
+    "sister and waited beside"
+   ],
+   [
+    "the staffed ticket window."
+   ]
+  ],
+  "options": [
+   "the staffed ticket window.",
+   "I called my",
+   "sister and waited beside"
+  ],
+  "source": "writing-order:17",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2918",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "多出的一张票｜让多出的一张票推动情节\n写作情境：以 I counted the tickets again. 开头，说明为何多了一张票，让它影响结局。请还原参考句。",
+  "cn": "多出的一张票",
+  "why": "参考句：The extra ticket had a child's name on it, so I ran back to the family by the gate.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The extra ticket had a child's"
+   ],
+   [
+    "name on it, so I ran"
+   ],
+   [
+    "back to the family by the gate."
+   ]
+  ],
+  "options": [
+   "back to the family by the gate.",
+   "name on it, so I ran",
+   "The extra ticket had a child's"
+  ],
+  "source": "writing-order:18",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2919",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "没有行李箱的周末｜举例说明行李丢失后的取舍\n写作情境：讲清行李没到时最先要解决的事，以及哪件物品其实可以不用。请还原参考句。",
+  "cn": "没有行李箱的周末",
+  "why": "参考句：I borrowed a toothbrush that first night; my three pairs of shoes could wait.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I borrowed a toothbrush"
+   ],
+   [
+    "that first night; my three"
+   ],
+   [
+    "pairs of shoes could wait."
+   ]
+  ],
+  "options": [
+   "that first night; my three",
+   "I borrowed a toothbrush",
+   "pairs of shoes could wait."
+  ],
+  "source": "writing-order:19",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2920",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "街角的小店｜用对话体现小店的人情味\n写作情境：从店外写到店内，用一段短对话说明居民为什么喜欢来这里。请还原参考句。",
+  "cn": "街角的小店",
+  "why": "参考句：Before I spoke, Mr. Hu asked, “Is your grandmother feeling better today?”",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Before I spoke, Mr."
+   ],
+   [
+    "Hu asked, “Is your"
+   ],
+   [
+    "grandmother feeling better today?”"
+   ]
+  ],
+  "options": [
+   "Before I spoke, Mr.",
+   "grandmother feeling better today?”",
+   "Hu asked, “Is your"
+  ],
+  "source": "writing-order:20",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2921",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "窗边的座位｜区分图片观察与情绪猜测\n写作情境：选择一张本地车窗照片，从近处写到远处，再用一句话表达旅客心情。请还原参考句。",
+  "cn": "窗边的座位",
+  "why": "参考句：The traveler grips her ticket with both hands; perhaps she is nervous about missing her stop.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The traveler grips her ticket"
+   ],
+   [
+    "with both hands; perhaps she"
+   ],
+   [
+    "is nervous about missing her stop."
+   ]
+  ],
+  "options": [
+   "is nervous about missing her stop.",
+   "with both hands; perhaps she",
+   "The traveler grips her ticket"
+  ],
+  "source": "writing-order:21",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2922",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "安静些的路口｜向社区提出具体观察请求\n写作情境：请社区工作人员帮忙记录路口最吵的时段，说明观察位置和已有记录。请还原参考句。",
+  "cn": "安静些的路口",
+  "why": "参考句：Could someone record the noise at the east crossing between four and five on school days?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Could someone record the noise"
+   ],
+   [
+    "at the east crossing between"
+   ],
+   [
+    "four and five on school days?"
+   ]
+  ],
+  "options": [
+   "four and five on school days?",
+   "at the east crossing between",
+   "Could someone record the noise"
+  ],
+  "source": "writing-order:22",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2923",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "日落前挂灯笼｜写清儿童参加活动的条件\n写作情境：为社区灯笼制作活动写招募海报，交代材料、地点和儿童参加条件。请还原参考句。",
+  "cn": "日落前挂灯笼",
+  "why": "参考句：Children under ten should bring an adult to help with the lantern frame.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Children under ten should"
+   ],
+   [
+    "bring an adult to"
+   ],
+   [
+    "help with the lantern frame."
+   ]
+  ],
+  "options": [
+   "help with the lantern frame.",
+   "bring an adult to",
+   "Children under ten should"
+  ],
+  "source": "writing-order:23",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2924",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "两家人的过节方式｜在节日差异后指出共同意义\n写作情境：比较两个家庭庆祝同一节日的方式，找出一处差异和共同意义。请还原参考句。",
+  "cn": "两家人的过节方式",
+  "why": "参考句：One family makes dumplings and the other cooks fish, but both set aside a place for relatives coming home.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "One family makes dumplings and the"
+   ],
+   [
+    "other cooks fish, but both set"
+   ],
+   [
+    "aside a place for relatives coming home."
+   ]
+  ],
+  "options": [
+   "other cooks fish, but both set",
+   "aside a place for relatives coming home.",
+   "One family makes dumplings and the"
+  ],
+  "source": "writing-order:24",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2925",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "教我写这个汉字｜向笔友解释选字原因\n写作情境：给笔友讲一个你喜欢的汉字，描述笔画或字形，并解释选择它的原因。请还原参考句。",
+  "cn": "教我写这个汉字",
+  "why": "参考句：I chose the character for rest because its parts remind me of a person beside a tree.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I chose the character for"
+   ],
+   [
+    "rest because its parts remind me"
+   ],
+   [
+    "of a person beside a tree."
+   ]
+  ],
+  "options": [
+   "rest because its parts remind me",
+   "I chose the character for",
+   "of a person beside a tree."
+  ],
+  "source": "writing-order:25",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2926",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "差点退掉的书｜用具体一幕解释阅读态度变化\n写作情境：解释开头为什么读不下去，写出改变你看法的一幕并评价阅读体验。请还原参考句。",
+  "cn": "差点退掉的书",
+  "why": "参考句：I nearly closed the book until the narrator found her own name on the old map.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I nearly closed the book"
+   ],
+   [
+    "until the narrator found her"
+   ],
+   [
+    "own name on the old map."
+   ]
+  ],
+  "options": [
+   "until the narrator found her",
+   "own name on the old map.",
+   "I nearly closed the book"
+  ],
+  "source": "writing-order:26",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2927",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "给短篇读物一个书架｜申请展架时说明维护责任\n写作情境：向图书馆申请一层书架举办短篇推荐展，说明选书标准和维护办法。请还原参考句。",
+  "cn": "给短篇读物一个书架",
+  "why": "参考句：I can check the shelf every Friday and replace cards when a featured book is borrowed.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I can check the shelf"
+   ],
+   [
+    "every Friday and replace cards"
+   ],
+   [
+    "when a featured book is borrowed."
+   ]
+  ],
+  "options": [
+   "I can check the shelf",
+   "when a featured book is borrowed.",
+   "every Friday and replace cards"
+  ],
+  "source": "writing-order:27",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2928",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "边读边做记号｜现场演示标注方法\n写作情境：向同学演示一种读书标注法，用具体的一句话示范，再请听众尝试。请还原参考句。",
+  "cn": "边读边做记号",
+  "why": "参考句：Listen to this line: I underline although because it tells me the next idea will contrast with the first.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Listen to this line: I underline"
+   ],
+   [
+    "although because it tells me the"
+   ],
+   [
+    "next idea will contrast with the first."
+   ]
+  ],
+  "options": [
+   "next idea will contrast with the first.",
+   "although because it tells me the",
+   "Listen to this line: I underline"
+  ],
+  "source": "writing-order:28",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2929",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "一天记一个词｜给出可执行的复习安排\n写作情境：给记单词总遗忘的同学设计三天复习安排，示范怎样把一个词用到生活中。请还原参考句。",
+  "cn": "一天记一个词",
+  "why": "参考句：Use the new word in a message tonight, then cover it and recall it on Thursday.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Use the new word in"
+   ],
+   [
+    "a message tonight, then cover"
+   ],
+   [
+    "it and recall it on Thursday."
+   ]
+  ],
+  "options": [
+   "Use the new word in",
+   "it and recall it on Thursday.",
+   "a message tonight, then cover"
+  ],
+  "source": "writing-order:29",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2930",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "两本笔记本｜按实际用途比较笔记工具\n写作情境：比较纸笔记和电子笔记在上课及复习时的得失，分别给出适用场景。请还原参考句。",
+  "cn": "两本笔记本",
+  "why": "参考句：I can sketch a graph faster on paper, but my digital notes let me search last month's examples.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I can sketch a graph faster"
+   ],
+   [
+    "on paper, but my digital notes"
+   ],
+   [
+    "let me search last month's examples."
+   ]
+  ],
+  "options": [
+   "I can sketch a graph faster",
+   "let me search last month's examples.",
+   "on paper, but my digital notes"
+  ],
+  "source": "writing-order:30",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2931",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "我的晚间时间去哪了｜用时间记录支持解释\n写作情境：根据自己一天的时间记录找出一个意外耗时的活动，并解释原因。请还原参考句。",
+  "cn": "我的晚间时间去哪了",
+  "why": "参考句：My diary showed twelve short phone checks that added up to forty minutes.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "My diary showed twelve"
+   ],
+   [
+    "short phone checks that"
+   ],
+   [
+    "added up to forty minutes."
+   ]
+  ],
+  "options": [
+   "short phone checks that",
+   "My diary showed twelve",
+   "added up to forty minutes."
+  ],
+  "source": "writing-order:31",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2932",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "提前的截止日期｜给小组分配明确任务\n写作情境：写给小组成员，说明交稿日期变化，分配两项急需完成的工作。请还原参考句。",
+  "cn": "提前的截止日期",
+  "why": "参考句：Mia, please check the figures by noon; Dan, could you revise the introduction by two?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Mia, please check the figures"
+   ],
+   [
+    "by noon; Dan, could you"
+   ],
+   [
+    "revise the introduction by two?"
+   ]
+  ],
+  "options": [
+   "revise the introduction by two?",
+   "by noon; Dan, could you",
+   "Mia, please check the figures"
+  ],
+  "source": "writing-order:32",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2933",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "与列车司机对话｜通过检查动作表现职业品质\n写作情境：给校刊介绍一位司机，通过一次日常检查写出这个职业需要的品质。请还原参考句。",
+  "cn": "与列车司机对话",
+  "why": "参考句：Before moving, he traced each item on the checklist with his finger, even on the familiar route.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Before moving, he traced each"
+   ],
+   [
+    "item on the checklist with his"
+   ],
+   [
+    "finger, even on the familiar route."
+   ]
+  ],
+  "options": [
+   "item on the checklist with his",
+   "finger, even on the familiar route.",
+   "Before moving, he traced each"
+  ],
+  "source": "writing-order:33",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2934",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "体验另一个职业｜申请观察时提出与岗位有关的问题\n写作情境：申请一天职业观察活动，说明最想观察的环节和准备好的一个问题。请还原参考句。",
+  "cn": "体验另一个职业",
+  "why": "参考句：Could I observe the morning handover and ask how the team records unfinished repairs?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Could I observe the"
+   ],
+   [
+    "morning handover and ask how"
+   ],
+   [
+    "the team records unfinished repairs?"
+   ]
+  ],
+  "options": [
+   "morning handover and ask how",
+   "the team records unfinished repairs?",
+   "Could I observe the"
+  ],
+  "source": "writing-order:34",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2935",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "墙上的目标｜把大目标拆成当天行动\n写作情境：回顾一个过大的目标，写清今天把它拆成了什么可以执行的小任务。请还原参考句。",
+  "cn": "墙上的目标",
+  "why": "参考句：Instead of promising to finish the whole book, I marked two pages to read before supper.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Instead of promising to finish"
+   ],
+   [
+    "the whole book, I marked"
+   ],
+   [
+    "two pages to read before supper."
+   ]
+  ],
+  "options": [
+   "the whole book, I marked",
+   "two pages to read before supper.",
+   "Instead of promising to finish"
+  ],
+  "source": "writing-order:35",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2936",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "写给未来的自己｜留下能检查进步的问题\n写作情境：给一年后的自己写信，记录眼下的困难，并留下一个能检查进步的问题。请还原参考句。",
+  "cn": "写给未来的自己",
+  "why": "参考句：Can you now introduce yourself for one minute without looking at your notes?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Can you now introduce"
+   ],
+   [
+    "yourself for one minute"
+   ],
+   [
+    "without looking at your notes?"
+   ]
+  ],
+  "options": [
+   "without looking at your notes?",
+   "Can you now introduce",
+   "yourself for one minute"
+  ],
+  "source": "writing-order:36",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2937",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "课桌旁的水瓶｜让解决办法的效果可以检查\n写作情境：分析教室一次性瓶增多的一个原因，提出可检查成效的改进措施。请还原参考句。",
+  "cn": "课桌旁的水瓶",
+  "why": "参考句：Count the empty bottles each Friday for a month after the refill station opens.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Count the empty bottles"
+   ],
+   [
+    "each Friday for a month"
+   ],
+   [
+    "after the refill station opens."
+   ]
+  ],
+  "options": [
+   "each Friday for a month",
+   "Count the empty bottles",
+   "after the refill station opens."
+  ],
+  "source": "writing-order:37",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2938",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "门边的老树｜回应对通行空间的顾虑\n写作情境：就校门改造是否保留老树表态，同时回应通行空间不足的顾虑。请还原参考句。",
+  "cn": "门边的老树",
+  "why": "参考句：Keeping the tree need not block the gate if we curve the path around its trunk.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Keeping the tree need not"
+   ],
+   [
+    "block the gate if we"
+   ],
+   [
+    "curve the path around its trunk."
+   ]
+  ],
+  "options": [
+   "curve the path around its trunk.",
+   "block the gate if we",
+   "Keeping the tree need not"
+  ],
+  "source": "writing-order:38",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2939",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "池边的标牌｜告知游客遇到受伤动物时怎样联系工作人员\n写作情境：告知游客观鸟地点、保持距离的原因和看到受伤动物时的联系方式。请还原参考句。",
+  "cn": "池边的标牌",
+  "why": "参考句：If you see an injured bird, tell the guide at the pond entrance where you saw it.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "If you see an injured"
+   ],
+   [
+    "bird, tell the guide at the"
+   ],
+   [
+    "pond entrance where you saw it."
+   ]
+  ],
+  "options": [
+   "pond entrance where you saw it.",
+   "bird, tell the guide at the",
+   "If you see an injured"
+  ],
+  "source": "writing-order:39",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2940",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "给老狗找个家｜说明适合老狗的领养条件\n写作情境：替领养活动介绍一只老狗的日常需求，写清适合它的家庭条件。请还原参考句。",
+  "cn": "给老狗找个家",
+  "why": "参考句：A quiet home with few stairs would suit him because he tires on long climbs.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "A quiet home with few"
+   ],
+   [
+    "stairs would suit him because"
+   ],
+   [
+    "he tires on long climbs."
+   ]
+  ],
+  "options": [
+   "A quiet home with few",
+   "he tires on long climbs.",
+   "stairs would suit him because"
+  ],
+  "source": "writing-order:40",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2941",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "义卖摊的一班岗｜报道义卖款项的用途\n写作情境：按开摊、突发情况、收摊的顺序报道一次售书活动，说明款项用途。请还原参考句。",
+  "cn": "义卖摊的一班岗",
+  "why": "参考句：By closing time the stall had raised enough money to replace the reading room's broken lamp.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "By closing time the stall"
+   ],
+   [
+    "had raised enough money to"
+   ],
+   [
+    "replace the reading room's broken lamp."
+   ]
+  ],
+  "options": [
+   "replace the reading room's broken lamp.",
+   "By closing time the stall",
+   "had raised enough money to"
+  ],
+  "source": "writing-order:41",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2942",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "来帮忙的那双手｜说明帮助为何及时\n写作情境：感谢帮你搬展板的人，用一个具体细节说明他的帮助为何及时。请还原参考句。",
+  "cn": "来帮忙的那双手",
+  "why": "参考句：You arrived just as the wind caught the display board and kept it from hitting the ground.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "You arrived just as the"
+   ],
+   [
+    "wind caught the display board and"
+   ],
+   [
+    "kept it from hitting the ground."
+   ]
+  ],
+  "options": [
+   "wind caught the display board and",
+   "kept it from hitting the ground.",
+   "You arrived just as the"
+  ],
+  "source": "writing-order:42",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2943",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "怎样帮到点子上｜先问清对方想要的帮助\n写作情境：讲一次好意没有帮上忙的经历，示范一句能先了解对方需要的问话。请还原参考句。",
+  "cn": "怎样帮到点子上",
+  "why": "参考句：Would you like me to carry the box, or would holding the door help more?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Would you like me to"
+   ],
+   [
+    "carry the box, or would"
+   ],
+   [
+    "holding the door help more?"
+   ]
+  ],
+  "options": [
+   "holding the door help more?",
+   "carry the box, or would",
+   "Would you like me to"
+  ],
+  "source": "writing-order:43",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2944",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "陌生的登录提醒｜说明自己如何核实提醒\n写作情境：给家人解释你收到的异常提醒，交代你怎样通过平时使用的入口核实。请还原参考句。",
+  "cn": "陌生的登录提醒",
+  "why": "参考句：I opened the account app from my usual home screen and checked its recent sign-in list.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I opened the account app"
+   ],
+   [
+    "from my usual home screen"
+   ],
+   [
+    "and checked its recent sign-in list."
+   ]
+  ],
+  "options": [
+   "from my usual home screen",
+   "I opened the account app",
+   "and checked its recent sign-in list."
+  ],
+  "source": "writing-order:44",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2945",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "转发合照之前｜说明怎样尊重不愿露脸的同学\n写作情境：给班级群制定发布合影前的两步确认办法，并举一个尊重同学选择的例子。请还原参考句。",
+  "cn": "转发合照之前",
+  "why": "参考句：If anyone prefers to stay out of the group photo, we can share a cropped copy.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "If anyone prefers to stay"
+   ],
+   [
+    "out of the group photo,"
+   ],
+   [
+    "we can share a cropped copy."
+   ]
+  ],
+  "options": [
+   "we can share a cropped copy.",
+   "out of the group photo,",
+   "If anyone prefers to stay"
+  ],
+  "source": "writing-order:45",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2946",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "卡住的网课｜求助时说明漏听的具体位置\n写作情境：向老师说明掉线时停在哪一步，列出已试过的办法并请求指定材料。请还原参考句。",
+  "cn": "卡住的网课",
+  "why": "参考句：The video froze just after you explained step two; could you send the worksheet for step three?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The video froze just after"
+   ],
+   [
+    "you explained step two; could you"
+   ],
+   [
+    "send the worksheet for step three?"
+   ]
+  ],
+  "options": [
+   "The video froze just after",
+   "send the worksheet for step three?",
+   "you explained step two; could you"
+  ],
+  "source": "writing-order:46",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2947",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "用录音复习｜按学习困难比较回放和提问\n写作情境：分析回放和现场提问各适合解决什么困难，给出学习者的选择条件。请还原参考句。",
+  "cn": "用录音复习",
+  "why": "参考句：I replay a fast explanation to catch the words, but ask the teacher when the idea itself is unclear.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I replay a fast explanation to"
+   ],
+   [
+    "catch the words, but ask the"
+   ],
+   [
+    "teacher when the idea itself is unclear."
+   ]
+  ],
+  "options": [
+   "teacher when the idea itself is unclear.",
+   "I replay a fast explanation to",
+   "catch the words, but ask the"
+  ],
+  "source": "writing-order:47",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2948",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "机器也会看错｜用上下文发现语音识别错误\n写作情境：描写一次语音识别误听小故事，说明你怎样根据上下文发现错误。请还原参考句。",
+  "cn": "机器也会看错",
+  "why": "参考句：The screen showed flower, but the recipe asked for two cups, so I changed it to flour.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The screen showed flower, but"
+   ],
+   [
+    "the recipe asked for two cups,"
+   ],
+   [
+    "so I changed it to flour."
+   ]
+  ],
+  "options": [
+   "the recipe asked for two cups,",
+   "so I changed it to flour.",
+   "The screen showed flower, but"
+  ],
+  "source": "writing-order:48",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2949",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "能帮忙的钟｜为科技节说明演示时间和用途\n写作情境：为校园科技节介绍一个自制提醒钟，解释它解决的问题和演示时间。请还原参考句。",
+  "cn": "能帮忙的钟",
+  "why": "参考句：Visit our desk at two to see a clock that flashes when a study break ends.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Visit our desk at two"
+   ],
+   [
+    "to see a clock that"
+   ],
+   [
+    "flashes when a study break ends."
+   ]
+  ],
+  "options": [
+   "to see a clock that",
+   "flashes when a study break ends.",
+   "Visit our desk at two"
+  ],
+  "source": "writing-order:49",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2950",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "同组两种想法｜用可观察的办法解决意见分歧\n写作情境：重现组内一次分歧，交代双方理由和最后采用的决定办法。请还原参考句。",
+  "cn": "同组两种想法",
+  "why": "参考句：We built both versions from scrap paper and timed how long each stood upright.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "We built both versions"
+   ],
+   [
+    "from scrap paper and timed"
+   ],
+   [
+    "how long each stood upright."
+   ]
+  ],
+  "options": [
+   "from scrap paper and timed",
+   "We built both versions",
+   "how long each stood upright."
+  ],
+  "source": "writing-order:50",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2951",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "重新骑上自行车｜用动作显示重新建立信心\n写作情境：描写失败后重新练习的一个下午，用动作表现心态变化。请还原参考句。",
+  "cn": "重新骑上自行车",
+  "why": "参考句：On the third try I loosened my grip and pedaled past the mark where I had stopped before.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "On the third try I loosened"
+   ],
+   [
+    "my grip and pedaled past the"
+   ],
+   [
+    "mark where I had stopped before."
+   ]
+  ],
+  "options": [
+   "my grip and pedaled past the",
+   "mark where I had stopped before.",
+   "On the third try I loosened"
+  ],
+  "source": "writing-order:51",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2952",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "第二次举手｜写清第二次追问的价值\n写作情境：写一次第一次提问没听懂、再次追问才弄明白的经过。请还原参考句。",
+  "cn": "第二次举手",
+  "why": "参考句：This time I asked which line had changed, and the missing step finally made sense.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "This time I asked which"
+   ],
+   [
+    "line had changed, and the"
+   ],
+   [
+    "missing step finally made sense."
+   ]
+  ],
+  "options": [
+   "This time I asked which",
+   "missing step finally made sense.",
+   "line had changed, and the"
+  ],
+  "source": "writing-order:52",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2953",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "训练后的过街路段｜为训练后集合提出具体地点\n写作情境：给教练说明放学后某处路口视线受阻的情况，提出可行集合点。请还原参考句。",
+  "cn": "训练后的过街路段",
+  "why": "参考句：Could we meet outside the library, where the parked vans no longer block our view of the crossing?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Could we meet outside the library,"
+   ],
+   [
+    "where the parked vans no longer"
+   ],
+   [
+    "block our view of the crossing?"
+   ]
+  ],
+  "options": [
+   "Could we meet outside the library,",
+   "block our view of the crossing?",
+   "where the parked vans no longer"
+  ],
+  "source": "writing-order:53",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2954",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "又迟到了｜道歉时承认给同伴带来的影响\n写作情境：向排练伙伴说明迟到对他们的具体影响，并提出下次可验证的改进。请还原参考句。",
+  "cn": "又迟到了",
+  "why": "参考句：Because I arrived late, you had to repeat the entire first scene; I will set an earlier reminder tomorrow.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Because I arrived late, you had"
+   ],
+   [
+    "to repeat the entire first scene;"
+   ],
+   [
+    "I will set an earlier reminder tomorrow."
+   ]
+  ],
+  "options": [
+   "to repeat the entire first scene;",
+   "Because I arrived late, you had",
+   "I will set an earlier reminder tomorrow."
+  ],
+  "source": "writing-order:54",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2955",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "值得修改的规则｜说明改规则时如何保留原意\n写作情境：举例解释某条班规的原意及意外后果，提出保留原意的改法。请还原参考句。",
+  "cn": "值得修改的规则",
+  "why": "参考句：Keep the quiet period, but let students with urgent questions write a note to the teacher.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Keep the quiet period, but"
+   ],
+   [
+    "let students with urgent questions"
+   ],
+   [
+    "write a note to the teacher."
+   ]
+  ],
+  "options": [
+   "let students with urgent questions",
+   "write a note to the teacher.",
+   "Keep the quiet period, but"
+  ],
+  "source": "writing-order:55",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2956",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "交换生的午餐｜邀请对方分享家乡饮食故事\n写作情境：邀请交换生参加午餐交流，请对方带来一个家乡饮食故事并说明用餐安排。请还原参考句。",
+  "cn": "交换生的午餐",
+  "why": "参考句：Would you tell us about a dish your family makes on special days when we meet for lunch?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Would you tell us about a"
+   ],
+   [
+    "dish your family makes on special"
+   ],
+   [
+    "days when we meet for lunch?"
+   ]
+  ],
+  "options": [
+   "dish your family makes on special",
+   "days when we meet for lunch?",
+   "Would you tell us about a"
+  ],
+  "source": "writing-order:56",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2957",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "听起来失礼的词｜用双方解释澄清误会\n写作情境：向笔友复述一次文化误解，解释双方怎样澄清本意。请还原参考句。",
+  "cn": "听起来失礼的词",
+  "why": "参考句：I thought the phrase sounded cold until Eva explained that her family uses it as a friendly joke.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I thought the phrase sounded cold"
+   ],
+   [
+    "until Eva explained that her family"
+   ],
+   [
+    "uses it as a friendly joke."
+   ]
+  ],
+  "options": [
+   "I thought the phrase sounded cold",
+   "uses it as a friendly joke.",
+   "until Eva explained that her family"
+  ],
+  "source": "writing-order:57",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2958",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "午饭后的灯｜把节能责任落实到人\n写作情境：分析教室空着却亮灯的原因，提出将责任分配到人的办法。请还原参考句。",
+  "cn": "午饭后的灯",
+  "why": "参考句：The last student on lunch duty can check the lights before closing the door.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The last student on"
+   ],
+   [
+    "lunch duty can check the"
+   ],
+   [
+    "lights before closing the door."
+   ]
+  ],
+  "options": [
+   "The last student on",
+   "lights before closing the door.",
+   "lunch duty can check the"
+  ],
+  "source": "writing-order:58",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2959",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "纸张的另一面｜说明哪些纸不能投入回收角\n写作情境：为草稿纸回收角设计海报，举例说明哪些纸可以放入、哪些应排除。请还原参考句。",
+  "cn": "纸张的另一面",
+  "why": "参考句：Leave out sheets with names or phone numbers, even when one side is blank.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Leave out sheets with"
+   ],
+   [
+    "names or phone numbers, even"
+   ],
+   [
+    "when one side is blank."
+   ]
+  ],
+  "options": [
+   "when one side is blank.",
+   "names or phone numbers, even",
+   "Leave out sheets with"
+  ],
+  "source": "writing-order:59",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2960",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "不用手机的一顿饭｜提出用餐时收起手机的合理例外\n写作情境：讨论家庭吃饭时集中收起手机的好处及紧急联系的例外情况。请还原参考句。",
+  "cn": "不用手机的一顿饭",
+  "why": "参考句：We could keep phones off the table while allowing the parent on call to hear urgent messages.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "We could keep phones off"
+   ],
+   [
+    "the table while allowing the parent"
+   ],
+   [
+    "on call to hear urgent messages."
+   ]
+  ],
+  "options": [
+   "on call to hear urgent messages.",
+   "We could keep phones off",
+   "the table while allowing the parent"
+  ],
+  "source": "writing-order:60",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2961",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "选第一台平板｜按两种用途和预算比较设备\n写作情境：从阅读和做笔记两种用途比较两款设想的设备，说明你的预算限制。请还原参考句。",
+  "cn": "选第一台平板",
+  "why": "参考句：The lighter tablet suits reading on the bus, but the cheaper one leaves enough money for a writing pen.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The lighter tablet suits reading on"
+   ],
+   [
+    "the bus, but the cheaper one"
+   ],
+   [
+    "leaves enough money for a writing pen."
+   ]
+  ],
+  "options": [
+   "The lighter tablet suits reading on",
+   "leaves enough money for a writing pen.",
+   "the bus, but the cheaper one"
+  ],
+  "source": "writing-order:61",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2962",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "离开的社团｜交代退社后仍保留的收获\n写作情境：解释退出社团的具体原因，写出你仍愿意保留的一项收获。请还原参考句。",
+  "cn": "离开的社团",
+  "why": "参考句：I left when rehearsals clashed with my bus schedule, but I still use the breathing exercise before talks.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "I left when rehearsals clashed with"
+   ],
+   [
+    "my bus schedule, but I still"
+   ],
+   [
+    "use the breathing exercise before talks."
+   ]
+  ],
+  "options": [
+   "use the breathing exercise before talks.",
+   "my bus schedule, but I still",
+   "I left when rehearsals clashed with"
+  ],
+  "source": "writing-order:62",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2963",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "纸做的桥｜写出纸桥调整后的观察\n写作情境：报道社团纸桥挑战，说明一次失败、一次调整以及观察到的结果。请还原参考句。",
+  "cn": "纸做的桥",
+  "why": "参考句：After we folded the flat sheet into ridges, the bridge held three more coins before bending.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "After we folded the flat"
+   ],
+   [
+    "sheet into ridges, the bridge"
+   ],
+   [
+    "held three more coins before bending."
+   ]
+  ],
+  "options": [
+   "sheet into ridges, the bridge",
+   "held three more coins before bending.",
+   "After we folded the flat"
+  ],
+  "source": "writing-order:63",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2964",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "没人坐的长椅｜区分观察结果与待验证原因\n写作情境：根据一天中两次观察提出可能原因，并说明还需要了解什么。请还原参考句。",
+  "cn": "没人坐的长椅",
+  "why": "参考句：The bench was empty at noon and full after four, so I want to check whether shade explains the change.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The bench was empty at noon"
+   ],
+   [
+    "and full after four, so I want"
+   ],
+   [
+    "to check whether shade explains the change."
+   ]
+  ],
+  "options": [
+   "to check whether shade explains the change.",
+   "and full after four, so I want",
+   "The bench was empty at noon"
+  ],
+  "source": "writing-order:64",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2965",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "给新邻居的欢迎卡｜给新邻居实用的方向指引\n写作情境：告诉新邻居附近两处实用设施的位置，并邀请对方参加一项活动。请还原参考句。",
+  "cn": "给新邻居的欢迎卡",
+  "why": "参考句：The clinic is opposite the post office, and the Saturday market is one block beyond it.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The clinic is opposite the"
+   ],
+   [
+    "post office, and the Saturday"
+   ],
+   [
+    "market is one block beyond it."
+   ]
+  ],
+  "options": [
+   "market is one block beyond it.",
+   "post office, and the Saturday",
+   "The clinic is opposite the"
+  ],
+  "source": "writing-order:65",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2966",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "想象未来的厨房｜指出未来厨房里保留的人工选择\n写作情境：从使用者视角介绍两项未来厨房设施，并指出一项仍适合人工完成的工作。请还原参考句。",
+  "cn": "想象未来的厨房",
+  "why": "参考句：A cooker could set the heat, but I would still taste the sauce before adding salt.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "A cooker could set the"
+   ],
+   [
+    "heat, but I would still"
+   ],
+   [
+    "taste the sauce before adding salt."
+   ]
+  ],
+  "options": [
+   "taste the sauce before adding salt.",
+   "A cooker could set the",
+   "heat, but I would still"
+  ],
+  "source": "writing-order:66",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2967",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "明天才送出的信｜用线索解释信封上的未来日期\n写作情境：以 The date on the envelope was tomorrow. 开头，用前文留下的线索解释日期。请还原参考句。",
+  "cn": "明天才送出的信",
+  "why": "参考句：Inside was a rehearsal schedule; the date on the envelope marked the performance, not the delivery.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Inside was a rehearsal schedule;"
+   ],
+   [
+    "the date on the envelope"
+   ],
+   [
+    "marked the performance, not the delivery."
+   ]
+  ],
+  "options": [
+   "the date on the envelope",
+   "marked the performance, not the delivery.",
+   "Inside was a rehearsal schedule;"
+  ],
+  "source": "writing-order:67",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2968",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "雨伞架上的误会｜用特征辨认错拿的雨伞\n写作情境：解释为什么错拿雨伞，用两处特征说明如何辨认并约定交换地点。请还原参考句。",
+  "cn": "雨伞架上的误会",
+  "why": "参考句：Mine has a wooden handle and one bent spoke; yours has the same blue cloth but a silver handle.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Mine has a wooden handle and"
+   ],
+   [
+    "one bent spoke; yours has the"
+   ],
+   [
+    "same blue cloth but a silver handle."
+   ]
+  ],
+  "options": [
+   "one bent spoke; yours has the",
+   "Mine has a wooden handle and",
+   "same blue cloth but a silver handle."
+  ],
+  "source": "writing-order:68",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2969",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "合照中的空位｜谨慎描述合照中的空位\n写作情境：选一张合照，描述人群站位，区分可见细节与对空位原因的猜测。请还原参考句。",
+  "cn": "合照中的空位",
+  "why": "参考句：There is a gap beside the coach; perhaps the photographer plans to stand there for a second shot.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "There is a gap beside the"
+   ],
+   [
+    "coach; perhaps the photographer plans to"
+   ],
+   [
+    "stand there for a second shot."
+   ]
+  ],
+  "options": [
+   "stand there for a second shot.",
+   "There is a gap beside the",
+   "coach; perhaps the photographer plans to"
+  ],
+  "source": "writing-order:69",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2970",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "拥挤的练习室｜申请排练室时提出错峰与清理安排\n写作情境：向活动中心申请错峰使用练习室，解释时间选择和清理安排。请还原参考句。",
+  "cn": "拥挤的练习室",
+  "why": "参考句：We could use the room after the choir leaves at five and stack the chairs before six.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "We could use the room"
+   ],
+   [
+    "after the choir leaves at five"
+   ],
+   [
+    "and stack the chairs before six."
+   ]
+  ],
+  "options": [
+   "We could use the room",
+   "and stack the chairs before six.",
+   "after the choir leaves at five"
+  ],
+  "source": "writing-order:70",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2971",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "有限预算的早餐｜比较早餐的携带便利性\n写作情境：给同桌设计两种上学日早餐，按准备时间和携带是否方便作比较。请还原参考句。",
+  "cn": "有限预算的早餐",
+  "why": "参考句：The roll fits in a paper bag, while the soup would need a container with a tight lid.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The roll fits in a paper"
+   ],
+   [
+    "bag, while the soup would need"
+   ],
+   [
+    "a container with a tight lid."
+   ]
+  ],
+  "options": [
+   "The roll fits in a paper",
+   "a container with a tight lid.",
+   "bag, while the soup would need"
+  ],
+  "source": "writing-order:71",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2972",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "剧场里最安静的岗位｜用后台动作体现工作人员的作用\n写作情境：介绍一位幕后工作人员，用开演前后的两个动作说明其价值。请还原参考句。",
+  "cn": "剧场里最安静的岗位",
+  "why": "参考句：She waited for the actor's last word before lowering the curtain so the audience could hear the ending.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "She waited for the actor's last"
+   ],
+   [
+    "word before lowering the curtain so"
+   ],
+   [
+    "the audience could hear the ending."
+   ]
+  ],
+  "options": [
+   "the audience could hear the ending.",
+   "word before lowering the curtain so",
+   "She waited for the actor's last"
+  ],
+  "source": "writing-order:72",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2973",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "河流转弯处｜用地标说明散步折返点\n写作情境：为第一次散步的人写路线，描写一个地标并说明从哪里折返。请还原参考句。",
+  "cn": "河流转弯处",
+  "why": "参考句：When the path reaches the red footbridge, turn back before the unmarked track begins.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "When the path reaches"
+   ],
+   [
+    "the red footbridge, turn back"
+   ],
+   [
+    "before the unmarked track begins."
+   ]
+  ],
+  "options": [
+   "before the unmarked track begins.",
+   "the red footbridge, turn back",
+   "When the path reaches"
+  ],
+  "source": "writing-order:73",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2974",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "模拟面试｜给模拟面试设定练习重点\n写作情境：请英语老师安排一次模拟面试，说明申请的岗位和最需练习的环节。请还原参考句。",
+  "cn": "模拟面试",
+  "why": "参考句：Could we practice explaining my repair project, especially when the interviewer asks what went wrong?",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Could we practice explaining my"
+   ],
+   [
+    "repair project, especially when the"
+   ],
+   [
+    "interviewer asks what went wrong?"
+   ]
+  ],
+  "options": [
+   "interviewer asks what went wrong?",
+   "repair project, especially when the",
+   "Could we practice explaining my"
+  ],
+  "source": "writing-order:74",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2975",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "缺少的页码｜提出可测试的手册改进\n写作情境：解释班级手册缺页码给新生造成的困难，提出可测试的修订办法。请还原参考句。",
+  "cn": "缺少的页码",
+  "why": "参考句：Add page numbers to the contents list, then ask two new students to find the club rules without help.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Add page numbers to the contents"
+   ],
+   [
+    "list, then ask two new students"
+   ],
+   [
+    "to find the club rules without help."
+   ]
+  ],
+  "options": [
+   "to find the club rules without help.",
+   "Add page numbers to the contents",
+   "list, then ask two new students"
+  ],
+  "source": "writing-order:75",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2976",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "用一周的袋子｜通过前后比较写出背包用途变化\n写作情境：比较周初和周末携带物品的变化，写出一样意外常用的东西。请还原参考句。",
+  "cn": "用一周的袋子",
+  "why": "参考句：On Monday I nearly unpacked the spare bag; by Friday I was using it daily for damp sports clothes.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "On Monday I nearly unpacked the"
+   ],
+   [
+    "spare bag; by Friday I was"
+   ],
+   [
+    "using it daily for damp sports clothes."
+   ]
+  ],
+  "options": [
+   "using it daily for damp sports clothes.",
+   "spare bag; by Friday I was",
+   "On Monday I nearly unpacked the"
+  ],
+  "source": "writing-order:76",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2977",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "队长当替补的那天｜用具体行动写替补队长的贡献\n写作情境：从队友视角讲述队长无法上场后怎样帮助大家完成比赛。请还原参考句。",
+  "cn": "队长当替补的那天",
+  "why": "参考句：From the bench he signaled the unguarded corner, and our next pass reached it.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "From the bench he"
+   ],
+   [
+    "signaled the unguarded corner, and"
+   ],
+   [
+    "our next pass reached it."
+   ]
+  ],
+  "options": [
+   "signaled the unguarded corner, and",
+   "our next pass reached it.",
+   "From the bench he"
+  ],
+  "source": "writing-order:77",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2978",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "散场后的致谢｜用观众反应说明字幕的作用\n写作情境：感谢为演出做字幕的同学，用观众的一次反应说明字幕的作用。请还原参考句。",
+  "cn": "散场后的致谢",
+  "why": "参考句：When the caption showed the whispered joke, the back row laughed with everyone else.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "When the caption showed"
+   ],
+   [
+    "the whispered joke, the back"
+   ],
+   [
+    "row laughed with everyone else."
+   ]
+  ],
+  "options": [
+   "row laughed with everyone else.",
+   "the whispered joke, the back",
+   "When the caption showed"
+  ],
+  "source": "writing-order:78",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2979",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "挑选班级吉祥物｜回应对吉祥物选择的异议\n写作情境：推荐一个动物或物品作吉祥物，用班级共同经历回应可能的反对意见。请还原参考句。",
+  "cn": "挑选班级吉祥物",
+  "why": "参考句：A snail may seem slow, but it fits the month our class spent patiently restoring the garden.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "A snail may seem slow,"
+   ],
+   [
+    "but it fits the month our"
+   ],
+   [
+    "class spent patiently restoring the garden."
+   ]
+  ],
+  "options": [
+   "but it fits the month our",
+   "class spent patiently restoring the garden.",
+   "A snail may seem slow,"
+  ],
+  "source": "writing-order:79",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2980",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "校园声音地图｜说明录音活动的边界\n写作情境：邀请同学收集三处校园声音，写明录制边界和作品提交方式。请还原参考句。",
+  "cn": "校园声音地图",
+  "why": "参考句：Record the bell and the gate, but ask permission before including anyone's conversation.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Record the bell and"
+   ],
+   [
+    "the gate, but ask"
+   ],
+   [
+    "permission before including anyone's conversation."
+   ]
+  ],
+  "options": [
+   "permission before including anyone's conversation.",
+   "the gate, but ask",
+   "Record the bell and"
+  ],
+  "source": "writing-order:80",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2981",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "列车晚点通知｜为等候旅客给出明确更新渠道\n写作情境：替车站服务台写简短通知，说明受影响车次、新等候地点及后续更新渠道。请还原参考句。",
+  "cn": "列车晚点通知",
+  "why": "参考句：Passengers for train K18 should wait in Hall B; the next update will appear on its board at ten.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Passengers for train K18 should wait"
+   ],
+   [
+    "in Hall B; the next update"
+   ],
+   [
+    "will appear on its board at ten."
+   ]
+  ],
+  "options": [
+   "will appear on its board at ten.",
+   "in Hall B; the next update",
+   "Passengers for train K18 should wait"
+  ],
+  "source": "writing-order:81",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2982",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "第一次远足前｜根据天气解释远足装备选择\n写作情境：给初次参加远足的朋友写信，根据预计天气和距离说明要带哪两件物品。请还原参考句。",
+  "cn": "第一次远足前",
+  "why": "参考句：With showers expected and no shelter on the ridge, pack a light raincoat near the top of your bag.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "With showers expected and no shelter"
+   ],
+   [
+    "on the ridge, pack a light"
+   ],
+   [
+    "raincoat near the top of your bag."
+   ]
+  ],
+  "options": [
+   "raincoat near the top of your bag.",
+   "on the ridge, pack a light",
+   "With showers expected and no shelter"
+  ],
+  "source": "writing-order:82",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2983",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "小票上的画｜让小票背面的画解决具体困难\n写作情境：以 She turned the receipt over. 开头，让背面图案帮助主人公解决前一个场景中的困难。请还原参考句。",
+  "cn": "小票上的画",
+  "why": "参考句：The sketch matched the crooked arch ahead, showing her which of the two lanes led back to the shop.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The sketch matched the crooked arch"
+   ],
+   [
+    "ahead, showing her which of the"
+   ],
+   [
+    "two lanes led back to the shop."
+   ]
+  ],
+  "options": [
+   "ahead, showing her which of the",
+   "two lanes led back to the shop.",
+   "The sketch matched the crooked arch"
+  ],
+  "source": "writing-order:83",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2984",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "愿意等待的辅导员｜感谢引导思考的问题\n写作情境：描述一次对方没有直接给答案的辅导，指出哪个提问促成了你的发现。请还原参考句。",
+  "cn": "愿意等待的辅导员",
+  "why": "参考句：When you asked what stayed the same in both examples, I saw the rule without being told the answer.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "When you asked what stayed the"
+   ],
+   [
+    "same in both examples, I saw"
+   ],
+   [
+    "the rule without being told the answer."
+   ]
+  ],
+  "options": [
+   "When you asked what stayed the",
+   "the rule without being told the answer.",
+   "same in both examples, I saw"
+  ],
+  "source": "writing-order:84",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2985",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "集市遇雨｜用画面细节支持对下一刻的推测\n写作情境：根据一张雨景照片描写摊位和人们的动作，再推测下一刻会发生什么。请还原参考句。",
+  "cn": "集市遇雨",
+  "why": "参考句：The seller is pulling a cover over the fruit, so the stall may close if the rain gets heavier.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The seller is pulling a cover"
+   ],
+   [
+    "over the fruit, so the stall"
+   ],
+   [
+    "may close if the rain gets heavier."
+   ]
+  ],
+  "options": [
+   "may close if the rain gets heavier.",
+   "The seller is pulling a cover",
+   "over the fruit, so the stall"
+  ],
+  "source": "writing-order:85",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2986",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "没有标签的瓶子｜用可观察的标记找到瓶子的主人\n写作情境：写科学展上错放的空样品瓶如何找到主人，用一个可观察的标记解决悬念。请还原参考句。",
+  "cn": "没有标签的瓶子",
+  "why": "参考句：A crescent of blue paint on the base matched the ring on Ada's display stand.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "A crescent of blue paint"
+   ],
+   [
+    "on the base matched the"
+   ],
+   [
+    "ring on Ada's display stand."
+   ]
+  ],
+  "options": [
+   "A crescent of blue paint",
+   "ring on Ada's display stand.",
+   "on the base matched the"
+  ],
+  "source": "writing-order:86",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2987",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "窗边的图书｜通知中交代临时借书地点\n写作情境：向班级说明临时移动图书角的原因，注明借还地点及调整期限。请还原参考句。",
+  "cn": "窗边的图书",
+  "why": "参考句：Until the window is repaired on Friday, please borrow and return class books at the back desk.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Until the window is repaired"
+   ],
+   [
+    "on Friday, please borrow and return"
+   ],
+   [
+    "class books at the back desk."
+   ]
+  ],
+  "options": [
+   "on Friday, please borrow and return",
+   "class books at the back desk.",
+   "Until the window is repaired"
+  ],
+  "source": "writing-order:87",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2988",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "家人的语音留言｜既回答留言又介绍近况\n写作情境：向远方亲友回复一则留言，回答一个问题并讲述家中一件小变化。请还原参考句。",
+  "cn": "家人的语音留言",
+  "why": "参考句：Yes, the lemon tree survived the cold; this morning we spotted its first white flower.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Yes, the lemon tree survived"
+   ],
+   [
+    "the cold; this morning we"
+   ],
+   [
+    "spotted its first white flower."
+   ]
+  ],
+  "options": [
+   "spotted its first white flower.",
+   "Yes, the lemon tree survived",
+   "the cold; this morning we"
+  ],
+  "source": "writing-order:88",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2989",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "重新设计的游戏｜用实际效果说明游戏规则改动\n写作情境：说明一位同学为何难以参加原游戏，描述修改的一条规则及实际效果。请还原参考句。",
+  "cn": "重新设计的游戏",
+  "why": "参考句：Once we allowed passes from a seated position, Jia could join every round instead of keeping score.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Once we allowed passes from"
+   ],
+   [
+    "a seated position, Jia could join"
+   ],
+   [
+    "every round instead of keeping score."
+   ]
+  ],
+  "options": [
+   "every round instead of keeping score.",
+   "Once we allowed passes from",
+   "a seated position, Jia could join"
+  ],
+  "source": "writing-order:89",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2990",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "家的味道｜用气味把回忆接到眼前\n写作情境：用一种气味引出回忆，用一道菜或一处地点把过去与现在联系起来。请还原参考句。",
+  "cn": "家的味道",
+  "why": "参考句：The ginger rising from my cup brought back Grandma's kitchen, though I was sitting on a crowded train.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The ginger rising from my cup"
+   ],
+   [
+    "brought back Grandma's kitchen, though I"
+   ],
+   [
+    "was sitting on a crowded train."
+   ]
+  ],
+  "options": [
+   "brought back Grandma's kitchen, though I",
+   "The ginger rising from my cup",
+   "was sitting on a crowded train."
+  ],
+  "source": "writing-order:90",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2991",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "提前一站下车｜把步行观察与时间代价写在一起\n写作情境：记录提前下车步行的一次尝试，写出路上发现和时间上的代价。请还原参考句。",
+  "cn": "提前一站下车",
+  "why": "参考句：The extra walk took twelve minutes, but I finally noticed the small garden behind the station.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "The extra walk took twelve"
+   ],
+   [
+    "minutes, but I finally noticed"
+   ],
+   [
+    "the small garden behind the station."
+   ]
+  ],
+  "options": [
+   "minutes, but I finally noticed",
+   "the small garden behind the station.",
+   "The extra walk took twelve"
+  ],
+  "source": "writing-order:91",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2992",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "失物认领桌｜说明失物认领的核对办法\n写作情境：设计认领日海报，说明地点、开放时段及证明物品属于自己的方式。请还原参考句。",
+  "cn": "失物认领桌",
+  "why": "参考句：Before collecting an item, describe one detail that we have left out of the notice.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Before collecting an item, describe"
+   ],
+   [
+    "one detail that we have"
+   ],
+   [
+    "left out of the notice."
+   ]
+  ],
+  "options": [
+   "left out of the notice.",
+   "Before collecting an item, describe",
+   "one detail that we have"
+  ],
+  "source": "writing-order:92",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2993",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "学来的小习惯｜用可比较的结果说明习惯的影响\n写作情境：介绍从同学那里学到的一项习惯，给出开始前后可比较的变化。请还原参考句。",
+  "cn": "学来的小习惯",
+  "why": "参考句：After I copied Lin's habit of packing at night, I forgot my ruler only once in a month.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "After I copied Lin's habit of"
+   ],
+   [
+    "packing at night, I forgot my"
+   ],
+   [
+    "ruler only once in a month."
+   ]
+  ],
+  "options": [
+   "ruler only once in a month.",
+   "packing at night, I forgot my",
+   "After I copied Lin's habit of"
+  ],
+  "source": "writing-order:93",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2994",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "无人驻足的海报｜设计只改变一个因素的尝试\n写作情境：比较海报张贴位置和字号对阅读的影响，提出一次只改一个因素的尝试。请还原参考句。",
+  "cn": "无人驻足的海报",
+  "why": "参考句：Leave the poster in the same spot for a week and enlarge only the print before counting readers again.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Leave the poster in the same"
+   ],
+   [
+    "spot for a week and enlarge"
+   ],
+   [
+    "only the print before counting readers again."
+   ]
+  ],
+  "options": [
+   "only the print before counting readers again.",
+   "Leave the poster in the same",
+   "spot for a week and enlarge"
+  ],
+  "source": "writing-order:94",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2995",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "只有一小时的访客｜说明一小时参观路线的取舍\n写作情境：替外地同学安排一小时校园参观，说明舍弃哪个地点以及原因。请还原参考句。",
+  "cn": "只有一小时的访客",
+  "why": "参考句：Skip the distant field this time so we can see the workshop in action before the bell.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Skip the distant field this"
+   ],
+   [
+    "time so we can see the"
+   ],
+   [
+    "workshop in action before the bell."
+   ]
+  ],
+  "options": [
+   "workshop in action before the bell.",
+   "time so we can see the",
+   "Skip the distant field this"
+  ],
+  "source": "writing-order:95",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2996",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "更公平的分组｜给不熟悉的同学留下参与机会\n写作情境：指出只按熟悉程度选队友可能遗漏谁，提出兼顾专长与参与度的办法。请还原参考句。",
+  "cn": "更公平的分组",
+  "why": "参考句：Let students list one skill they can offer before captains pick people by name.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Let students list one"
+   ],
+   [
+    "skill they can offer before"
+   ],
+   [
+    "captains pick people by name."
+   ]
+  ],
+  "options": [
+   "captains pick people by name.",
+   "Let students list one",
+   "skill they can offer before"
+  ],
+  "source": "writing-order:96",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2997",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "致下一任班长｜向下任班长传授可执行的窍门\n写作情境：给下一任班长留一封信，说明一个容易被忽视的日常任务及完成窍门。请还原参考句。",
+  "cn": "致下一任班长",
+  "why": "参考句：Check the notice board before morning registration; a photo makes later reminders easier.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "Check the notice board"
+   ],
+   [
+    "before morning registration; a"
+   ],
+   [
+    "photo makes later reminders easier."
+   ]
+  ],
+  "options": [
+   "photo makes later reminders easier.",
+   "before morning registration; a",
+   "Check the notice board"
+  ],
+  "source": "writing-order:97",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2998",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "同一天的两种结尾｜根据疲劳程度比较两种放学安排\n写作情境：比较独处和与朋友见面两种放学安排，根据疲劳程度说明各自价值。请还原参考句。",
+  "cn": "同一天的两种结尾",
+  "why": "参考句：After a noisy day I prefer a quiet walk, but when I feel isolated a short visit helps more.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "After a noisy day I prefer"
+   ],
+   [
+    "a quiet walk, but when I"
+   ],
+   [
+    "feel isolated a short visit helps more."
+   ]
+  ],
+  "options": [
+   "feel isolated a short visit helps more.",
+   "a quiet walk, but when I",
+   "After a noisy day I prefer"
+  ],
+  "source": "writing-order:98",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2999",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 2,
+  "text": "能兑现的承诺｜让承诺可由同学核对\n写作情境：在班会上提出一项持续两周的承诺，说明怎样记录、怎样让同学核对。请还原参考句。",
+  "cn": "能兑现的承诺",
+  "why": "参考句：For the next two weeks I will date each entry and show the reading log to my partner on Fridays.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "For the next two weeks I"
+   ],
+   [
+    "will date each entry and show the"
+   ],
+   [
+    "reading log to my partner on Fridays."
+   ]
+  ],
+  "options": [
+   "will date each entry and show the",
+   "reading log to my partner on Fridays.",
+   "For the next two weeks I"
+  ],
+  "source": "writing-order:99",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF3000",
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "level": 3,
+  "text": "给未来小镇的一个问题｜说明设施的取舍\n写作情境：选择一项未来社区设施，解释它服务的人群、使用方式和一项取舍。请还原参考句。",
+  "cn": "给未来小镇的一个问题",
+  "why": "参考句：A free repair room would use space that could hold another shop, but residents could fix items they now throw away.",
+  "point": "写作句子的语序",
+  "hint": "用给定的三个片段，组成完整的英语句子。",
+  "slots": [
+   [
+    "A free repair room would use space"
+   ],
+   [
+    "that could hold another shop, but residents"
+   ],
+   [
+    "could fix items they now throw away."
+   ]
+  ],
+  "options": [
+   "could fix items they now throw away.",
+   "that could hold another shop, but residents",
+   "A free repair room would use space"
+  ],
+  "source": "writing-order:100",
+  "tip": "核对上下文，再读一遍完整表达。"
+ }
+]

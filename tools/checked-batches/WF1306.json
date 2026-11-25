@@ -1,0 +1,2772 @@
+[
+ {
+  "level": 1,
+  "cn": "本打开书包，发现饭盒不见了。他在课桌底下找，可那里什么都没有。中午姐姐来到门口，手里拿着两个盒子。她说：“今天早上我们拿的是同一个包。”本终于有东西吃了。",
+  "article": "The missing lunch",
+  "source": "article-units:1",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "When Ben opened his schoolbag, his lunch box was ____. He looked under his desk, ____ there was nothing there. At noon his sister came to the door. She was holding two boxes. \"We picked up the same bag this morning,\" she said. Ben finally had something to eat.",
+  "slots": [
+   [
+    "missing"
+   ],
+   [
+    "but"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "open",
+    "missing",
+    "dry",
+    "full"
+   ],
+   [
+    "unless",
+    "or",
+    "so",
+    "but"
+   ]
+  ],
+  "why": "第 1 空：找不到饭盒，后来姐姐才把它送来。 第 2 空：寻找和一无所获形成转折。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1177"
+ },
+ {
+  "level": 1,
+  "cn": "本打开书包，发现饭盒不见了。他在课桌底下找，可那里什么都没有。中午姐姐来到门口，手里拿着两个盒子。她说：“今天早上我们拿的是同一个包。”本终于有东西吃了。",
+  "article": "The missing lunch",
+  "source": "article-units:1",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "When Ben opened his schoolbag, his lunch box was missing. He looked under his desk, but there was nothing there. At noon his sister came to the door. She was holding two boxes. \"We picked up the same bag this morning,\" she said. Ben finally had something to eat.\n\nWho brought Ben his lunch?",
+  "slots": [
+   [
+    "His sister."
+   ]
+  ],
+  "options": [
+   "His sister.",
+   "His father.",
+   "A classmate.",
+   "His teacher."
+  ],
+  "why": "holding two boxes 的人是姐姐。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1178"
+ },
+ {
+  "level": 1,
+  "cn": "本打开书包，发现饭盒不见了。他在课桌底下找，可那里什么都没有。中午姐姐来到门口，手里拿着两个盒子。她说：“今天早上我们拿的是同一个包。”本终于有东西吃了。",
+  "article": "The missing lunch",
+  "source": "article-units:1",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "When Ben opened his schoolbag, his lunch box was missing. He looked under his desk, but there was nothing there. At noon his sister came to the door. She was holding two boxes. \"We picked up the same bag this morning,\" she said. Ben finally had something to eat.\n\nWhy did Ben look under his desk?",
+  "slots": [
+   [
+    "He thought the box might be there."
+   ]
+  ],
+  "options": [
+   "His sister asked him to.",
+   "He thought the box might be there.",
+   "He had finished lunch.",
+   "He wanted to hide his bag."
+  ],
+  "why": "先发现饭盒丢失，接着寻找，说明他猜那里可能有饭盒。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1179"
+ },
+ {
+  "level": 1,
+  "cn": "梅等公交车时下起了雨。除了树下一个座位，长椅上都湿了。梅刚想坐下，就看见一位老人慢慢向她走来。她指了指干燥的座位，自己站着。老人笑了。",
+  "article": "One dry seat",
+  "source": "article-units:7",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "It began to rain while May was waiting for the bus. The bench was wet ____ for one seat under a tree. May was about to sit down ____ she noticed an older man walking slowly toward her. She pointed to the dry seat and stayed on her feet. The man smiled.",
+  "slots": [
+   [
+    "except"
+   ],
+   [
+    "when"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "except",
+    "ahead",
+    "because",
+    "instead"
+   ],
+   [
+    "since",
+    "when",
+    "though",
+    "until"
+   ]
+  ],
+  "why": "第 1 空：except for 表示那一个干座位是例外。 第 2 空：be about to do … when … 表示正要做某事，这时发生了另一件事。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1180"
+ },
+ {
+  "level": 1,
+  "cn": "梅等公交车时下起了雨。除了树下一个座位，长椅上都湿了。梅刚想坐下，就看见一位老人慢慢向她走来。她指了指干燥的座位，自己站着。老人笑了。",
+  "article": "One dry seat",
+  "source": "article-units:7",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "It began to rain while May was waiting for the bus. The bench was wet except for one seat under a tree. May was about to sit down when she noticed an older man walking slowly toward her. She pointed to the dry seat and stayed on her feet. The man smiled.\n\nWhere was the dry seat?",
+  "slots": [
+   [
+    "Under a tree."
+   ]
+  ],
+  "options": [
+   "Beside a shop.",
+   "Behind a wall.",
+   "Under a tree.",
+   "Inside the bus."
+  ],
+  "why": "第一段明确给出 under a tree。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1181"
+ },
+ {
+  "level": 1,
+  "cn": "梅等公交车时下起了雨。除了树下一个座位，长椅上都湿了。梅刚想坐下，就看见一位老人慢慢向她走来。她指了指干燥的座位，自己站着。老人笑了。",
+  "article": "One dry seat",
+  "source": "article-units:7",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "It began to rain while May was waiting for the bus. The bench was wet except for one seat under a tree. May was about to sit down when she noticed an older man walking slowly toward her. She pointed to the dry seat and stayed on her feet. The man smiled.\n\nWhat does May's action suggest?",
+  "slots": [
+   [
+    "She wanted the man to rest."
+   ]
+  ],
+  "options": [
+   "She thought the bus was full.",
+   "She wanted to leave the stop.",
+   "She disliked the tree.",
+   "She wanted the man to rest."
+  ],
+  "why": "她指向干座位并继续站着，是在让座。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1182"
+ },
+ {
+  "level": 1,
+  "cn": "一个小铃铛从自行车上掉在校园里。乔捡起它，看见背面有个名字。班里两个男孩都叫萨姆，于是她问了两人铃铛的情况。只有一个人能说出铃铛侧面有颗蓝色星星。乔把铃铛还给了他。",
+  "article": "A name on a bell",
+  "source": "article-units:13",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "A small bell fell off a bike in the school yard. Jo picked it ____ and saw a name on the back. There were two boys named Sam in her class, ____ she asked both of them about the bell. Only one could tell her about the blue star on its side. Jo gave it to him.",
+  "slots": [
+   [
+    "up"
+   ],
+   [
+    "so"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "over",
+    "across",
+    "up",
+    "through"
+   ],
+   [
+    "so",
+    "unless",
+    "although",
+    "yet"
+   ]
+  ],
+  "why": "第 1 空：pick it up 指把掉在地上的东西捡起来。 第 2 空：同名导致她需要询问两个人。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1183"
+ },
+ {
+  "level": 1,
+  "cn": "一个小铃铛从自行车上掉在校园里。乔捡起它，看见背面有个名字。班里两个男孩都叫萨姆，于是她问了两人铃铛的情况。只有一个人能说出铃铛侧面有颗蓝色星星。乔把铃铛还给了他。",
+  "article": "A name on a bell",
+  "source": "article-units:13",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A small bell fell off a bike in the school yard. Jo picked it up and saw a name on the back. There were two boys named Sam in her class, so she asked both of them about the bell. Only one could tell her about the blue star on its side. Jo gave it to him.\n\nWhat was on the side of the bell?",
+  "slots": [
+   [
+    "A blue star."
+   ]
+  ],
+  "options": [
+   "A red line.",
+   "A class number.",
+   "A blue star.",
+   "A bike picture."
+  ],
+  "why": "注意区分背面的名字和侧面的星星。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1184"
+ },
+ {
+  "level": 1,
+  "cn": "一个小铃铛从自行车上掉在校园里。乔捡起它，看见背面有个名字。班里两个男孩都叫萨姆，于是她问了两人铃铛的情况。只有一个人能说出铃铛侧面有颗蓝色星星。乔把铃铛还给了他。",
+  "article": "A name on a bell",
+  "source": "article-units:13",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A small bell fell off a bike in the school yard. Jo picked it up and saw a name on the back. There were two boys named Sam in her class, so she asked both of them about the bell. Only one could tell her about the blue star on its side. Jo gave it to him.\n\nWhy did the name alone fail to identify the owner?",
+  "slots": [
+   [
+    "Two classmates shared it."
+   ]
+  ],
+  "options": [
+   "It belonged to a teacher.",
+   "It was a false name.",
+   "Two classmates shared it.",
+   "It was hard to read."
+  ],
+  "why": "班中两人同名，需要第二条线索。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1185"
+ },
+ {
+  "level": 2,
+  "cn": "社团展示会上，李试着数进门的访客。每当有人提问，他就数乱了。第二天他在门边放了个罐子，请每位访客往里面投一颗纽扣。闭馆时他可以核对总数，用不着靠记忆。",
+  "article": "A new way to count",
+  "source": "article-units:19",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "At the club fair, Lee tried to count visitors as they walked in. He lost count whenever someone asked a question. The next day he put a jar by the door and asked each visitor to ____ one button into it. By closing time he had a total he could check ____ relying on his memory.",
+  "slots": [
+   [
+    "drop"
+   ],
+   [
+    "without"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "sew",
+    "drop",
+    "wear",
+    "lend"
+   ],
+   [
+    "without",
+    "beside",
+    "until",
+    "among"
+   ]
+  ],
+  "why": "第 1 空：into the jar 表示把纽扣投入罐中。 第 2 空：纽扣保存了记录，因此不必靠记忆。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1186"
+ },
+ {
+  "level": 2,
+  "cn": "社团展示会上，李试着数进门的访客。每当有人提问，他就数乱了。第二天他在门边放了个罐子，请每位访客往里面投一颗纽扣。闭馆时他可以核对总数，用不着靠记忆。",
+  "article": "A new way to count",
+  "source": "article-units:19",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At the club fair, Lee tried to count visitors as they walked in. He lost count whenever someone asked a question. The next day he put a jar by the door and asked each visitor to drop one button into it. By closing time he had a total he could check without relying on his memory.\n\nWhat did one button represent?",
+  "slots": [
+   [
+    "One visitor."
+   ]
+  ],
+  "options": [
+   "One hour.",
+   "One club.",
+   "One question.",
+   "One visitor."
+  ],
+  "why": "each visitor 和 one button 一一对应。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1187"
+ },
+ {
+  "level": 2,
+  "cn": "社团展示会上，李试着数进门的访客。每当有人提问，他就数乱了。第二天他在门边放了个罐子，请每位访客往里面投一颗纽扣。闭馆时他可以核对总数，用不着靠记忆。",
+  "article": "A new way to count",
+  "source": "article-units:19",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At the club fair, Lee tried to count visitors as they walked in. He lost count whenever someone asked a question. The next day he put a jar by the door and asked each visitor to drop one button into it. By closing time he had a total he could check without relying on his memory.\n\nWhat problem did the jar solve?",
+  "slots": [
+   [
+    "Interruptions made Lee forget the count."
+   ]
+  ],
+  "options": [
+   "The buttons kept breaking.",
+   "Interruptions made Lee forget the count.",
+   "Visitors could not find the door.",
+   "The fair needed more money."
+  ],
+  "why": "第一天别人问问题会打断计数，第二天的做法解决了这个问题。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1188"
+ },
+ {
+  "level": 2,
+  "cn": "学校礼堂有人使用，乐队只好在小房间里排练。起初鼓手像平常一样敲得很响，谁也听不见歌手的声音。他放下鼓槌，用手打节拍。这回音乐轻了，整个乐队的声音却更清楚了。",
+  "article": "The quiet rehearsal",
+  "source": "article-units:25",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "The school hall was busy, so the band practiced in a small room. At first the drummer played as loudly as usual. Nobody could hear the singer. The drummer put his sticks ____ and tapped the beat with his hands. This time the music was softer, ____ the whole group sounded clearer.",
+  "slots": [
+   [
+    "down"
+   ],
+   [
+    "yet"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "underneath",
+    "down",
+    "together",
+    "away from"
+   ],
+   [
+    "yet",
+    "unless",
+    "or",
+    "since"
+   ]
+  ],
+  "why": "第 1 空：接着用手打节拍，说明先放下了鼓槌。 第 2 空：音量变小和整体更清晰形成出乎意料的对照。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1189"
+ },
+ {
+  "level": 2,
+  "cn": "学校礼堂有人使用，乐队只好在小房间里排练。起初鼓手像平常一样敲得很响，谁也听不见歌手的声音。他放下鼓槌，用手打节拍。这回音乐轻了，整个乐队的声音却更清楚了。",
+  "article": "The quiet rehearsal",
+  "source": "article-units:25",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The school hall was busy, so the band practiced in a small room. At first the drummer played as loudly as usual. Nobody could hear the singer. The drummer put his sticks down and tapped the beat with his hands. This time the music was softer, yet the whole group sounded clearer.\n\nHow did the drummer play at the end?",
+  "slots": [
+   [
+    "With his hands."
+   ]
+  ],
+  "options": [
+   "With two new sticks.",
+   "With his hands.",
+   "With a brush.",
+   "With one shoe."
+  ],
+  "why": "tapped the beat with his hands 直接交代方式。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1190"
+ },
+ {
+  "level": 2,
+  "cn": "学校礼堂有人使用，乐队只好在小房间里排练。起初鼓手像平常一样敲得很响，谁也听不见歌手的声音。他放下鼓槌，用手打节拍。这回音乐轻了，整个乐队的声音却更清楚了。",
+  "article": "The quiet rehearsal",
+  "source": "article-units:25",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The school hall was busy, so the band practiced in a small room. At first the drummer played as loudly as usual. Nobody could hear the singer. The drummer put his sticks down and tapped the beat with his hands. This time the music was softer, yet the whole group sounded clearer.\n\nWhich title best expresses the lesson?",
+  "slots": [
+   [
+    "Playing More Softly to Be Heard"
+   ]
+  ],
+  "options": [
+   "A Singer Leaves the Band",
+   "A New School Hall",
+   "Playing More Softly to Be Heard",
+   "Buying Better Drums"
+  ],
+  "why": "转折发生在降低鼓声音量之后，团队整体才更清晰。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1191"
+ },
+ {
+  "level": 2,
+  "cn": "诺拉旅行时买了三张明信片。她寄了两张给朋友，最后一张留着没写。一个月后弟弟问起老桥是什么样子。诺拉直接拿出卡片给他看。她终于在背面写下日期，这样也能记住这次谈话。",
+  "article": "The last postcard",
+  "source": "article-units:31",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "Nora bought three postcards during her trip. She sent two to friends and kept the last one blank. A month later her little brother asked what the old bridge looked like. Instead of trying to describe ____, Nora showed him the card. On the back she finally wrote the date, ____ she would remember their conversation too.",
+  "slots": [
+   [
+    "it"
+   ],
+   [
+    "so"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "herself",
+    "them",
+    "it",
+    "him"
+   ],
+   [
+    "whereas",
+    "although",
+    "unless",
+    "so"
+   ]
+  ],
+  "why": "第 1 空：describe 的对象是刚提到的单数名词 the old bridge。 第 2 空：写下日期是为了记住谈话，so 引出预期结果。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1192"
+ },
+ {
+  "level": 2,
+  "cn": "诺拉旅行时买了三张明信片。她寄了两张给朋友，最后一张留着没写。一个月后弟弟问起老桥是什么样子。诺拉直接拿出卡片给他看。她终于在背面写下日期，这样也能记住这次谈话。",
+  "article": "The last postcard",
+  "source": "article-units:31",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Nora bought three postcards during her trip. She sent two to friends and kept the last one blank. A month later her little brother asked what the old bridge looked like. Instead of trying to describe it, Nora showed him the card. On the back she finally wrote the date, so she would remember their conversation too.\n\nHow many cards did Nora send to friends?",
+  "slots": [
+   [
+    "Two."
+   ]
+  ],
+  "options": [
+   "Two.",
+   "One.",
+   "Four.",
+   "Three."
+  ],
+  "why": "买了三张，但只寄出两张。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1193"
+ },
+ {
+  "level": 2,
+  "cn": "诺拉旅行时买了三张明信片。她寄了两张给朋友，最后一张留着没写。一个月后弟弟问起老桥是什么样子。诺拉直接拿出卡片给他看。她终于在背面写下日期，这样也能记住这次谈话。",
+  "article": "The last postcard",
+  "source": "article-units:31",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Nora bought three postcards during her trip. She sent two to friends and kept the last one blank. A month later her little brother asked what the old bridge looked like. Instead of trying to describe it, Nora showed him the card. On the back she finally wrote the date, so she would remember their conversation too.\n\nWhy did the last card gain a second meaning?",
+  "slots": [
+   [
+    "It now reminded Nora of a talk at home."
+   ]
+  ],
+  "options": [
+   "It now reminded Nora of a talk at home.",
+   "It had two addresses.",
+   "It showed a second bridge.",
+   "Her brother sent it abroad."
+  ],
+  "why": "too 表明除了旅行，她还想记住和弟弟的谈话。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1194"
+ },
+ {
+  "level": 3,
+  "cn": "一位图书管理员在还书台旁放了一个标有“太难读完”的箱子。她原以为学生会把长篇小说放进去。出乎她意料的是，里面大多数书都是简短的指南。学生说，指南用了生词却没举例。她保留了这些书，同时为每本书配了小卡片，解释最难的词语。",
+  "article": "The library shelf",
+  "source": "article-units:37",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "A librarian placed a box marked \"Too hard to finish\" beside the return desk. She expected students to leave long novels there. To her ____, most books in the box were short guides. Students explained that the guides used unfamiliar words without examples. The librarian kept the books ____ added a small card explaining the hardest terms in each one.",
+  "slots": [
+   [
+    "surprise"
+   ],
+   [
+    "but"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "refusal",
+    "permission",
+    "surprise",
+    "arrival"
+   ],
+   [
+    "unless",
+    "once",
+    "because of",
+    "but"
+   ]
+  ],
+  "why": "第 1 空：原先预期长篇小说，结果多是短指南，to her surprise 符合预期落差。 第 2 空：没有撤走指南，而是补充释义，两种处理形成对照。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1195"
+ },
+ {
+  "level": 3,
+  "cn": "一位图书管理员在还书台旁放了一个标有“太难读完”的箱子。她原以为学生会把长篇小说放进去。出乎她意料的是，里面大多数书都是简短的指南。学生说，指南用了生词却没举例。她保留了这些书，同时为每本书配了小卡片，解释最难的词语。",
+  "article": "The library shelf",
+  "source": "article-units:37",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A librarian placed a box marked \"Too hard to finish\" beside the return desk. She expected students to leave long novels there. To her surprise, most books in the box were short guides. Students explained that the guides used unfamiliar words without examples. The librarian kept the books but added a small card explaining the hardest terms in each one.\n\nWhat made the guides difficult?",
+  "slots": [
+   [
+    "Unexplained vocabulary."
+   ]
+  ],
+  "options": [
+   "Unexplained vocabulary.",
+   "Their length.",
+   "Their small print.",
+   "Missing pages."
+  ],
+  "why": "学生指出难点在陌生词语和缺少例子。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1196"
+ },
+ {
+  "level": 3,
+  "cn": "一位图书管理员在还书台旁放了一个标有“太难读完”的箱子。她原以为学生会把长篇小说放进去。出乎她意料的是，里面大多数书都是简短的指南。学生说，指南用了生词却没举例。她保留了这些书，同时为每本书配了小卡片，解释最难的词语。",
+  "article": "The library shelf",
+  "source": "article-units:37",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A librarian placed a box marked \"Too hard to finish\" beside the return desk. She expected students to leave long novels there. To her surprise, most books in the box were short guides. Students explained that the guides used unfamiliar words without examples. The librarian kept the books but added a small card explaining the hardest terms in each one.\n\nWhat assumption did the box challenge?",
+  "slots": [
+   [
+    "Longer books are always harder to finish."
+   ]
+  ],
+  "options": [
+   "Fiction needs a glossary.",
+   "Students never return books.",
+   "Longer books are always harder to finish.",
+   "Cards take too long to make."
+  ],
+  "why": "实际放进箱子的多为短指南，推翻了按长度判断难度的预期。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1197"
+ },
+ {
+  "level": 3,
+  "cn": "访客常找不到一家小博物馆的入口。馆长订了一张更大的街道图，但大家还是走错。一位志愿者从公交站走了一趟，发现高围栏挡住了入口标志。她画了张简图，标出面包店旁的转弯处。虽然图上的街道更少，游客反而更容易看懂。",
+  "article": "Two maps",
+  "source": "article-units:43",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "Visitors often missed the entrance to a small museum. The director ordered a larger street map, but the mistakes continued. A volunteer walked from the bus stop and noticed that a tall fence ____ the entrance sign. She drew a simple map showing the turn by the bakery. Although her map showed ____ streets, visitors found it easier to follow.",
+  "slots": [
+   [
+    "blocked"
+   ],
+   [
+    "fewer"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "printed",
+    "carried",
+    "blocked",
+    "folded"
+   ],
+   [
+    "little",
+    "much",
+    "fewer",
+    "less"
+   ]
+  ],
+  "why": "第 1 空：围栏造成视线遮挡，使人看不到入口标志。 第 2 空：streets 是可数名词复数，两张图作比较用 fewer。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1198"
+ },
+ {
+  "level": 3,
+  "cn": "访客常找不到一家小博物馆的入口。馆长订了一张更大的街道图，但大家还是走错。一位志愿者从公交站走了一趟，发现高围栏挡住了入口标志。她画了张简图，标出面包店旁的转弯处。虽然图上的街道更少，游客反而更容易看懂。",
+  "article": "Two maps",
+  "source": "article-units:43",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Visitors often missed the entrance to a small museum. The director ordered a larger street map, but the mistakes continued. A volunteer walked from the bus stop and noticed that a tall fence blocked the entrance sign. She drew a simple map showing the turn by the bakery. Although her map showed fewer streets, visitors found it easier to follow.\n\nWhich landmark helped visitors turn correctly?",
+  "slots": [
+   [
+    "The bakery."
+   ]
+  ],
+  "options": [
+   "The bakery.",
+   "A bridge.",
+   "The museum roof.",
+   "The station clock."
+  ],
+  "why": "简图标注了面包店旁的转弯处。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1199"
+ },
+ {
+  "level": 3,
+  "cn": "访客常找不到一家小博物馆的入口。馆长订了一张更大的街道图，但大家还是走错。一位志愿者从公交站走了一趟，发现高围栏挡住了入口标志。她画了张简图，标出面包店旁的转弯处。虽然图上的街道更少，游客反而更容易看懂。",
+  "article": "Two maps",
+  "source": "article-units:43",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Visitors often missed the entrance to a small museum. The director ordered a larger street map, but the mistakes continued. A volunteer walked from the bus stop and noticed that a tall fence blocked the entrance sign. She drew a simple map showing the turn by the bakery. Although her map showed fewer streets, visitors found it easier to follow.\n\nWhy does the writer mention the larger map?",
+  "slots": [
+   [
+    "To show that adding detail did not fix the problem."
+   ]
+  ],
+  "options": [
+   "To show that adding detail did not fix the problem.",
+   "To explain why the fence was built.",
+   "To compare ticket prices.",
+   "To recommend buying it."
+  ],
+  "why": "大图无效，与突出关键路口的简图形成对比。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1200"
+ },
+ {
+  "level": 4,
+  "cn": "学校花园的第一次表决看起来很明确，举手支持玫瑰的人最多。订购植物前，米娜让学生私下写出选择，这次香草排在第一。几个学生说，他们跟着最先举手的人选，是因为觉得那些同学更懂。米娜保留了两次结果并记录收集方式。读者只有了解统计方法，才能理解这些数字。",
+  "article": "A second vote",
+  "source": "article-units:49",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "The first vote on the school garden seemed clear: most hands went up for roses. Before ordering plants, Mina asked students to write their choices privately. This time herbs came first. Several students said they had copied the first raised hands because they assumed those classmates knew more. Mina kept both results and ____ how they had been collected. The figures meant little ____ readers knew the method.",
+  "slots": [
+   [
+    "noted"
+   ],
+   [
+    "unless"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "noted",
+    "guessed",
+    "forgot",
+    "denied"
+   ],
+   [
+    "unless",
+    "although",
+    "after",
+    "while"
+   ]
+  ],
+  "why": "第 1 空：保留两份结果的同时记录收集方式，便于解释差异。 第 2 空：若不知道方法，数字意义有限，unless 引出例外条件。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1201"
+ },
+ {
+  "level": 4,
+  "cn": "学校花园的第一次表决看起来很明确，举手支持玫瑰的人最多。订购植物前，米娜让学生私下写出选择，这次香草排在第一。几个学生说，他们跟着最先举手的人选，是因为觉得那些同学更懂。米娜保留了两次结果并记录收集方式。读者只有了解统计方法，才能理解这些数字。",
+  "article": "A second vote",
+  "source": "article-units:49",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The first vote on the school garden seemed clear: most hands went up for roses. Before ordering plants, Mina asked students to write their choices privately. This time herbs came first. Several students said they had copied the first raised hands because they assumed those classmates knew more. Mina kept both results and noted how they had been collected. The figures meant little unless readers knew the method.\n\nWhat changed between the votes?",
+  "slots": [
+   [
+    "Other students could no longer see each choice."
+   ]
+  ],
+  "options": [
+   "Only gardeners could vote.",
+   "New plants were added.",
+   "The price of roses fell.",
+   "Other students could no longer see each choice."
+  ],
+  "why": "第二次采用私下书写，改变了他人选择的可见度。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1202"
+ },
+ {
+  "level": 4,
+  "cn": "学校花园的第一次表决看起来很明确，举手支持玫瑰的人最多。订购植物前，米娜让学生私下写出选择，这次香草排在第一。几个学生说，他们跟着最先举手的人选，是因为觉得那些同学更懂。米娜保留了两次结果并记录收集方式。读者只有了解统计方法，才能理解这些数字。",
+  "article": "A second vote",
+  "source": "article-units:49",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The first vote on the school garden seemed clear: most hands went up for roses. Before ordering plants, Mina asked students to write their choices privately. This time herbs came first. Several students said they had copied the first raised hands because they assumed those classmates knew more. Mina kept both results and noted how they had been collected. The figures meant little unless readers knew the method.\n\nWhich conclusion is best supported?",
+  "slots": [
+   [
+    "Visible choices can influence later voters."
+   ]
+  ],
+  "options": [
+   "Visible choices can influence later voters.",
+   "The first voters lied.",
+   "Both votes were equally private.",
+   "Everyone secretly preferred herbs."
+  ],
+  "why": "部分学生明确说自己跟着他人举手；文章没有证明所有人的偏好。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1203"
+ },
+ {
+  "level": 5,
+  "cn": "夜校刚开课时，网上意见箱一直是空的。组织者将沉默视为大家满意的信号。一名教师指出，即便提很小的建议，表格也要求填写学号。组织者删除了这一栏，同时保留原来的所有问题。很快就出现了意见。这一变化并不能证明学生的满意度下降了，它说明此前的沉默比看上去更难解读。",
+  "article": "The empty comment box",
+  "source": "article-units:55",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "When the evening class first opened, its online comment box stayed empty. The organizer took the silence as a sign of satisfaction. A tutor pointed out that the form required a student number, even for a minor suggestion. The organizer removed that field ____ keeping the questions exactly the same. Comments soon appeared. The change did not prove that students had become less satisfied; it suggested that the earlier silence had been harder to ____ than it seemed.",
+  "slots": [
+   [
+    "while"
+   ],
+   [
+    "interpret"
+   ]
+  ],
+  "options": [],
+  "slotOptions": [
+   [
+    "because of",
+    "while",
+    "despite of",
+    "unless"
+   ],
+   [
+    "postpone",
+    "interpret",
+    "register",
+    "submit"
+   ]
+  ],
+  "why": "第 1 空：删除身份栏和保留其余问题同时发生，用 while keeping。 第 2 空：难点是判断沉默代表什么，即解读其含义。",
+  "hint": "每空从四个选项中选一个。",
+  "point": "篇章语境与语法",
+  "id": "WF1204"
+ },
+ {
+  "level": 5,
+  "cn": "夜校刚开课时，网上意见箱一直是空的。组织者将沉默视为大家满意的信号。一名教师指出，即便提很小的建议，表格也要求填写学号。组织者删除了这一栏，同时保留原来的所有问题。很快就出现了意见。这一变化并不能证明学生的满意度下降了，它说明此前的沉默比看上去更难解读。",
+  "article": "The empty comment box",
+  "source": "article-units:55",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "When the evening class first opened, its online comment box stayed empty. The organizer took the silence as a sign of satisfaction. A tutor pointed out that the form required a student number, even for a minor suggestion. The organizer removed that field while keeping the questions exactly the same. Comments soon appeared. The change did not prove that students had become less satisfied; it suggested that the earlier silence had been harder to interpret than it seemed.\n\nWhich feature stayed the same?",
+  "slots": [
+   [
+    "The questions in the form."
+   ]
+  ],
+  "options": [
+   "The questions in the form.",
+   "The student number field.",
+   "The number of comments.",
+   "The organizer's first conclusion."
+  ],
+  "why": "exactly the same 明确指出问题保持原样。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1205"
+ },
+ {
+  "level": 5,
+  "cn": "夜校刚开课时，网上意见箱一直是空的。组织者将沉默视为大家满意的信号。一名教师指出，即便提很小的建议，表格也要求填写学号。组织者删除了这一栏，同时保留原来的所有问题。很快就出现了意见。这一变化并不能证明学生的满意度下降了，它说明此前的沉默比看上去更难解读。",
+  "article": "The empty comment box",
+  "source": "article-units:55",
+  "tip": "提交后对照译文，回到原文定位依据。",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "When the evening class first opened, its online comment box stayed empty. The organizer took the silence as a sign of satisfaction. A tutor pointed out that the form required a student number, even for a minor suggestion. The organizer removed that field while keeping the questions exactly the same. Comments soon appeared. The change did not prove that students had become less satisfied; it suggested that the earlier silence had been harder to interpret than it seemed.\n\nWhy does the final sentence use suggested instead of proved?",
+  "slots": [
+   [
+    "The evidence allows more than one explanation."
+   ]
+  ],
+  "options": [
+   "All students were interviewed.",
+   "The tutor rejected every comment.",
+   "The evidence allows more than one explanation.",
+   "The form was never changed."
+  ],
+  "why": "留言增多可能与填写顾虑减少有关，不能直接推出满意度改变。",
+  "hint": "根据原文选择。",
+  "point": "阅读证据与推断",
+  "id": "WF1206"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "我把公交车票放在口袋里。",
+  "cn": "我把公交车票放在口袋里。",
+  "slots": [
+   [
+    "I keep my bus ticket in my pocket."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I keep my bus ticket in my pocket. 对应“我把公交车票放在口袋里。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:1",
+  "id": "WF1207"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Mia checks the map before every trip.",
+  "cn": "米娅每次出行前都查看地图。",
+  "slots": [
+   [
+    "米娅每次出行前都查看地图。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Mia checks the map before every trip. 对应“米娅每次出行前都查看地图。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:2",
+  "id": "WF1208"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "我们用篮子装午饭。",
+  "cn": "我们用篮子装午饭。",
+  "slots": [
+   [
+    "We carry our lunch in a basket."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "We carry our lunch in a basket. 对应“我们用篮子装午饭。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:3",
+  "id": "WF1209"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "My brother wears a helmet on every bike ride.",
+  "cn": "我哥哥每次骑车都戴头盔。",
+  "slots": [
+   [
+    "我哥哥每次骑车都戴头盔。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "My brother wears a helmet on every bike ride. 对应“我哥哥每次骑车都戴头盔。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:4",
+  "id": "WF1210"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "这家店每天早上九点开门。",
+  "cn": "这家店每天早上九点开门。",
+  "slots": [
+   [
+    "The shop opens its doors at nine every morning."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The shop opens its doors at nine every morning. 对应“这家店每天早上九点开门。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:5",
+  "id": "WF1211"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "I write new words in my notebook.",
+  "cn": "我把生词写在笔记本上。",
+  "slots": [
+   [
+    "我把生词写在笔记本上。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I write new words in my notebook. 对应“我把生词写在笔记本上。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:6",
+  "id": "WF1212"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "爷爷早饭后看报纸。",
+  "cn": "爷爷早饭后看报纸。",
+  "slots": [
+   [
+    "Grandpa reads the newspaper after breakfast."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Grandpa reads the newspaper after breakfast. 对应“爷爷早饭后看报纸。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:7",
+  "id": "WF1213"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Our teacher draws a circle on the board every Monday.",
+  "cn": "老师每周一在黑板上画一个圆。",
+  "slots": [
+   [
+    "老师每周一在黑板上画一个圆。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Our teacher draws a circle on the board every Monday. 对应“老师每周一在黑板上画一个圆。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:8",
+  "id": "WF1214"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "公交车每天在博物馆外停靠。",
+  "cn": "公交车每天在博物馆外停靠。",
+  "slots": [
+   [
+    "The bus stops outside the museum every day."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The bus stops outside the museum every day. 对应“公交车每天在博物馆外停靠。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:9",
+  "id": "WF1215"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Sam takes the stairs to class every day.",
+  "cn": "山姆每天走楼梯去上课。",
+  "slots": [
+   [
+    "山姆每天走楼梯去上课。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Sam takes the stairs to class every day. 对应“山姆每天走楼梯去上课。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:10",
+  "id": "WF1216"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "厨房的钟每天慢一分钟。",
+  "cn": "厨房的钟每天慢一分钟。",
+  "slots": [
+   [
+    "The kitchen clock loses a minute each day."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The kitchen clock loses a minute each day. 对应“厨房的钟每天慢一分钟。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:11",
+  "id": "WF1217"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Emma washes her uniform on Fridays.",
+  "cn": "艾玛每周五洗制服。",
+  "slots": [
+   [
+    "艾玛每周五洗制服。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Emma washes her uniform on Fridays. 对应“艾玛每周五洗制服。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:12",
+  "id": "WF1218"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "厨师在汤里加一点盐。",
+  "cn": "厨师在汤里加一点盐。",
+  "slots": [
+   [
+    "The cook adds a little salt to the soup."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The cook adds a little salt to the soup. 对应“厨师在汤里加一点盐。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:13",
+  "id": "WF1219"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "I borrow books from the school library.",
+  "cn": "我从学校图书馆借书。",
+  "slots": [
+   [
+    "我从学校图书馆借书。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I borrow books from the school library. 对应“我从学校图书馆借书。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:14",
+  "id": "WF1220"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "爸爸每次野餐都带一条毯子。",
+  "cn": "爸爸每次野餐都带一条毯子。",
+  "slots": [
+   [
+    "Dad packs a blanket for each picnic."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Dad packs a blanket for each picnic. 对应“爸爸每次野餐都带一条毯子。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:15",
+  "id": "WF1221"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "My sister teaches a dance class on Sundays.",
+  "cn": "姐姐每周日教舞蹈课。",
+  "slots": [
+   [
+    "姐姐每周日教舞蹈课。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "My sister teaches a dance class on Sundays. 对应“姐姐每周日教舞蹈课。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:16",
+  "id": "WF1222"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "司机熟悉镇上的每条街。",
+  "cn": "司机熟悉镇上的每条街。",
+  "slots": [
+   [
+    "The driver knows every street in town."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The driver knows every street in town. 对应“司机熟悉镇上的每条街。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:17",
+  "id": "WF1223"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Our dog sleeps beside the sofa at night.",
+  "cn": "我们的狗晚上睡在沙发旁。",
+  "slots": [
+   [
+    "我们的狗晚上睡在沙发旁。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Our dog sleeps beside the sofa at night. 对应“我们的狗晚上睡在沙发旁。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:18",
+  "id": "WF1224"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "利奥点餐前仔细看菜单。",
+  "cn": "利奥点餐前仔细看菜单。",
+  "slots": [
+   [
+    "Leo studies the menu before he orders."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Leo studies the menu before he orders. 对应“利奥点餐前仔细看菜单。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:19",
+  "id": "WF1225"
+ },
+ {
+  "level": 1,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "My cousin feeds the rabbits before school.",
+  "cn": "我表妹上学前喂兔子。",
+  "slots": [
+   [
+    "我表妹上学前喂兔子。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "My cousin feeds the rabbits before school. 对应“我表妹上学前喂兔子。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:20",
+  "id": "WF1226"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天风吹断了屋外的一根树枝。",
+  "cn": "昨天风吹断了屋外的一根树枝。",
+  "slots": [
+   [
+    "Yesterday the wind broke a branch outside our house."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Yesterday the wind broke a branch outside our house. 对应“昨天风吹断了屋外的一根树枝。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:21",
+  "id": "WF1227"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Last night Anna left her scarf on the train.",
+  "cn": "昨晚安娜把围巾落在火车上了。",
+  "slots": [
+   [
+    "昨晚安娜把围巾落在火车上了。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Last night Anna left her scarf on the train. 对应“昨晚安娜把围巾落在火车上了。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:22",
+  "id": "WF1228"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天我们在花园里发现了一枚旧硬币。",
+  "cn": "昨天我们在花园里发现了一枚旧硬币。",
+  "slots": [
+   [
+    "We found an old coin in the garden yesterday."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "We found an old coin in the garden yesterday. 对应“昨天我们在花园里发现了一枚旧硬币。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:23",
+  "id": "WF1229"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Yesterday I sent the parcel to my aunt.",
+  "cn": "昨天我把包裹寄给了姨妈。",
+  "slots": [
+   [
+    "昨天我把包裹寄给了姨妈。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Yesterday I sent the parcel to my aunt. 对应“昨天我把包裹寄给了姨妈。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:24",
+  "id": "WF1230"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "周一杰克忘了密码，只好重设。",
+  "cn": "周一杰克忘了密码，只好重设。",
+  "slots": [
+   [
+    "On Monday Jack forgot his password and had to reset it."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "On Monday Jack forgot his password and had to reset it. 对应“周一杰克忘了密码，只好重设。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:25",
+  "id": "WF1231"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Last week our class visited a factory near the river.",
+  "cn": "上周我们班参观了河边的一家工厂。",
+  "slots": [
+   [
+    "上周我们班参观了河边的一家工厂。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Last week our class visited a factory near the river. 对应“上周我们班参观了河边的一家工厂。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:26",
+  "id": "WF1232"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "她昨天选了蓝色窗帘。",
+  "cn": "她昨天选了蓝色窗帘。",
+  "slots": [
+   [
+    "She chose the blue curtain yesterday."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "She chose the blue curtain yesterday. 对应“她昨天选了蓝色窗帘。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:27",
+  "id": "WF1233"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "I heard a strange noise last night.",
+  "cn": "我昨晚听到一种奇怪的响声。",
+  "slots": [
+   [
+    "我昨晚听到一种奇怪的响声。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I heard a strange noise last night. 对应“我昨晚听到一种奇怪的响声。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:28",
+  "id": "WF1234"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨晚十点，门卫关上了大门。",
+  "cn": "昨晚十点，门卫关上了大门。",
+  "slots": [
+   [
+    "The guard closed the gate at ten last night."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The guard closed the gate at ten last night. 对应“昨晚十点，门卫关上了大门。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:29",
+  "id": "WF1235"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "The team won the match last Saturday.",
+  "cn": "球队上周六赢了比赛。",
+  "slots": [
+   [
+    "球队上周六赢了比赛。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The team won the match last Saturday. 对应“球队上周六赢了比赛。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:30",
+  "id": "WF1236"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天我们用木棍搭了一座小桥。",
+  "cn": "昨天我们用木棍搭了一座小桥。",
+  "slots": [
+   [
+    "Yesterday we built a small bridge with sticks."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Yesterday we built a small bridge with sticks. 对应“昨天我们用木棍搭了一座小桥。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:31",
+  "id": "WF1237"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "On her last trip Maya bought a silver ring.",
+  "cn": "玛雅上次旅行时买了一枚银戒指。",
+  "slots": [
+   [
+    "玛雅上次旅行时买了一枚银戒指。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "On her last trip Maya bought a silver ring. 对应“玛雅上次旅行时买了一枚银戒指。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:32",
+  "id": "WF1238"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天蒂姆赶上了回家的末班火车。",
+  "cn": "昨天蒂姆赶上了回家的末班火车。",
+  "slots": [
+   [
+    "Yesterday Tim caught the last train home."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Yesterday Tim caught the last train home. 对应“昨天蒂姆赶上了回家的末班火车。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:33",
+  "id": "WF1239"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Last winter a storm damaged the roof.",
+  "cn": "去年冬天一场风暴损坏了屋顶。",
+  "slots": [
+   [
+    "去年冬天一场风暴损坏了屋顶。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Last winter a storm damaged the roof. 对应“去年冬天一场风暴损坏了屋顶。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:34",
+  "id": "WF1240"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "妈妈昨天交了电费。",
+  "cn": "妈妈昨天交了电费。",
+  "slots": [
+   [
+    "Mom paid the electricity bill yesterday."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Mom paid the electricity bill yesterday. 对应“妈妈昨天交了电费。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:35",
+  "id": "WF1241"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "At the concert last night Eva played the violin.",
+  "cn": "昨晚的音乐会上，伊娃拉了小提琴。",
+  "slots": [
+   [
+    "昨晚的音乐会上，伊娃拉了小提琴。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "At the concert last night Eva played the violin. 对应“昨晚的音乐会上，伊娃拉了小提琴。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:36",
+  "id": "WF1242"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天走路回家时我弄丢了手套。",
+  "cn": "昨天走路回家时我弄丢了手套。",
+  "slots": [
+   [
+    "I lost my gloves on the walk home yesterday."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I lost my gloves on the walk home yesterday. 对应“昨天走路回家时我弄丢了手套。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:37",
+  "id": "WF1243"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Last summer the twins shared a tent.",
+  "cn": "去年夏天双胞胎共用了一顶帐篷。",
+  "slots": [
+   [
+    "去年夏天双胞胎共用了一顶帐篷。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Last summer the twins shared a tent. 对应“去年夏天双胞胎共用了一顶帐篷。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:38",
+  "id": "WF1244"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天护士给我量了体温。",
+  "cn": "昨天护士给我量了体温。",
+  "slots": [
+   [
+    "Yesterday the nurse took my temperature."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Yesterday the nurse took my temperature. 对应“昨天护士给我量了体温。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:39",
+  "id": "WF1245"
+ },
+ {
+  "level": 2,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "We crossed the border by bus last July.",
+  "cn": "去年七月我们乘公交车越过了边境。",
+  "slots": [
+   [
+    "去年七月我们乘公交车越过了边境。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "We crossed the border by bus last July. 对应“去年七月我们乘公交车越过了边境。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:40",
+  "id": "WF1246"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "看！小猫正躲在枕头后面。",
+  "cn": "看！小猫正躲在枕头后面。",
+  "slots": [
+   [
+    "Look! The kitten is hiding behind the pillow."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Look! The kitten is hiding behind the pillow. 对应“看！小猫正躲在枕头后面。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:41",
+  "id": "WF1247"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Listen! Someone is ringing the bell downstairs.",
+  "cn": "听！有人正在楼下按铃。",
+  "slots": [
+   [
+    "听！有人正在楼下按铃。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Listen! Someone is ringing the bell downstairs. 对应“听！有人正在楼下按铃。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:42",
+  "id": "WF1248"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "工人们此刻正在给栅栏刷漆。",
+  "cn": "工人们此刻正在给栅栏刷漆。",
+  "slots": [
+   [
+    "Right now the workers are painting the fence."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Right now the workers are painting the fence. 对应“工人们此刻正在给栅栏刷漆。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:43",
+  "id": "WF1249"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "I am counting the seats now, so please wait.",
+  "cn": "我正在数座位，请稍等。",
+  "slots": [
+   [
+    "我正在数座位，请稍等。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I am counting the seats now, so please wait. 对应“我正在数座位，请稍等。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:44",
+  "id": "WF1250"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "看！孩子们正在每个花盆里种一粒种子。",
+  "cn": "看！孩子们正在每个花盆里种一粒种子。",
+  "slots": [
+   [
+    "Look! The children are planting a seed in each pot."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Look! The children are planting a seed in each pot. 对应“看！孩子们正在每个花盆里种一粒种子。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:45",
+  "id": "WF1251"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "The mechanic is fixing my bicycle chain right now.",
+  "cn": "修理工正在修我的自行车链条。",
+  "slots": [
+   [
+    "修理工正在修我的自行车链条。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The mechanic is fixing my bicycle chain right now. 对应“修理工正在修我的自行车链条。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:46",
+  "id": "WF1252"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "此刻两名球迷正举着一面横幅。",
+  "cn": "此刻两名球迷正举着一面横幅。",
+  "slots": [
+   [
+    "At this moment two fans are holding a banner."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "At this moment two fans are holding a banner. 对应“此刻两名球迷正举着一面横幅。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:47",
+  "id": "WF1253"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Please be quiet. Ben is recording a message now.",
+  "cn": "请安静，本正在录一段留言。",
+  "slots": [
+   [
+    "请安静，本正在录一段留言。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Please be quiet. Ben is recording a message now. 对应“请安静，本正在录一段留言。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:48",
+  "id": "WF1254"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "我正把地址抄进手机。",
+  "cn": "我正把地址抄进手机。",
+  "slots": [
+   [
+    "I am copying the address into my phone right now."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I am copying the address into my phone right now. 对应“我正把地址抄进手机。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:49",
+  "id": "WF1255"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Look outside. A bird is building a nest above the door.",
+  "cn": "看看外面，一只鸟正在门上方筑巢。",
+  "slots": [
+   [
+    "看看外面，一只鸟正在门上方筑巢。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Look outside. A bird is building a nest above the door. 对应“看看外面，一只鸟正在门上方筑巢。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:50",
+  "id": "WF1256"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨晚八点我们正在看一部纪录片。",
+  "cn": "昨晚八点我们正在看一部纪录片。",
+  "slots": [
+   [
+    "At eight last night we were watching a documentary."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "At eight last night we were watching a documentary. 对应“昨晚八点我们正在看一部纪录片。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:51",
+  "id": "WF1257"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "When the lights went out, I was drawing a portrait.",
+  "cn": "灯灭时我正在画肖像。",
+  "slots": [
+   [
+    "灯灭时我正在画肖像。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "When the lights went out, I was drawing a portrait. 对应“灯灭时我正在画肖像。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:52",
+  "id": "WF1258"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天中午厨师正在切柠檬片。",
+  "cn": "昨天中午厨师正在切柠檬片。",
+  "slots": [
+   [
+    "At noon yesterday the chef was slicing a lemon."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "At noon yesterday the chef was slicing a lemon. 对应“昨天中午厨师正在切柠檬片。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:53",
+  "id": "WF1259"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "When I called, the twins were carrying a ladder.",
+  "cn": "我打电话时，双胞胎正抬着梯子。",
+  "slots": [
+   [
+    "我打电话时，双胞胎正抬着梯子。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "When I called, the twins were carrying a ladder. 对应“我打电话时，双胞胎正抬着梯子。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:54",
+  "id": "WF1260"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天这个时候我正在测试麦克风。",
+  "cn": "昨天这个时候我正在测试麦克风。",
+  "slots": [
+   [
+    "This time yesterday I was testing the microphone."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "This time yesterday I was testing the microphone. 对应“昨天这个时候我正在测试麦克风。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:55",
+  "id": "WF1261"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "At nine last night Ella was feeding the puppy.",
+  "cn": "昨晚九点埃拉正在喂小狗。",
+  "slots": [
+   [
+    "昨晚九点埃拉正在喂小狗。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "At nine last night Ella was feeding the puppy. 对应“昨晚九点埃拉正在喂小狗。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:56",
+  "id": "WF1262"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "公交车到站时，我们正在折海报。",
+  "cn": "公交车到站时，我们正在折海报。",
+  "slots": [
+   [
+    "When the bus arrived, we were folding the poster."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "When the bus arrived, we were folding the poster. 对应“公交车到站时，我们正在折海报。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:57",
+  "id": "WF1263"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "When the phone rang, Dad was measuring the window.",
+  "cn": "电话响时，爸爸正在量窗户的尺寸。",
+  "slots": [
+   [
+    "电话响时，爸爸正在量窗户的尺寸。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "When the phone rang, Dad was measuring the window. 对应“电话响时，爸爸正在量窗户的尺寸。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:58",
+  "id": "WF1264"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天四点，舞者们正在练习成套动作。",
+  "cn": "昨天四点，舞者们正在练习成套动作。",
+  "slots": [
+   [
+    "At four yesterday the dancers were practicing their routine."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "At four yesterday the dancers were practicing their routine. 对应“昨天四点，舞者们正在练习成套动作。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:59",
+  "id": "WF1265"
+ },
+ {
+  "level": 3,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "When the rain started, I was sketching a tower.",
+  "cn": "开始下雨时，我正在画一座塔的速写。",
+  "slots": [
+   [
+    "开始下雨时，我正在画一座塔的速写。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "When the rain started, I was sketching a tower. 对应“开始下雨时，我正在画一座塔的速写。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:60",
+  "id": "WF1266"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "到目前为止我们已经收集了二十个签名。",
+  "cn": "到目前为止我们已经收集了二十个签名。",
+  "slots": [
+   [
+    "So far we have collected twenty signatures."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "So far we have collected twenty signatures. 对应“到目前为止我们已经收集了二十个签名。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:61",
+  "id": "WF1267"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Lucy has kept this diary since January.",
+  "cn": "露西从一月起一直在写这本日记。",
+  "slots": [
+   [
+    "露西从一月起一直在写这本日记。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Lucy has kept this diary since January. 对应“露西从一月起一直在写这本日记。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:62",
+  "id": "WF1268"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "本学期到目前为止，我们社团已经举办了三场辩论。",
+  "cn": "本学期到目前为止，我们社团已经举办了三场辩论。",
+  "slots": [
+   [
+    "So far this term our club has held three debates."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "So far this term our club has held three debates. 对应“本学期到目前为止，我们社团已经举办了三场辩论。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:63",
+  "id": "WF1269"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "I have known our neighbor since I was six.",
+  "cn": "我从六岁起就认识我们的邻居。",
+  "slots": [
+   [
+    "我从六岁起就认识我们的邻居。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I have known our neighbor since I was six. 对应“我从六岁起就认识我们的邻居。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:64",
+  "id": "WF1270"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "学生们到目前为止已完成两项调查。",
+  "cn": "学生们到目前为止已完成两项调查。",
+  "slots": [
+   [
+    "The students have completed two surveys so far."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The students have completed two surveys so far. 对应“学生们到目前为止已完成两项调查。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:65",
+  "id": "WF1271"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Sam has worn the same badge every day since June.",
+  "cn": "从六月起，山姆每天都戴同一枚徽章。",
+  "slots": [
+   [
+    "从六月起，山姆每天都戴同一枚徽章。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Sam has worn the same badge every day since June. 对应“从六月起，山姆每天都戴同一枚徽章。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:66",
+  "id": "WF1272"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "到目前为止，这个团队解开了每一道谜题。",
+  "cn": "到目前为止，这个团队解开了每一道谜题。",
+  "slots": [
+   [
+    "So far the team has solved every puzzle."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "So far the team has solved every puzzle. 对应“到目前为止，这个团队解开了每一道谜题。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:67",
+  "id": "WF1273"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "We have visited the island twice since the ferry opened.",
+  "cn": "自渡轮开通以来，我们去过那座岛两次。",
+  "slots": [
+   [
+    "自渡轮开通以来，我们去过那座岛两次。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "We have visited the island twice since the ferry opened. 对应“自渡轮开通以来，我们去过那座岛两次。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:68",
+  "id": "WF1274"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "诺拉拥有这台相机已经十年了，现在还在用。",
+  "cn": "诺拉拥有这台相机已经十年了，现在还在用。",
+  "slots": [
+   [
+    "Nora has owned this camera for ten years and still uses it."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Nora has owned this camera for ten years and still uses it. 对应“诺拉拥有这台相机已经十年了，现在还在用。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:69",
+  "id": "WF1275"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "This is the first time I have baked a loaf of bread.",
+  "cn": "这是我第一次烤一整条面包。",
+  "slots": [
+   [
+    "这是我第一次烤一整条面包。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "This is the first time I have baked a loaf of bread. 对应“这是我第一次烤一整条面包。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:70",
+  "id": "WF1276"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "我到时，客人们已经吃完甜点了。",
+  "cn": "我到时，客人们已经吃完甜点了。",
+  "slots": [
+   [
+    "By the time I arrived, the guests had eaten the dessert."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "By the time I arrived, the guests had eaten the dessert. 对应“我到时，客人们已经吃完甜点了。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:71",
+  "id": "WF1277"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Before the shop reopened, the owner had replaced the counter.",
+  "cn": "商店重新开业前，店主已更换了柜台。",
+  "slots": [
+   [
+    "商店重新开业前，店主已更换了柜台。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Before the shop reopened, the owner had replaced the counter. 对应“商店重新开业前，店主已更换了柜台。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:72",
+  "id": "WF1278"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "到当晚十二点，导游已在地图上标出了每条路线。",
+  "cn": "到当晚十二点，导游已在地图上标出了每条路线。",
+  "slots": [
+   [
+    "By midnight our guide had marked every route on the map."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "By midnight our guide had marked every route on the map. 对应“到当晚十二点，导游已在地图上标出了每条路线。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:73",
+  "id": "WF1279"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "By the time the bus came, the snow had covered the pavement.",
+  "cn": "公交车到来时，雪已经盖住了路面。",
+  "slots": [
+   [
+    "公交车到来时，雪已经盖住了路面。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "By the time the bus came, the snow had covered the pavement. 对应“公交车到来时，雪已经盖住了路面。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:74",
+  "id": "WF1280"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "马克斯搬来之前已经经营一家面包店多年了。",
+  "cn": "马克斯搬来之前已经经营一家面包店多年了。",
+  "slots": [
+   [
+    "Before he moved here, Max had managed a bakery for years."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Before he moved here, Max had managed a bakery for years. 对应“马克斯搬来之前已经经营一家面包店多年了。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:75",
+  "id": "WF1281"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "By the time the doors opened, I had checked every locker.",
+  "cn": "门打开时，我已经检查了每个储物柜。",
+  "slots": [
+   [
+    "门打开时，我已经检查了每个储物柜。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "By the time the doors opened, I had checked every locker. 对应“门打开时，我已经检查了每个储物柜。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:76",
+  "id": "WF1282"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "上课前，萨拉已经打印好了练习单。",
+  "cn": "上课前，萨拉已经打印好了练习单。",
+  "slots": [
+   [
+    "Before the lesson began, Sara had printed the worksheet."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Before the lesson began, Sara had printed the worksheet. 对应“上课前，萨拉已经打印好了练习单。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:77",
+  "id": "WF1283"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "When I got back, a gust of wind had scattered the receipts.",
+  "cn": "我回来时，一阵风已经吹散了收据。",
+  "slots": [
+   [
+    "我回来时，一阵风已经吹散了收据。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "When I got back, a gust of wind had scattered the receipts. 对应“我回来时，一阵风已经吹散了收据。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:78",
+  "id": "WF1284"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "到那个星期五，团队已经修好了发动机。",
+  "cn": "到那个星期五，团队已经修好了发动机。",
+  "slots": [
+   [
+    "By Friday the team had repaired the engine."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "By Friday the team had repaired the engine. 对应“到那个星期五，团队已经修好了发动机。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:79",
+  "id": "WF1285"
+ },
+ {
+  "level": 4,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "By the end of the tour we had filled our album with photos.",
+  "cn": "旅行结束时，我们已经把相册装满了照片。",
+  "slots": [
+   [
+    "旅行结束时，我们已经把相册装满了照片。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "By the end of the tour we had filled our album with photos. 对应“旅行结束时，我们已经把相册装满了照片。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:80",
+  "id": "WF1286"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "我保证明天归还你的指南针。",
+  "cn": "我保证明天归还你的指南针。",
+  "slots": [
+   [
+    "I promise I will return your compass tomorrow."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I promise I will return your compass tomorrow. 对应“我保证明天归还你的指南针。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:81",
+  "id": "WF1287"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "The notice says the club will announce the winner tomorrow.",
+  "cn": "通知上说社团明天会公布获胜者。",
+  "slots": [
+   [
+    "通知上说社团明天会公布获胜者。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The notice says the club will announce the winner tomorrow. 对应“通知上说社团明天会公布获胜者。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:82",
+  "id": "WF1288"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "我想这场雨会推迟我们的出发时间。",
+  "cn": "我想这场雨会推迟我们的出发时间。",
+  "slots": [
+   [
+    "I think the rain will delay our departure."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I think the rain will delay our departure. 对应“我想这场雨会推迟我们的出发时间。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:83",
+  "id": "WF1289"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Don't worry. I will carry the heavy suitcase for you.",
+  "cn": "别担心，我来帮你提这个重行李箱。",
+  "slots": [
+   [
+    "别担心，我来帮你提这个重行李箱。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Don't worry. I will carry the heavy suitcase for you. 对应“别担心，我来帮你提这个重行李箱。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:84",
+  "id": "WF1290"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "下个月我们将出版杂志的第一期。",
+  "cn": "下个月我们将出版杂志的第一期。",
+  "slots": [
+   [
+    "Next month we will publish the first issue of our magazine."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Next month we will publish the first issue of our magazine. 对应“下个月我们将出版杂志的第一期。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:85",
+  "id": "WF1291"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "I expect the new bus line will reduce the traffic here.",
+  "cn": "我预计新公交线路将减少这里的车流量。",
+  "slots": [
+   [
+    "我预计新公交线路将减少这里的车流量。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I expect the new bus line will reduce the traffic here. 对应“我预计新公交线路将减少这里的车流量。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:86",
+  "id": "WF1292"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "我保证我们会保护鸟类的栖息地。",
+  "cn": "我保证我们会保护鸟类的栖息地。",
+  "slots": [
+   [
+    "I promise we will protect the birds' habitat."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I promise we will protect the birds' habitat. 对应“我保证我们会保护鸟类的栖息地。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:87",
+  "id": "WF1293"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "The speaker says she will answer questions after the lecture.",
+  "cn": "演讲者说她会在讲座后回答问题。",
+  "slots": [
+   [
+    "演讲者说她会在讲座后回答问题。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The speaker says she will answer questions after the lecture. 对应“演讲者说她会在讲座后回答问题。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:88",
+  "id": "WF1294"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "明天教练会解释新策略。",
+  "cn": "明天教练会解释新策略。",
+  "slots": [
+   [
+    "Tomorrow our coach will explain the new strategy."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Tomorrow our coach will explain the new strategy. 对应“明天教练会解释新策略。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:89",
+  "id": "WF1295"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "I suppose the new lamp will improve the lighting in the hall.",
+  "cn": "我想新灯会改善大厅的照明。",
+  "slots": [
+   [
+    "我想新灯会改善大厅的照明。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "I suppose the new lamp will improve the lighting in the hall. 对应“我想新灯会改善大厅的照明。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:90",
+  "id": "WF1296"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "每天早晨牛奶都会被送到我家门阶前。",
+  "cn": "每天早晨牛奶都会被送到我家门阶前。",
+  "slots": [
+   [
+    "Every morning the milk is delivered to our doorstep."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Every morning the milk is delivered to our doorstep. 对应“每天早晨牛奶都会被送到我家门阶前。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:91",
+  "id": "WF1297"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "In this workshop all the bowls are shaped by hand from clay.",
+  "cn": "在这个工坊，所有的碗都用黏土手工塑形。",
+  "slots": [
+   [
+    "在这个工坊，所有的碗都用黏土手工塑形。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "In this workshop all the bowls are shaped by hand from clay. 对应“在这个工坊，所有的碗都用黏土手工塑形。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:92",
+  "id": "WF1298"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "上个月院子里安放了一条长椅。",
+  "cn": "上个月院子里安放了一条长椅。",
+  "slots": [
+   [
+    "Last month a bench was placed in the courtyard."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Last month a bench was placed in the courtyard. 对应“上个月院子里安放了一条长椅。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:93",
+  "id": "WF1299"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Yesterday the letters were sorted by postcode.",
+  "cn": "昨天这些信按邮政编码分好了。",
+  "slots": [
+   [
+    "昨天这些信按邮政编码分好了。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Yesterday the letters were sorted by postcode. 对应“昨天这些信按邮政编码分好了。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:94",
+  "id": "WF1300"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨晚一个委员会选定了最终图样。",
+  "cn": "昨晚一个委员会选定了最终图样。",
+  "slots": [
+   [
+    "The final drawing was selected by a committee last night."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "The final drawing was selected by a committee last night. 对应“昨晚一个委员会选定了最终图样。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:95",
+  "id": "WF1301"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Each year the winning poems are displayed in the corridor.",
+  "cn": "每年获奖诗作都会在走廊展出。",
+  "slots": [
+   [
+    "每年获奖诗作都会在走廊展出。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Each year the winning poems are displayed in the corridor. 对应“每年获奖诗作都会在走廊展出。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:96",
+  "id": "WF1302"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨晚一名管道工更换了破裂的管子。",
+  "cn": "昨晚一名管道工更换了破裂的管子。",
+  "slots": [
+   [
+    "Last night the broken pipe was replaced by a plumber."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Last night the broken pipe was replaced by a plumber. 对应“昨晚一名管道工更换了破裂的管子。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:97",
+  "id": "WF1303"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "In our town paper and glass are gathered for recycling every week.",
+  "cn": "在我们镇，纸和玻璃每周都被收集起来回收利用。",
+  "slots": [
+   [
+    "在我们镇，纸和玻璃每周都被收集起来回收利用。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "In our town paper and glass are gathered for recycling every week. 对应“在我们镇，纸和玻璃每周都被收集起来回收利用。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:98",
+  "id": "WF1304"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "中译英",
+  "text": "昨天丢失的包被送还给了失主。",
+  "cn": "昨天丢失的包被送还给了失主。",
+  "slots": [
+   [
+    "Yesterday the missing bag was returned to its owner."
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Yesterday the missing bag was returned to its owner. 对应“昨天丢失的包被送还给了失主。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:99",
+  "id": "WF1305"
+ },
+ {
+  "level": 5,
+  "cat": "双向翻译",
+  "kind": "英译中",
+  "text": "Every spring these paths are inspected for signs of damage.",
+  "cn": "每年春天都有人检查这些小路有无损坏的迹象。",
+  "slots": [
+   [
+    "每年春天都有人检查这些小路有无损坏的迹象。"
+   ]
+  ],
+  "options": [],
+  "point": "整句翻译与语义核对",
+  "why": "Every spring these paths are inspected for signs of damage. 对应“每年春天都有人检查这些小路有无损坏的迹象。”。核对动作、主语和时间信息，再比较自然表达。",
+  "hint": "翻译整句。提交后可对意义相同的其他译法进行自评。",
+  "tip": "注意语序和修饰语的范围。",
+  "source": "contexts:100",
+  "id": "WF1306"
+ }
+]

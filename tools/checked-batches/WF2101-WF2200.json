@@ -1,0 +1,2662 @@
+[
+ {
+  "id": "WF2101",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 3,
+  "text": "During rehearsal, four pupils asked to open a window and six said nothing. The leader announced that most people wanted it closed. Before acting, a singer asked the ____ six what they thought. Two wanted it open, one wanted it closed, and three did not mind. The leader changed her count. Silence had hidden several different answers rather than one ____ opinion.",
+  "cn": "排练时四人要求开窗，六人保持沉默。领队说多数人希望关窗。歌手先问了那六个人，两人想开，一人想关，三人无所谓。领队改了统计。沉默之下是几种不同回答，并非一种共同意见。",
+  "why": "第1空 quiet：这六个人在场但未表态。 第2空 shared：结尾指他们没有共同持有同一种意见。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "quiet"
+   ],
+   [
+    "shared"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Closed Window Vote",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Closed Window Vote",
+  "slotOptions": [
+   [
+    "absent",
+    "quiet",
+    "late",
+    "noisy"
+   ],
+   [
+    "written",
+    "shared",
+    "corrected",
+    "secretly counted"
+   ]
+  ]
+ },
+ {
+  "id": "WF2102",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "During rehearsal, four pupils asked to open a window and six said nothing. The leader announced that most people wanted it closed. Before acting, a singer asked the quiet six what they thought. Two wanted it open, one wanted it closed, and three did not mind. The leader changed her count. Silence had hidden several different answers rather than one shared opinion.\n\nHow many people clearly wanted the window open in the end?",
+  "cn": "排练时四人要求开窗，六人保持沉默。领队说多数人希望关窗。歌手先问了那六个人，两人想开，一人想关，三人无所谓。领队改了统计。沉默之下是几种不同回答，并非一种共同意见。",
+  "why": "最初四人加上沉默者中的两人。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Six."
+   ]
+  ],
+  "options": [
+   "Four.",
+   "Six.",
+   "Two."
+  ],
+  "source": "read3000:The Closed Window Vote",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Closed Window Vote"
+ },
+ {
+  "id": "WF2103",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "During rehearsal, four pupils asked to open a window and six said nothing. The leader announced that most people wanted it closed. Before acting, a singer asked the quiet six what they thought. Two wanted it open, one wanted it closed, and three did not mind. The leader changed her count. Silence had hidden several different answers rather than one shared opinion.\n\nWhat had the leader assumed?",
+  "cn": "排练时四人要求开窗，六人保持沉默。领队说多数人希望关窗。歌手先问了那六个人，两人想开，一人想关，三人无所谓。领队改了统计。沉默之下是几种不同回答，并非一种共同意见。",
+  "why": "她把沉默算作想关。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "No reply meant opposition to opening it."
+   ]
+  ],
+  "options": [
+   "The singers had already left.",
+   "The window was broken.",
+   "No reply meant opposition to opening it."
+  ],
+  "source": "read3000:The Closed Window Vote",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Closed Window Vote"
+ },
+ {
+  "id": "WF2104",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "During rehearsal, four pupils asked to open a window and six said nothing. The leader announced that most people wanted it closed. Before acting, a singer asked the quiet six what they thought. Two wanted it open, one wanted it closed, and three did not mind. The leader changed her count. Silence had hidden several different answers rather than one shared opinion.\n\nHow many people said they did not mind?",
+  "cn": "排练时四人要求开窗，六人保持沉默。领队说多数人希望关窗。歌手先问了那六个人，两人想开，一人想关，三人无所谓。领队改了统计。沉默之下是几种不同回答，并非一种共同意见。",
+  "why": "调查后的三类意见中，无所谓有三人。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Three."
+   ]
+  ],
+  "options": [
+   "Three.",
+   "One.",
+   "Six."
+  ],
+  "source": "read3000:The Closed Window Vote",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Closed Window Vote"
+ },
+ {
+  "id": "WF2105",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "During rehearsal, four pupils asked to open a window and six said nothing. The leader announced that most people wanted it closed. Before acting, a singer asked the quiet six what they thought. Two wanted it open, one wanted it closed, and three did not mind. The leader changed her count. Silence had hidden several different answers rather than one shared opinion.\n\nWhat did the singer contribute?",
+  "cn": "排练时四人要求开窗，六人保持沉默。领队说多数人希望关窗。歌手先问了那六个人，两人想开，一人想关，三人无所谓。领队改了统计。沉默之下是几种不同回答，并非一种共同意见。",
+  "why": "她问了沉默者，得到真实回应。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A direct check on an assumption."
+   ]
+  ],
+  "options": [
+   "A new window.",
+   "A louder rehearsal.",
+   "A direct check on an assumption."
+  ],
+  "source": "read3000:The Closed Window Vote",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Closed Window Vote"
+ },
+ {
+  "id": "WF2106",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 3,
+  "text": "Jun made slides with twelve short lines on each page. They looked ____ on his laptop. At rehearsal, a friend in the last row could read the heading but not the lines. Jun moved half the lines to another slide and ____ the rest. The talk still contained the same facts. This time his friend could repeat the final point without moving seats.",
+  "cn": "俊的幻灯片每页十二行短句，在笔记本电脑上整齐好看。排练时后排朋友看得清标题却看不清正文。俊把一半文字移到另一页，把留下的文字放大。报告包含的事实没变，这次朋友不换座位也能复述最后一点。",
+  "why": "第1空 neat：描述电脑上的整齐外观。 第2空 enlarged：放大剩余文字能让后排看清。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "neat"
+   ],
+   [
+    "enlarged"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:Reading from the Back Row",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Reading from the Back Row",
+  "slotOptions": [
+   [
+    "neat",
+    "heavy",
+    "noisy",
+    "late"
+   ],
+   [
+    "translated",
+    "enlarged",
+    "deleted",
+    "folded"
+   ]
+  ]
+ },
+ {
+  "id": "WF2107",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Jun made slides with twelve short lines on each page. They looked neat on his laptop. At rehearsal, a friend in the last row could read the heading but not the lines. Jun moved half the lines to another slide and enlarged the rest. The talk still contained the same facts. This time his friend could repeat the final point without moving seats.\n\nWhat could the friend read at first?",
+  "cn": "俊的幻灯片每页十二行短句，在笔记本电脑上整齐好看。排练时后排朋友看得清标题却看不清正文。俊把一半文字移到另一页，把留下的文字放大。报告包含的事实没变，这次朋友不换座位也能复述最后一点。",
+  "why": "标题可见，正文不清。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The heading."
+   ]
+  ],
+  "options": [
+   "The heading.",
+   "Every line.",
+   "Only the last word."
+  ],
+  "source": "read3000:Reading from the Back Row",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Reading from the Back Row"
+ },
+ {
+  "id": "WF2108",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Jun made slides with twelve short lines on each page. They looked neat on his laptop. At rehearsal, a friend in the last row could read the heading but not the lines. Jun moved half the lines to another slide and enlarged the rest. The talk still contained the same facts. This time his friend could repeat the final point without moving seats.\n\nWhat happened to half of each crowded slide's lines?",
+  "cn": "俊的幻灯片每页十二行短句，在笔记本电脑上整齐好看。排练时后排朋友看得清标题却看不清正文。俊把一半文字移到另一页，把留下的文字放大。报告包含的事实没变，这次朋友不换座位也能复述最后一点。",
+  "why": "内容分到了别的页面。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "They moved to another slide."
+   ]
+  ],
+  "options": [
+   "They became headings only.",
+   "They were removed from the talk.",
+   "They moved to another slide."
+  ],
+  "source": "read3000:Reading from the Back Row",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Reading from the Back Row"
+ },
+ {
+  "id": "WF2109",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Jun made slides with twelve short lines on each page. They looked neat on his laptop. At rehearsal, a friend in the last row could read the heading but not the lines. Jun moved half the lines to another slide and enlarged the rest. The talk still contained the same facts. This time his friend could repeat the final point without moving seats.\n\nWhat stayed unchanged?",
+  "cn": "俊的幻灯片每页十二行短句，在笔记本电脑上整齐好看。排练时后排朋友看得清标题却看不清正文。俊把一半文字移到另一页，把留下的文字放大。报告包含的事实没变，这次朋友不换座位也能复述最后一点。",
+  "why": "原文强调 facts 相同。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The facts in the talk."
+   ]
+  ],
+  "options": [
+   "The facts in the talk.",
+   "The size of each line.",
+   "The number of slides."
+  ],
+  "source": "read3000:Reading from the Back Row",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Reading from the Back Row"
+ },
+ {
+  "id": "WF2110",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Jun made slides with twelve short lines on each page. They looked neat on his laptop. At rehearsal, a friend in the last row could read the heading but not the lines. Jun moved half the lines to another slide and enlarged the rest. The talk still contained the same facts. This time his friend could repeat the final point without moving seats.\n\nWhy was the second check useful?",
+  "cn": "俊的幻灯片每页十二行短句，在笔记本电脑上整齐好看。排练时后排朋友看得清标题却看不清正文。俊把一半文字移到另一页，把留下的文字放大。报告包含的事实没变，这次朋友不换座位也能复述最后一点。",
+  "why": "位置不变，便于检验排版改变的效果。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "It tested the change from the same distant seat."
+   ]
+  ],
+  "options": [
+   "It tested the change from the same distant seat.",
+   "It replaced the rehearsal with a survey.",
+   "It made the room smaller."
+  ],
+  "source": "read3000:Reading from the Back Row",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Reading from the Back Row"
+ },
+ {
+  "id": "WF2111",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 3,
+  "text": "At first the magnet seemed to pull a paper flower toward it. A child guessed that all paper must be magnetic. Her partner made a second flower from the ____ sheet. It did not move. They opened the first flower and found a metal clip inside its stem. When they moved the clip to the new flower, that flower moved ____.",
+  "cn": "磁铁似乎把一朵纸花吸了过去。一个孩子猜所有纸都有磁性。同伴用同一张纸做了第二朵，它没动。他们拆开第一朵，在花茎内发现一个金属夹。把夹子移到新花里，新花就动了。",
+  "why": "第1空 same：用同一张纸使材料可比较。 第2空 instead：夹子转移后，换成新花移动。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "same"
+   ],
+   [
+    "instead"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Hidden Metal Clip",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Hidden Metal Clip",
+  "slotOptions": [
+   [
+    "painted",
+    "wettest",
+    "same",
+    "thickest"
+   ],
+   [
+    "earlier",
+    "equally",
+    "upstairs",
+    "instead"
+   ]
+  ]
+ },
+ {
+  "id": "WF2112",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "At first the magnet seemed to pull a paper flower toward it. A child guessed that all paper must be magnetic. Her partner made a second flower from the same sheet. It did not move. They opened the first flower and found a metal clip inside its stem. When they moved the clip to the new flower, that flower moved instead.\n\nWhat was the child's first claim?",
+  "cn": "磁铁似乎把一朵纸花吸了过去。一个孩子猜所有纸都有磁性。同伴用同一张纸做了第二朵，它没动。他们拆开第一朵，在花茎内发现一个金属夹。把夹子移到新花里，新花就动了。",
+  "why": "从第一次现象过早概括。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Paper itself was magnetic."
+   ]
+  ],
+  "options": [
+   "The magnet was made of paper.",
+   "All flowers contained clips.",
+   "Paper itself was magnetic."
+  ],
+  "source": "read3000:The Hidden Metal Clip",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Hidden Metal Clip"
+ },
+ {
+  "id": "WF2113",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "At first the magnet seemed to pull a paper flower toward it. A child guessed that all paper must be magnetic. Her partner made a second flower from the same sheet. It did not move. They opened the first flower and found a metal clip inside its stem. When they moved the clip to the new flower, that flower moved instead.\n\nWhat made the second flower a useful comparison?",
+  "cn": "磁铁似乎把一朵纸花吸了过去。一个孩子猜所有纸都有磁性。同伴用同一张纸做了第二朵，它没动。他们拆开第一朵，在花茎内发现一个金属夹。把夹子移到新花里，新花就动了。",
+  "why": "保持纸张来源相同。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Its paper came from the same sheet."
+   ]
+  ],
+  "options": [
+   "It had more petals.",
+   "Its paper came from the same sheet.",
+   "It was painted a new color."
+  ],
+  "source": "read3000:The Hidden Metal Clip",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Hidden Metal Clip"
+ },
+ {
+  "id": "WF2114",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "At first the magnet seemed to pull a paper flower toward it. A child guessed that all paper must be magnetic. Her partner made a second flower from the same sheet. It did not move. They opened the first flower and found a metal clip inside its stem. When they moved the clip to the new flower, that flower moved instead.\n\nWhere did the clip first lie?",
+  "cn": "磁铁似乎把一朵纸花吸了过去。一个孩子猜所有纸都有磁性。同伴用同一张纸做了第二朵，它没动。他们拆开第一朵，在花茎内发现一个金属夹。把夹子移到新花里，新花就动了。",
+  "why": "拆开花茎才发现。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Inside the first flower's stem."
+   ]
+  ],
+  "options": [
+   "Under the magnet.",
+   "On the floor.",
+   "Inside the first flower's stem."
+  ],
+  "source": "read3000:The Hidden Metal Clip",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Hidden Metal Clip"
+ },
+ {
+  "id": "WF2115",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "At first the magnet seemed to pull a paper flower toward it. A child guessed that all paper must be magnetic. Her partner made a second flower from the same sheet. It did not move. They opened the first flower and found a metal clip inside its stem. When they moved the clip to the new flower, that flower moved instead.\n\nWhich result most strongly supports the clip explanation?",
+  "cn": "磁铁似乎把一朵纸花吸了过去。一个孩子猜所有纸都有磁性。同伴用同一张纸做了第二朵，它没动。他们拆开第一朵，在花茎内发现一个金属夹。把夹子移到新花里，新花就动了。",
+  "why": "转移夹子就转移了效果。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The movement followed the clip to the other flower."
+   ]
+  ],
+  "options": [
+   "The first flower was larger.",
+   "The movement followed the clip to the other flower.",
+   "Both flowers looked attractive."
+  ],
+  "source": "read3000:The Hidden Metal Clip",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Hidden Metal Clip"
+ },
+ {
+  "id": "WF2116",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 3,
+  "text": "When Jo copied a neighbor's soup recipe, she wrote down all the ingredients but left out the cooking ____. She put the soft peas and hard carrots into the pot ____. By the time the carrots were ready, the peas had fallen apart. The neighbor showed her the missing note: start the carrots first. Jo kept the same amounts the next day and changed only the order.",
+  "cn": "乔抄邻居的汤谱时记下所有材料，却漏了烹饪顺序。她把软豌豆和硬胡萝卜同时下锅，胡萝卜熟时豌豆已煮烂。邻居给她看漏抄的提示：先煮胡萝卜。次日乔保持用量，只调整了顺序。",
+  "why": "第1空 order：她改变的是食材下锅顺序。 第2空 together：同时下锅导致豌豆煮过头。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "order"
+   ],
+   [
+    "together"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Borrowed Recipe",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Borrowed Recipe",
+  "slotOptions": [
+   [
+    "price",
+    "order",
+    "flavor",
+    "weight"
+   ],
+   [
+    "together",
+    "outside",
+    "apart",
+    "twice"
+   ]
+  ]
+ },
+ {
+  "id": "WF2117",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "When Jo copied a neighbor's soup recipe, she wrote down all the ingredients but left out the cooking order. She put the soft peas and hard carrots into the pot together. By the time the carrots were ready, the peas had fallen apart. The neighbor showed her the missing note: start the carrots first. Jo kept the same amounts the next day and changed only the order.\n\nWhat information was missing?",
+  "cn": "乔抄邻居的汤谱时记下所有材料，却漏了烹饪顺序。她把软豌豆和硬胡萝卜同时下锅，胡萝卜熟时豌豆已煮烂。邻居给她看漏抄的提示：先煮胡萝卜。次日乔保持用量，只调整了顺序。",
+  "why": "开头就提到漏抄烹饪顺序。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "When to add each vegetable."
+   ]
+  ],
+  "options": [
+   "When to add each vegetable.",
+   "How many peas to buy.",
+   "The name of the neighbor."
+  ],
+  "source": "read3000:A Borrowed Recipe",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Borrowed Recipe"
+ },
+ {
+  "id": "WF2118",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "When Jo copied a neighbor's soup recipe, she wrote down all the ingredients but left out the cooking order. She put the soft peas and hard carrots into the pot together. By the time the carrots were ready, the peas had fallen apart. The neighbor showed her the missing note: start the carrots first. Jo kept the same amounts the next day and changed only the order.\n\nWhat happened while the carrots cooked?",
+  "cn": "乔抄邻居的汤谱时记下所有材料，却漏了烹饪顺序。她把软豌豆和硬胡萝卜同时下锅，胡萝卜熟时豌豆已煮烂。邻居给她看漏抄的提示：先煮胡萝卜。次日乔保持用量，只调整了顺序。",
+  "why": "by the time 展示不同熟成时间。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The peas became too soft."
+   ]
+  ],
+  "options": [
+   "The peas became too soft.",
+   "The soup froze.",
+   "The carrots fell out."
+  ],
+  "source": "read3000:A Borrowed Recipe",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Borrowed Recipe"
+ },
+ {
+  "id": "WF2119",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "When Jo copied a neighbor's soup recipe, she wrote down all the ingredients but left out the cooking order. She put the soft peas and hard carrots into the pot together. By the time the carrots were ready, the peas had fallen apart. The neighbor showed her the missing note: start the carrots first. Jo kept the same amounts the next day and changed only the order.\n\nWhy start the carrots first?",
+  "cn": "乔抄邻居的汤谱时记下所有材料，却漏了烹饪顺序。她把软豌豆和硬胡萝卜同时下锅，胡萝卜熟时豌豆已煮烂。邻居给她看漏抄的提示：先煮胡萝卜。次日乔保持用量，只调整了顺序。",
+  "why": "等硬胡萝卜熟时软豌豆已烂。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "They needed more cooking time."
+   ]
+  ],
+  "options": [
+   "They were cheaper.",
+   "They had to stay hard.",
+   "They needed more cooking time."
+  ],
+  "source": "read3000:A Borrowed Recipe",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Borrowed Recipe"
+ },
+ {
+  "id": "WF2120",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "When Jo copied a neighbor's soup recipe, she wrote down all the ingredients but left out the cooking order. She put the soft peas and hard carrots into the pot together. By the time the carrots were ready, the peas had fallen apart. The neighbor showed her the missing note: start the carrots first. Jo kept the same amounts the next day and changed only the order.\n\nWhat was kept constant in the next attempt?",
+  "cn": "乔抄邻居的汤谱时记下所有材料，却漏了烹饪顺序。她把软豌豆和硬胡萝卜同时下锅，胡萝卜熟时豌豆已煮烂。邻居给她看漏抄的提示：先煮胡萝卜。次日乔保持用量，只调整了顺序。",
+  "why": "最后一句明确 same amounts。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Ingredient amounts."
+   ]
+  ],
+  "options": [
+   "The condition of the peas afterward.",
+   "Ingredient amounts.",
+   "Cooking order."
+  ],
+  "source": "read3000:A Borrowed Recipe",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Borrowed Recipe"
+ },
+ {
+  "id": "WF2121",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 4,
+  "text": "Customers at a repair shop complained that the queue moved slowly. The owner timed each job and found no change from the ____ month. Then she noticed that the clock above the door ran six minutes fast. A waiting customer compared it with the time on his receipt and thought he had waited much longer. The owner corrected the clock. Jobs took just as long afterward, but customers had a better ____ for judging the wait.",
+  "cn": "维修店顾客抱怨排队慢。店主计时发现每项工作的用时与上月无异。门上的钟快了六分钟，一名顾客把它与收据时间对照，误以为等候久得多。校准后，实际服务用时仍相同，但顾客判断等候时间的依据更准确。",
+  "why": "第1空 previous：比较的是已过去的上个月。 第2空 basis：计时准确提供了可靠依据。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "previous"
+   ],
+   [
+    "basis"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Clock Above the Door",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Clock Above the Door",
+  "slotOptions": [
+   [
+    "next",
+    "following",
+    "previous",
+    "distant"
+   ],
+   [
+    "price",
+    "seat",
+    "task",
+    "basis"
+   ]
+  ]
+ },
+ {
+  "id": "WF2122",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Customers at a repair shop complained that the queue moved slowly. The owner timed each job and found no change from the previous month. Then she noticed that the clock above the door ran six minutes fast. A waiting customer compared it with the time on his receipt and thought he had waited much longer. The owner corrected the clock. Jobs took just as long afterward, but customers had a better basis for judging the wait.\n\nWhat did the owner measure first?",
+  "cn": "维修店顾客抱怨排队慢。店主计时发现每项工作的用时与上月无异。门上的钟快了六分钟，一名顾客把它与收据时间对照，误以为等候久得多。校准后，实际服务用时仍相同，但顾客判断等候时间的依据更准确。",
+  "why": "先核对工作实际用时。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The time spent on each job."
+   ]
+  ],
+  "options": [
+   "The time spent on each job.",
+   "The length of the wall.",
+   "The number of receipts printed."
+  ],
+  "source": "read3000:The Clock Above the Door",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Clock Above the Door"
+ },
+ {
+  "id": "WF2123",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Customers at a repair shop complained that the queue moved slowly. The owner timed each job and found no change from the previous month. Then she noticed that the clock above the door ran six minutes fast. A waiting customer compared it with the time on his receipt and thought he had waited much longer. The owner corrected the clock. Jobs took just as long afterward, but customers had a better basis for judging the wait.\n\nWhich two times did the customer compare?",
+  "cn": "维修店顾客抱怨排队慢。店主计时发现每项工作的用时与上月无异。门上的钟快了六分钟，一名顾客把它与收据时间对照，误以为等候久得多。校准后，实际服务用时仍相同，但顾客判断等候时间的依据更准确。",
+  "why": "原文点明对照的来源。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The wall clock and his receipt."
+   ]
+  ],
+  "options": [
+   "His watch and the owner's phone.",
+   "Two receipts from last month.",
+   "The wall clock and his receipt."
+  ],
+  "source": "read3000:The Clock Above the Door",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Clock Above the Door"
+ },
+ {
+  "id": "WF2124",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Customers at a repair shop complained that the queue moved slowly. The owner timed each job and found no change from the previous month. Then she noticed that the clock above the door ran six minutes fast. A waiting customer compared it with the time on his receipt and thought he had waited much longer. The owner corrected the clock. Jobs took just as long afterward, but customers had a better basis for judging the wait.\n\nWhat did correcting the clock directly improve?",
+  "cn": "维修店顾客抱怨排队慢。店主计时发现每项工作的用时与上月无异。门上的钟快了六分钟，一名顾客把它与收据时间对照，误以为等候久得多。校准后，实际服务用时仍相同，但顾客判断等候时间的依据更准确。",
+  "why": "校钟改变的是信息准确性。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The accuracy of the displayed time."
+   ]
+  ],
+  "options": [
+   "The speed of each repair.",
+   "The accuracy of the displayed time.",
+   "The number of workers."
+  ],
+  "source": "read3000:The Clock Above the Door",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Clock Above the Door"
+ },
+ {
+  "id": "WF2125",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Customers at a repair shop complained that the queue moved slowly. The owner timed each job and found no change from the previous month. Then she noticed that the clock above the door ran six minutes fast. A waiting customer compared it with the time on his receipt and thought he had waited much longer. The owner corrected the clock. Jobs took just as long afterward, but customers had a better basis for judging the wait.\n\nWhich conclusion goes beyond the evidence?",
+  "cn": "维修店顾客抱怨排队慢。店主计时发现每项工作的用时与上月无异。门上的钟快了六分钟，一名顾客把它与收据时间对照，误以为等候久得多。校准后，实际服务用时仍相同，但顾客判断等候时间的依据更准确。",
+  "why": "一个例子和计时不足以解释每条投诉。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Every complaint was caused by the clock."
+   ]
+  ],
+  "options": [
+   "The clock ran fast.",
+   "Every complaint was caused by the clock.",
+   "Measured job times had stayed similar."
+  ],
+  "source": "read3000:The Clock Above the Door",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Clock Above the Door"
+ },
+ {
+  "id": "WF2126",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 4,
+  "text": "A school survey found that window seats in the reading room were occupied most often. A pupil suggested buying brighter lights for the other seats. Another pupil pointed out that every window seat also had a power socket. To investigate, the club ____ supplied sockets to half the inner tables. More laptop users took those places. The result did not prove that daylight was unimportant; it showed that seat choice had more than one ____ explanation.",
+  "cn": "调查发现阅览室窗边座位最常有人坐。有人建议给内侧加亮灯，另有人指出所有窗边座位也都有插座。社团暂时给一半内侧桌子供电，更多笔记本电脑用户改坐那里。结果并没有证明日光不重要，只说明选座可能有多种原因。",
+  "why": "第1空 temporarily：为调查而暂时改变条件。 第2空 possible：多种解释仍有可能。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "temporarily"
+   ],
+   [
+    "possible"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Popular Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Popular Seat",
+  "slotOptions": [
+   [
+    "accidentally",
+    "too late",
+    "permanently",
+    "temporarily"
+   ],
+   [
+    "written",
+    "identical",
+    "possible",
+    "final"
+   ]
+  ]
+ },
+ {
+  "id": "WF2127",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A school survey found that window seats in the reading room were occupied most often. A pupil suggested buying brighter lights for the other seats. Another pupil pointed out that every window seat also had a power socket. To investigate, the club temporarily supplied sockets to half the inner tables. More laptop users took those places. The result did not prove that daylight was unimportant; it showed that seat choice had more than one possible explanation.\n\nWhat feature did every window seat have besides light?",
+  "cn": "调查发现阅览室窗边座位最常有人坐。有人建议给内侧加亮灯，另有人指出所有窗边座位也都有插座。社团暂时给一半内侧桌子供电，更多笔记本电脑用户改坐那里。结果并没有证明日光不重要，只说明选座可能有多种原因。",
+  "why": "两个条件原来同时存在。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A power socket."
+   ]
+  ],
+  "options": [
+   "A curtain.",
+   "A larger chair.",
+   "A power socket."
+  ],
+  "source": "read3000:A Popular Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Popular Seat"
+ },
+ {
+  "id": "WF2128",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A school survey found that window seats in the reading room were occupied most often. A pupil suggested buying brighter lights for the other seats. Another pupil pointed out that every window seat also had a power socket. To investigate, the club temporarily supplied sockets to half the inner tables. More laptop users took those places. The result did not prove that daylight was unimportant; it showed that seat choice had more than one possible explanation.\n\nWhat did the club change?",
+  "cn": "调查发现阅览室窗边座位最常有人坐。有人建议给内侧加亮灯，另有人指出所有窗边座位也都有插座。社团暂时给一半内侧桌子供电，更多笔记本电脑用户改坐那里。结果并没有证明日光不重要，只说明选座可能有多种原因。",
+  "why": "只在部分内侧桌增加电源。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Power access at some inner tables."
+   ]
+  ],
+  "options": [
+   "The windows' size.",
+   "Power access at some inner tables.",
+   "All the chairs at once."
+  ],
+  "source": "read3000:A Popular Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Popular Seat"
+ },
+ {
+  "id": "WF2129",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A school survey found that window seats in the reading room were occupied most often. A pupil suggested buying brighter lights for the other seats. Another pupil pointed out that every window seat also had a power socket. To investigate, the club temporarily supplied sockets to half the inner tables. More laptop users took those places. The result did not prove that daylight was unimportant; it showed that seat choice had more than one possible explanation.\n\nWhich group changed its seating pattern?",
+  "cn": "调查发现阅览室窗边座位最常有人坐。有人建议给内侧加亮灯，另有人指出所有窗边座位也都有插座。社团暂时给一半内侧桌子供电，更多笔记本电脑用户改坐那里。结果并没有证明日光不重要，只说明选座可能有多种原因。",
+  "why": "观察结果特别提及 laptop users。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Laptop users."
+   ]
+  ],
+  "options": [
+   "Laptop users.",
+   "Only the teachers.",
+   "All visitors without exception."
+  ],
+  "source": "read3000:A Popular Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Popular Seat"
+ },
+ {
+  "id": "WF2130",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A school survey found that window seats in the reading room were occupied most often. A pupil suggested buying brighter lights for the other seats. Another pupil pointed out that every window seat also had a power socket. To investigate, the club temporarily supplied sockets to half the inner tables. More laptop users took those places. The result did not prove that daylight was unimportant; it showed that seat choice had more than one possible explanation.\n\nWhat is the most careful conclusion?",
+  "cn": "调查发现阅览室窗边座位最常有人坐。有人建议给内侧加亮灯，另有人指出所有窗边座位也都有插座。社团暂时给一半内侧桌子供电，更多笔记本电脑用户改坐那里。结果并没有证明日光不重要，只说明选座可能有多种原因。",
+  "why": "实验支持插座有影响，未排除日光。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Sockets can influence some choices."
+   ]
+  ],
+  "options": [
+   "Daylight has no value.",
+   "Sockets can influence some choices.",
+   "All users prefer the darkest seats."
+  ],
+  "source": "read3000:A Popular Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Popular Seat"
+ },
+ {
+  "id": "WF2131",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 4,
+  "text": "For a display of old diaries, Mia selected the neatest entry in each book. The result made every writer seem confident and organized. A volunteer then read the pages that came ____ those entries. They contained questions, crossed-out plans and changes of mind. Mia kept the neat pages but added an earlier page ____ each. Visitors could now see a finished idea and something of the work that had produced it.",
+  "cn": "米娅为旧日记展给每本书挑最整齐的一篇，结果每个作者看起来都自信而有条理。志愿者读了这些段落之前的页面，里面有疑问、划掉的计划和改主意的痕迹。米娅保留整齐的页面，同时在旁边放一页早期记录。参观者就能看到成形的想法和部分形成过程。",
+  "why": "第1空 before：寻找想法形成前的痕迹。 第2空 beside：保留原页并在旁边对照展示。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "before"
+   ],
+   [
+    "beside"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Last Page First",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Page First",
+  "slotOptions": [
+   [
+    "far beyond",
+    "against",
+    "before",
+    "inside out"
+   ],
+   [
+    "far from",
+    "away from",
+    "beside",
+    "instead of"
+   ]
+  ]
+ },
+ {
+  "id": "WF2132",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "For a display of old diaries, Mia selected the neatest entry in each book. The result made every writer seem confident and organized. A volunteer then read the pages that came before those entries. They contained questions, crossed-out plans and changes of mind. Mia kept the neat pages but added an earlier page beside each. Visitors could now see a finished idea and something of the work that had produced it.\n\nHow did Mia first choose entries?",
+  "cn": "米娅为旧日记展给每本书挑最整齐的一篇，结果每个作者看起来都自信而有条理。志愿者读了这些段落之前的页面，里面有疑问、划掉的计划和改主意的痕迹。米娅保留整齐的页面，同时在旁边放一页早期记录。参观者就能看到成形的想法和部分形成过程。",
+  "why": "neatest 是最初的选择标准。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "By neatness."
+   ]
+  ],
+  "options": [
+   "By number of questions.",
+   "By age of writer.",
+   "By neatness."
+  ],
+  "source": "read3000:The Last Page First",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Page First"
+ },
+ {
+  "id": "WF2133",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "For a display of old diaries, Mia selected the neatest entry in each book. The result made every writer seem confident and organized. A volunteer then read the pages that came before those entries. They contained questions, crossed-out plans and changes of mind. Mia kept the neat pages but added an earlier page beside each. Visitors could now see a finished idea and something of the work that had produced it.\n\nWhat impression did this choice create?",
+  "cn": "米娅为旧日记展给每本书挑最整齐的一篇，结果每个作者看起来都自信而有条理。志愿者读了这些段落之前的页面，里面有疑问、划掉的计划和改主意的痕迹。米娅保留整齐的页面，同时在旁边放一页早期记录。参观者就能看到成形的想法和部分形成过程。",
+  "why": "只看成品容易产生整齐自信的印象。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The writers always appeared organized."
+   ]
+  ],
+  "options": [
+   "No writer had completed anything.",
+   "All diaries covered one day.",
+   "The writers always appeared organized."
+  ],
+  "source": "read3000:The Last Page First",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Page First"
+ },
+ {
+  "id": "WF2134",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "For a display of old diaries, Mia selected the neatest entry in each book. The result made every writer seem confident and organized. A volunteer then read the pages that came before those entries. They contained questions, crossed-out plans and changes of mind. Mia kept the neat pages but added an earlier page beside each. Visitors could now see a finished idea and something of the work that had produced it.\n\nWhat did earlier pages reveal?",
+  "cn": "米娅为旧日记展给每本书挑最整齐的一篇，结果每个作者看起来都自信而有条理。志愿者读了这些段落之前的页面，里面有疑问、划掉的计划和改主意的痕迹。米娅保留整齐的页面，同时在旁边放一页早期记录。参观者就能看到成形的想法和部分形成过程。",
+  "why": "问题、划掉内容和改变主意都是过程证据。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Revision and uncertainty."
+   ]
+  ],
+  "options": [
+   "The price of each book.",
+   "Revision and uncertainty.",
+   "The names of all visitors."
+  ],
+  "source": "read3000:The Last Page First",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Page First"
+ },
+ {
+  "id": "WF2135",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "For a display of old diaries, Mia selected the neatest entry in each book. The result made every writer seem confident and organized. A volunteer then read the pages that came before those entries. They contained questions, crossed-out plans and changes of mind. Mia kept the neat pages but added an earlier page beside each. Visitors could now see a finished idea and something of the work that had produced it.\n\nWhy keep the original selection as well?",
+  "cn": "米娅为旧日记展给每本书挑最整齐的一篇，结果每个作者看起来都自信而有条理。志愿者读了这些段落之前的页面，里面有疑问、划掉的计划和改主意的痕迹。米娅保留整齐的页面，同时在旁边放一页早期记录。参观者就能看到成形的想法和部分形成过程。",
+  "why": "并置过程与成品比单独展示更能体现变化。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The two pages together showed development."
+   ]
+  ],
+  "options": [
+   "Visitors wanted fewer ideas.",
+   "Earlier pages were unreadable.",
+   "The two pages together showed development."
+  ],
+  "source": "read3000:The Last Page First",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Page First"
+ },
+ {
+  "id": "WF2136",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 4,
+  "text": "The coach compared the times of two runners on a windy day. The first had run toward the wind, the second with it ____ her. Their times were different, but the coach ____ to call one faster. She invited both to run each direction on a later day. A third pupil asked whether the new test removed every difference. No, said the coach; it dealt with one important difference they had already noticed.",
+  "cn": "教练比较了两人在有风天气的成绩，一人迎风跑，另一人顺风跑。虽然成绩不同，她没有马上判定谁更快。她请两人改日各跑两个方向。第三位学生问新试验是否排除了全部差异。教练说没有，只处理了一个已注意到的重要差异。",
+  "why": "第1空 behind：第二人顺风，风在身后。 第2空 hesitated：教练因条件不同而犹豫。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "behind"
+   ],
+   [
+    "hesitated"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Third Runner",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Third Runner",
+  "slotOptions": [
+   [
+    "behind",
+    "beyond reach of",
+    "above",
+    "inside"
+   ],
+   [
+    "hesitated",
+    "promised",
+    "forgot how",
+    "hurried"
+   ]
+  ]
+ },
+ {
+  "id": "WF2137",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The coach compared the times of two runners on a windy day. The first had run toward the wind, the second with it behind her. Their times were different, but the coach hesitated to call one faster. She invited both to run each direction on a later day. A third pupil asked whether the new test removed every difference. No, said the coach; it dealt with one important difference they had already noticed.\n\nWhy was the first comparison questionable?",
+  "cn": "教练比较了两人在有风天气的成绩，一人迎风跑，另一人顺风跑。虽然成绩不同，她没有马上判定谁更快。她请两人改日各跑两个方向。第三位学生问新试验是否排除了全部差异。教练说没有，只处理了一个已注意到的重要差异。",
+  "why": "风向给两人带来不同条件。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Wind affected the directions differently."
+   ]
+  ],
+  "options": [
+   "The coach lost the times.",
+   "Both ran too slowly.",
+   "Wind affected the directions differently."
+  ],
+  "source": "read3000:The Third Runner",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Third Runner"
+ },
+ {
+  "id": "WF2138",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The coach compared the times of two runners on a windy day. The first had run toward the wind, the second with it behind her. Their times were different, but the coach hesitated to call one faster. She invited both to run each direction on a later day. A third pupil asked whether the new test removed every difference. No, said the coach; it dealt with one important difference they had already noticed.\n\nWhat did the coach ask both runners to do?",
+  "cn": "教练比较了两人在有风天气的成绩，一人迎风跑，另一人顺风跑。虽然成绩不同，她没有马上判定谁更快。她请两人改日各跑两个方向。第三位学生问新试验是否排除了全部差异。教练说没有，只处理了一个已注意到的重要差异。",
+  "why": "新办法让两人都体验两个方向。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Run in both directions."
+   ]
+  ],
+  "options": [
+   "Exchange shoes.",
+   "Run only with the wind.",
+   "Run in both directions."
+  ],
+  "source": "read3000:The Third Runner",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Third Runner"
+ },
+ {
+  "id": "WF2139",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The coach compared the times of two runners on a windy day. The first had run toward the wind, the second with it behind her. Their times were different, but the coach hesitated to call one faster. She invited both to run each direction on a later day. A third pupil asked whether the new test removed every difference. No, said the coach; it dealt with one important difference they had already noticed.\n\nWho raised the question about remaining differences?",
+  "cn": "教练比较了两人在有风天气的成绩，一人迎风跑，另一人顺风跑。虽然成绩不同，她没有马上判定谁更快。她请两人改日各跑两个方向。第三位学生问新试验是否排除了全部差异。教练说没有，只处理了一个已注意到的重要差异。",
+  "why": "文末第三名学生提问。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A third pupil."
+   ]
+  ],
+  "options": [
+   "A third pupil.",
+   "The first runner alone.",
+   "An absent parent."
+  ],
+  "source": "read3000:The Third Runner",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Third Runner"
+ },
+ {
+  "id": "WF2140",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The coach compared the times of two runners on a windy day. The first had run toward the wind, the second with it behind her. Their times were different, but the coach hesitated to call one faster. She invited both to run each direction on a later day. A third pupil asked whether the new test removed every difference. No, said the coach; it dealt with one important difference they had already noticed.\n\nWhat was the coach's view of the revised test?",
+  "cn": "教练比较了两人在有风天气的成绩，一人迎风跑，另一人顺风跑。虽然成绩不同，她没有马上判定谁更快。她请两人改日各跑两个方向。第三位学生问新试验是否排除了全部差异。教练说没有，只处理了一个已注意到的重要差异。",
+  "why": "承认具体改进，也承认局限。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "It improved the comparison without making it perfect."
+   ]
+  ],
+  "options": [
+   "It was no better than before.",
+   "It settled every possible question.",
+   "It improved the comparison without making it perfect."
+  ],
+  "source": "read3000:The Third Runner",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Third Runner"
+ },
+ {
+  "id": "WF2141",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 4,
+  "text": "The drama club added a bright lamp because audiences could not see the actor's face. From the front row the new lamp worked well. In the back row, however, light ____ from a shiny poster behind the actor and made the face harder to see. Removing the poster helped both rows. The club kept the lamp, but from then on somebody ____ each lighting change from more than one seat.",
+  "cn": "戏剧社为让观众看清演员脸部，加了一盏亮灯。前排效果很好，后排却因演员身后光亮海报的反射更看不清。撤去海报让两排视野都改善了。社团保留灯，并从此在多个座位测试每次调光的效果。",
+  "why": "第1空 reflected：亮面会反光。 第2空 tested：安排人实际从不同位置检验。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "reflected"
+   ],
+   [
+    "tested"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Stage Too Bright",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Stage Too Bright",
+  "slotOptions": [
+   [
+    "borrowed",
+    "reflected",
+    "blocked",
+    "absorbed"
+   ],
+   [
+    "tested",
+    "promised",
+    "hid",
+    "ignored"
+   ]
+  ]
+ },
+ {
+  "id": "WF2142",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The drama club added a bright lamp because audiences could not see the actor's face. From the front row the new lamp worked well. In the back row, however, light reflected from a shiny poster behind the actor and made the face harder to see. Removing the poster helped both rows. The club kept the lamp, but from then on somebody tested each lighting change from more than one seat.\n\nWhat problem prompted the new lamp?",
+  "cn": "戏剧社为让观众看清演员脸部，加了一盏亮灯。前排效果很好，后排却因演员身后光亮海报的反射更看不清。撤去海报让两排视野都改善了。社团保留灯，并从此在多个座位测试每次调光的效果。",
+  "why": "首句说明目的。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Poor visibility of the actor's face."
+   ]
+  ],
+  "options": [
+   "Poor visibility of the actor's face.",
+   "Too much noise.",
+   "A broken poster."
+  ],
+  "source": "read3000:A Stage Too Bright",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Stage Too Bright"
+ },
+ {
+  "id": "WF2143",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The drama club added a bright lamp because audiences could not see the actor's face. From the front row the new lamp worked well. In the back row, however, light reflected from a shiny poster behind the actor and made the face harder to see. Removing the poster helped both rows. The club kept the lamp, but from then on somebody tested each lighting change from more than one seat.\n\nWhy was the front-row check insufficient?",
+  "cn": "戏剧社为让观众看清演员脸部，加了一盏亮灯。前排效果很好，后排却因演员身后光亮海报的反射更看不清。撤去海报让两排视野都改善了。社团保留灯，并从此在多个座位测试每次调光的效果。",
+  "why": "不同座位看到的反光不同。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The reflection affected a different viewpoint."
+   ]
+  ],
+  "options": [
+   "The lamp was off in front.",
+   "The reflection affected a different viewpoint.",
+   "Nobody sat in front."
+  ],
+  "source": "read3000:A Stage Too Bright",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Stage Too Bright"
+ },
+ {
+  "id": "WF2144",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The drama club added a bright lamp because audiences could not see the actor's face. From the front row the new lamp worked well. In the back row, however, light reflected from a shiny poster behind the actor and made the face harder to see. Removing the poster helped both rows. The club kept the lamp, but from then on somebody tested each lighting change from more than one seat.\n\nWhich combination was kept?",
+  "cn": "戏剧社为让观众看清演员脸部，加了一盏亮灯。前排效果很好，后排却因演员身后光亮海报的反射更看不清。撤去海报让两排视野都改善了。社团保留灯，并从此在多个座位测试每次调光的效果。",
+  "why": "移除海报，保留灯。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The lamp without the shiny poster."
+   ]
+  ],
+  "options": [
+   "The lamp without the shiny poster.",
+   "The poster without the lamp.",
+   "Neither the lamp nor any testing."
+  ],
+  "source": "read3000:A Stage Too Bright",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Stage Too Bright"
+ },
+ {
+  "id": "WF2145",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The drama club added a bright lamp because audiences could not see the actor's face. From the front row the new lamp worked well. In the back row, however, light reflected from a shiny poster behind the actor and made the face harder to see. Removing the poster helped both rows. The club kept the lamp, but from then on somebody tested each lighting change from more than one seat.\n\nWhich practice changed for future shows?",
+  "cn": "戏剧社为让观众看清演员脸部，加了一盏亮灯。前排效果很好，后排却因演员身后光亮海报的反射更看不清。撤去海报让两排视野都改善了。社团保留灯，并从此在多个座位测试每次调光的效果。",
+  "why": "末句明确以后如何测试。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Checking from several seats."
+   ]
+  ],
+  "options": [
+   "Buying a lamp after every performance.",
+   "Checking from several seats.",
+   "Removing every poster in school."
+  ],
+  "source": "read3000:A Stage Too Bright",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Stage Too Bright"
+ },
+ {
+  "id": "WF2146",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 4,
+  "text": "Two clubs reported a total of thirty at their final meeting. The chess club meant thirty ____ members. The walking club meant thirty attendances over three walks; some members had gone every time. The school editor nearly printed a line saying the clubs were the same size. Once she checked the forms, she reported the figures ____ and asked both clubs to count distinct members next term.",
+  "cn": "两个社团在总结会上都报出三十。棋社指三十名不同成员，步行社指三次活动累计三十人次，有人每次都来。校刊编辑险些写成两社人数相同。核对表格后她分别报告数据，请两社下学期都统计不重复成员数。",
+  "why": "第1空 different：棋社的统计单位是不同的人。 第2空 separately：不同口径下分开报告。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "different"
+   ],
+   [
+    "separately"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Number with Two Meanings",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Number with Two Meanings",
+  "slotOptions": [
+   [
+    "different",
+    "borrowed",
+    "future",
+    "absent"
+   ],
+   [
+    "in silence",
+    "separately",
+    "at random",
+    "equally often"
+   ]
+  ]
+ },
+ {
+  "id": "WF2147",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Two clubs reported a total of thirty at their final meeting. The chess club meant thirty different members. The walking club meant thirty attendances over three walks; some members had gone every time. The school editor nearly printed a line saying the clubs were the same size. Once she checked the forms, she reported the figures separately and asked both clubs to count distinct members next term.\n\nWhat did the walking club count?",
+  "cn": "两个社团在总结会上都报出三十。棋社指三十名不同成员，步行社指三次活动累计三十人次，有人每次都来。校刊编辑险些写成两社人数相同。核对表格后她分别报告数据，请两社下学期都统计不重复成员数。",
+  "why": "三次步行的人次可以重复。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Attendances."
+   ]
+  ],
+  "options": [
+   "Attendances.",
+   "Only first-time walkers.",
+   "Its full membership list."
+  ],
+  "source": "read3000:A Number with Two Meanings",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Number with Two Meanings"
+ },
+ {
+  "id": "WF2148",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Two clubs reported a total of thirty at their final meeting. The chess club meant thirty different members. The walking club meant thirty attendances over three walks; some members had gone every time. The school editor nearly printed a line saying the clubs were the same size. Once she checked the forms, she reported the figures separately and asked both clubs to count distinct members next term.\n\nWhich proposed sentence was unjustified?",
+  "cn": "两个社团在总结会上都报出三十。棋社指三十名不同成员，步行社指三次活动累计三十人次，有人每次都来。校刊编辑险些写成两社人数相同。核对表格后她分别报告数据，请两社下学期都统计不重复成员数。",
+  "why": "不同单位的两个三十不能推出规模相等。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The clubs had equal membership."
+   ]
+  ],
+  "options": [
+   "The chess club counted people.",
+   "The walking figure covered three walks.",
+   "The clubs had equal membership."
+  ],
+  "source": "read3000:A Number with Two Meanings",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Number with Two Meanings"
+ },
+ {
+  "id": "WF2149",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Two clubs reported a total of thirty at their final meeting. The chess club meant thirty different members. The walking club meant thirty attendances over three walks; some members had gone every time. The school editor nearly printed a line saying the clubs were the same size. Once she checked the forms, she reported the figures separately and asked both clubs to count distinct members next term.\n\nWhy ask for distinct members?",
+  "cn": "两个社团在总结会上都报出三十。棋社指三十名不同成员，步行社指三次活动累计三十人次，有人每次都来。校刊编辑险些写成两社人数相同。核对表格后她分别报告数据，请两社下学期都统计不重复成员数。",
+  "why": "统一下次统计口径。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "To obtain comparable figures."
+   ]
+  ],
+  "options": [
+   "To cancel repeat visits.",
+   "To obtain comparable figures.",
+   "To choose the winning club."
+  ],
+  "source": "read3000:A Number with Two Meanings",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Number with Two Meanings"
+ },
+ {
+  "id": "WF2150",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Two clubs reported a total of thirty at their final meeting. The chess club meant thirty different members. The walking club meant thirty attendances over three walks; some members had gone every time. The school editor nearly printed a line saying the clubs were the same size. Once she checked the forms, she reported the figures separately and asked both clubs to count distinct members next term.\n\nWhich information is still unknown?",
+  "cn": "两个社团在总结会上都报出三十。棋社指三十名不同成员，步行社指三次活动累计三十人次，有人每次都来。校刊编辑险些写成两社人数相同。核对表格后她分别报告数据，请两社下学期都统计不重复成员数。",
+  "why": "三十人次无法反推出唯一人数。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "How many different walkers attended."
+   ]
+  ],
+  "options": [
+   "How many different walkers attended.",
+   "What figure the chess club reported.",
+   "How many walks were counted."
+  ],
+  "source": "read3000:A Number with Two Meanings",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Number with Two Meanings"
+ },
+ {
+  "id": "WF2151",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 4,
+  "text": "A town sign said that the museum was a ten-minute walk away. Families following it took nearly twenty minutes to reach the ticket desk. A volunteer walked the route and found that the ten minutes ended at the museum gate. The desk was ____ a large courtyard. Rather than ____ ten with twenty, the town added a second line giving the walk from gate to desk. A visitor meeting a friend at the gate still needed the first time.",
+  "cn": "镇上路牌写着到博物馆步行十分钟。家庭游客到售票台却用了近二十分钟。志愿者走后发现十分钟算到馆门，售票台在大庭院另一头。镇上没有直接用二十替换十，而是另写一行门口到售票台的用时。约朋友在馆门碰头的人仍需要第一个时间。",
+  "why": "第1空 beyond：穿过庭院才到售票台。 第2空 replace：replace A with B 是用 B 取代 A。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "beyond"
+   ],
+   [
+    "replace"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:Where the Sign Ends",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Where the Sign Ends",
+  "slotOptions": [
+   [
+    "above",
+    "under",
+    "inside of",
+    "beyond"
+   ],
+   [
+    "record",
+    "replace",
+    "compare",
+    "count"
+   ]
+  ]
+ },
+ {
+  "id": "WF2152",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A town sign said that the museum was a ten-minute walk away. Families following it took nearly twenty minutes to reach the ticket desk. A volunteer walked the route and found that the ten minutes ended at the museum gate. The desk was beyond a large courtyard. Rather than replace ten with twenty, the town added a second line giving the walk from gate to desk. A visitor meeting a friend at the gate still needed the first time.\n\nWhat was the endpoint of the original estimate?",
+  "cn": "镇上路牌写着到博物馆步行十分钟。家庭游客到售票台却用了近二十分钟。志愿者走后发现十分钟算到馆门，售票台在大庭院另一头。镇上没有直接用二十替换十，而是另写一行门口到售票台的用时。约朋友在馆门碰头的人仍需要第一个时间。",
+  "why": "志愿者现场核实终点。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The museum gate."
+   ]
+  ],
+  "options": [
+   "The museum gate.",
+   "The far gallery.",
+   "The ticket desk."
+  ],
+  "source": "read3000:Where the Sign Ends",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Where the Sign Ends"
+ },
+ {
+  "id": "WF2153",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A town sign said that the museum was a ten-minute walk away. Families following it took nearly twenty minutes to reach the ticket desk. A volunteer walked the route and found that the ten minutes ended at the museum gate. The desk was beyond a large courtyard. Rather than replace ten with twenty, the town added a second line giving the walk from gate to desk. A visitor meeting a friend at the gate still needed the first time.\n\nWhy did families report a longer walk?",
+  "cn": "镇上路牌写着到博物馆步行十分钟。家庭游客到售票台却用了近二十分钟。志愿者走后发现十分钟算到馆门，售票台在大庭院另一头。镇上没有直接用二十替换十，而是另写一行门口到售票台的用时。约朋友在馆门碰头的人仍需要第一个时间。",
+  "why": "终点不同导致用时不同。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "They measured to a farther endpoint."
+   ]
+  ],
+  "options": [
+   "The sign described a bus ride.",
+   "They measured to a farther endpoint.",
+   "They all ignored the sign."
+  ],
+  "source": "read3000:Where the Sign Ends",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Where the Sign Ends"
+ },
+ {
+  "id": "WF2154",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A town sign said that the museum was a ten-minute walk away. Families following it took nearly twenty minutes to reach the ticket desk. A volunteer walked the route and found that the ten minutes ended at the museum gate. The desk was beyond a large courtyard. Rather than replace ten with twenty, the town added a second line giving the walk from gate to desk. A visitor meeting a friend at the gate still needed the first time.\n\nWhy keep the first time?",
+  "cn": "镇上路牌写着到博物馆步行十分钟。家庭游客到售票台却用了近二十分钟。志愿者走后发现十分钟算到馆门，售票台在大庭院另一头。镇上没有直接用二十替换十，而是另写一行门口到售票台的用时。约朋友在馆门碰头的人仍需要第一个时间。",
+  "why": "馆门仍是有用的会面点。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Some visitors stop at the gate."
+   ]
+  ],
+  "options": [
+   "All visitors walk equally fast.",
+   "It was cheaper to leave any error.",
+   "Some visitors stop at the gate."
+  ],
+  "source": "read3000:Where the Sign Ends",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Where the Sign Ends"
+ },
+ {
+  "id": "WF2155",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A town sign said that the museum was a ten-minute walk away. Families following it took nearly twenty minutes to reach the ticket desk. A volunteer walked the route and found that the ten minutes ended at the museum gate. The desk was beyond a large courtyard. Rather than replace ten with twenty, the town added a second line giving the walk from gate to desk. A visitor meeting a friend at the gate still needed the first time.\n\nWhat did the second line clarify?",
+  "cn": "镇上路牌写着到博物馆步行十分钟。家庭游客到售票台却用了近二十分钟。志愿者走后发现十分钟算到馆门，售票台在大庭院另一头。镇上没有直接用二十替换十，而是另写一行门口到售票台的用时。约朋友在馆门碰头的人仍需要第一个时间。",
+  "why": "补上门口到服务台的距离用时。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The additional stretch inside the grounds."
+   ]
+  ],
+  "options": [
+   "Which tickets cost less.",
+   "The additional stretch inside the grounds.",
+   "The opening hours."
+  ],
+  "source": "read3000:Where the Sign Ends",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Where the Sign Ends"
+ },
+ {
+  "id": "WF2156",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 4,
+  "text": "After rehearsing a talk for friends, An felt sure that her map was easy to follow. Her friends ____ the lanes because they lived nearby. At a later practice, a visitor from another town asked which end of the map was north. An added a north arrow and a station ____. The facts in her talk did not change, but a stranger now had a place to start.",
+  "cn": "安给朋友试讲后，确信自己的地图容易看懂。朋友们住在附近，本来就认得那些巷子。后来一位外地访客听试讲，问地图哪边是北。安加上指北箭头和车站标志。报告里的事实没变，陌生人如今却有了认识地图的起点。",
+  "why": "第1空 recognized：本地人的先验了解掩盖了图上的不足。 第2空 symbol：在地图上加的是车站标记。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "recognized"
+   ],
+   [
+    "symbol"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Practice Audience",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Practice Audience",
+  "slotOptions": [
+   [
+    "built",
+    "recognized",
+    "counted only",
+    "closed"
+   ],
+   [
+    "symbol",
+    "interview",
+    "booking",
+    "fare"
+   ]
+  ]
+ },
+ {
+  "id": "WF2157",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "After rehearsing a talk for friends, An felt sure that her map was easy to follow. Her friends recognized the lanes because they lived nearby. At a later practice, a visitor from another town asked which end of the map was north. An added a north arrow and a station symbol. The facts in her talk did not change, but a stranger now had a place to start.\n\nWhat advantage did the friends have?",
+  "cn": "安给朋友试讲后，确信自己的地图容易看懂。朋友们住在附近，本来就认得那些巷子。后来一位外地访客听试讲，问地图哪边是北。安加上指北箭头和车站标志。报告里的事实没变，陌生人如今却有了认识地图的起点。",
+  "why": "住附近的人能直接认街巷。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Local knowledge."
+   ]
+  ],
+  "options": [
+   "Longer practice time.",
+   "A different map.",
+   "Local knowledge."
+  ],
+  "source": "read3000:The Practice Audience",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Practice Audience"
+ },
+ {
+  "id": "WF2158",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "After rehearsing a talk for friends, An felt sure that her map was easy to follow. Her friends recognized the lanes because they lived nearby. At a later practice, a visitor from another town asked which end of the map was north. An added a north arrow and a station symbol. The facts in her talk did not change, but a stranger now had a place to start.\n\nWhat did the visitor's question reveal?",
+  "cn": "安给朋友试讲后，确信自己的地图容易看懂。朋友们住在附近，本来就认得那些巷子。后来一位外地访客听试讲，问地图哪边是北。安加上指北箭头和车站标志。报告里的事实没变，陌生人如今却有了认识地图的起点。",
+  "why": "哪边朝北缺说明。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Orientation was unclear to a newcomer."
+   ]
+  ],
+  "options": [
+   "The station was closed.",
+   "The facts in the talk were false.",
+   "Orientation was unclear to a newcomer."
+  ],
+  "source": "read3000:The Practice Audience",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Practice Audience"
+ },
+ {
+  "id": "WF2159",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "After rehearsing a talk for friends, An felt sure that her map was easy to follow. Her friends recognized the lanes because they lived nearby. At a later practice, a visitor from another town asked which end of the map was north. An added a north arrow and a station symbol. The facts in her talk did not change, but a stranger now had a place to start.\n\nWhich detail was added along with the arrow?",
+  "cn": "安给朋友试讲后，确信自己的地图容易看懂。朋友们住在附近，本来就认得那些巷子。后来一位外地访客听试讲，问地图哪边是北。安加上指北箭头和车站标志。报告里的事实没变，陌生人如今却有了认识地图的起点。",
+  "why": "两项添加并列出现。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A station symbol."
+   ]
+  ],
+  "options": [
+   "A station symbol.",
+   "The visitor's address.",
+   "A price list."
+  ],
+  "source": "read3000:The Practice Audience",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Practice Audience"
+ },
+ {
+  "id": "WF2160",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "After rehearsing a talk for friends, An felt sure that her map was easy to follow. Her friends recognized the lanes because they lived nearby. At a later practice, a visitor from another town asked which end of the map was north. An added a north arrow and a station symbol. The facts in her talk did not change, but a stranger now had a place to start.\n\nWhat lesson does the story offer a presenter?",
+  "cn": "安给朋友试讲后，确信自己的地图容易看懂。朋友们住在附近，本来就认得那些巷子。后来一位外地访客听试讲，问地图哪边是北。安加上指北箭头和车站标志。报告里的事实没变，陌生人如今却有了认识地图的起点。",
+  "why": "不同听众需要不同背景信息。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Test explanations with the intended audience in mind."
+   ]
+  ],
+  "options": [
+   "Only use maps for local people.",
+   "Remove every familiar landmark.",
+   "Test explanations with the intended audience in mind."
+  ],
+  "source": "read3000:The Practice Audience",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Practice Audience"
+ },
+ {
+  "id": "WF2161",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 5,
+  "text": "A bicycle room had fifty hooks and usually only five empty ones. The manager treated this as evidence that most bicycles were used every day. A cleaner offered another interpretation: the hooks showed ____, not movement. For a week, the manager recorded how many bicycles left each morning without noting who owned them. Far fewer left than he had expected. Some might still be used in the evening, so he ____ calling them unused. He changed the report to describe what the observations could support.",
+  "cn": "自行车房有五十个挂钩，通常仅五个空着。管理员以此判断多数车天天使用。清洁员指出，挂钩反映的是存放，并非移动。管理员用一周记录每天早晨有多少车离开，不记车主。离开的车比预期少得多。考虑到部分车可能晚上使用，他没有断言它们闲置，而是改写报告，使其与观察证据相称。",
+  "why": "第1空 storage：占用挂钩只表示停放。 第2空 resisted：晚间还可能用车，故克制住作结论的冲动。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "storage"
+   ],
+   [
+    "resisted"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:Counting the Empty Hooks",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Counting the Empty Hooks",
+  "slotOptions": [
+   [
+    "travel",
+    "storage",
+    "repair speed",
+    "ownership changes"
+   ],
+   [
+    "recommended",
+    "resisted",
+    "practiced",
+    "finished"
+   ]
+  ]
+ },
+ {
+  "id": "WF2162",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A bicycle room had fifty hooks and usually only five empty ones. The manager treated this as evidence that most bicycles were used every day. A cleaner offered another interpretation: the hooks showed storage, not movement. For a week, the manager recorded how many bicycles left each morning without noting who owned them. Far fewer left than he had expected. Some might still be used in the evening, so he resisted calling them unused. He changed the report to describe what the observations could support.\n\nWhat did the empty-hook count directly measure?",
+  "cn": "自行车房有五十个挂钩，通常仅五个空着。管理员以此判断多数车天天使用。清洁员指出，挂钩反映的是存放，并非移动。管理员用一周记录每天早晨有多少车离开，不记车主。离开的车比预期少得多。考虑到部分车可能晚上使用，他没有断言它们闲置，而是改写报告，使其与观察证据相称。",
+  "why": "空钩数量直接反映可用位置。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Available storage places."
+   ]
+  ],
+  "options": [
+   "Daily journeys.",
+   "Evening users.",
+   "Available storage places."
+  ],
+  "source": "read3000:Counting the Empty Hooks",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Counting the Empty Hooks"
+ },
+ {
+  "id": "WF2163",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A bicycle room had fifty hooks and usually only five empty ones. The manager treated this as evidence that most bicycles were used every day. A cleaner offered another interpretation: the hooks showed storage, not movement. For a week, the manager recorded how many bicycles left each morning without noting who owned them. Far fewer left than he had expected. Some might still be used in the evening, so he resisted calling them unused. He changed the report to describe what the observations could support.\n\nWhat was different about the week-long observation?",
+  "cn": "自行车房有五十个挂钩，通常仅五个空着。管理员以此判断多数车天天使用。清洁员指出，挂钩反映的是存放，并非移动。管理员用一周记录每天早晨有多少车离开，不记车主。离开的车比预期少得多。考虑到部分车可能晚上使用，他没有断言它们闲置，而是改写报告，使其与观察证据相称。",
+  "why": "它观察了早晨的动态行为。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "It recorded departures during a defined period."
+   ]
+  ],
+  "options": [
+   "It recorded departures during a defined period.",
+   "It listed every owner's name.",
+   "It counted only broken hooks."
+  ],
+  "source": "read3000:Counting the Empty Hooks",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Counting the Empty Hooks"
+ },
+ {
+  "id": "WF2164",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A bicycle room had fifty hooks and usually only five empty ones. The manager treated this as evidence that most bicycles were used every day. A cleaner offered another interpretation: the hooks showed storage, not movement. For a week, the manager recorded how many bicycles left each morning without noting who owned them. Far fewer left than he had expected. Some might still be used in the evening, so he resisted calling them unused. He changed the report to describe what the observations could support.\n\nWhy avoid the word unused?",
+  "cn": "自行车房有五十个挂钩，通常仅五个空着。管理员以此判断多数车天天使用。清洁员指出，挂钩反映的是存放，并非移动。管理员用一周记录每天早晨有多少车离开，不记车主。离开的车比预期少得多。考虑到部分车可能晚上使用，他没有断言它们闲置，而是改写报告，使其与观察证据相称。",
+  "why": "早晨未出行不能代表全天未用。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Evening trips had not been checked."
+   ]
+  ],
+  "options": [
+   "Evening trips had not been checked.",
+   "All the bicycles were new.",
+   "No hook was ever empty."
+  ],
+  "source": "read3000:Counting the Empty Hooks",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Counting the Empty Hooks"
+ },
+ {
+  "id": "WF2165",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A bicycle room had fifty hooks and usually only five empty ones. The manager treated this as evidence that most bicycles were used every day. A cleaner offered another interpretation: the hooks showed storage, not movement. For a week, the manager recorded how many bicycles left each morning without noting who owned them. Far fewer left than he had expected. Some might still be used in the evening, so he resisted calling them unused. He changed the report to describe what the observations could support.\n\nWhich report best matches the evidence?",
+  "cn": "自行车房有五十个挂钩，通常仅五个空着。管理员以此判断多数车天天使用。清洁员指出，挂钩反映的是存放，并非移动。管理员用一周记录每天早晨有多少车离开，不记车主。离开的车比预期少得多。考虑到部分车可能晚上使用，他没有断言它们闲置，而是改写报告，使其与观察证据相称。",
+  "why": "措辞限定时段及观察范围。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Morning departures were fewer than expected during that week."
+   ]
+  ],
+  "options": [
+   "Most bicycles never left.",
+   "Morning departures were fewer than expected during that week.",
+   "Only five bicycles were ridden."
+  ],
+  "source": "read3000:Counting the Empty Hooks",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "Counting the Empty Hooks"
+ },
+ {
+  "id": "WF2166",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 5,
+  "text": "A student translated a short play. A joke in the original depended on two words sounding ____. Her first translation kept the dictionary meaning of both words, but nobody laughed. In a second version she used two different objects whose names sounded similar in the new language. The scene still ended with the character picking up the wrong object. The teacher asked what had been preserved. The student replied that she had changed the objects to keep the ____ of the mistake.",
+  "cn": "一名学生翻译短剧。原作笑点来自两词发音相似。初译保留两词字典义，却无人发笑。第二版改用译入语中名称相似的另外两样东西，仍以人物拿错东西收尾。老师问保留了什么，她回答，为保留出错原因，改变了物件。",
+  "why": "第1空 alike：声音相似制造误听。 第2空 cause：保留的是为什么会拿错。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "alike"
+   ],
+   [
+    "cause"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Translated Joke",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Translated Joke",
+  "slotOptions": [
+   [
+    "urgent",
+    "alike",
+    "complete",
+    "formal"
+   ],
+   [
+    "date",
+    "price",
+    "owner",
+    "cause"
+   ]
+  ]
+ },
+ {
+  "id": "WF2167",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A student translated a short play. A joke in the original depended on two words sounding alike. Her first translation kept the dictionary meaning of both words, but nobody laughed. In a second version she used two different objects whose names sounded similar in the new language. The scene still ended with the character picking up the wrong object. The teacher asked what had been preserved. The student replied that she had changed the objects to keep the cause of the mistake.\n\nWhy did the first attempt lose the joke?",
+  "cn": "一名学生翻译短剧。原作笑点来自两词发音相似。初译保留两词字典义，却无人发笑。第二版改用译入语中名称相似的另外两样东西，仍以人物拿错东西收尾。老师问保留了什么，她回答，为保留出错原因，改变了物件。",
+  "why": "单保留意义不能再现谐音。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Meanings survived but the sound link did not."
+   ]
+  ],
+  "options": [
+   "The audience had no dictionaries.",
+   "Meanings survived but the sound link did not.",
+   "The play had no ending."
+  ],
+  "source": "read3000:The Translated Joke",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Translated Joke"
+ },
+ {
+  "id": "WF2168",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A student translated a short play. A joke in the original depended on two words sounding alike. Her first translation kept the dictionary meaning of both words, but nobody laughed. In a second version she used two different objects whose names sounded similar in the new language. The scene still ended with the character picking up the wrong object. The teacher asked what had been preserved. The student replied that she had changed the objects to keep the cause of the mistake.\n\nWhat stayed the same in both stories?",
+  "cn": "一名学生翻译短剧。原作笑点来自两词发音相似。初译保留两词字典义，却无人发笑。第二版改用译入语中名称相似的另外两样东西，仍以人物拿错东西收尾。老师问保留了什么，她回答，为保留出错原因，改变了物件。",
+  "why": "第二版重建了原作的笑点机制。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A character made a sound-based mistake in the intended joke."
+   ]
+  ],
+  "options": [
+   "The language spoken on stage.",
+   "A character made a sound-based mistake in the intended joke.",
+   "The exact two object names."
+  ],
+  "source": "read3000:The Translated Joke",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Translated Joke"
+ },
+ {
+  "id": "WF2169",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A student translated a short play. A joke in the original depended on two words sounding alike. Her first translation kept the dictionary meaning of both words, but nobody laughed. In a second version she used two different objects whose names sounded similar in the new language. The scene still ended with the character picking up the wrong object. The teacher asked what had been preserved. The student replied that she had changed the objects to keep the cause of the mistake.\n\nWhat would be a useful test of the second version?",
+  "cn": "一名学生翻译短剧。原作笑点来自两词发音相似。初译保留两词字典义，却无人发笑。第二版改用译入语中名称相似的另外两样东西，仍以人物拿错东西收尾。老师问保留了什么，她回答，为保留出错原因，改变了物件。",
+  "why": "检验应围绕误会是否能被理解。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Can listeners see why the wrong object was chosen?"
+   ]
+  ],
+  "options": [
+   "Are all translated words the same length?",
+   "Are the objects equally expensive?",
+   "Can listeners see why the wrong object was chosen?"
+  ],
+  "source": "read3000:The Translated Joke",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Translated Joke"
+ },
+ {
+  "id": "WF2170",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A student translated a short play. A joke in the original depended on two words sounding alike. Her first translation kept the dictionary meaning of both words, but nobody laughed. In a second version she used two different objects whose names sounded similar in the new language. The scene still ended with the character picking up the wrong object. The teacher asked what had been preserved. The student replied that she had changed the objects to keep the cause of the mistake.\n\nHow is the passage mainly organized?",
+  "cn": "一名学生翻译短剧。原作笑点来自两词发音相似。初译保留两词字典义，却无人发笑。第二版改用译入语中名称相似的另外两样东西，仍以人物拿错东西收尾。老师问保留了什么，她回答，为保留出错原因，改变了物件。",
+  "why": "先初译，再改译，最后反思。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Two attempts followed by an explanation of the choice."
+   ]
+  ],
+  "options": [
+   "An argument that jokes never travel.",
+   "A list of dictionary definitions only.",
+   "Two attempts followed by an explanation of the choice."
+  ],
+  "source": "read3000:The Translated Joke",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Translated Joke"
+ },
+ {
+  "id": "WF2171",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 5,
+  "text": "An exhibition called a diary's blank week proof that its writer had stopped working. A newly found supply receipt bore her signature during that week. It did not show exactly what she did on each day, but it ____ the original claim. The curator changed the label to say that no diary entries ____ for those dates. Some visitors thought the new wording dull. The curator replied that a gap in a record and a gap in a life were not necessarily the same thing.",
+  "cn": "展览曾把日记空白的一周视为作者停工的证据。后来发现的一张物资收据上有她那周的签名。收据不能说明她每天具体做什么，但削弱了原论断。馆员改写标签，只说这些日期没有留存日记条目。有些访客觉得新措辞乏味。馆员说记录的空缺未必就是生活的空缺。",
+  "why": "第1空 weakened：新证据使停工说法依据不足。 第2空 survived：仅陈述目前存留下来的记录情况。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "weakened"
+   ],
+   [
+    "survived"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Diary's Missing Week",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Diary's Missing Week",
+  "slotOptions": [
+   [
+    "confirmed",
+    "completed",
+    "copied",
+    "weakened"
+   ],
+   [
+    "promised",
+    "survived",
+    "predicted",
+    "requested"
+   ]
+  ]
+ },
+ {
+  "id": "WF2172",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "An exhibition called a diary's blank week proof that its writer had stopped working. A newly found supply receipt bore her signature during that week. It did not show exactly what she did on each day, but it weakened the original claim. The curator changed the label to say that no diary entries survived for those dates. Some visitors thought the new wording dull. The curator replied that a gap in a record and a gap in a life were not necessarily the same thing.\n\nWhat evidence prompted the revision?",
+  "cn": "展览曾把日记空白的一周视为作者停工的证据。后来发现的一张物资收据上有她那周的签名。收据不能说明她每天具体做什么，但削弱了原论断。馆员改写标签，只说这些日期没有留存日记条目。有些访客觉得新措辞乏味。馆员说记录的空缺未必就是生活的空缺。",
+  "why": "签名时间位于空白周内。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A signed receipt."
+   ]
+  ],
+  "options": [
+   "A signed receipt.",
+   "A complete second diary.",
+   "A visitor's timetable."
+  ],
+  "source": "read3000:A Diary's Missing Week",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Diary's Missing Week"
+ },
+ {
+  "id": "WF2173",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "An exhibition called a diary's blank week proof that its writer had stopped working. A newly found supply receipt bore her signature during that week. It did not show exactly what she did on each day, but it weakened the original claim. The curator changed the label to say that no diary entries survived for those dates. Some visitors thought the new wording dull. The curator replied that a gap in a record and a gap in a life were not necessarily the same thing.\n\nWhat did the receipt fail to establish?",
+  "cn": "展览曾把日记空白的一周视为作者停工的证据。后来发现的一张物资收据上有她那周的签名。收据不能说明她每天具体做什么，但削弱了原论断。馆员改写标签，只说这些日期没有留存日记条目。有些访客觉得新措辞乏味。馆员说记录的空缺未必就是生活的空缺。",
+  "why": "单据不能完整重建日程。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The writer's activity on every day."
+   ]
+  ],
+  "options": [
+   "That it carried a signature.",
+   "That the blank week deserved another look.",
+   "The writer's activity on every day."
+  ],
+  "source": "read3000:A Diary's Missing Week",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Diary's Missing Week"
+ },
+ {
+  "id": "WF2174",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "An exhibition called a diary's blank week proof that its writer had stopped working. A newly found supply receipt bore her signature during that week. It did not show exactly what she did on each day, but it weakened the original claim. The curator changed the label to say that no diary entries survived for those dates. Some visitors thought the new wording dull. The curator replied that a gap in a record and a gap in a life were not necessarily the same thing.\n\nWhy was the new label more careful?",
+  "cn": "展览曾把日记空白的一周视为作者停工的证据。后来发现的一张物资收据上有她那周的签名。收据不能说明她每天具体做什么，但削弱了原论断。馆员改写标签，只说这些日期没有留存日记条目。有些访客觉得新措辞乏味。馆员说记录的空缺未必就是生活的空缺。",
+  "why": "它避免用无条目推出无工作。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "It described a gap in evidence."
+   ]
+  ],
+  "options": [
+   "It omitted the dates entirely.",
+   "It described a gap in evidence.",
+   "It declared that work never stopped."
+  ],
+  "source": "read3000:A Diary's Missing Week",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Diary's Missing Week"
+ },
+ {
+  "id": "WF2175",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "An exhibition called a diary's blank week proof that its writer had stopped working. A newly found supply receipt bore her signature during that week. It did not show exactly what she did on each day, but it weakened the original claim. The curator changed the label to say that no diary entries survived for those dates. Some visitors thought the new wording dull. The curator replied that a gap in a record and a gap in a life were not necessarily the same thing.\n\nWhat assumption does the curator challenge?",
+  "cn": "展览曾把日记空白的一周视为作者停工的证据。后来发现的一张物资收据上有她那周的签名。收据不能说明她每天具体做什么，但削弱了原论断。馆员改写标签，只说这些日期没有留存日记条目。有些访客觉得新措辞乏味。馆员说记录的空缺未必就是生活的空缺。",
+  "why": "生活与记录不必一一对应。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Unrecorded events cannot have happened."
+   ]
+  ],
+  "options": [
+   "A receipt can raise a question.",
+   "A document can carry a date.",
+   "Unrecorded events cannot have happened."
+  ],
+  "source": "read3000:A Diary's Missing Week",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Diary's Missing Week"
+ },
+ {
+  "id": "WF2176",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 5,
+  "text": "A writing class changed its feedback method. The average score stayed at seventy before and after the change. One teacher concluded that nothing had changed for anyone. A second teacher examined ____ scores for the same pupils. Several improved, several fell, and others stayed close to their earlier marks. She also pointed out that the tasks were not identical. The average concealed individual movement, while the different tasks made it hard to assign that movement to feedback ____.",
+  "cn": "写作班改变反馈方法前后均分都是七十。一位老师认为没人发生变化。另一位核对同一学生的两次成绩，有人进步，有人退步，还有人相近。她还指出两次任务并非相同。均分遮住了个体变化，而任务不同又让人难以把变化仅归因于反馈。",
+  "why": "第1空 paired：逐人配对前后成绩。 第2空 alone：不能只归因于反馈这一因素。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "paired"
+   ],
+   [
+    "alone"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Score That Stayed Flat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Score That Stayed Flat",
+  "slotOptions": [
+   [
+    "future",
+    "unrelated",
+    "missing",
+    "paired"
+   ],
+   [
+    "instead",
+    "forever",
+    "alone",
+    "again"
+   ]
+  ]
+ },
+ {
+  "id": "WF2177",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A writing class changed its feedback method. The average score stayed at seventy before and after the change. One teacher concluded that nothing had changed for anyone. A second teacher examined paired scores for the same pupils. Several improved, several fell, and others stayed close to their earlier marks. She also pointed out that the tasks were not identical. The average concealed individual movement, while the different tasks made it hard to assign that movement to feedback alone.\n\nWhy use paired scores?",
+  "cn": "写作班改变反馈方法前后均分都是七十。一位老师认为没人发生变化。另一位核对同一学生的两次成绩，有人进步，有人退步，还有人相近。她还指出两次任务并非相同。均分遮住了个体变化，而任务不同又让人难以把变化仅归因于反馈。",
+  "why": "个体对照揭示升降。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "To see changes for each pupil."
+   ]
+  ],
+  "options": [
+   "To see changes for each pupil.",
+   "To force averages to differ.",
+   "To remove low scores."
+  ],
+  "source": "read3000:The Score That Stayed Flat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Score That Stayed Flat"
+ },
+ {
+  "id": "WF2178",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A writing class changed its feedback method. The average score stayed at seventy before and after the change. One teacher concluded that nothing had changed for anyone. A second teacher examined paired scores for the same pupils. Several improved, several fell, and others stayed close to their earlier marks. She also pointed out that the tasks were not identical. The average concealed individual movement, while the different tasks made it hard to assign that movement to feedback alone.\n\nHow can the average remain flat?",
+  "cn": "写作班改变反馈方法前后均分都是七十。一位老师认为没人发生变化。另一位核对同一学生的两次成绩，有人进步，有人退步，还有人相近。她还指出两次任务并非相同。均分遮住了个体变化，而任务不同又让人难以把变化仅归因于反馈。",
+  "why": "数值变化可相互抵消。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Gains and losses can balance."
+   ]
+  ],
+  "options": [
+   "No individual can change.",
+   "Gains and losses can balance.",
+   "Every pupil must score seventy."
+  ],
+  "source": "read3000:The Score That Stayed Flat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Score That Stayed Flat"
+ },
+ {
+  "id": "WF2179",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A writing class changed its feedback method. The average score stayed at seventy before and after the change. One teacher concluded that nothing had changed for anyone. A second teacher examined paired scores for the same pupils. Several improved, several fell, and others stayed close to their earlier marks. She also pointed out that the tasks were not identical. The average concealed individual movement, while the different tasks made it hard to assign that movement to feedback alone.\n\nWhat complicates a causal claim?",
+  "cn": "写作班改变反馈方法前后均分都是七十。一位老师认为没人发生变化。另一位核对同一学生的两次成绩，有人进步，有人退步，还有人相近。她还指出两次任务并非相同。均分遮住了个体变化，而任务不同又让人难以把变化仅归因于反馈。",
+  "why": "任务本身也可能影响分数。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The tasks differed too."
+   ]
+  ],
+  "options": [
+   "Some pupils wrote on paper.",
+   "The class used numbers.",
+   "The tasks differed too."
+  ],
+  "source": "read3000:The Score That Stayed Flat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Score That Stayed Flat"
+ },
+ {
+  "id": "WF2180",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A writing class changed its feedback method. The average score stayed at seventy before and after the change. One teacher concluded that nothing had changed for anyone. A second teacher examined paired scores for the same pupils. Several improved, several fell, and others stayed close to their earlier marks. She also pointed out that the tasks were not identical. The average concealed individual movement, while the different tasks made it hard to assign that movement to feedback alone.\n\nWhich statement is supported?",
+  "cn": "写作班改变反馈方法前后均分都是七十。一位老师认为没人发生变化。另一位核对同一学生的两次成绩，有人进步，有人退步，还有人相近。她还指出两次任务并非相同。均分遮住了个体变化，而任务不同又让人难以把变化仅归因于反馈。",
+  "why": "从数据能看出个体不同，但难明确因果。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A stable average did not describe every pupil's experience."
+   ]
+  ],
+  "options": [
+   "The feedback caused all gains.",
+   "The feedback harmed all pupils.",
+   "A stable average did not describe every pupil's experience."
+  ],
+  "source": "read3000:The Score That Stayed Flat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Score That Stayed Flat"
+ },
+ {
+  "id": "WF2181",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 5,
+  "text": "A local paper printed a letter describing a parade. Its author had stood near the front, which seemed to promise a strong account. A pupil checking the archive found that the letter was written thirty years ____. She did not discard it. Instead, she compared its description of the route with a street map printed during the parade year. The two agreed about the starting point but not the final turn. In her report she noted the agreement and the ____ difference rather than selecting whichever source made the better story.",
+  "cn": "地方报纸刊出一封描述游行的信。作者曾站前排，看似能提供有力证词。学生查档发现信是在三十年后写的。她没有弃用，而是拿当年的街道图对照信中路线。两者对起点说法一致，对最后一个转弯却不一致。她在报告中记录相符之处及未解差异，没有只选更好听的版本。",
+  "why": "第1空 afterward：写信晚于游行三十年。 第2空 unresolved：尚无证据决定最后一弯哪个正确。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "afterward"
+   ],
+   [
+    "unresolved"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Letter Written Later",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Letter Written Later",
+  "slotOptions": [
+   [
+    "instead",
+    "afterward",
+    "apart",
+    "beforehand"
+   ],
+   [
+    "solved",
+    "imaginary",
+    "unresolved",
+    "unimportant"
+   ]
+  ]
+ },
+ {
+  "id": "WF2182",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A local paper printed a letter describing a parade. Its author had stood near the front, which seemed to promise a strong account. A pupil checking the archive found that the letter was written thirty years afterward. She did not discard it. Instead, she compared its description of the route with a street map printed during the parade year. The two agreed about the starting point but not the final turn. In her report she noted the agreement and the unresolved difference rather than selecting whichever source made the better story.\n\nWhat gave the letter potential value?",
+  "cn": "地方报纸刊出一封描述游行的信。作者曾站前排，看似能提供有力证词。学生查档发现信是在三十年后写的。她没有弃用，而是拿当年的街道图对照信中路线。两者对起点说法一致，对最后一个转弯却不一致。她在报告中记录相符之处及未解差异，没有只选更好听的版本。",
+  "why": "作者亲临现场是价值所在。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The author had witnessed the parade."
+   ]
+  ],
+  "options": [
+   "It was written the same day.",
+   "It was the oldest map.",
+   "The author had witnessed the parade."
+  ],
+  "source": "read3000:The Letter Written Later",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Letter Written Later"
+ },
+ {
+  "id": "WF2183",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A local paper printed a letter describing a parade. Its author had stood near the front, which seemed to promise a strong account. A pupil checking the archive found that the letter was written thirty years afterward. She did not discard it. Instead, she compared its description of the route with a street map printed during the parade year. The two agreed about the starting point but not the final turn. In her report she noted the agreement and the unresolved difference rather than selecting whichever source made the better story.\n\nWhat reason for caution emerged?",
+  "cn": "地方报纸刊出一封描述游行的信。作者曾站前排，看似能提供有力证词。学生查档发现信是在三十年后写的。她没有弃用，而是拿当年的街道图对照信中路线。两者对起点说法一致，对最后一个转弯却不一致。她在报告中记录相符之处及未解差异，没有只选更好听的版本。",
+  "why": "漫长间隔会影响记忆证据的解读。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A long delay before writing."
+   ]
+  ],
+  "options": [
+   "A long delay before writing.",
+   "The paper had no title.",
+   "The pupil disliked parades."
+  ],
+  "source": "read3000:The Letter Written Later",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Letter Written Later"
+ },
+ {
+  "id": "WF2184",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A local paper printed a letter describing a parade. Its author had stood near the front, which seemed to promise a strong account. A pupil checking the archive found that the letter was written thirty years afterward. She did not discard it. Instead, she compared its description of the route with a street map printed during the parade year. The two agreed about the starting point but not the final turn. In her report she noted the agreement and the unresolved difference rather than selecting whichever source made the better story.\n\nWhich detail had support from both sources?",
+  "cn": "地方报纸刊出一封描述游行的信。作者曾站前排，看似能提供有力证词。学生查档发现信是在三十年后写的。她没有弃用，而是拿当年的街道图对照信中路线。两者对起点说法一致，对最后一个转弯却不一致。她在报告中记录相符之处及未解差异，没有只选更好听的版本。",
+  "why": "agreement 限于起点。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The starting point."
+   ]
+  ],
+  "options": [
+   "The final turn.",
+   "The size of the crowd.",
+   "The starting point."
+  ],
+  "source": "read3000:The Letter Written Later",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Letter Written Later"
+ },
+ {
+  "id": "WF2185",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A local paper printed a letter describing a parade. Its author had stood near the front, which seemed to promise a strong account. A pupil checking the archive found that the letter was written thirty years afterward. She did not discard it. Instead, she compared its description of the route with a street map printed during the parade year. The two agreed about the starting point but not the final turn. In her report she noted the agreement and the unresolved difference rather than selecting whichever source made the better story.\n\nWhich action best reflects the pupil's method?",
+  "cn": "地方报纸刊出一封描述游行的信。作者曾站前排，看似能提供有力证词。学生查档发现信是在三十年后写的。她没有弃用，而是拿当年的街道图对照信中路线。两者对起点说法一致，对最后一个转弯却不一致。她在报告中记录相符之处及未解差异，没有只选更好听的版本。",
+  "why": "区分一致与冲突，并保留待查。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Record the conflict and seek further evidence."
+   ]
+  ],
+  "options": [
+   "Reject all later memories outright.",
+   "Record the conflict and seek further evidence.",
+   "Pick the more dramatic ending."
+  ],
+  "source": "read3000:The Letter Written Later",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Letter Written Later"
+ },
+ {
+  "id": "WF2186",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 5,
+  "text": "A shop replaced large packages with smaller ones and lowered the price printed on each shelf label. A customer called the change a saving. Another customer compared the price for the same ____ of food and found that it had gone up. Both had read their labels correctly. For someone with little cash that day, a smaller package could still be easier to buy. For someone buying a month's supply, the ____ price mattered more. The disagreement concerned the question each price was being used to answer.",
+  "cn": "商店换用小包装，降低了货架上每包的标价。一名顾客认为省钱，另一名按同等重量比较却发现更贵。两人都没读错。手头现金少的人当天更容易买得起小包，采购一月用量的人更关注单位价格。分歧来自用价格回答的问题不同。",
+  "why": "第1空 weight：按等量比较才能得到单位价。 第2空 unit：长期大量购买更关心每单位成本。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "weight"
+   ],
+   [
+    "unit"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Price on the Shelf",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Price on the Shelf",
+  "slotOptions": [
+   [
+    "weight",
+    "shop name",
+    "label color",
+    "shelf height"
+   ],
+   [
+    "imaginary",
+    "unit",
+    "total",
+    "lowest possible"
+   ]
+  ]
+ },
+ {
+  "id": "WF2187",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A shop replaced large packages with smaller ones and lowered the price printed on each shelf label. A customer called the change a saving. Another customer compared the price for the same weight of food and found that it had gone up. Both had read their labels correctly. For someone with little cash that day, a smaller package could still be easier to buy. For someone buying a month's supply, the unit price mattered more. The disagreement concerned the question each price was being used to answer.\n\nWhat actually became cheaper?",
+  "cn": "商店换用小包装，降低了货架上每包的标价。一名顾客认为省钱，另一名按同等重量比较却发现更贵。两人都没读错。手头现金少的人当天更容易买得起小包，采购一月用量的人更关注单位价格。分歧来自用价格回答的问题不同。",
+  "why": "总包装价低不代表单位价低。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "One package."
+   ]
+  ],
+  "options": [
+   "One package.",
+   "A fixed weight of food.",
+   "Every month's supply."
+  ],
+  "source": "read3000:The Price on the Shelf",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Price on the Shelf"
+ },
+ {
+  "id": "WF2188",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A shop replaced large packages with smaller ones and lowered the price printed on each shelf label. A customer called the change a saving. Another customer compared the price for the same weight of food and found that it had gone up. Both had read their labels correctly. For someone with little cash that day, a smaller package could still be easier to buy. For someone buying a month's supply, the unit price mattered more. The disagreement concerned the question each price was being used to answer.\n\nWhy could both customers be correct?",
+  "cn": "商店换用小包装，降低了货架上每包的标价。一名顾客认为省钱，另一名按同等重量比较却发现更贵。两人都没读错。手头现金少的人当天更容易买得起小包，采购一月用量的人更关注单位价格。分歧来自用价格回答的问题不同。",
+  "why": "每包价格与等重价格不同。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "They compared different quantities."
+   ]
+  ],
+  "options": [
+   "One customer had a secret discount.",
+   "The labels used different currencies.",
+   "They compared different quantities."
+  ],
+  "source": "read3000:The Price on the Shelf",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Price on the Shelf"
+ },
+ {
+  "id": "WF2189",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A shop replaced large packages with smaller ones and lowered the price printed on each shelf label. A customer called the change a saving. Another customer compared the price for the same weight of food and found that it had gone up. Both had read their labels correctly. For someone with little cash that day, a smaller package could still be easier to buy. For someone buying a month's supply, the unit price mattered more. The disagreement concerned the question each price was being used to answer.\n\nWhose decision might depend most on cash needed immediately?",
+  "cn": "商店换用小包装，降低了货架上每包的标价。一名顾客认为省钱，另一名按同等重量比较却发现更贵。两人都没读错。手头现金少的人当天更容易买得起小包，采购一月用量的人更关注单位价格。分歧来自用价格回答的问题不同。",
+  "why": "立即购买看当时能付的金额。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A person with limited money that day."
+   ]
+  ],
+  "options": [
+   "A person comparing a year's total.",
+   "Only the shop owner.",
+   "A person with limited money that day."
+  ],
+  "source": "read3000:The Price on the Shelf",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Price on the Shelf"
+ },
+ {
+  "id": "WF2190",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A shop replaced large packages with smaller ones and lowered the price printed on each shelf label. A customer called the change a saving. Another customer compared the price for the same weight of food and found that it had gone up. Both had read their labels correctly. For someone with little cash that day, a smaller package could still be easier to buy. For someone buying a month's supply, the unit price mattered more. The disagreement concerned the question each price was being used to answer.\n\nWhich heading best fits?",
+  "cn": "商店换用小包装，降低了货架上每包的标价。一名顾客认为省钱，另一名按同等重量比较却发现更贵。两人都没读错。手头现金少的人当天更容易买得起小包，采购一月用量的人更关注单位价格。分歧来自用价格回答的问题不同。",
+  "why": "两种比较尺度贯穿全文。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Two Ways to Read a Price"
+   ]
+  ],
+  "options": [
+   "Why Smaller Always Saves Money",
+   "A Shop Without Labels",
+   "Two Ways to Read a Price"
+  ],
+  "source": "read3000:The Price on the Shelf",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Price on the Shelf"
+ },
+ {
+  "id": "WF2191",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 5,
+  "text": "The team chose its loudest microphone after a test in an ____ hall. At the actual interview, this microphone captured chairs moving at the back almost as clearly as the speaker. Another model produced a softer recording but made the words easier to understand. A technician suggested testing the next models with ordinary background noise and asking listeners to write down a sentence. The new test measured success at the real task more ____ than a test of loudness by itself.",
+  "cn": "团队在空礼堂测试后选了录音最响的麦克风。实际采访时，它连后排椅子拖动声也录得和人声几乎一样清楚。另一型号音量低些，反而更容易听懂。技术员建议下次加入日常背景噪声，请听者写出一句话。新测试比单测音量更直接地衡量实际目标。",
+  "why": "第1空 empty：最初的空礼堂缺少真实噪声。 第2空 directly：听写表现更贴近听懂话的目标。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "empty"
+   ],
+   [
+    "directly"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Quiet Microphone",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Microphone",
+  "slotOptions": [
+   [
+    "outdoor",
+    "temporary",
+    "empty",
+    "busy"
+   ],
+   [
+    "directly",
+    "quietly",
+    "politely",
+    "briefly"
+   ]
+  ]
+ },
+ {
+  "id": "WF2192",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The team chose its loudest microphone after a test in an empty hall. At the actual interview, this microphone captured chairs moving at the back almost as clearly as the speaker. Another model produced a softer recording but made the words easier to understand. A technician suggested testing the next models with ordinary background noise and asking listeners to write down a sentence. The new test measured success at the real task more directly than a test of loudness by itself.\n\nWhy did the louder model disappoint?",
+  "cn": "团队在空礼堂测试后选了录音最响的麦克风。实际采访时，它连后排椅子拖动声也录得和人声几乎一样清楚。另一型号音量低些，反而更容易听懂。技术员建议下次加入日常背景噪声，请听者写出一句话。新测试比单测音量更直接地衡量实际目标。",
+  "why": "背景干扰影响可懂度。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "It captured distracting sounds too well."
+   ]
+  ],
+  "options": [
+   "It failed to record any speech.",
+   "There were no chairs in the hall.",
+   "It captured distracting sounds too well."
+  ],
+  "source": "read3000:The Quiet Microphone",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Microphone"
+ },
+ {
+  "id": "WF2193",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The team chose its loudest microphone after a test in an empty hall. At the actual interview, this microphone captured chairs moving at the back almost as clearly as the speaker. Another model produced a softer recording but made the words easier to understand. A technician suggested testing the next models with ordinary background noise and asking listeners to write down a sentence. The new test measured success at the real task more directly than a test of loudness by itself.\n\nWhat makes the sentence-writing task useful?",
+  "cn": "团队在空礼堂测试后选了录音最响的麦克风。实际采访时，它连后排椅子拖动声也录得和人声几乎一样清楚。另一型号音量低些，反而更容易听懂。技术员建议下次加入日常背景噪声，请听者写出一句话。新测试比单测音量更直接地衡量实际目标。",
+  "why": "转写句子能测可懂度。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "It checks what listeners actually understand."
+   ]
+  ],
+  "options": [
+   "It proves the hall is empty.",
+   "It identifies the most expensive model.",
+   "It checks what listeners actually understand."
+  ],
+  "source": "read3000:The Quiet Microphone",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Microphone"
+ },
+ {
+  "id": "WF2194",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The team chose its loudest microphone after a test in an empty hall. At the actual interview, this microphone captured chairs moving at the back almost as clearly as the speaker. Another model produced a softer recording but made the words easier to understand. A technician suggested testing the next models with ordinary background noise and asking listeners to write down a sentence. The new test measured success at the real task more directly than a test of loudness by itself.\n\nWhat feature should the new test include?",
+  "cn": "团队在空礼堂测试后选了录音最响的麦克风。实际采访时，它连后排椅子拖动声也录得和人声几乎一样清楚。另一型号音量低些，反而更容易听懂。技术员建议下次加入日常背景噪声，请听者写出一句话。新测试比单测音量更直接地衡量实际目标。",
+  "why": "重现平日使用环境。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Typical background noise."
+   ]
+  ],
+  "options": [
+   "Typical background noise.",
+   "Perfect silence only.",
+   "Music louder than every speaker."
+  ],
+  "source": "read3000:The Quiet Microphone",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Microphone"
+ },
+ {
+  "id": "WF2195",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The team chose its loudest microphone after a test in an empty hall. At the actual interview, this microphone captured chairs moving at the back almost as clearly as the speaker. Another model produced a softer recording but made the words easier to understand. A technician suggested testing the next models with ordinary background noise and asking listeners to write down a sentence. The new test measured success at the real task more directly than a test of loudness by itself.\n\nWhat broader problem does the example illustrate?",
+  "cn": "团队在空礼堂测试后选了录音最响的麦克风。实际采访时，它连后排椅子拖动声也录得和人声几乎一样清楚。另一型号音量低些，反而更容易听懂。技术员建议下次加入日常背景噪声，请听者写出一句话。新测试比单测音量更直接地衡量实际目标。",
+  "why": "响度易测，但清晰可懂才是任务目标。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A convenient measure can differ from the goal."
+   ]
+  ],
+  "options": [
+   "Louder recordings are always clearer.",
+   "A convenient measure can differ from the goal.",
+   "Listening tests have no value."
+  ],
+  "source": "read3000:The Quiet Microphone",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Microphone"
+ },
+ {
+  "id": "WF2196",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 5,
+  "text": "A hall added a second exit. A drill afterward ended sooner, and the committee credited the new door with the ____ improvement. A caretaker remembered another change: the second drill took place without coats piled along the aisle. Nobody argued that the extra door was useless. The question was whether its contribution could be ____ from the clearer aisle. The committee reported the faster result but removed the precise claim about how many seconds the new door alone had saved.",
+  "cn": "礼堂增设了第二个出口。随后的演练用时缩短，委员会把全部改进归功于新门。管理员想起另一个变化：第二次演练时走道里没堆外套。没人认为新门无用，问题在于能否把它的作用与走道通畅的作用分开。委员会报告了用时变短，但删去了新门单独节省了多少秒的精确说法。",
+  "why": "第1空 entire：起初把全部改进归于一项改动。 第2空 separated：要区分两个同时变化因素的贡献。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "entire"
+   ],
+   [
+    "separated"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:One More Exit",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "One More Exit",
+  "slotOptions": [
+   [
+    "smallest",
+    "future",
+    "entire",
+    "remaining"
+   ],
+   [
+    "graduated",
+    "borrowed",
+    "translated",
+    "separated"
+   ]
+  ]
+ },
+ {
+  "id": "WF2197",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A hall added a second exit. A drill afterward ended sooner, and the committee credited the new door with the entire improvement. A caretaker remembered another change: the second drill took place without coats piled along the aisle. Nobody argued that the extra door was useless. The question was whether its contribution could be separated from the clearer aisle. The committee reported the faster result but removed the precise claim about how many seconds the new door alone had saved.\n\nWhich observation is secure?",
+  "cn": "礼堂增设了第二个出口。随后的演练用时缩短，委员会把全部改进归功于新门。管理员想起另一个变化：第二次演练时走道里没堆外套。没人认为新门无用，问题在于能否把它的作用与走道通畅的作用分开。委员会报告了用时变短，但删去了新门单独节省了多少秒的精确说法。",
+  "why": "用时缩短是直接观测结果。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The later drill ended sooner."
+   ]
+  ],
+  "options": [
+   "The new door saved every second gained.",
+   "A clear aisle made no difference.",
+   "The later drill ended sooner."
+  ],
+  "source": "read3000:One More Exit",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "One More Exit"
+ },
+ {
+  "id": "WF2198",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A hall added a second exit. A drill afterward ended sooner, and the committee credited the new door with the entire improvement. A caretaker remembered another change: the second drill took place without coats piled along the aisle. Nobody argued that the extra door was useless. The question was whether its contribution could be separated from the clearer aisle. The committee reported the faster result but removed the precise claim about how many seconds the new door alone had saved.\n\nWhat did the caretaker add?",
+  "cn": "礼堂增设了第二个出口。随后的演练用时缩短，委员会把全部改进归功于新门。管理员想起另一个变化：第二次演练时走道里没堆外套。没人认为新门无用，问题在于能否把它的作用与走道通畅的作用分开。委员会报告了用时变短，但删去了新门单独节省了多少秒的精确说法。",
+  "why": "衣物不再堵走道是额外变化。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A second changed condition."
+   ]
+  ],
+  "options": [
+   "An argument to close the door.",
+   "A new timing device.",
+   "A second changed condition."
+  ],
+  "source": "read3000:One More Exit",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "One More Exit"
+ },
+ {
+  "id": "WF2199",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A hall added a second exit. A drill afterward ended sooner, and the committee credited the new door with the entire improvement. A caretaker remembered another change: the second drill took place without coats piled along the aisle. Nobody argued that the extra door was useless. The question was whether its contribution could be separated from the clearer aisle. The committee reported the faster result but removed the precise claim about how many seconds the new door alone had saved.\n\nWhat was removed from the report?",
+  "cn": "礼堂增设了第二个出口。随后的演练用时缩短，委员会把全部改进归功于新门。管理员想起另一个变化：第二次演练时走道里没堆外套。没人认为新门无用，问题在于能否把它的作用与走道通畅的作用分开。委员会报告了用时变短，但删去了新门单独节省了多少秒的精确说法。",
+  "why": "删去精确归因，保留结果。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "An exact claim about the door's own effect."
+   ]
+  ],
+  "options": [
+   "The fact that the drill was faster.",
+   "All mention of the drill.",
+   "An exact claim about the door's own effect."
+  ],
+  "source": "read3000:One More Exit",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "One More Exit"
+ },
+ {
+  "id": "WF2200",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "A hall added a second exit. A drill afterward ended sooner, and the committee credited the new door with the entire improvement. A caretaker remembered another change: the second drill took place without coats piled along the aisle. Nobody argued that the extra door was useless. The question was whether its contribution could be separated from the clearer aisle. The committee reported the faster result but removed the precise claim about how many seconds the new door alone had saved.\n\nWhy avoid saying the door was useless?",
+  "cn": "礼堂增设了第二个出口。随后的演练用时缩短，委员会把全部改进归功于新门。管理员想起另一个变化：第二次演练时走道里没堆外套。没人认为新门无用，问题在于能否把它的作用与走道通畅的作用分开。委员会报告了用时变短，但删去了新门单独节省了多少秒的精确说法。",
+  "why": "不能分离贡献不等于证明贡献为零。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The evidence does not isolate its effect either way."
+   ]
+  ],
+  "options": [
+   "The evidence does not isolate its effect either way.",
+   "The first drill already used it.",
+   "The timing never changed."
+  ],
+  "source": "read3000:One More Exit",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "One More Exit"
+ }
+]

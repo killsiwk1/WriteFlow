@@ -1,0 +1,75 @@
+# level 1
+E|My little cousin can rides a bike now.|rides|ride|我的小表弟现在会骑自行车了。|情态动词后的原形|can 已承担谓语的人称和时态功能，后接 ride。|不要因为主语是单数就给 can 后的动词加 s。
+E|She put the postcards in she bag.|she|her|她把明信片放进她的包里。|名词前的物主限定词|bag 前需要 her 表示所属。|she 只能作主语，不能直接限定名词。
+E|The door is open. Please close them.|them|it|门开着，请把它关上。|单数事物的代词|door 指一扇门，close 后用宾格 it。|them 指代复数对象。
+E|I brush my tooths before bed.|tooths|teeth|我睡前刷牙。|不规则复数|tooth 的复数是 teeth。|这个词不能靠加 s 变复数。
+E|The map is next the clock.|next|next to|地图就在钟旁边。|next to 表位置|next to 整体相当于“紧挨着”，需要补上 to。|next 单独放在 the clock 前不能表达方位。
+E|We have an small kitchen at home.|an|a|我们家有一个小厨房。|不定冠词与读音|small 以辅音音素开头，前面用 a。|看冠词后的第一个发音，而非只看名词 kitchen。
+E|My name are Zoe.|are|is|'我的名字是佐伊。|主语中心词|My name 为单数，系动词应用 is。|不要因为句中出现表示自己的 my 就用 am。
+E|Does Tim plays the drums?|plays|play|蒂姆打鼓吗？|一般疑问句|Does 已表示第三人称单数，实义动词还原为 play。|不要在助动词和实义动词上重复加单数标记。
+E|There is two blue dots on the ticket.|is|are|票上有两个蓝点。|there be 的一致|实际主语 two blue dots 是复数，现在时用 are。|不能将 there is 当作固定不变的开头。
+E|I am wait for my dad right now.|wait|waiting|我现在正在等爸爸。|现在进行时|am 后用 -ing 形式表达正在发生的动作。|不能把 be 和动词原形直接连用。
+E|The girls are stand near the fountain.|stand|standing|女孩们正站在喷泉旁边。|动作与进行时|保留 are，要表示正在站着，应把 stand 改为 standing。|不要将 are stand 当作一般现在时。
+E|Give the blue ticket to I, please.|I|me|请把那张蓝色的票给我。|介词后的人称代词|to 后需要宾格 me。|主格 I 不能作此处的介词宾语。
+X|The two jars are empty.|改为一般疑问句，从 Are 开头。|Are the two jars empty?|这两个罐子是空的吗？|be 动词疑问句|将 are 移到主语 the two jars 前，其余顺序不变。|不要额外添加 Do。
+X|Lily wants the green scarf.|改为否定句，保留 wants 对应的动词。|Lily does not want the green scarf./Lily doesn't want the green scarf.|莉莉不想要那条绿围巾。|一般现在时否定句|does not 否定实义动词，want 还原为原形。|不要写 doesn't wants。
+X|My lunch is in the red box.|对地点 in the red box 提问，从 Where 开头。|Where is my lunch?|我的午饭在哪里？|地点提问|用 Where 替换地点，并把 is 提到主语前面。|不要在问句中保留原地点。
+X|That is Ben's cap.|对 Ben's 提问，从 Whose 开头，保留 cap 和 that。|Whose cap is that?|那是谁的帽子？|whose 修饰名词|Whose cap 一起移到前面，再放 is that。|Who 只问人，不表达“谁的”。
+X|These are my notebooks.|改为单数句，使用 This。|This is my notebook.|这是我的笔记本。|单复数的整体转换|These、are、notebooks 三处都要随“一个”变化。|不要只改名词而保留复数谓语。
+X|I can see five ducks.|对 five 提问，以 How many ducks 开头，保留 I。|How many ducks can I see?|我能看到几只鸭子？|数量疑问句|How many ducks 代替原宾语，can 放在 I 前。|many 后依然用复数 ducks。
+X|Do not touch the wet paint.|只把否定部分改成缩略形式，保留其余词。|Don't touch the wet paint.|别碰没干的油漆。|祈使句否定缩写|Do not 缩写成 Don't，touch 保留原形。|缩写的撇号代表省略的字母。
+X|We're ready for lunch.|展开句中的缩略形式。|We are ready for lunch.|我们准备好吃午饭了。|主语加 be 的缩写|We're 由 We are 合成。|不能将 We're 展开成 We were。
+X|Jack has a new ruler.|以 Does 开头改为一般疑问句。|Does Jack have a new ruler?|杰克有一把新尺子吗？|has 与助动词|Does 提到前面，has 改为原形 have。|不要保留 Does Jack has。
+X|This cup is not mine.|用 belongs to 改写，保留否定意思。|This cup does not belong to me./This cup doesn't belong to me.|这只杯子不属于我。|所属关系的转换|belong 是实义动词，需要 does not；to 后使用 me。|不能写 is not belong。
+X|The bell rings at nine.|对 at nine 提问，以 What time 开头。|What time does the bell ring?|铃几点响？|具体时刻疑问句|移去时间状语，用 does 帮助构成问句。|does 后的 ring 不带 s。
+X|This is a round table.|改为以 This table 开头的句子，保留 round。|This table is round.|这张桌子是圆的。|定语改作表语|将名词 table 提到主语，round 放在 is 后面。|形容词作表语时前面不加 a。
+# level 2
+E|We didn't brought any plates to the picnic.|brought|bring|我们没有带盘子去野餐。|一般过去时否定|didn't 已表过去，实义动词用 bring。|不要让两个动词都带过去时标记。
+E|Can you help me to carrying this box?|carrying|carry|你能帮我搬这个箱子吗？|help somebody to do|题中保留 to，因此后面应用动词原形 carry。|不能在不定式 to 后用 carrying。
+E|The new towel feels softly.|softly|soft|新毛巾摸起来很软。|感官系动词|feels 在这里连接主语和描述毛巾性质的形容词 soft。|副词 softly 描述动作方式，不描述毛巾。
+E|There weren't some seats left on the bus.|some|any|公交车上没有剩余座位了。|否定句中的限定词|表示“一个也没剩”时，否定句里可用 any。|some 在某些语境可有特殊含义，但不符合这里的全否定。
+E|The bus driver spoke very clear.|clear|clearly|公交司机说话很清楚。|副词修饰动词|修饰 spoke 的方式，标准书面语用 clearly。|clear 通常作为形容词修饰名词或作表语。
+E|My sister enjoys to read travel diaries.|to read|reading|我姐姐喜欢读旅行日记。|enjoy 后的动名词|enjoy 后以动名词作宾语，故用 reading。|不要照搬 want to read 的形式。
+E|Look! A kite is fly above the roof.|fly|flying|看！屋顶上方正飞着一只风筝。|现在进行时|is 后写 flying；fly 变 -ing 时保留 y。|不是 flieing。
+E|Sam has lived here since three years.|since|for|山姆已经在这里住了三年。|for 表持续时间|three years 是时长，应由 for 引出。|since 后面应接开始的时间点。
+E|We met outside the library in Tuesday morning.|in|on|我们星期二上午在图书馆外见了面。|具体日子的上午|Tuesday morning 是具体哪一天的上午，用 on。|in the morning 泛指上午，不适用于此结构。
+E|That sandwich is more cheaper than this one.|more cheaper|cheaper|那份三明治比这份便宜。|比较级避免重复|cheaper 已经是比较级，去掉 more。|比较意义不能用 more 和 -er 同时标记。
+E|I'd like two glass of apple juice.|glass|glasses|我想要两杯苹果汁。|可数单位复数|计数的是杯数，two 后改为 glasses。|不用把 juice 变成复数来表示两杯。
+E|The little dog ran cross the road.|cross|across|小狗跑过了马路。|across 与 cross|已有动词 ran，后接介词 across 引出路面。|cross 自身可作动词，但不能像介词一样直接接在 ran 后。
+X|Our basket is lighter than theirs.|从 Their basket 开头，用 heavier，并用 ours 结尾。|Their basket is heavier than ours.|他们的篮子比我们的重。|互为反义的比较|颠倒比较对象后，用 heavier 表示 lighter 的相反关系。|交换主语时也要对应更换物主代词。
+X|The train arrived at 6:15.|把 6:15 写成 a quarter past six，其他词保留。|The train arrived at a quarter past six.|火车在六点一刻到站。|用 past 表时刻|从整点向后十五分钟用 a quarter past six。|a quarter to six 是差一刻六点。
+X|Mia bought the coat yesterday.|改为否定句，保留 yesterday。|Mia did not buy the coat yesterday./Mia didn't buy the coat yesterday.|米娅昨天没买那件外套。|过去时否定|did not 承担过去时，bought 还原为 buy。|不要写 didn't bought。
+X|The boy is too young to enter.|用 not old enough 改写，从 The boy 开头。|The boy is not old enough to enter./The boy isn't old enough to enter.|这个男孩年纪不够大，不能进去。|too...to 与 enough|too young 等于 not old enough；enough 放在形容词之后。|不要写 enough old。
+X|My aunt walks to the clinic.|用 goes 和 on foot 改写。|My aunt goes to the clinic on foot.|我姨妈步行去诊所。|交通方式的两种表达|walks to 表示步行到，等价于 goes to...on foot。|on foot 是固定表达，不写 by foot。
+X|We began the game at noon.|对 at noon 提问，使用 When。|When did we begin the game?|我们什么时候开始了游戏？|过去时问时间|用 did 帮助提问，began 回到原形 begin。|不要漏掉 did。
+X|This path is shorter than that path.|用 not as long as 改写，保留 this path 和 that path。|This path is not as long as that path./This path isn't as long as that path.|这条小路没有那条长。|否定同级比较|not as long as 与 shorter than 表示相同的长短关系。|as...as 中间放原级 long。
+X|Mum gave a spare key to me.|先写 me 再写 a spare key，保留 Mum gave。|Mum gave me a spare key.|妈妈给了我一把备用钥匙。|间接宾语位置|give 后直接跟接收者 me，再跟物品。|不能在 me 前保留 to。
+X|Nora is good at skating.|从 Nora 开头，用 does well 改写。|Nora does well in skating.|诺拉擅长滑冰。|be good at 与 do well in|把 is good at 换成 does well in，skating 保留。|do 需随 Nora 变为 does。
+X|Why don't we try another route?|用 Let's 开头改写建议句，保留 try another route。|Let's try another route.|我们试试另一条路线吧。|建议句的转换|Let's 后直接接动词原形 try。|不要在 try 前再加 to。
+X|The room has no windows.|用 There are no 开头，保留 in the room。|There are no windows in the room.|房间里没有窗户。|have 与 there be|windows 作实际主语表复数，前面用 are。|不要用 There have。
+X|They are washing the brushes now.|对 the brushes 提问，用 What 开头。|What are they washing now?|他们现在正在洗什么？|进行时宾语提问|What 替代宾语；助动词 are 放在 they 前，washing 保留。|不要再加 do。
+# level 3
+E|Our guide suggested to take the riverside path.|to take|taking|向导建议走河边的小路。|suggest 后接动名词|suggest 后直接接动作时用 taking。|不要照搬 decide to take。
+E|Several old signs were take down last week.|take|taken|上周拆下了几块旧标牌。|被动语态的过去分词|were 后接过去分词 taken，表示标牌被拆下。|动词原形不能组成过去时被动。
+E|The light went out while I cooked when the power failed. In “was cooked dinner,” replace cooked to describe an ongoing action.|cooked|cooking|停电的时候我正在做饭。|过去进行时|was cooking dinner 表示过去正做饭。|cooked 与 was 连用会构成被动，且 dinner 失去合适的位置。
+E|This is the first time I visit this island.|visit|have visited|这是我第一次到访这座岛。|This is the first time 结构|以现在为参照，第一次经历通常用现在完成时 have visited。|一般现在时 visit 更常表达习惯。
+E|I look forward to meet your art teacher.|meet|meeting|我期待见到你的美术老师。|介词 to 后的动名词|look forward to 中 to 是介词，后接 meeting。|不要把此处 to 当作不定式符号。
+E|The film made the last passenger to laugh.|to laugh|laugh|电影逗笑了最后一位乘客。|主动使役结构|make somebody do 中宾补用原形 laugh。|不要和被动形式 be made to do 混淆。
+E|Please tell me where is the nearest exit.|is the nearest exit|the nearest exit is|请告诉我最近的出口在哪里。|间接问句|where 引导宾语从句，其内部采用主语加谓语的语序。|独立问句的倒装不能照搬进从句。
+E|If the parcel will arrive early tomorrow, I'll call you.|will arrive|arrives|如果包裹明天早到，我就给你打电话。|条件从句的时态|if 表真实的将来条件时，从句用一般现在时，主语 parcel 为单数。|中文里的“将”不必在从句译成 will。
+E|This suitcase is heavy enough for I to lift.|for I|for me|这个箱子重到我提起来颇费力。|不定式逻辑主语|介词 for 后应使用宾格 me。|不能因为 me 是 lift 的动作执行者就改用主格。
+E|The woman which runs the bakery lives upstairs.|which|who/that|经营面包店的女士住在楼上。|指人的关系代词|先行词是 woman，限制性从句中作主语可用 who 或 that。|which 指物，不能在此指这位女士。
+E|The twins have already wrote their thank-you notes.|wrote|written|这对双胞胎已经写好了感谢便条。|完成时的过去分词|have 后用 write 的过去分词 written。|wrote 是一般过去时形式。
+E|The manager asked us don't block the doorway.|don't block|not to block|经理请我们不要挡住门口。|ask somebody not to do|要对受请求的动作进行否定，在 to block 前面放 not。|don't block 可以单独作祈使句，却不能直接跟在 asked us 后。
+X|A local artist painted the wall.|把 the wall 提到句首，改为被动语态，保留动作执行者。|The wall was painted by a local artist.|那面墙是一位本地艺术家画的。|一般过去时被动语态|wall 是单数且动作发生在过去，故用 was painted。|by 后的 artist 不决定谓语的数。
+X|Someone cleans the windows every Friday.|从 The windows 开头改被动句，省去 someone。|The windows are cleaned every Friday.|这些窗户每周五都会擦洗。|一般现在时被动语态|复数 windows 对应 are；clean 变过去分词。|频率状语保留，不能写成过去时。
+X|The path is so steep that I can't cycle up it.|用 too steep for me 开头的程度结构，从 The path 开头。|The path is too steep for me to cycle up.|这条路太陡，我骑不上去。|so...that 与 too...to|将不能完成的结果变为 for me to cycle up，path 已对应 up 的宾语。|不需要在句尾重复 it。
+X|She began waiting at eight and is still waiting.|从 She 开头，用 has been waiting 和 since 改写。|She has been waiting since eight./She has been waiting since eight o'clock.|她从八点起就一直在等。|起点与现在完成进行时|动作从过去持续到现在，since 引出开始时刻。|不要用 for eight 表示八点。
+X|“Where do you live?” the nurse asked me.|从 The nurse asked me 开头转述，按过去时叙述。|The nurse asked me where I lived.|护士问我住在哪里。|转述特殊疑问句|you 随说话角度变 I，从句用 I lived。|转述后不用 do you live 的问句语序。
+X|The lid was so loose that it fell off.|用 such a loose lid 改写，从 It was 开头。|It was such a loose lid that it fell off.|那是一个如此松的盖子，以至于掉了下来。|so 和 such 的区别|such 后接名词短语 a loose lid，再用 that 引出结果。|不要写 such loose a lid。
+X|The visitors used a rope to lower the crate.|以 A rope 开头改被动，省略执行者。|A rope was used to lower the crate.|人们用一根绳子把板条箱放了下去。|be used to do 表用途|was used 是被动，to lower 说明用途。|不要误写成 was used to lowering，后者通常表示习惯。
+X|The old clock is still working. I bought it at a fair.|合成一个句子，从 The old clock that I bought 开头。|The old clock that I bought at a fair is still working.|我在集市上买的那座旧钟还在走。|宾语关系从句|用 that 指代 clock，在 bought 后不再重复 it。|定语从句结束后还需要主句谓语 is working。
+X|It rained heavily, so we moved the chairs inside.|用 Because 开头改写，保留两件事及过去时。|Because it rained heavily, we moved the chairs inside.|因为雨下得很大，我们把椅子搬到了室内。|原因与结果|Because 引出原因，主句直接给出结果。|同一结构中不要再用 so 引出主句。
+X|The oven is not cool enough to touch.|用 too hot 改写，保持 The oven 开头。|The oven is too hot to touch.|烤箱太烫，不能碰。|反义词与程度结构|not cool enough 等价于此语境中的 too hot，动作保留为 to touch。|不要保留 not，否则意思相反。
+X|We completed the checklist before the guests arrived.|用 By the time the guests arrived 开头，主句使用过去完成时。|By the time the guests arrived, we had completed the checklist.|客人到达时，我们已经完成了清单核对。|过去之前的完成动作|arrived 是过去参照点，更早完成的动作是 had completed。|两件事的先后关系不能颠倒。
+X|“Please leave a message,” the assistant said to me.|用 The assistant asked me 开头转述请求。|The assistant asked me to leave a message.|助理请我留一条口信。|转述祈使句|请求的动作转写为 ask somebody to do。|please 通常不需要再逐字保留。

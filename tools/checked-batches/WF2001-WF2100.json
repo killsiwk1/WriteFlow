@@ -1,0 +1,2662 @@
+[
+ {
+  "id": "WF2001",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 1,
+  "text": "Max put on his shoes and ran to the door. One foot felt fine, but the other felt ____. He sat down and looked. Both shoes were black, but one had a little silver star. His sister's shoes had stars like that. She was still in bed, so Max left her shoe by her door and found his own ____ a chair.",
+  "cn": "马克斯穿上鞋跑到门边。一只脚舒服，另一只感觉不对劲。他坐下一看，两只鞋都是黑色，但一只有颗银色小星星。妹妹的鞋上有这样的星星。她还在睡觉，马克斯把她的鞋放在她门边，在椅子下找到了自己的鞋。",
+  "why": "第1空 strange：脚感不同促使他检查鞋子。 第2空 under：自己的鞋在椅子下方。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "strange"
+   ],
+   [
+    "under"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Pair of Shoes",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Pair of Shoes",
+  "slotOptions": [
+   [
+    "late",
+    "strange",
+    "sunny",
+    "empty"
+   ],
+   [
+    "under",
+    "along",
+    "across",
+    "through"
+   ]
+  ]
+ },
+ {
+  "id": "WF2002",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Max put on his shoes and ran to the door. One foot felt fine, but the other felt strange. He sat down and looked. Both shoes were black, but one had a little silver star. His sister's shoes had stars like that. She was still in bed, so Max left her shoe by her door and found his own under a chair.\n\nWhat first made Max stop?",
+  "cn": "马克斯穿上鞋跑到门边。一只脚舒服，另一只感觉不对劲。他坐下一看，两只鞋都是黑色，但一只有颗银色小星星。妹妹的鞋上有这样的星星。她还在睡觉，马克斯把她的鞋放在她门边，在椅子下找到了自己的鞋。",
+  "why": "他是先感到不适才坐下的。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "One shoe felt different."
+   ]
+  ],
+  "options": [
+   "The door was locked.",
+   "His sister called.",
+   "One shoe felt different."
+  ],
+  "source": "read3000:A Pair of Shoes",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Pair of Shoes"
+ },
+ {
+  "id": "WF2003",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Max put on his shoes and ran to the door. One foot felt fine, but the other felt strange. He sat down and looked. Both shoes were black, but one had a little silver star. His sister's shoes had stars like that. She was still in bed, so Max left her shoe by her door and found his own under a chair.\n\nHow could Max tell the shoes apart?",
+  "cn": "马克斯穿上鞋跑到门边。一只脚舒服，另一只感觉不对劲。他坐下一看，两只鞋都是黑色，但一只有颗银色小星星。妹妹的鞋上有这样的星星。她还在睡觉，马克斯把她的鞋放在她门边，在椅子下找到了自己的鞋。",
+  "why": "两只都是黑色，只有银星不同。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "By the star."
+   ]
+  ],
+  "options": [
+   "By a name on the heel.",
+   "By the star.",
+   "By the black color."
+  ],
+  "source": "read3000:A Pair of Shoes",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Pair of Shoes"
+ },
+ {
+  "id": "WF2004",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Max put on his shoes and ran to the door. One foot felt fine, but the other felt strange. He sat down and looked. Both shoes were black, but one had a little silver star. His sister's shoes had stars like that. She was still in bed, so Max left her shoe by her door and found his own under a chair.\n\nWho does her refer to in her door?",
+  "cn": "马克斯穿上鞋跑到门边。一只脚舒服，另一只感觉不对劲。他坐下一看，两只鞋都是黑色，但一只有颗银色小星星。妹妹的鞋上有这样的星星。她还在睡觉，马克斯把她的鞋放在她门边，在椅子下找到了自己的鞋。",
+  "why": "前文一直在讲妹妹。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Max's sister."
+   ]
+  ],
+  "options": [
+   "Max's mother.",
+   "A visitor.",
+   "Max's sister."
+  ],
+  "source": "read3000:A Pair of Shoes",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Pair of Shoes"
+ },
+ {
+  "id": "WF2005",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Max put on his shoes and ran to the door. One foot felt fine, but the other felt strange. He sat down and looked. Both shoes were black, but one had a little silver star. His sister's shoes had stars like that. She was still in bed, so Max left her shoe by her door and found his own under a chair.\n\nWhy was there no need to wake his sister?",
+  "cn": "马克斯穿上鞋跑到门边。一只脚舒服，另一只感觉不对劲。他坐下一看，两只鞋都是黑色，但一只有颗银色小星星。妹妹的鞋上有这样的星星。她还在睡觉，马克斯把她的鞋放在她门边，在椅子下找到了自己的鞋。",
+  "why": "他自己完成了归还和寻找。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "He could return her shoe and find his own."
+   ]
+  ],
+  "options": [
+   "She was already outside.",
+   "He could return her shoe and find his own.",
+   "Neither child needed shoes."
+  ],
+  "source": "read3000:A Pair of Shoes",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Pair of Shoes"
+ },
+ {
+  "id": "WF2006",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 1,
+  "text": "At the first stop, a woman got on with a large bag. She put the bag on the seat next to her. Two stops later, a boy got on. He looked around but saw no ____ place. The woman moved her bag to her knees. The boy sat down and ____ the top of the bag when the bus turned a corner.",
+  "cn": "第一站，一位女士拎着大包上车，把包放在身旁的座位上。过了两站，一个男孩上来，看了看四周，没有空处。女士把包移到膝上。男孩坐下，公交车转弯时还帮忙扶着包的上部。",
+  "why": "第1空 empty：男孩在找座位。 第2空 held：转弯时扶住包以免倒下。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "empty"
+   ],
+   [
+    "held"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Last Bus Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Bus Seat",
+  "slotOptions": [
+   [
+    "empty",
+    "slow",
+    "wet",
+    "noisy"
+   ],
+   [
+    "held",
+    "hid",
+    "sold",
+    "opened"
+   ]
+  ]
+ },
+ {
+  "id": "WF2007",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "At the first stop, a woman got on with a large bag. She put the bag on the seat next to her. Two stops later, a boy got on. He looked around but saw no empty place. The woman moved her bag to her knees. The boy sat down and held the top of the bag when the bus turned a corner.\n\nWhere was the bag at first?",
+  "cn": "第一站，一位女士拎着大包上车，把包放在身旁的座位上。过了两站，一个男孩上来，看了看四周，没有空处。女士把包移到膝上。男孩坐下，公交车转弯时还帮忙扶着包的上部。",
+  "why": "第一位乘客先把包放在邻座。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "On a seat."
+   ]
+  ],
+  "options": [
+   "On the boy's knees.",
+   "On a seat.",
+   "Under the bus."
+  ],
+  "source": "read3000:The Last Bus Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Bus Seat"
+ },
+ {
+  "id": "WF2008",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "At the first stop, a woman got on with a large bag. She put the bag on the seat next to her. Two stops later, a boy got on. He looked around but saw no empty place. The woman moved her bag to her knees. The boy sat down and held the top of the bag when the bus turned a corner.\n\nWhat did the woman do for the boy?",
+  "cn": "第一站，一位女士拎着大包上车，把包放在身旁的座位上。过了两站，一个男孩上来，看了看四周，没有空处。女士把包移到膝上。男孩坐下，公交车转弯时还帮忙扶着包的上部。",
+  "why": "移包腾出了座位。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Made room for him."
+   ]
+  ],
+  "options": [
+   "Made room for him.",
+   "Paid his fare.",
+   "Gave him her bag."
+  ],
+  "source": "read3000:The Last Bus Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Bus Seat"
+ },
+ {
+  "id": "WF2009",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "At the first stop, a woman got on with a large bag. She put the bag on the seat next to her. Two stops later, a boy got on. He looked around but saw no empty place. The woman moved her bag to her knees. The boy sat down and held the top of the bag when the bus turned a corner.\n\nWhen did the boy help?",
+  "cn": "第一站，一位女士拎着大包上车，把包放在身旁的座位上。过了两站，一个男孩上来，看了看四周，没有空处。女士把包移到膝上。男孩坐下，公交车转弯时还帮忙扶着包的上部。",
+  "why": "when 引出动作发生时机。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "As the bus turned."
+   ]
+  ],
+  "options": [
+   "After the woman left.",
+   "As the bus turned.",
+   "Before he got on."
+  ],
+  "source": "read3000:The Last Bus Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Bus Seat"
+ },
+ {
+  "id": "WF2010",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "At the first stop, a woman got on with a large bag. She put the bag on the seat next to her. Two stops later, a boy got on. He looked around but saw no empty place. The woman moved her bag to her knees. The boy sat down and held the top of the bag when the bus turned a corner.\n\nWhich idea fits the story?",
+  "cn": "第一站，一位女士拎着大包上车，把包放在身旁的座位上。过了两站，一个男孩上来，看了看四周，没有空处。女士把包移到膝上。男孩坐下，公交车转弯时还帮忙扶着包的上部。",
+  "why": "先让座，再扶包，帮助是相互的。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Each passenger helped the other."
+   ]
+  ],
+  "options": [
+   "Each passenger helped the other.",
+   "Large bags cannot go on buses.",
+   "The first stop was the busiest."
+  ],
+  "source": "read3000:The Last Bus Seat",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Last Bus Seat"
+ },
+ {
+  "id": "WF2011",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 1,
+  "text": "On Monday, Kim saw a green circle on the classroom calendar. She thought it meant a holiday. Her friend pointed at the pictures ____ the dates. A yellow sun meant a trip. A green circle meant a class meeting. Kim opened her bag again and took out the list of ideas she wanted to ____.",
+  "cn": "星期一，金看到教室日历上有个绿圈，以为那表示放假。朋友指给她看日期下方的图例。黄色太阳表示出游，绿圈表示班会。金重新打开包，拿出想跟大家分享的点子清单。",
+  "why": "第1空 below：图例位于日期下方。 第2空 share：班会上可以分享点子。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "below"
+   ],
+   [
+    "share"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Green Circle",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Green Circle",
+  "slotOptions": [
+   [
+    "against",
+    "into",
+    "below",
+    "across"
+   ],
+   [
+    "lock",
+    "wear",
+    "feed",
+    "share"
+   ]
+  ]
+ },
+ {
+  "id": "WF2012",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "On Monday, Kim saw a green circle on the classroom calendar. She thought it meant a holiday. Her friend pointed at the pictures below the dates. A yellow sun meant a trip. A green circle meant a class meeting. Kim opened her bag again and took out the list of ideas she wanted to share.\n\nWhat did Kim first expect?",
+  "cn": "星期一，金看到教室日历上有个绿圈，以为那表示放假。朋友指给她看日期下方的图例。黄色太阳表示出游，绿圈表示班会。金重新打开包，拿出想跟大家分享的点子清单。",
+  "why": "最初的判断在 thought 后。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A holiday."
+   ]
+  ],
+  "options": [
+   "A test.",
+   "A holiday.",
+   "A class meeting."
+  ],
+  "source": "read3000:The Green Circle",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Green Circle"
+ },
+ {
+  "id": "WF2013",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "On Monday, Kim saw a green circle on the classroom calendar. She thought it meant a holiday. Her friend pointed at the pictures below the dates. A yellow sun meant a trip. A green circle meant a class meeting. Kim opened her bag again and took out the list of ideas she wanted to share.\n\nWhat stands for a trip?",
+  "cn": "星期一，金看到教室日历上有个绿圈，以为那表示放假。朋友指给她看日期下方的图例。黄色太阳表示出游，绿圈表示班会。金重新打开包，拿出想跟大家分享的点子清单。",
+  "why": "朋友指给她看的图例区分了两种活动。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A yellow sun."
+   ]
+  ],
+  "options": [
+   "A green circle.",
+   "A blue line.",
+   "A yellow sun."
+  ],
+  "source": "read3000:The Green Circle",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Green Circle"
+ },
+ {
+  "id": "WF2014",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "On Monday, Kim saw a green circle on the classroom calendar. She thought it meant a holiday. Her friend pointed at the pictures below the dates. A yellow sun meant a trip. A green circle meant a class meeting. Kim opened her bag again and took out the list of ideas she wanted to share.\n\nWhat was on Kim's list?",
+  "cn": "星期一，金看到教室日历上有个绿圈，以为那表示放假。朋友指给她看日期下方的图例。黄色太阳表示出游，绿圈表示班会。金重新打开包，拿出想跟大家分享的点子清单。",
+  "why": "末句说明清单的内容。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Ideas for the meeting."
+   ]
+  ],
+  "options": [
+   "Ideas for the meeting.",
+   "Bus times.",
+   "Holiday dates."
+  ],
+  "source": "read3000:The Green Circle",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Green Circle"
+ },
+ {
+  "id": "WF2015",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "On Monday, Kim saw a green circle on the classroom calendar. She thought it meant a holiday. Her friend pointed at the pictures below the dates. A yellow sun meant a trip. A green circle meant a class meeting. Kim opened her bag again and took out the list of ideas she wanted to share.\n\nWhy did Kim open her bag again?",
+  "cn": "星期一，金看到教室日历上有个绿圈，以为那表示放假。朋友指给她看日期下方的图例。黄色太阳表示出游，绿圈表示班会。金重新打开包，拿出想跟大家分享的点子清单。",
+  "why": "知道要开班会才取出点子清单。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "She now knew what the circle meant."
+   ]
+  ],
+  "options": [
+   "The calendar had fallen in.",
+   "She needed a sun hat.",
+   "She now knew what the circle meant."
+  ],
+  "source": "read3000:The Green Circle",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Green Circle"
+ },
+ {
+  "id": "WF2016",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 1,
+  "text": "The children were reading in a tent behind the house. When it grew ____, Dad brought a lamp. He put it outside the tent, and nobody could see the words well. May hung a white sheet behind the lamp and moved both ____. Soon the children could see every page. They read one more story before going home.",
+  "cn": "孩子们在房子后面的帐篷里看书。天黑时爸爸拿来一盏灯，放在帐篷外，可大家仍看不清字。梅把一块白布挂在灯后，把两样东西一起移到里面。很快，每页书都看清了。回家前他们又读了一个故事。",
+  "why": "第1空 dark：天黑才需要灯。 第2空 inside：和原先在帐篷外形成位置变化。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "dark"
+   ],
+   [
+    "inside"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Light in the Tent",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Light in the Tent",
+  "slotOptions": [
+   [
+    "quiet",
+    "dark",
+    "short",
+    "empty"
+   ],
+   [
+    "apart",
+    "inside",
+    "abroad",
+    "away"
+   ]
+  ]
+ },
+ {
+  "id": "WF2017",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The children were reading in a tent behind the house. When it grew dark, Dad brought a lamp. He put it outside the tent, and nobody could see the words well. May hung a white sheet behind the lamp and moved both inside. Soon the children could see every page. They read one more story before going home.\n\nWhere was the tent?",
+  "cn": "孩子们在房子后面的帐篷里看书。天黑时爸爸拿来一盏灯，放在帐篷外，可大家仍看不清字。梅把一块白布挂在灯后，把两样东西一起移到里面。很快，每页书都看清了。回家前他们又读了一个故事。",
+  "why": "开头交代位置。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Behind the house."
+   ]
+  ],
+  "options": [
+   "In a school hall.",
+   "Beside a station.",
+   "Behind the house."
+  ],
+  "source": "read3000:A Light in the Tent",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Light in the Tent"
+ },
+ {
+  "id": "WF2018",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The children were reading in a tent behind the house. When it grew dark, Dad brought a lamp. He put it outside the tent, and nobody could see the words well. May hung a white sheet behind the lamp and moved both inside. Soon the children could see every page. They read one more story before going home.\n\nWhat did Dad bring?",
+  "cn": "孩子们在房子后面的帐篷里看书。天黑时爸爸拿来一盏灯，放在帐篷外，可大家仍看不清字。梅把一块白布挂在灯后，把两样东西一起移到里面。很快，每页书都看清了。回家前他们又读了一个故事。",
+  "why": "Dad 的动作是 brought a lamp。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A lamp."
+   ]
+  ],
+  "options": [
+   "A new book.",
+   "A sheet.",
+   "A lamp."
+  ],
+  "source": "read3000:A Light in the Tent",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Light in the Tent"
+ },
+ {
+  "id": "WF2019",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The children were reading in a tent behind the house. When it grew dark, Dad brought a lamp. He put it outside the tent, and nobody could see the words well. May hung a white sheet behind the lamp and moved both inside. Soon the children could see every page. They read one more story before going home.\n\nWhat does both mean?",
+  "cn": "孩子们在房子后面的帐篷里看书。天黑时爸爸拿来一盏灯，放在帐篷外，可大家仍看不清字。梅把一块白布挂在灯后，把两样东西一起移到里面。很快，每页书都看清了。回家前他们又读了一个故事。",
+  "why": "紧接灯和白布这两件东西。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The lamp and the sheet."
+   ]
+  ],
+  "options": [
+   "Two tents.",
+   "The lamp and the sheet.",
+   "Two children."
+  ],
+  "source": "read3000:A Light in the Tent",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Light in the Tent"
+ },
+ {
+  "id": "WF2020",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The children were reading in a tent behind the house. When it grew dark, Dad brought a lamp. He put it outside the tent, and nobody could see the words well. May hung a white sheet behind the lamp and moved both inside. Soon the children could see every page. They read one more story before going home.\n\nWhich result shows that May's idea worked?",
+  "cn": "孩子们在房子后面的帐篷里看书。天黑时爸爸拿来一盏灯，放在帐篷外，可大家仍看不清字。梅把一块白布挂在灯后，把两样东西一起移到里面。很快，每页书都看清了。回家前他们又读了一个故事。",
+  "why": "改善照明后仍能阅读。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "They could read another story."
+   ]
+  ],
+  "options": [
+   "The lamp stayed outside.",
+   "They could read another story.",
+   "They went straight home."
+  ],
+  "source": "read3000:A Light in the Tent",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Light in the Tent"
+ },
+ {
+  "id": "WF2021",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 1,
+  "text": "Aunt Li asked Tom to put a number on a birthday cake. He picked up a six. On the table lay a card that said Happy ninth birthday. Tom looked for a nine, but the box was ____. Then he turned the six around. The round part was now at the ____. Aunt Li smiled and put the cake on a high shelf.",
+  "cn": "李阿姨让汤姆把数字放到生日蛋糕上。他拿了一个六，桌上贺卡写着“九岁生日快乐”。他想找个九，盒子却空了。于是他把六倒过来，圆圈到了上方。李阿姨笑着把蛋糕放到高架上。",
+  "why": "第1空 empty：盒内没有可拿的九。 第2空 top：六倒过来后圆圈在上方。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "empty"
+   ],
+   [
+    "top"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Number on the Cake",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Number on the Cake",
+  "slotOptions": [
+   [
+    "noisy",
+    "empty",
+    "warm",
+    "heavy"
+   ],
+   [
+    "edge",
+    "floor",
+    "top",
+    "side"
+   ]
+  ]
+ },
+ {
+  "id": "WF2022",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Aunt Li asked Tom to put a number on a birthday cake. He picked up a six. On the table lay a card that said Happy ninth birthday. Tom looked for a nine, but the box was empty. Then he turned the six around. The round part was now at the top. Aunt Li smiled and put the cake on a high shelf.\n\nHow old was the birthday child?",
+  "cn": "李阿姨让汤姆把数字放到生日蛋糕上。他拿了一个六，桌上贺卡写着“九岁生日快乐”。他想找个九，盒子却空了。于是他把六倒过来，圆圈到了上方。李阿姨笑着把蛋糕放到高架上。",
+  "why": "卡片比一开始拿起的数字更能说明年龄。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Nine."
+   ]
+  ],
+  "options": [
+   "Nine.",
+   "Six.",
+   "Ten."
+  ],
+  "source": "read3000:The Number on the Cake",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Number on the Cake"
+ },
+ {
+  "id": "WF2023",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Aunt Li asked Tom to put a number on a birthday cake. He picked up a six. On the table lay a card that said Happy ninth birthday. Tom looked for a nine, but the box was empty. Then he turned the six around. The round part was now at the top. Aunt Li smiled and put the cake on a high shelf.\n\nWhere did Tom see the correct age?",
+  "cn": "李阿姨让汤姆把数字放到生日蛋糕上。他拿了一个六，桌上贺卡写着“九岁生日快乐”。他想找个九，盒子却空了。于是他把六倒过来，圆圈到了上方。李阿姨笑着把蛋糕放到高架上。",
+  "why": "桌上的贺卡写着年龄。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "On a card."
+   ]
+  ],
+  "options": [
+   "On the shelf.",
+   "Inside the box.",
+   "On a card."
+  ],
+  "source": "read3000:The Number on the Cake",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Number on the Cake"
+ },
+ {
+  "id": "WF2024",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Aunt Li asked Tom to put a number on a birthday cake. He picked up a six. On the table lay a card that said Happy ninth birthday. Tom looked for a nine, but the box was empty. Then he turned the six around. The round part was now at the top. Aunt Li smiled and put the cake on a high shelf.\n\nHow did Tom get the number he needed?",
+  "cn": "李阿姨让汤姆把数字放到生日蛋糕上。他拿了一个六，桌上贺卡写着“九岁生日快乐”。他想找个九，盒子却空了。于是他把六倒过来，圆圈到了上方。李阿姨笑着把蛋糕放到高架上。",
+  "why": "改变数字的方向就得到九。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "He turned the six around."
+   ]
+  ],
+  "options": [
+   "He bought a new nine.",
+   "He turned the six around.",
+   "He drew over the card."
+  ],
+  "source": "read3000:The Number on the Cake",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Number on the Cake"
+ },
+ {
+  "id": "WF2025",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Aunt Li asked Tom to put a number on a birthday cake. He picked up a six. On the table lay a card that said Happy ninth birthday. Tom looked for a nine, but the box was empty. Then he turned the six around. The round part was now at the top. Aunt Li smiled and put the cake on a high shelf.\n\nWhat did Aunt Li do last?",
+  "cn": "李阿姨让汤姆把数字放到生日蛋糕上。他拿了一个六，桌上贺卡写着“九岁生日快乐”。他想找个九，盒子却空了。于是他把六倒过来，圆圈到了上方。李阿姨笑着把蛋糕放到高架上。",
+  "why": "末句是最后一个动作。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "She put the cake on a shelf."
+   ]
+  ],
+  "options": [
+   "She wrote the card.",
+   "She emptied the box.",
+   "She put the cake on a shelf."
+  ],
+  "source": "read3000:The Number on the Cake",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Number on the Cake"
+ },
+ {
+  "id": "WF2026",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 1,
+  "text": "At the farm door stood two trays. One was full of dry shoes. The other was empty and had small holes in the bottom. After feeding the sheep, Jen came back with ____ boots. She started to put them beside the dry shoes. Then she saw the holes. She put her boots on the empty tray and watched the water run ____.",
+  "cn": "农舍门口有两个托盘。一个装满干鞋，另一个空着，底部有小孔。珍喂完羊回来，靴子湿了。她本想放在干鞋旁，接着看见了小孔。她把靴子放到空托盘上，看着水从孔中流下。",
+  "why": "第1空 wet：后面有水流出。 第2空 through：水穿过小孔。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "wet"
+   ],
+   [
+    "through"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Place for Boots",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Place for Boots",
+  "slotOptions": [
+   [
+    "clean",
+    "small",
+    "missing",
+    "wet"
+   ],
+   [
+    "through",
+    "against",
+    "above",
+    "beside"
+   ]
+  ]
+ },
+ {
+  "id": "WF2027",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "At the farm door stood two trays. One was full of dry shoes. The other was empty and had small holes in the bottom. After feeding the sheep, Jen came back with wet boots. She started to put them beside the dry shoes. Then she saw the holes. She put her boots on the empty tray and watched the water run through.\n\nHow many trays were there?",
+  "cn": "农舍门口有两个托盘。一个装满干鞋，另一个空着，底部有小孔。珍喂完羊回来，靴子湿了。她本想放在干鞋旁，接着看见了小孔。她把靴子放到空托盘上，看着水从孔中流下。",
+  "why": "开头的 two trays。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Two."
+   ]
+  ],
+  "options": [
+   "Two.",
+   "One.",
+   "Three."
+  ],
+  "source": "read3000:A Place for Boots",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Place for Boots"
+ },
+ {
+  "id": "WF2028",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "At the farm door stood two trays. One was full of dry shoes. The other was empty and had small holes in the bottom. After feeding the sheep, Jen came back with wet boots. She started to put them beside the dry shoes. Then she saw the holes. She put her boots on the empty tray and watched the water run through.\n\nWhat was Jen doing before she came back?",
+  "cn": "农舍门口有两个托盘。一个装满干鞋，另一个空着，底部有小孔。珍喂完羊回来，靴子湿了。她本想放在干鞋旁，接着看见了小孔。她把靴子放到空托盘上，看着水从孔中流下。",
+  "why": "after feeding the sheep 交代先前的事。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Feeding sheep."
+   ]
+  ],
+  "options": [
+   "Buying boots.",
+   "Washing shoes.",
+   "Feeding sheep."
+  ],
+  "source": "read3000:A Place for Boots",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Place for Boots"
+ },
+ {
+  "id": "WF2029",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "At the farm door stood two trays. One was full of dry shoes. The other was empty and had small holes in the bottom. After feeding the sheep, Jen came back with wet boots. She started to put them beside the dry shoes. Then she saw the holes. She put her boots on the empty tray and watched the water run through.\n\nWhich tray did Jen choose?",
+  "cn": "农舍门口有两个托盘。一个装满干鞋，另一个空着，底部有小孔。珍喂完羊回来，靴子湿了。她本想放在干鞋旁，接着看见了小孔。她把靴子放到空托盘上，看着水从孔中流下。",
+  "why": "她最终放在空的有孔托盘上。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The one with holes."
+   ]
+  ],
+  "options": [
+   "The one full of shoes.",
+   "A tray from the kitchen.",
+   "The one with holes."
+  ],
+  "source": "read3000:A Place for Boots",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Place for Boots"
+ },
+ {
+  "id": "WF2030",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "At the farm door stood two trays. One was full of dry shoes. The other was empty and had small holes in the bottom. After feeding the sheep, Jen came back with wet boots. She started to put them beside the dry shoes. Then she saw the holes. She put her boots on the empty tray and watched the water run through.\n\nWhat were the holes useful for?",
+  "cn": "农舍门口有两个托盘。一个装满干鞋，另一个空着，底部有小孔。珍喂完羊回来，靴子湿了。她本想放在干鞋旁，接着看见了小孔。她把靴子放到空托盘上，看着水从孔中流下。",
+  "why": "最后观察到水从孔流下。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Letting water out."
+   ]
+  ],
+  "options": [
+   "Holding dry socks.",
+   "Counting the sheep.",
+   "Letting water out."
+  ],
+  "source": "read3000:A Place for Boots",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Place for Boots"
+ },
+ {
+  "id": "WF2031",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 1,
+  "text": "Dan kept his zoo ticket after he got home. His sister wanted to throw it out. Dan turned it ____ and showed her four little animal pictures. He had put a dot beside each animal he saw. Three had dots. The bear did not. Dan put the ticket in his bag and said he knew where to go ____ next time.",
+  "cn": "丹回家后留着动物园门票。妹妹想扔掉它，丹把票翻过来给她看背面的四张动物小图。他每看见一种动物就在图旁点一个点。三张图有点，熊的图没有。丹把票放进包，说下次知道先去哪里了。",
+  "why": "第1空 over：turn it over 表示翻面。 第2空 first：没看过熊，因此下次优先去看。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "over"
+   ],
+   [
+    "first"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Back of the Ticket",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Back of the Ticket",
+  "slotOptions": [
+   [
+    "outside",
+    "downstairs",
+    "off",
+    "over"
+   ],
+   [
+    "alone",
+    "twice",
+    "first",
+    "late"
+   ]
+  ]
+ },
+ {
+  "id": "WF2032",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Dan kept his zoo ticket after he got home. His sister wanted to throw it out. Dan turned it over and showed her four little animal pictures. He had put a dot beside each animal he saw. Three had dots. The bear did not. Dan put the ticket in his bag and said he knew where to go first next time.\n\nWhat was on the back of the ticket?",
+  "cn": "丹回家后留着动物园门票。妹妹想扔掉它，丹把票翻过来给她看背面的四张动物小图。他每看见一种动物就在图旁点一个点。三张图有点，熊的图没有。丹把票放进包，说下次知道先去哪里了。",
+  "why": "第二句之后介绍票背面。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Four animal pictures."
+   ]
+  ],
+  "options": [
+   "Four animal pictures.",
+   "A telephone number.",
+   "A bus route."
+  ],
+  "source": "read3000:The Back of the Ticket",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Back of the Ticket"
+ },
+ {
+  "id": "WF2033",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Dan kept his zoo ticket after he got home. His sister wanted to throw it out. Dan turned it over and showed her four little animal pictures. He had put a dot beside each animal he saw. Three had dots. The bear did not. Dan put the ticket in his bag and said he knew where to go first next time.\n\nWhat did a dot mean?",
+  "cn": "丹回家后留着动物园门票。妹妹想扔掉它，丹把票翻过来给她看背面的四张动物小图。他每看见一种动物就在图旁点一个点。三张图有点，熊的图没有。丹把票放进包，说下次知道先去哪里了。",
+  "why": "点是看过的标记。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Dan had seen that animal."
+   ]
+  ],
+  "options": [
+   "Dan had seen that animal.",
+   "The zoo was closed.",
+   "The animal was asleep."
+  ],
+  "source": "read3000:The Back of the Ticket",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Back of the Ticket"
+ },
+ {
+  "id": "WF2034",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Dan kept his zoo ticket after he got home. His sister wanted to throw it out. Dan turned it over and showed her four little animal pictures. He had put a dot beside each animal he saw. Three had dots. The bear did not. Dan put the ticket in his bag and said he knew where to go first next time.\n\nHow many pictured animals had Dan seen?",
+  "cn": "丹回家后留着动物园门票。妹妹想扔掉它，丹把票翻过来给她看背面的四张动物小图。他每看见一种动物就在图旁点一个点。三张图有点，熊的图没有。丹把票放进包，说下次知道先去哪里了。",
+  "why": "三张图片有点。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Three."
+   ]
+  ],
+  "options": [
+   "Four.",
+   "One.",
+   "Three."
+  ],
+  "source": "read3000:The Back of the Ticket",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Back of the Ticket"
+ },
+ {
+  "id": "WF2035",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Dan kept his zoo ticket after he got home. His sister wanted to throw it out. Dan turned it over and showed her four little animal pictures. He had put a dot beside each animal he saw. Three had dots. The bear did not. Dan put the ticket in his bag and said he knew where to go first next time.\n\nWhich animal will Dan probably visit first next time?",
+  "cn": "丹回家后留着动物园门票。妹妹想扔掉它，丹把票翻过来给她看背面的四张动物小图。他每看见一种动物就在图旁点一个点。三张图有点，熊的图没有。丹把票放进包，说下次知道先去哪里了。",
+  "why": "熊是图中唯一还没看过的动物。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The bear."
+   ]
+  ],
+  "options": [
+   "Any animal with a dot.",
+   "The bear.",
+   "One not pictured on the ticket."
+  ],
+  "source": "read3000:The Back of the Ticket",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Back of the Ticket"
+ },
+ {
+  "id": "WF2036",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 1,
+  "text": "Lili arrived ____ to practice a song with Rose. She knocked on the door, but nobody answered. Through the window she saw Rose holding a sleeping baby. Rose put one finger to her lips and pointed to the garden seats. Lili walked around the house. A minute later Rose came out with a songbook and closed the door ____ behind her.",
+  "cn": "莉莉早早来到罗斯家一起练歌。她敲敲门，没人应声。透过窗户，她看见罗斯抱着睡着的婴儿。罗斯把一根手指放到嘴唇边，指向花园座椅。莉莉绕过房子。一分钟后罗斯带着歌本出来，轻轻关上身后的门。",
+  "why": "第1空 early：第一句交代她比约定时间早到。 第2空 softly：轻轻关门可以避免吵醒婴儿。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "early"
+   ],
+   [
+    "softly"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Quiet Knock",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Knock",
+  "slotOptions": [
+   [
+    "twice",
+    "early",
+    "upstairs",
+    "inside"
+   ],
+   [
+    "softly",
+    "deeply",
+    "heavily",
+    "brightly"
+   ]
+  ]
+ },
+ {
+  "id": "WF2037",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Lili arrived early to practice a song with Rose. She knocked on the door, but nobody answered. Through the window she saw Rose holding a sleeping baby. Rose put one finger to her lips and pointed to the garden seats. Lili walked around the house. A minute later Rose came out with a songbook and closed the door softly behind her.\n\nWhy did Lili visit Rose?",
+  "cn": "莉莉早早来到罗斯家一起练歌。她敲敲门，没人应声。透过窗户，她看见罗斯抱着睡着的婴儿。罗斯把一根手指放到嘴唇边，指向花园座椅。莉莉绕过房子。一分钟后罗斯带着歌本出来，轻轻关上身后的门。",
+  "why": "首句说明来意。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "To practice a song."
+   ]
+  ],
+  "options": [
+   "To buy a chair.",
+   "To take a photo.",
+   "To practice a song."
+  ],
+  "source": "read3000:The Quiet Knock",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Knock"
+ },
+ {
+  "id": "WF2038",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Lili arrived early to practice a song with Rose. She knocked on the door, but nobody answered. Through the window she saw Rose holding a sleeping baby. Rose put one finger to her lips and pointed to the garden seats. Lili walked around the house. A minute later Rose came out with a songbook and closed the door softly behind her.\n\nWho was asleep?",
+  "cn": "莉莉早早来到罗斯家一起练歌。她敲敲门，没人应声。透过窗户，她看见罗斯抱着睡着的婴儿。罗斯把一根手指放到嘴唇边，指向花园座椅。莉莉绕过房子。一分钟后罗斯带着歌本出来，轻轻关上身后的门。",
+  "why": "sleeping 修饰 baby。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A baby."
+   ]
+  ],
+  "options": [
+   "A baby.",
+   "Rose.",
+   "Lili."
+  ],
+  "source": "read3000:The Quiet Knock",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Knock"
+ },
+ {
+  "id": "WF2039",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Lili arrived early to practice a song with Rose. She knocked on the door, but nobody answered. Through the window she saw Rose holding a sleeping baby. Rose put one finger to her lips and pointed to the garden seats. Lili walked around the house. A minute later Rose came out with a songbook and closed the door softly behind her.\n\nWhere did Rose want Lili to wait?",
+  "cn": "莉莉早早来到罗斯家一起练歌。她敲敲门，没人应声。透过窗户，她看见罗斯抱着睡着的婴儿。罗斯把一根手指放到嘴唇边，指向花园座椅。莉莉绕过房子。一分钟后罗斯带着歌本出来，轻轻关上身后的门。",
+  "why": "手势指向花园的座椅。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "In the garden."
+   ]
+  ],
+  "options": [
+   "At the window.",
+   "In the baby's room.",
+   "In the garden."
+  ],
+  "source": "read3000:The Quiet Knock",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Knock"
+ },
+ {
+  "id": "WF2040",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Lili arrived early to practice a song with Rose. She knocked on the door, but nobody answered. Through the window she saw Rose holding a sleeping baby. Rose put one finger to her lips and pointed to the garden seats. Lili walked around the house. A minute later Rose came out with a songbook and closed the door softly behind her.\n\nWhy did Rose use signs instead of calling out?",
+  "cn": "莉莉早早来到罗斯家一起练歌。她敲敲门，没人应声。透过窗户，她看见罗斯抱着睡着的婴儿。罗斯把一根手指放到嘴唇边，指向花园座椅。莉莉绕过房子。一分钟后罗斯带着歌本出来，轻轻关上身后的门。",
+  "why": "睡着的婴儿与轻声关门共同提供依据。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "She wanted to keep the baby asleep."
+   ]
+  ],
+  "options": [
+   "She had lost the songbook.",
+   "She wanted to keep the baby asleep.",
+   "The garden was too far away."
+  ],
+  "source": "read3000:The Quiet Knock",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Quiet Knock"
+ },
+ {
+  "id": "WF2041",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 2,
+  "text": "Mira packed everything for the cooking contest ____ a spoon. A boy at the next table had two. He lent her one, then went back to measuring flour. At the end Mira washed the spoon and tried to ____ it. Both spoons now looked alike. The boy pointed to a tiny dent in one handle. He knew it well because it had belonged to his grandfather.",
+  "cn": "米拉为烹饪比赛准备齐全，只漏了勺子。邻桌男孩有两把，借给她一把后继续量面粉。赛后米拉洗净勺子要还回去，两把看起来一模一样。男孩指着一把勺柄上的小凹痕。他很熟悉它，因为那曾是爷爷的。",
+  "why": "第1空 except：除了勺子，其他都备齐。 第2空 return：借来的东西用完要还。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "except"
+   ],
+   [
+    "return"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Spare Spoon",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Spare Spoon",
+  "slotOptions": [
+   [
+    "under",
+    "along",
+    "except",
+    "behind"
+   ],
+   [
+    "return",
+    "heat",
+    "describe",
+    "polish"
+   ]
+  ]
+ },
+ {
+  "id": "WF2042",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Mira packed everything for the cooking contest except a spoon. A boy at the next table had two. He lent her one, then went back to measuring flour. At the end Mira washed the spoon and tried to return it. Both spoons now looked alike. The boy pointed to a tiny dent in one handle. He knew it well because it had belonged to his grandfather.\n\nWhat had Mira forgotten?",
+  "cn": "米拉为烹饪比赛准备齐全，只漏了勺子。邻桌男孩有两把，借给她一把后继续量面粉。赛后米拉洗净勺子要还回去，两把看起来一模一样。男孩指着一把勺柄上的小凹痕。他很熟悉它，因为那曾是爷爷的。",
+  "why": "第一句的 except 指出遗漏物。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A spoon."
+   ]
+  ],
+  "options": [
+   "Flour.",
+   "A spoon.",
+   "A bowl."
+  ],
+  "source": "read3000:The Spare Spoon",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Spare Spoon"
+ },
+ {
+  "id": "WF2043",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Mira packed everything for the cooking contest except a spoon. A boy at the next table had two. He lent her one, then went back to measuring flour. At the end Mira washed the spoon and tried to return it. Both spoons now looked alike. The boy pointed to a tiny dent in one handle. He knew it well because it had belonged to his grandfather.\n\nWhat did the boy do immediately after helping?",
+  "cn": "米拉为烹饪比赛准备齐全，只漏了勺子。邻桌男孩有两把，借给她一把后继续量面粉。赛后米拉洗净勺子要还回去，两把看起来一模一样。男孩指着一把勺柄上的小凹痕。他很熟悉它，因为那曾是爷爷的。",
+  "why": "then 引出随后发生的动作。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "He measured flour."
+   ]
+  ],
+  "options": [
+   "He washed both spoons.",
+   "He measured flour.",
+   "He called his grandfather."
+  ],
+  "source": "read3000:The Spare Spoon",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Spare Spoon"
+ },
+ {
+  "id": "WF2044",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Mira packed everything for the cooking contest except a spoon. A boy at the next table had two. He lent her one, then went back to measuring flour. At the end Mira washed the spoon and tried to return it. Both spoons now looked alike. The boy pointed to a tiny dent in one handle. He knew it well because it had belonged to his grandfather.\n\nWhat was the useful mark?",
+  "cn": "米拉为烹饪比赛准备齐全，只漏了勺子。邻桌男孩有两把，借给她一把后继续量面粉。赛后米拉洗净勺子要还回去，两把看起来一模一样。男孩指着一把勺柄上的小凹痕。他很熟悉它，因为那曾是爷爷的。",
+  "why": "区别在小凹痕。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A dent in a handle."
+   ]
+  ],
+  "options": [
+   "A dent in a handle.",
+   "A yellow ribbon.",
+   "A printed name."
+  ],
+  "source": "read3000:The Spare Spoon",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Spare Spoon"
+ },
+ {
+  "id": "WF2045",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Mira packed everything for the cooking contest except a spoon. A boy at the next table had two. He lent her one, then went back to measuring flour. At the end Mira washed the spoon and tried to return it. Both spoons now looked alike. The boy pointed to a tiny dent in one handle. He knew it well because it had belonged to his grandfather.\n\nWhy did the boy recognize such a small detail?",
+  "cn": "米拉为烹饪比赛准备齐全，只漏了勺子。邻桌男孩有两把，借给她一把后继续量面粉。赛后米拉洗净勺子要还回去，两把看起来一模一样。男孩指着一把勺柄上的小凹痕。他很熟悉它，因为那曾是爷爷的。",
+  "why": "祖父用过使他熟悉这把勺子。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The spoon had a family history."
+   ]
+  ],
+  "options": [
+   "The spoon had a family history.",
+   "All contest tools had numbers.",
+   "He had just made the dent."
+  ],
+  "source": "read3000:The Spare Spoon",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Spare Spoon"
+ },
+ {
+  "id": "WF2046",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 2,
+  "text": "Ned liked to draw the hills on his way to school. His bus drawings always had a tall gray line ____ the same hill. On Saturday he walked to the hill with his father and could not find the line. The next Monday he changed seats. From the new seat the line crossed a different hill. Ned looked closer: the gray line was a ____ on the bus window.",
+  "cn": "内德喜欢在上学路上画山。每次从公交上画，总有一道高高的灰线横在同一座山上。周六他和父亲步行去山边，却没找到那道线。周一他换了座位，灰线竟横在另一个山头。他仔细一看，原来灰线是车窗上的划痕。",
+  "why": "第1空 across：线从画面上横过山。 第2空 scratch：近看才看出线在玻璃上。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "across"
+   ],
+   [
+    "scratch"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Bus Window",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Bus Window",
+  "slotOptions": [
+   [
+    "underneath",
+    "across",
+    "beside",
+    "inside"
+   ],
+   [
+    "scratch",
+    "river",
+    "road",
+    "shadow"
+   ]
+  ]
+ },
+ {
+  "id": "WF2047",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Ned liked to draw the hills on his way to school. His bus drawings always had a tall gray line across the same hill. On Saturday he walked to the hill with his father and could not find the line. The next Monday he changed seats. From the new seat the line crossed a different hill. Ned looked closer: the gray line was a scratch on the bus window.\n\nWhat did Ned often draw?",
+  "cn": "内德喜欢在上学路上画山。每次从公交上画，总有一道高高的灰线横在同一座山上。周六他和父亲步行去山边，却没找到那道线。周一他换了座位，灰线竟横在另一个山头。他仔细一看，原来灰线是车窗上的划痕。",
+  "why": "第一句交代爱好。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Hills seen from the bus."
+   ]
+  ],
+  "options": [
+   "His father's shoes.",
+   "Hills seen from the bus.",
+   "The village school."
+  ],
+  "source": "read3000:The Bus Window",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Bus Window"
+ },
+ {
+  "id": "WF2048",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Ned liked to draw the hills on his way to school. His bus drawings always had a tall gray line across the same hill. On Saturday he walked to the hill with his father and could not find the line. The next Monday he changed seats. From the new seat the line crossed a different hill. Ned looked closer: the gray line was a scratch on the bus window.\n\nWhen did he go on foot?",
+  "cn": "内德喜欢在上学路上画山。每次从公交上画，总有一道高高的灰线横在同一座山上。周六他和父亲步行去山边，却没找到那道线。周一他换了座位，灰线竟横在另一个山头。他仔细一看，原来灰线是车窗上的划痕。",
+  "why": "周六实地寻找灰线。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "On Saturday."
+   ]
+  ],
+  "options": [
+   "Every school morning.",
+   "On Saturday.",
+   "On Monday."
+  ],
+  "source": "read3000:The Bus Window",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Bus Window"
+ },
+ {
+  "id": "WF2049",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Ned liked to draw the hills on his way to school. His bus drawings always had a tall gray line across the same hill. On Saturday he walked to the hill with his father and could not find the line. The next Monday he changed seats. From the new seat the line crossed a different hill. Ned looked closer: the gray line was a scratch on the bus window.\n\nWhat changed when he moved seats?",
+  "cn": "内德喜欢在上学路上画山。每次从公交上画，总有一道高高的灰线横在同一座山上。周六他和父亲步行去山边，却没找到那道线。周一他换了座位，灰线竟横在另一个山头。他仔细一看，原来灰线是车窗上的划痕。",
+  "why": "观察角度改变，背景的山随之变化。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The hill behind the line."
+   ]
+  ],
+  "options": [
+   "The route of the bus.",
+   "The hill behind the line.",
+   "The color of the scratch."
+  ],
+  "source": "read3000:The Bus Window",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Bus Window"
+ },
+ {
+  "id": "WF2050",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Ned liked to draw the hills on his way to school. His bus drawings always had a tall gray line across the same hill. On Saturday he walked to the hill with his father and could not find the line. The next Monday he changed seats. From the new seat the line crossed a different hill. Ned looked closer: the gray line was a scratch on the bus window.\n\nWhat had Ned mistaken for part of the landscape?",
+  "cn": "内德喜欢在上学路上画山。每次从公交上画，总有一道高高的灰线横在同一座山上。周六他和父亲步行去山边，却没找到那道线。周一他换了座位，灰线竟横在另一个山头。他仔细一看，原来灰线是车窗上的划痕。",
+  "why": "误把车窗上的划痕当成山上的线条。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A mark on glass."
+   ]
+  ],
+  "options": [
+   "A mark on glass.",
+   "The edge of his notebook.",
+   "A cloud above the road."
+  ],
+  "source": "read3000:The Bus Window",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Bus Window"
+ },
+ {
+  "id": "WF2051",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 2,
+  "text": "Three pupils needed blue paint for one poster. The first pupil poured it into three ____ cups. Jo looked at their drawings. She had only a blue button to paint, while Wei had a whole lake. Giving everyone the same amount would leave Wei short. They kept a little paint in each cup and poured the ____ back into one pot for anyone who needed more.",
+  "cn": "三名学生合画海报，都需要蓝颜料。第一人把颜料均分到三个杯里。乔看看各自的画，她只需画一颗蓝纽扣，伟却要画整座湖。人人一样多会让伟不够用。大家给每杯留一点，其余倒回公共颜料罐，谁需要就再取。",
+  "why": "第1空 equal：最初方案是平均分。 第2空 rest：每杯留少量，把剩余颜料倒回。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "equal"
+   ],
+   [
+    "rest"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Fair Share of Paint",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Fair Share of Paint",
+  "slotOptions": [
+   [
+    "broken",
+    "dirty",
+    "open",
+    "equal"
+   ],
+   [
+    "brush",
+    "water",
+    "rest",
+    "bottom"
+   ]
+  ]
+ },
+ {
+  "id": "WF2052",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Three pupils needed blue paint for one poster. The first pupil poured it into three equal cups. Jo looked at their drawings. She had only a blue button to paint, while Wei had a whole lake. Giving everyone the same amount would leave Wei short. They kept a little paint in each cup and poured the rest back into one pot for anyone who needed more.\n\nWhich pupil needed the most blue paint?",
+  "cn": "三名学生合画海报，都需要蓝颜料。第一人把颜料均分到三个杯里。乔看看各自的画，她只需画一颗蓝纽扣，伟却要画整座湖。人人一样多会让伟不够用。大家给每杯留一点，其余倒回公共颜料罐，谁需要就再取。",
+  "why": "整座湖所需面积最大。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Wei."
+   ]
+  ],
+  "options": [
+   "All needed exactly the same amount.",
+   "Wei.",
+   "Jo."
+  ],
+  "source": "read3000:A Fair Share of Paint",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Fair Share of Paint"
+ },
+ {
+  "id": "WF2053",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Three pupils needed blue paint for one poster. The first pupil poured it into three equal cups. Jo looked at their drawings. She had only a blue button to paint, while Wei had a whole lake. Giving everyone the same amount would leave Wei short. They kept a little paint in each cup and poured the rest back into one pot for anyone who needed more.\n\nWhy was an equal division a problem?",
+  "cn": "三名学生合画海报，都需要蓝颜料。第一人把颜料均分到三个杯里。乔看看各自的画，她只需画一颗蓝纽扣，伟却要画整座湖。人人一样多会让伟不够用。大家给每杯留一点，其余倒回公共颜料罐，谁需要就再取。",
+  "why": "纽扣和湖的面积不同。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The drawings needed different amounts."
+   ]
+  ],
+  "options": [
+   "The poster was too small.",
+   "The cups leaked.",
+   "The drawings needed different amounts."
+  ],
+  "source": "read3000:A Fair Share of Paint",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Fair Share of Paint"
+ },
+ {
+  "id": "WF2054",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Three pupils needed blue paint for one poster. The first pupil poured it into three equal cups. Jo looked at their drawings. She had only a blue button to paint, while Wei had a whole lake. Giving everyone the same amount would leave Wei short. They kept a little paint in each cup and poured the rest back into one pot for anyone who needed more.\n\nWhere did the extra paint end up?",
+  "cn": "三名学生合画海报，都需要蓝颜料。第一人把颜料均分到三个杯里。乔看看各自的画，她只需画一颗蓝纽扣，伟却要画整座湖。人人一样多会让伟不够用。大家给每杯留一点，其余倒回公共颜料罐，谁需要就再取。",
+  "why": "最后一句说明回到公共罐。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "In a shared pot."
+   ]
+  ],
+  "options": [
+   "In a shared pot.",
+   "On the floor.",
+   "Only in Jo's cup."
+  ],
+  "source": "read3000:A Fair Share of Paint",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Fair Share of Paint"
+ },
+ {
+  "id": "WF2055",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Three pupils needed blue paint for one poster. The first pupil poured it into three equal cups. Jo looked at their drawings. She had only a blue button to paint, while Wei had a whole lake. Giving everyone the same amount would leave Wei short. They kept a little paint in each cup and poured the rest back into one pot for anyone who needed more.\n\nWhat does leave Wei short mean here?",
+  "cn": "三名学生合画海报，都需要蓝颜料。第一人把颜料均分到三个杯里。乔看看各自的画，她只需画一颗蓝纽扣，伟却要画整座湖。人人一样多会让伟不够用。大家给每杯留一点，其余倒回公共颜料罐，谁需要就再取。",
+  "why": "short 对应材料不足。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Give Wei too little paint."
+   ]
+  ],
+  "options": [
+   "Give Wei too little paint.",
+   "Make Wei arrive late.",
+   "Give Wei a shorter brush."
+  ],
+  "source": "read3000:A Fair Share of Paint",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Fair Share of Paint"
+ },
+ {
+  "id": "WF2056",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 2,
+  "text": "Grandma gave An a paper timetable for the pool. An ____ it so that the morning times faced out. On Thursday evening her friend asked when swimming ended. An read the last time she could see and said noon. Her friend unfolded the paper and found another row underneath. Noon was the end of the morning session; the pool opened ____ at two and closed at seven.",
+  "cn": "奶奶给安一张纸质泳池时刻表。安把它折到早间时段朝外。周四晚上朋友问何时结束游泳，安读出能看见的最后一个时间，说中午。朋友展开纸，在下面发现另一行。中午只是早场结束，两点又开放，七点才关闭。",
+  "why": "第1空 folded：让一部分朝外的动作是折叠。 第2空 again：早场后两点再次开放。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "folded"
+   ],
+   [
+    "again"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Timetable Fold",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Timetable Fold",
+  "slotOptions": [
+   [
+    "mailed",
+    "folded",
+    "painted",
+    "signed"
+   ],
+   [
+    "alone",
+    "upstairs",
+    "again",
+    "away"
+   ]
+  ]
+ },
+ {
+  "id": "WF2057",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Grandma gave An a paper timetable for the pool. An folded it so that the morning times faced out. On Thursday evening her friend asked when swimming ended. An read the last time she could see and said noon. Her friend unfolded the paper and found another row underneath. Noon was the end of the morning session; the pool opened again at two and closed at seven.\n\nWhich times could An see at first?",
+  "cn": "奶奶给安一张纸质泳池时刻表。安把它折到早间时段朝外。周四晚上朋友问何时结束游泳，安读出能看见的最后一个时间，说中午。朋友展开纸，在下面发现另一行。中午只是早场结束，两点又开放，七点才关闭。",
+  "why": "折法让早间时段朝外。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The morning times."
+   ]
+  ],
+  "options": [
+   "The morning times.",
+   "Only weekend times.",
+   "All opening times."
+  ],
+  "source": "read3000:The Timetable Fold",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Timetable Fold"
+ },
+ {
+  "id": "WF2058",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Grandma gave An a paper timetable for the pool. An folded it so that the morning times faced out. On Thursday evening her friend asked when swimming ended. An read the last time she could see and said noon. Her friend unfolded the paper and found another row underneath. Noon was the end of the morning session; the pool opened again at two and closed at seven.\n\nWhat mistake did An make?",
+  "cn": "奶奶给安一张纸质泳池时刻表。安把它折到早间时段朝外。周四晚上朋友问何时结束游泳，安读出能看见的最后一个时间，说中午。朋友展开纸，在下面发现另一行。中午只是早场结束，两点又开放，七点才关闭。",
+  "why": "只见半张表造成误解。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "She took a session's end for the day's closing time."
+   ]
+  ],
+  "options": [
+   "She took a session's end for the day's closing time.",
+   "She read the wrong weekday.",
+   "She confused two pools."
+  ],
+  "source": "read3000:The Timetable Fold",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Timetable Fold"
+ },
+ {
+  "id": "WF2059",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Grandma gave An a paper timetable for the pool. An folded it so that the morning times faced out. On Thursday evening her friend asked when swimming ended. An read the last time she could see and said noon. Her friend unfolded the paper and found another row underneath. Noon was the end of the morning session; the pool opened again at two and closed at seven.\n\nHow long was the afternoon session?",
+  "cn": "奶奶给安一张纸质泳池时刻表。安把它折到早间时段朝外。周四晚上朋友问何时结束游泳，安读出能看见的最后一个时间，说中午。朋友展开纸，在下面发现另一行。中午只是早场结束，两点又开放，七点才关闭。",
+  "why": "从两点到七点相差五小时。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Five hours."
+   ]
+  ],
+  "options": [
+   "Two hours.",
+   "Seven hours.",
+   "Five hours."
+  ],
+  "source": "read3000:The Timetable Fold",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Timetable Fold"
+ },
+ {
+  "id": "WF2060",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Grandma gave An a paper timetable for the pool. An folded it so that the morning times faced out. On Thursday evening her friend asked when swimming ended. An read the last time she could see and said noon. Her friend unfolded the paper and found another row underneath. Noon was the end of the morning session; the pool opened again at two and closed at seven.\n\nWhy did the friend unfold the paper?",
+  "cn": "奶奶给安一张纸质泳池时刻表。安把它折到早间时段朝外。周四晚上朋友问何时结束游泳，安读出能看见的最后一个时间，说中午。朋友展开纸，在下面发现另一行。中午只是早场结束，两点又开放，七点才关闭。",
+  "why": "打开后看到被遮住的另一行。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "To see the hidden information."
+   ]
+  ],
+  "options": [
+   "To see the hidden information.",
+   "To find a picture of the pool.",
+   "To throw the paper away."
+  ],
+  "source": "read3000:The Timetable Fold",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Timetable Fold"
+ },
+ {
+  "id": "WF2061",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 2,
+  "text": "During a practice play, Mina heard clapping and stepped onto the stage. The actors looked ____: it was not her turn. Behind the curtain, two pupils were knocking dust from a rug. The sound was much like clapping. At the next practice Mina waited for her real ____, three piano notes. This time she arrived just as the king opened the letter.",
+  "cn": "排练时米娜听到拍手声就上了台。演员们很惊讶，因为还没轮到她。幕布后两个同学在拍掉地毯上的灰，声音很像鼓掌。下次排练米娜等真正的信号，即三个钢琴音出现，这一回正好在国王打开信时登场。",
+  "why": "第1空 surprised：出现时间不对让演员惊讶。 第2空 signal：三个钢琴音是登台提示。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "surprised"
+   ],
+   [
+    "signal"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Wrong Applause",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wrong Applause",
+  "slotOptions": [
+   [
+    "surprised",
+    "ready",
+    "hungry",
+    "asleep"
+   ],
+   [
+    "shadow",
+    "costume",
+    "ticket",
+    "signal"
+   ]
+  ]
+ },
+ {
+  "id": "WF2062",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "During a practice play, Mina heard clapping and stepped onto the stage. The actors looked surprised: it was not her turn. Behind the curtain, two pupils were knocking dust from a rug. The sound was much like clapping. At the next practice Mina waited for her real signal, three piano notes. This time she arrived just as the king opened the letter.\n\nWhat made the first sound?",
+  "cn": "排练时米娜听到拍手声就上了台。演员们很惊讶，因为还没轮到她。幕布后两个同学在拍掉地毯上的灰，声音很像鼓掌。下次排练米娜等真正的信号，即三个钢琴音出现，这一回正好在国王打开信时登场。",
+  "why": "幕后同学在拍灰。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Pupils hitting a rug."
+   ]
+  ],
+  "options": [
+   "Pupils hitting a rug.",
+   "The king opening a letter.",
+   "The audience cheering."
+  ],
+  "source": "read3000:The Wrong Applause",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wrong Applause"
+ },
+ {
+  "id": "WF2063",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "During a practice play, Mina heard clapping and stepped onto the stage. The actors looked surprised: it was not her turn. Behind the curtain, two pupils were knocking dust from a rug. The sound was much like clapping. At the next practice Mina waited for her real signal, three piano notes. This time she arrived just as the king opened the letter.\n\nHow many notes formed the real signal?",
+  "cn": "排练时米娜听到拍手声就上了台。演员们很惊讶，因为还没轮到她。幕布后两个同学在拍掉地毯上的灰，声音很像鼓掌。下次排练米娜等真正的信号，即三个钢琴音出现，这一回正好在国王打开信时登场。",
+  "why": "文中明确为 three piano notes。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Three."
+   ]
+  ],
+  "options": [
+   "Three.",
+   "Four.",
+   "Two."
+  ],
+  "source": "read3000:The Wrong Applause",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wrong Applause"
+ },
+ {
+  "id": "WF2064",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "During a practice play, Mina heard clapping and stepped onto the stage. The actors looked surprised: it was not her turn. Behind the curtain, two pupils were knocking dust from a rug. The sound was much like clapping. At the next practice Mina waited for her real signal, three piano notes. This time she arrived just as the king opened the letter.\n\nWhat did Mina change at the next practice?",
+  "cn": "排练时米娜听到拍手声就上了台。演员们很惊讶，因为还没轮到她。幕布后两个同学在拍掉地毯上的灰，声音很像鼓掌。下次排练米娜等真正的信号，即三个钢琴音出现，这一回正好在国王打开信时登场。",
+  "why": "她改为等正式信号。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "She listened for a specific sound."
+   ]
+  ],
+  "options": [
+   "She listened for a specific sound.",
+   "She stood in the audience.",
+   "She opened the letter herself."
+  ],
+  "source": "read3000:The Wrong Applause",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wrong Applause"
+ },
+ {
+  "id": "WF2065",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "During a practice play, Mina heard clapping and stepped onto the stage. The actors looked surprised: it was not her turn. Behind the curtain, two pupils were knocking dust from a rug. The sound was much like clapping. At the next practice Mina waited for her real signal, three piano notes. This time she arrived just as the king opened the letter.\n\nWhich event shows that the change worked?",
+  "cn": "排练时米娜听到拍手声就上了台。演员们很惊讶，因为还没轮到她。幕布后两个同学在拍掉地毯上的灰，声音很像鼓掌。下次排练米娜等真正的信号，即三个钢琴音出现，这一回正好在国王打开信时登场。",
+  "why": "她这次在指定剧情点登场。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "She entered when the king opened the letter."
+   ]
+  ],
+  "options": [
+   "She entered when the king opened the letter.",
+   "The rug was clean.",
+   "The actors stopped playing."
+  ],
+  "source": "read3000:The Wrong Applause",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wrong Applause"
+ },
+ {
+  "id": "WF2066",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 2,
+  "text": "Bo wanted to know which of two bent lines on a map was longer. He put a ruler between each line's ends. The distances looked the same. His sister laid a piece of string ____ every bend of the first line and marked the end. She did the same for the second line. When they ____ out both marked lengths, one reached far past the other.",
+  "cn": "小博想知道地图上两条曲线哪条更长。他用直尺量各条线两端之间的距离，结果看起来一样。姐姐用线绳沿第一条线的每个弯铺开，标出终点，又同样量第二条。把两段标记长度拉直后，一段远长于另一段。",
+  "why": "第1空 along：绳子须贴着每个弯来量。 第2空 stretched：拉直后才可直接比较长度。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "along"
+   ],
+   [
+    "stretched"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Longer String",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Longer String",
+  "slotOptions": [
+   [
+    "above and away from",
+    "along",
+    "against the back of",
+    "under"
+   ],
+   [
+    "stretched",
+    "cut up",
+    "lost",
+    "covered"
+   ]
+  ]
+ },
+ {
+  "id": "WF2067",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Bo wanted to know which of two bent lines on a map was longer. He put a ruler between each line's ends. The distances looked the same. His sister laid a piece of string along every bend of the first line and marked the end. She did the same for the second line. When they stretched out both marked lengths, one reached far past the other.\n\nWhat did Bo's ruler compare?",
+  "cn": "小博想知道地图上两条曲线哪条更长。他用直尺量各条线两端之间的距离，结果看起来一样。姐姐用线绳沿第一条线的每个弯铺开，标出终点，又同样量第二条。把两段标记长度拉直后，一段远长于另一段。",
+  "why": "直尺只量端点间距。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Distances between the ends."
+   ]
+  ],
+  "options": [
+   "Distances between the ends.",
+   "The widths of the roads.",
+   "The lengths around every bend."
+  ],
+  "source": "read3000:The Longer String",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Longer String"
+ },
+ {
+  "id": "WF2068",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Bo wanted to know which of two bent lines on a map was longer. He put a ruler between each line's ends. The distances looked the same. His sister laid a piece of string along every bend of the first line and marked the end. She did the same for the second line. When they stretched out both marked lengths, one reached far past the other.\n\nWhy could string do the job better?",
+  "cn": "小博想知道地图上两条曲线哪条更长。他用直尺量各条线两端之间的距离，结果看起来一样。姐姐用线绳沿第一条线的每个弯铺开，标出终点，又同样量第二条。把两段标记长度拉直后，一段远长于另一段。",
+  "why": "柔软的绳能跟随弯曲路线。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "It could follow curves."
+   ]
+  ],
+  "options": [
+   "It could follow curves.",
+   "It was a brighter color.",
+   "It had numbers already printed on it."
+  ],
+  "source": "read3000:The Longer String",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Longer String"
+ },
+ {
+  "id": "WF2069",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Bo wanted to know which of two bent lines on a map was longer. He put a ruler between each line's ends. The distances looked the same. His sister laid a piece of string along every bend of the first line and marked the end. She did the same for the second line. When they stretched out both marked lengths, one reached far past the other.\n\nWhy mark the string?",
+  "cn": "小博想知道地图上两条曲线哪条更长。他用直尺量各条线两端之间的距离，结果看起来一样。姐姐用线绳沿第一条线的每个弯铺开，标出终点，又同样量第二条。把两段标记长度拉直后，一段远长于另一段。",
+  "why": "标记保留曲线的长度。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "To keep each measured length."
+   ]
+  ],
+  "options": [
+   "To decorate the map.",
+   "To straighten the drawn lines.",
+   "To keep each measured length."
+  ],
+  "source": "read3000:The Longer String",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Longer String"
+ },
+ {
+  "id": "WF2070",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Bo wanted to know which of two bent lines on a map was longer. He put a ruler between each line's ends. The distances looked the same. His sister laid a piece of string along every bend of the first line and marked the end. She did the same for the second line. When they stretched out both marked lengths, one reached far past the other.\n\nWhat did the final comparison show?",
+  "cn": "小博想知道地图上两条曲线哪条更长。他用直尺量各条线两端之间的距离，结果看起来一样。姐姐用线绳沿第一条线的每个弯铺开，标出终点，又同样量第二条。把两段标记长度拉直后，一段远长于另一段。",
+  "why": "两个直线距离相似的路线仍可能一长一短。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Similar end distances need not mean equal route lengths."
+   ]
+  ],
+  "options": [
+   "Similar end distances need not mean equal route lengths.",
+   "The ruler was broken.",
+   "Both routes were straight."
+  ],
+  "source": "read3000:The Longer String",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Longer String"
+ },
+ {
+  "id": "WF2071",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 2,
+  "text": "The class put a pot beside the window. Each Monday one child ____ it a little so everyone could see a different side. On drawing day, two pictures of the pot looked unlike each other. One showed a wide leaf and the other a tiny new leaf. Before saying that either artist was wrong, the teacher turned the pot. Both leaves were there, on ____ sides.",
+  "cn": "班里把花盆放在窗边。每周一有个孩子把花盆转一点，让大家看到不同角度。画画那天，两张图看上去不一样，一张画了大叶子，另一张画了新长的小叶。老师没有说哪位画错，而是转了转花盆。两片叶子都在，分处两侧。",
+  "why": "第1空 turned：后面说看见另一侧，说明动作是转动。 第2空 opposite：叶子在相对的两侧，所以一眼看不齐。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "turned"
+   ],
+   [
+    "opposite"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Window for the Plant",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Window for the Plant",
+  "slotOptions": [
+   [
+    "turned",
+    "emptied",
+    "weighed",
+    "watered"
+   ],
+   [
+    "opposite",
+    "missing",
+    "middle",
+    "sunny"
+   ]
+  ]
+ },
+ {
+  "id": "WF2072",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The class put a pot beside the window. Each Monday one child turned it a little so everyone could see a different side. On drawing day, two pictures of the pot looked unlike each other. One showed a wide leaf and the other a tiny new leaf. Before saying that either artist was wrong, the teacher turned the pot. Both leaves were there, on opposite sides.\n\nWhat happened on Mondays?",
+  "cn": "班里把花盆放在窗边。每周一有个孩子把花盆转一点，让大家看到不同角度。画画那天，两张图看上去不一样，一张画了大叶子，另一张画了新长的小叶。老师没有说哪位画错，而是转了转花盆。两片叶子都在，分处两侧。",
+  "why": "每周一会稍转花盆。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The pot was rotated."
+   ]
+  ],
+  "options": [
+   "The pot was rotated.",
+   "Everyone painted a leaf.",
+   "New pots were bought."
+  ],
+  "source": "read3000:A Window for the Plant",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Window for the Plant"
+ },
+ {
+  "id": "WF2073",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The class put a pot beside the window. Each Monday one child turned it a little so everyone could see a different side. On drawing day, two pictures of the pot looked unlike each other. One showed a wide leaf and the other a tiny new leaf. Before saying that either artist was wrong, the teacher turned the pot. Both leaves were there, on opposite sides.\n\nWhat was the difference between the drawings?",
+  "cn": "班里把花盆放在窗边。每周一有个孩子把花盆转一点，让大家看到不同角度。画画那天，两张图看上去不一样，一张画了大叶子，另一张画了新长的小叶。老师没有说哪位画错，而是转了转花盆。两片叶子都在，分处两侧。",
+  "why": "一幅有宽叶，一幅有新叶。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The leaves they showed."
+   ]
+  ],
+  "options": [
+   "The leaves they showed.",
+   "The number of pots.",
+   "The name on the pot."
+  ],
+  "source": "read3000:A Window for the Plant",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Window for the Plant"
+ },
+ {
+  "id": "WF2074",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The class put a pot beside the window. Each Monday one child turned it a little so everyone could see a different side. On drawing day, two pictures of the pot looked unlike each other. One showed a wide leaf and the other a tiny new leaf. Before saying that either artist was wrong, the teacher turned the pot. Both leaves were there, on opposite sides.\n\nWhat did the teacher check?",
+  "cn": "班里把花盆放在窗边。每周一有个孩子把花盆转一点，让大家看到不同角度。画画那天，两张图看上去不一样，一张画了大叶子，另一张画了新长的小叶。老师没有说哪位画错，而是转了转花盆。两片叶子都在，分处两侧。",
+  "why": "转盆以检查不同视角。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The view from more than one side."
+   ]
+  ],
+  "options": [
+   "The size of the paper.",
+   "The view from more than one side.",
+   "The artists' ages."
+  ],
+  "source": "read3000:A Window for the Plant",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Window for the Plant"
+ },
+ {
+  "id": "WF2075",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The class put a pot beside the window. Each Monday one child turned it a little so everyone could see a different side. On drawing day, two pictures of the pot looked unlike each other. One showed a wide leaf and the other a tiny new leaf. Before saying that either artist was wrong, the teacher turned the pot. Both leaves were there, on opposite sides.\n\nWhat can be learned from this?",
+  "cn": "班里把花盆放在窗边。每周一有个孩子把花盆转一点，让大家看到不同角度。画画那天，两张图看上去不一样，一张画了大叶子，另一张画了新长的小叶。老师没有说哪位画错，而是转了转花盆。两片叶子都在，分处两侧。",
+  "why": "两幅画分别描绘真实的两侧。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Different views can both be accurate."
+   ]
+  ],
+  "options": [
+   "A plant has only one correct picture.",
+   "Different views can both be accurate.",
+   "Small leaves are always hidden."
+  ],
+  "source": "read3000:A Window for the Plant",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Window for the Plant"
+ },
+ {
+  "id": "WF2076",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 2,
+  "text": "The lunch crew wanted to move trays faster. They tried stacking them high, but the top trays ____ off at the first corner. The next day they made two shorter stacks. Each trip carried fewer trays, yet the crew finished earlier because nobody had to stop and pick things up. They kept a note of the whole time, ____ the minutes spent clearing the floor.",
+  "cn": "午餐服务组想更快搬餐盘。他们试着堆高，可顶层餐盘到第一个转角就滑了下来。第二天改成两小摞。每趟搬得少，却因不必停下来捡东西而更早结束。他们记录全程时间，也算上清理地面的时间。",
+  "why": "第1空 slid：高摞餐盘转弯滑落。 第2空 including：记录全过程，包括清理的时间。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "slid"
+   ],
+   [
+    "including"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Lunch Tray Test",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Lunch Tray Test",
+  "slotOptions": [
+   [
+    "stood",
+    "slid",
+    "grew",
+    "flew upward"
+   ],
+   [
+    "except for",
+    "minus",
+    "before",
+    "including"
+   ]
+  ]
+ },
+ {
+  "id": "WF2077",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The lunch crew wanted to move trays faster. They tried stacking them high, but the top trays slid off at the first corner. The next day they made two shorter stacks. Each trip carried fewer trays, yet the crew finished earlier because nobody had to stop and pick things up. They kept a note of the whole time, including the minutes spent clearing the floor.\n\nWhere did the first trouble occur?",
+  "cn": "午餐服务组想更快搬餐盘。他们试着堆高，可顶层餐盘到第一个转角就滑了下来。第二天改成两小摞。每趟搬得少，却因不必停下来捡东西而更早结束。他们记录全程时间，也算上清理地面的时间。",
+  "why": "the first corner 说明地点。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "At a corner."
+   ]
+  ],
+  "options": [
+   "At the front gate.",
+   "At a corner.",
+   "Beside the sink."
+  ],
+  "source": "read3000:The Lunch Tray Test",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Lunch Tray Test"
+ },
+ {
+  "id": "WF2078",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The lunch crew wanted to move trays faster. They tried stacking them high, but the top trays slid off at the first corner. The next day they made two shorter stacks. Each trip carried fewer trays, yet the crew finished earlier because nobody had to stop and pick things up. They kept a note of the whole time, including the minutes spent clearing the floor.\n\nWhat changed the next day?",
+  "cn": "午餐服务组想更快搬餐盘。他们试着堆高，可顶层餐盘到第一个转角就滑了下来。第二天改成两小摞。每趟搬得少，却因不必停下来捡东西而更早结束。他们记录全程时间，也算上清理地面的时间。",
+  "why": "从高摞改成较矮的两摞。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Stack height."
+   ]
+  ],
+  "options": [
+   "Stack height.",
+   "The shape of the floor.",
+   "Tray color."
+  ],
+  "source": "read3000:The Lunch Tray Test",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Lunch Tray Test"
+ },
+ {
+  "id": "WF2079",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The lunch crew wanted to move trays faster. They tried stacking them high, but the top trays slid off at the first corner. The next day they made two shorter stacks. Each trip carried fewer trays, yet the crew finished earlier because nobody had to stop and pick things up. They kept a note of the whole time, including the minutes spent clearing the floor.\n\nWhy was the second method faster overall?",
+  "cn": "午餐服务组想更快搬餐盘。他们试着堆高，可顶层餐盘到第一个转角就滑了下来。第二天改成两小摞。每趟搬得少，却因不必停下来捡东西而更早结束。他们记录全程时间，也算上清理地面的时间。",
+  "why": "少了停下捡东西的时间。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "There were fewer interruptions."
+   ]
+  ],
+  "options": [
+   "Each person ran faster.",
+   "There were fewer interruptions.",
+   "Every trip carried more trays."
+  ],
+  "source": "read3000:The Lunch Tray Test",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Lunch Tray Test"
+ },
+ {
+  "id": "WF2080",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The lunch crew wanted to move trays faster. They tried stacking them high, but the top trays slid off at the first corner. The next day they made two shorter stacks. Each trip carried fewer trays, yet the crew finished earlier because nobody had to stop and pick things up. They kept a note of the whole time, including the minutes spent clearing the floor.\n\nWhich time did they record?",
+  "cn": "午餐服务组想更快搬餐盘。他们试着堆高，可顶层餐盘到第一个转角就滑了下来。第二天改成两小摞。每趟搬得少，却因不必停下来捡东西而更早结束。他们记录全程时间，也算上清理地面的时间。",
+  "why": "末句说明计时范围。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The entire task including cleanup."
+   ]
+  ],
+  "options": [
+   "Only walking time.",
+   "The entire task including cleanup.",
+   "Only the first trip."
+  ],
+  "source": "read3000:The Lunch Tray Test",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Lunch Tray Test"
+ },
+ {
+  "id": "WF2081",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 3,
+  "text": "A visitor asked why the museum handed out pencils instead of pens. A guide did not answer at once. She put two marks on a ____ label and wiped one with an eraser. The ink stayed. Near a valuable object, even a small accident matters, she explained. The visitor put his pen away. Later he used the pencil to sketch a pot and ____ out a handle he had drawn too high.",
+  "cn": "游客问博物馆为什么发铅笔而不用钢笔。讲解员没有马上回答，而是在备用标签上画两道痕迹，用橡皮擦其中一道。墨迹还在。她解释说在珍贵物品旁小意外也很要紧。游客收起钢笔，后来用铅笔画罐子，还擦掉了画得太高的把手。",
+  "why": "第1空 spare：演示用的是备用标签以保护珍品。 第2空 rubbed：rub out 表示擦除。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "spare"
+   ],
+   [
+    "rubbed"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Museum Pencil",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Museum Pencil",
+  "slotOptions": [
+   [
+    "priceless",
+    "spare",
+    "missing",
+    "ancient"
+   ],
+   [
+    "printed",
+    "crossed over to",
+    "rubbed",
+    "mailed"
+   ]
+  ]
+ },
+ {
+  "id": "WF2082",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A visitor asked why the museum handed out pencils instead of pens. A guide did not answer at once. She put two marks on a spare label and wiped one with an eraser. The ink stayed. Near a valuable object, even a small accident matters, she explained. The visitor put his pen away. Later he used the pencil to sketch a pot and rubbed out a handle he had drawn too high.\n\nWhat did the guide do before explaining?",
+  "cn": "游客问博物馆为什么发铅笔而不用钢笔。讲解员没有马上回答，而是在备用标签上画两道痕迹，用橡皮擦其中一道。墨迹还在。她解释说在珍贵物品旁小意外也很要紧。游客收起钢笔，后来用铅笔画罐子，还擦掉了画得太高的把手。",
+  "why": "她先演示可擦除的差别。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Gave a demonstration."
+   ]
+  ],
+  "options": [
+   "Gave a demonstration.",
+   "Sold the visitor a label.",
+   "Took away the sketch."
+  ],
+  "source": "read3000:The Museum Pencil",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Museum Pencil"
+ },
+ {
+  "id": "WF2083",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A visitor asked why the museum handed out pencils instead of pens. A guide did not answer at once. She put two marks on a spare label and wiped one with an eraser. The ink stayed. Near a valuable object, even a small accident matters, she explained. The visitor put his pen away. Later he used the pencil to sketch a pot and rubbed out a handle he had drawn too high.\n\nWhat stayed on the label?",
+  "cn": "游客问博物馆为什么发铅笔而不用钢笔。讲解员没有马上回答，而是在备用标签上画两道痕迹，用橡皮擦其中一道。墨迹还在。她解释说在珍贵物品旁小意外也很要紧。游客收起钢笔，后来用铅笔画罐子，还擦掉了画得太高的把手。",
+  "why": "The ink stayed 直接陈述。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The ink."
+   ]
+  ],
+  "options": [
+   "The visitor's name.",
+   "The ink.",
+   "A pot handle."
+  ],
+  "source": "read3000:The Museum Pencil",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Museum Pencil"
+ },
+ {
+  "id": "WF2084",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A visitor asked why the museum handed out pencils instead of pens. A guide did not answer at once. She put two marks on a spare label and wiped one with an eraser. The ink stayed. Near a valuable object, even a small accident matters, she explained. The visitor put his pen away. Later he used the pencil to sketch a pot and rubbed out a handle he had drawn too high.\n\nHow did the pencil help the visitor later?",
+  "cn": "游客问博物馆为什么发铅笔而不用钢笔。讲解员没有马上回答，而是在备用标签上画两道痕迹，用橡皮擦其中一道。墨迹还在。她解释说在珍贵物品旁小意外也很要紧。游客收起钢笔，后来用铅笔画罐子，还擦掉了画得太高的把手。",
+  "why": "最后擦掉画高了的把手。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "He could correct a drawing."
+   ]
+  ],
+  "options": [
+   "He could correct a drawing.",
+   "It opened a case.",
+   "It measured a pot."
+  ],
+  "source": "read3000:The Museum Pencil",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Museum Pencil"
+ },
+ {
+  "id": "WF2085",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A visitor asked why the museum handed out pencils instead of pens. A guide did not answer at once. She put two marks on a spare label and wiped one with an eraser. The ink stayed. Near a valuable object, even a small accident matters, she explained. The visitor put his pen away. Later he used the pencil to sketch a pot and rubbed out a handle he had drawn too high.\n\nWhy include the last sentence?",
+  "cn": "游客问博物馆为什么发铅笔而不用钢笔。讲解员没有马上回答，而是在备用标签上画两道痕迹，用橡皮擦其中一道。墨迹还在。她解释说在珍贵物品旁小意外也很要紧。游客收起钢笔，后来用铅笔画罐子，还擦掉了画得太高的把手。",
+  "why": "可擦除既能保护物品又方便改画。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "It shows another advantage of the same tool."
+   ]
+  ],
+  "options": [
+   "It changes the subject to ticket prices.",
+   "It suggests the guide was wrong.",
+   "It shows another advantage of the same tool."
+  ],
+  "source": "read3000:The Museum Pencil",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Museum Pencil"
+ },
+ {
+  "id": "WF2086",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 3,
+  "text": "A student recorded an interview on the school roof. The speaker sounded clear through her own ears, so she did not check the recording until evening. On playback, the wind ____ many words. For the second interview she chose a room with a closed window and listened to a short test ____ asking her first question. Both speakers had interesting stories, but only one story was easy to hear afterward.",
+  "cn": "一名学生在学校屋顶录采访。她当场听得清楚，直到晚上才检查录音。回放时风声盖住了很多词。第二次采访她选了关窗的房间，在提第一个问题前先听了一小段测试。两位受访者的故事都有趣，但事后只有一个容易听清。",
+  "why": "第1空 covered：风声盖过了话音。 第2空 before：试录在正式提问之前进行。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "covered"
+   ],
+   [
+    "before"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:The Wind in the Recording",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wind in the Recording",
+  "slotOptions": [
+   [
+    "explained",
+    "translated",
+    "spelled",
+    "covered"
+   ],
+   [
+    "despite",
+    "among",
+    "before",
+    "opposite"
+   ]
+  ]
+ },
+ {
+  "id": "WF2087",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A student recorded an interview on the school roof. The speaker sounded clear through her own ears, so she did not check the recording until evening. On playback, the wind covered many words. For the second interview she chose a room with a closed window and listened to a short test before asking her first question. Both speakers had interesting stories, but only one story was easy to hear afterward.\n\nWhat made the first recording difficult to use?",
+  "cn": "一名学生在学校屋顶录采访。她当场听得清楚，直到晚上才检查录音。回放时风声盖住了很多词。第二次采访她选了关窗的房间，在提第一个问题前先听了一小段测试。两位受访者的故事都有趣，但事后只有一个容易听清。",
+  "why": "回放暴露了风噪。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Wind noise."
+   ]
+  ],
+  "options": [
+   "A dull story.",
+   "Wind noise.",
+   "An unfinished question."
+  ],
+  "source": "read3000:The Wind in the Recording",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wind in the Recording"
+ },
+ {
+  "id": "WF2088",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A student recorded an interview on the school roof. The speaker sounded clear through her own ears, so she did not check the recording until evening. On playback, the wind covered many words. For the second interview she chose a room with a closed window and listened to a short test before asking her first question. Both speakers had interesting stories, but only one story was easy to hear afterward.\n\nWhy did she delay checking the first recording?",
+  "cn": "一名学生在学校屋顶录采访。她当场听得清楚，直到晚上才检查录音。回放时风声盖住了很多词。第二次采访她选了关窗的房间，在提第一个问题前先听了一小段测试。两位受访者的故事都有趣，但事后只有一个容易听清。",
+  "why": "把现场听感当成了录音质量。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "She could hear the speaker clearly in person."
+   ]
+  ],
+  "options": [
+   "The speaker asked her not to listen.",
+   "She could hear the speaker clearly in person.",
+   "Her recorder had no playback button."
+  ],
+  "source": "read3000:The Wind in the Recording",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wind in the Recording"
+ },
+ {
+  "id": "WF2089",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A student recorded an interview on the school roof. The speaker sounded clear through her own ears, so she did not check the recording until evening. On playback, the wind covered many words. For the second interview she chose a room with a closed window and listened to a short test before asking her first question. Both speakers had interesting stories, but only one story was easy to hear afterward.\n\nWhich change allowed an early check?",
+  "cn": "一名学生在学校屋顶录采访。她当场听得清楚，直到晚上才检查录音。回放时风声盖住了很多词。第二次采访她选了关窗的房间，在提第一个问题前先听了一小段测试。两位受访者的故事都有趣，但事后只有一个容易听清。",
+  "why": "先听测试片段可以及早发现问题。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Playing a short sample."
+   ]
+  ],
+  "options": [
+   "Writing longer questions.",
+   "Playing a short sample.",
+   "Interviewing someone on the roof."
+  ],
+  "source": "read3000:The Wind in the Recording",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wind in the Recording"
+ },
+ {
+  "id": "WF2090",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A student recorded an interview on the school roof. The speaker sounded clear through her own ears, so she did not check the recording until evening. On playback, the wind covered many words. For the second interview she chose a room with a closed window and listened to a short test before asking her first question. Both speakers had interesting stories, but only one story was easy to hear afterward.\n\nWhat does the final contrast emphasize?",
+  "cn": "一名学生在学校屋顶录采访。她当场听得清楚，直到晚上才检查录音。回放时风声盖住了很多词。第二次采访她选了关窗的房间，在提第一个问题前先听了一小段测试。两位受访者的故事都有趣，但事后只有一个容易听清。",
+  "why": "两段故事都有内容价值，清晰度却不同。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Good content also needs usable sound."
+   ]
+  ],
+  "options": [
+   "Only indoor stories are interesting.",
+   "Good content also needs usable sound.",
+   "The second speaker spoke longer."
+  ],
+  "source": "read3000:The Wind in the Recording",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "The Wind in the Recording"
+ },
+ {
+  "id": "WF2091",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 3,
+  "text": "At a drawing workshop, paint pots stood on the right of every board. Most learners worked without moving them. Ella, who painted with her left hand, reached ____ her picture and dragged her sleeve through wet paint. The teacher first offered a shorter sleeve cover. Ella simply moved the pots to her left. The teacher then invited everyone to ____ a table before starting, and the sleeve covers stayed in the cupboard.",
+  "cn": "画画课上，每块画板右边都摆着颜料罐。大多数人不挪动就能作画。用左手的埃拉伸手越过画，袖子蹭上湿颜料。老师起初给她较短的袖套，埃拉把颜料移到左边就解决了。老师随后让每个人开画前自己摆桌，袖套留在柜子里。",
+  "why": "第1空 across：从左侧越过画面去够右侧颜料。 第2空 arrange：学生按自己习惯布置桌面。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "across"
+   ],
+   [
+    "arrange"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Table for Left Hands",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Table for Left Hands",
+  "slotOptions": [
+   [
+    "behind",
+    "under",
+    "across",
+    "outside"
+   ],
+   [
+    "arrange",
+    "reserve",
+    "exchange",
+    "weigh"
+   ]
+  ]
+ },
+ {
+  "id": "WF2092",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "At a drawing workshop, paint pots stood on the right of every board. Most learners worked without moving them. Ella, who painted with her left hand, reached across her picture and dragged her sleeve through wet paint. The teacher first offered a shorter sleeve cover. Ella simply moved the pots to her left. The teacher then invited everyone to arrange a table before starting, and the sleeve covers stayed in the cupboard.\n\nWhat caused the wet sleeve?",
+  "cn": "画画课上，每块画板右边都摆着颜料罐。大多数人不挪动就能作画。用左手的埃拉伸手越过画，袖子蹭上湿颜料。老师起初给她较短的袖套，埃拉把颜料移到左边就解决了。老师随后让每个人开画前自己摆桌，袖套留在柜子里。",
+  "why": "动作路径经过湿画。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Reaching across the picture."
+   ]
+  ],
+  "options": [
+   "Using too much water.",
+   "Reaching across the picture.",
+   "A broken paint pot."
+  ],
+  "source": "read3000:A Table for Left Hands",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Table for Left Hands"
+ },
+ {
+  "id": "WF2093",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "At a drawing workshop, paint pots stood on the right of every board. Most learners worked without moving them. Ella, who painted with her left hand, reached across her picture and dragged her sleeve through wet paint. The teacher first offered a shorter sleeve cover. Ella simply moved the pots to her left. The teacher then invited everyone to arrange a table before starting, and the sleeve covers stayed in the cupboard.\n\nWhat was the teacher's first idea?",
+  "cn": "画画课上，每块画板右边都摆着颜料罐。大多数人不挪动就能作画。用左手的埃拉伸手越过画，袖子蹭上湿颜料。老师起初给她较短的袖套，埃拉把颜料移到左边就解决了。老师随后让每个人开画前自己摆桌，袖套留在柜子里。",
+  "why": "先提议缩短袖套。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "A different sleeve cover."
+   ]
+  ],
+  "options": [
+   "Removing the paint.",
+   "Switching Ella's drawing hand.",
+   "A different sleeve cover."
+  ],
+  "source": "read3000:A Table for Left Hands",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Table for Left Hands"
+ },
+ {
+  "id": "WF2094",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "At a drawing workshop, paint pots stood on the right of every board. Most learners worked without moving them. Ella, who painted with her left hand, reached across her picture and dragged her sleeve through wet paint. The teacher first offered a shorter sleeve cover. Ella simply moved the pots to her left. The teacher then invited everyone to arrange a table before starting, and the sleeve covers stayed in the cupboard.\n\nWhy did moving the pots help?",
+  "cn": "画画课上，每块画板右边都摆着颜料罐。大多数人不挪动就能作画。用左手的埃拉伸手越过画，袖子蹭上湿颜料。老师起初给她较短的袖套，埃拉把颜料移到左边就解决了。老师随后让每个人开画前自己摆桌，袖套留在柜子里。",
+  "why": "位置调整消除了弄脏的动作。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Ella no longer had to reach over wet paint."
+   ]
+  ],
+  "options": [
+   "Her brush grew longer.",
+   "The paint dried at once.",
+   "Ella no longer had to reach over wet paint."
+  ],
+  "source": "read3000:A Table for Left Hands",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Table for Left Hands"
+ },
+ {
+  "id": "WF2095",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "At a drawing workshop, paint pots stood on the right of every board. Most learners worked without moving them. Ella, who painted with her left hand, reached across her picture and dragged her sleeve through wet paint. The teacher first offered a shorter sleeve cover. Ella simply moved the pots to her left. The teacher then invited everyone to arrange a table before starting, and the sleeve covers stayed in the cupboard.\n\nWhat changed for the whole class?",
+  "cn": "画画课上，每块画板右边都摆着颜料罐。大多数人不挪动就能作画。用左手的埃拉伸手越过画，袖子蹭上湿颜料。老师起初给她较短的袖套，埃拉把颜料移到左边就解决了。老师随后让每个人开画前自己摆桌，袖套留在柜子里。",
+  "why": "老师允许各自摆桌。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "People could choose their own setup."
+   ]
+  ],
+  "options": [
+   "Everyone had to paint left-handed.",
+   "All tables became smaller.",
+   "People could choose their own setup."
+  ],
+  "source": "read3000:A Table for Left Hands",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Table for Left Hands"
+ },
+ {
+  "id": "WF2096",
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "level": 3,
+  "text": "A club kept photos in envelopes labeled with a month and a day. For a few months that worked well. Then another spring arrived, and two envelopes ____ said April 12. A pupil noticed that one photo showed a wall before it was painted yellow. An old school notice gave the painting date. Using these clues, the club sorted the photos and began writing the ____ date on every new envelope.",
+  "cn": "社团用写着月日的信封装照片，头几个月很好用。又一个春天来了，两个信封都写“四月十二日”。一名学生注意到一张照片上的墙还没刷黄，一张旧通知注明了刷墙日期。大家凭这些线索排好照片，也开始在新信封上写完整日期。",
+  "why": "第1空 both：同月同日跨年重复。 第2空 full：新办法记上年份，使日期完整。",
+  "point": "上下文选词",
+  "hint": "结合全文为每一空选词。",
+  "slots": [
+   [
+    "both"
+   ],
+   [
+    "full"
+   ]
+  ],
+  "options": [],
+  "source": "read3000:A Date Without a Year",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Date Without a Year",
+  "slotOptions": [
+   [
+    "apart",
+    "hardly",
+    "both",
+    "never"
+   ],
+   [
+    "false",
+    "full",
+    "shortest",
+    "nearest"
+   ]
+  ]
+ },
+ {
+  "id": "WF2097",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A club kept photos in envelopes labeled with a month and a day. For a few months that worked well. Then another spring arrived, and two envelopes both said April 12. A pupil noticed that one photo showed a wall before it was painted yellow. An old school notice gave the painting date. Using these clues, the club sorted the photos and began writing the full date on every new envelope.\n\nWhat information had the club left out?",
+  "cn": "社团用写着月日的信封装照片，头几个月很好用。又一个春天来了，两个信封都写“四月十二日”。一名学生注意到一张照片上的墙还没刷黄，一张旧通知注明了刷墙日期。大家凭这些线索排好照片，也开始在新信封上写完整日期。",
+  "why": "分类难题源于缺年份。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The year."
+   ]
+  ],
+  "options": [
+   "The month.",
+   "The day.",
+   "The year."
+  ],
+  "source": "read3000:A Date Without a Year",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Date Without a Year"
+ },
+ {
+  "id": "WF2098",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A club kept photos in envelopes labeled with a month and a day. For a few months that worked well. Then another spring arrived, and two envelopes both said April 12. A pupil noticed that one photo showed a wall before it was painted yellow. An old school notice gave the painting date. Using these clues, the club sorted the photos and began writing the full date on every new envelope.\n\nWhy had the problem taken time to appear?",
+  "cn": "社团用写着月日的信封装照片，头几个月很好用。又一个春天来了，两个信封都写“四月十二日”。一名学生注意到一张照片上的墙还没刷黄，一张旧通知注明了刷墙日期。大家凭这些线索排好照片，也开始在新信封上写完整日期。",
+  "why": "须跨年才有同月同日重名。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The same date had not yet come around again."
+   ]
+  ],
+  "options": [
+   "The club had no envelopes until spring.",
+   "The same date had not yet come around again.",
+   "All early photos were lost."
+  ],
+  "source": "read3000:A Date Without a Year",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Date Without a Year"
+ },
+ {
+  "id": "WF2099",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A club kept photos in envelopes labeled with a month and a day. For a few months that worked well. Then another spring arrived, and two envelopes both said April 12. A pupil noticed that one photo showed a wall before it was painted yellow. An old school notice gave the painting date. Using these clues, the club sorted the photos and began writing the full date on every new envelope.\n\nWhat helped place a photo in time?",
+  "cn": "社团用写着月日的信封装照片，头几个月很好用。又一个春天来了，两个信封都写“四月十二日”。一名学生注意到一张照片上的墙还没刷黄，一张旧通知注明了刷墙日期。大家凭这些线索排好照片，也开始在新信封上写完整日期。",
+  "why": "墙面颜色配合刷墙通知提供时间参照。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "The color of a dated wall."
+   ]
+  ],
+  "options": [
+   "A pupil's handwriting alone.",
+   "The envelope's size.",
+   "The color of a dated wall."
+  ],
+  "source": "read3000:A Date Without a Year",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Date Without a Year"
+ },
+ {
+  "id": "WF2100",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "A club kept photos in envelopes labeled with a month and a day. For a few months that worked well. Then another spring arrived, and two envelopes both said April 12. A pupil noticed that one photo showed a wall before it was painted yellow. An old school notice gave the painting date. Using these clues, the club sorted the photos and began writing the full date on every new envelope.\n\nWhat was the long-term solution?",
+  "cn": "社团用写着月日的信封装照片，头几个月很好用。又一个春天来了，两个信封都写“四月十二日”。一名学生注意到一张照片上的墙还没刷黄，一张旧通知注明了刷墙日期。大家凭这些线索排好照片，也开始在新信封上写完整日期。",
+  "why": "结尾改变了后续标注方式。",
+  "point": "阅读证据与推断",
+  "hint": "根据文章选择有依据的答案。",
+  "slots": [
+   [
+    "Record dates including the year."
+   ]
+  ],
+  "options": [
+   "Record dates including the year.",
+   "Always photograph the wall.",
+   "Use smaller envelopes."
+  ],
+  "source": "read3000:A Date Without a Year",
+  "tip": "核对上下文，再读一遍完整表达。",
+  "article": "A Date Without a Year"
+ }
+]

@@ -1,0 +1,2402 @@
+[
+ {
+  "id": "WF1507",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Every Friday, our class leaves a ____ by the door. Anyone with a spare pencil can put it there for the next class.",
+  "cn": "每周五，我们班都会在门旁放一个篮子。有多余铅笔的人可以把笔留给下一个班。",
+  "slots": [
+   [
+    "basket"
+   ]
+  ],
+  "why": "“篮子”在这里对应 basket。结合前后句可还原为：Every Friday, our class leaves a basket by the door. Anyone with a spare pencil can put it there for the next class.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "blanket",
+   "basket",
+   "pronoun",
+   "wording"
+  ],
+  "source": "scenes:2"
+ },
+ {
+  "id": "WF1508",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The shop opens at eight on weekdays. A ____ says it opens an hour later on Sundays.",
+  "cn": "这家店平日八点开门。牌子上写着周日晚开一小时。",
+  "slots": [
+   [
+    "sign"
+   ]
+  ],
+  "why": "“牌子”在这里对应 sign。结合前后句可还原为：The shop opens at eight on weekdays. A sign says it opens an hour later on Sundays.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "seal",
+   "sticker",
+   "sign",
+   "courtyard"
+  ],
+  "source": "scenes:3"
+ },
+ {
+  "id": "WF1509",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Yesterday I found a red ____ under my seat. I left it with the bus driver so its owner could ask for it.",
+  "cn": "昨天我在座位下发现了一条红围巾。我把它交给了公交司机，失主可以找司机认领。",
+  "slots": [
+   [
+    "scarf"
+   ]
+  ],
+  "why": "“围巾”在这里对应 scarf。结合前后句可还原为：Yesterday I found a red scarf under my seat. I left it with the bus driver so its owner could ask for it.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "scarf",
+   "slide",
+   "ridge",
+   "stripe"
+  ],
+  "source": "scenes:4"
+ },
+ {
+  "id": "WF1510",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "A ____ rings at noon. On rainy days the children eat inside instead of taking their lunch to the yard.",
+  "cn": "中午铃响了。下雨天孩子们在室内吃饭，不把午餐带去院子。",
+  "slots": [
+   [
+    "bell"
+   ]
+  ],
+  "why": "“铃”在这里对应 bell。结合前后句可还原为：A bell rings at noon. On rainy days the children eat inside instead of taking their lunch to the yard.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "torch",
+   "barrier",
+   "fountain",
+   "bell"
+  ],
+  "source": "scenes:5"
+ },
+ {
+  "id": "WF1511",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Mum bought two stamps yesterday. She put one on my ____ and kept the other in her desk.",
+  "cn": "妈妈昨天买了两张邮票。她把一张贴在我的信封上，把另一张放在书桌里。",
+  "slots": [
+   [
+    "envelope"
+   ]
+  ],
+  "why": "“信封”在这里对应 envelope。结合前后句可还原为：Mum bought two stamps yesterday. She put one on my envelope and kept the other in her desk.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bookshelf",
+   "distance",
+   "timeslot",
+   "envelope"
+  ],
+  "source": "scenes:6"
+ },
+ {
+  "id": "WF1512",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The blue ____ belongs to Ben. He always washes it himself after drinking his milk.",
+  "cn": "蓝色杯子是本的。他喝完牛奶总是自己洗杯子。",
+  "slots": [
+   [
+    "cup"
+   ]
+  ],
+  "why": "“杯子”在这里对应 cup。结合前后句可还原为：The blue cup belongs to Ben. He always washes it himself after drinking his milk.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "sequence",
+   "cup",
+   "column",
+   "ticket"
+  ],
+  "source": "scenes:7"
+ },
+ {
+  "id": "WF1513",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Two girls are waiting by the ____. They have tickets, but the concert does not start until six.",
+  "cn": "两个女孩正在大门旁等候。她们有票，但音乐会要到六点才开始。",
+  "slots": [
+   [
+    "gate"
+   ]
+  ],
+  "why": "“大门”在这里对应 gate。结合前后句可还原为：Two girls are waiting by the gate. They have tickets, but the concert does not start until six.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "question",
+   "piece",
+   "leash",
+   "gate"
+  ],
+  "source": "scenes:8"
+ },
+ {
+  "id": "WF1514",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Tom left his ____ at home. His fingers felt cold as he waited for the morning bus.",
+  "cn": "汤姆把手套忘在家了。等早班公交时，他觉得手指很冷。",
+  "slots": [
+   [
+    "gloves"
+   ]
+  ],
+  "why": "“手套”在这里对应 gloves。结合前后句可还原为：Tom left his gloves at home. His fingers felt cold as he waited for the morning bus.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "parcel",
+   "drawer",
+   "queue",
+   "gloves"
+  ],
+  "source": "scenes:9"
+ },
+ {
+  "id": "WF1515",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "My uncle keeps a tiny ____ in his pocket. When he hears a new word, he writes it down before he forgets it.",
+  "cn": "叔叔口袋里总装着一个小笔记本。听到新词，他就趁还没忘记写下来。",
+  "slots": [
+   [
+    "notebook"
+   ]
+  ],
+  "why": "“笔记本”在这里对应 notebook。结合前后句可还原为：My uncle keeps a tiny notebook in his pocket. When he hears a new word, he writes it down before he forgets it.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "circulation",
+   "sticky note",
+   "line",
+   "notebook"
+  ],
+  "source": "scenes:10"
+ },
+ {
+  "id": "WF1516",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The baby slept through the music yesterday. Dad put a ____ over her before he turned off the lamp.",
+  "cn": "昨天放音乐时宝宝一直在睡觉。爸爸先给她盖上毯子，然后关了灯。",
+  "slots": [
+   [
+    "blanket"
+   ]
+  ],
+  "why": "“毯子”在这里对应 blanket。结合前后句可还原为：The baby slept through the music yesterday. Dad put a blanket over her before he turned off the lamp.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "column",
+   "counter",
+   "blanket",
+   "replica"
+  ],
+  "source": "scenes:11"
+ },
+ {
+  "id": "WF1517",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "We usually share one large ____ on the way home. Today it is sunny, so we have left it by the door.",
+  "cn": "回家路上我们通常共用一把大伞。今天是晴天，所以把它留在门边了。",
+  "slots": [
+   [
+    "umbrella"
+   ]
+  ],
+  "why": "“雨伞”在这里对应 umbrella。结合前后句可还原为：We usually share one large umbrella on the way home. Today it is sunny, so we have left it by the door.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "drawer",
+   "scarf",
+   "badge",
+   "umbrella"
+  ],
+  "source": "scenes:12"
+ },
+ {
+  "id": "WF1518",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Each ____ has a different label. Look for the one marked Paper if you need a clean sheet.",
+  "cn": "每个抽屉都有不同的标签。如果需要一张白纸，就找标着“纸”的那个。",
+  "slots": [
+   [
+    "drawer"
+   ]
+  ],
+  "why": "“抽屉”在这里对应 drawer。结合前后句可还原为：Each drawer has a different label. Look for the one marked Paper if you need a clean sheet.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "map",
+   "drawer",
+   "courtyard",
+   "sticky note"
+  ],
+  "source": "scenes:13"
+ },
+ {
+  "id": "WF1519",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The twins took turns reading last night. When one finished a ____, the other started the next one.",
+  "cn": "昨晚这对双胞胎轮流朗读。一个读完一页，另一个就开始读下一页。",
+  "slots": [
+   [
+    "page"
+   ]
+  ],
+  "why": "“页”在这里对应 page。结合前后句可还原为：The twins took turns reading last night. When one finished a page, the other started the next one.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "receipt",
+   "seal",
+   "page",
+   "schedule"
+  ],
+  "source": "scenes:14"
+ },
+ {
+  "id": "WF1520",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "A small ____ hides behind the chair whenever the doorbell rings. After a minute it comes out to look at the visitor.",
+  "cn": "每当门铃响，小猫就躲在椅子后面。一分钟后，它又出来打量来客。",
+  "slots": [
+   [
+    "kitten"
+   ]
+  ],
+  "why": "“小猫”在这里对应 kitten。结合前后句可还原为：A small kitten hides behind the chair whenever the doorbell rings. After a minute it comes out to look at the visitor.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "pot",
+   "bench",
+   "kitten",
+   "margin"
+  ],
+  "source": "scenes:15"
+ },
+ {
+  "id": "WF1521",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "There were three oranges in the ____ this morning. I ate one and put the other two in my bag.",
+  "cn": "早上碗里有三个橙子。我吃了一个，把剩下两个放进包里。",
+  "slots": [
+   [
+    "bowl"
+   ]
+  ],
+  "why": "“碗”在这里对应 bowl。结合前后句可还原为：There were three oranges in the bowl this morning. I ate one and put the other two in my bag.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bowl",
+   "paragraph",
+   "leash",
+   "question"
+  ],
+  "source": "scenes:16"
+ },
+ {
+  "id": "WF1522",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Nina draws a little ____ beside each book she finishes. There are four stars beside the first four titles and none beside the fifth.",
+  "cn": "妮娜每读完一本书，就在书名旁画一颗小星星。前四个书名旁都有星星，第五个旁边没有。",
+  "slots": [
+   [
+    "star"
+   ]
+  ],
+  "why": "“星星”在这里对应 star。结合前后句可还原为：Nina draws a little star beside each book she finishes. There are four stars beside the first four titles and none beside the fifth.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "cover",
+   "slot",
+   "distance",
+   "star"
+  ],
+  "source": "scenes:17"
+ },
+ {
+  "id": "WF1523",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Our dog ran to the kitchen when the ____ rang. It knows that the sound often means bread is ready.",
+  "cn": "计时器一响，我家的狗就跑向厨房。它知道这声音常意味着面包好了。",
+  "slots": [
+   [
+    "timer"
+   ]
+  ],
+  "why": "“计时器”在这里对应 timer。结合前后句可还原为：Our dog ran to the kitchen when the timer rang. It knows that the sound often means bread is ready.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "diagram",
+   "timer",
+   "surface",
+   "racket"
+  ],
+  "source": "scenes:18"
+ },
+ {
+  "id": "WF1524",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Please bring a ____ to the drawing game. We have enough paper for everyone, but no tools for drawing.",
+  "cn": "请带一支铅笔来参加绘画游戏。每个人的纸都有了，但我们没有画画工具。",
+  "slots": [
+   [
+    "pencil"
+   ]
+  ],
+  "why": "“铅笔”在这里对应 pencil。结合前后句可还原为：Please bring a pencil to the drawing game. We have enough paper for everyone, but no tools for drawing.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "timeslot",
+   "sign",
+   "pencil",
+   "pier"
+  ],
+  "source": "scenes:19"
+ },
+ {
+  "id": "WF1525",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The bus stops beside the ____ every morning. If you can smell fresh bread, you are close to the right stop.",
+  "cn": "公交车每天早上停在面包店旁。闻到刚烤好的面包味，你就快到正确的车站了。",
+  "slots": [
+   [
+    "bakery"
+   ]
+  ],
+  "why": "“面包店”在这里对应 bakery。结合前后句可还原为：The bus stops beside the bakery every morning. If you can smell fresh bread, you are close to the right stop.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "wording",
+   "curtain",
+   "stripe",
+   "bakery"
+  ],
+  "source": "scenes:20"
+ },
+ {
+  "id": "WF1526",
+  "level": 1,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "My brother made a ____ last week. He wants to fly it today, but the trees outside are perfectly still.",
+  "cn": "哥哥上周做了一只风筝。他今天想放风筝，但外面的树一动也不动。",
+  "slots": [
+   [
+    "kite"
+   ]
+  ],
+  "why": "“风筝”在这里对应 kite。结合前后句可还原为：My brother made a kite last week. He wants to fly it today, but the trees outside are perfectly still.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "kite",
+   "seal",
+   "wind",
+   "umbrella"
+  ],
+  "source": "scenes:21"
+ },
+ {
+  "id": "WF1527",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The rain stopped just before our game began. We wiped the water off each ____ so the other players could sit down.",
+  "cn": "比赛开始前雨刚停。我们把每条长椅上的水擦掉，好让其他队员坐下。",
+  "slots": [
+   [
+    "bench"
+   ]
+  ],
+  "why": "“长椅”在这里对应 bench。结合前后句可还原为：The rain stopped just before our game began. We wiped the water off each bench so the other players could sit down.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bench",
+   "photograph",
+   "diagram",
+   "timeslot"
+  ],
+  "source": "scenes:23"
+ },
+ {
+  "id": "WF1528",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Lena is packing her bag for the trip. She checks each box on her ____ only after the item is inside.",
+  "cn": "莉娜正在收拾行李。她只有把东西放进包后才在清单上打钩。",
+  "slots": [
+   [
+    "list"
+   ]
+  ],
+  "why": "“清单”在这里对应 list。结合前后句可还原为：Lena is packing her bag for the trip. She checks each box on her list only after the item is inside.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "curtain",
+   "sensor",
+   "helmet",
+   "list"
+  ],
+  "source": "scenes:24"
+ },
+ {
+  "id": "WF1529",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Yesterday we chose the path beside the ____. The road through the field was shorter, but it had no shade.",
+  "cn": "昨天我们选了小溪边的小路。穿过田野的路更短，但那条路上没有树荫。",
+  "slots": [
+   [
+    "stream"
+   ]
+  ],
+  "why": "“小溪”在这里对应 stream。结合前后句可还原为：Yesterday we chose the path beside the stream. The road through the field was shorter, but it had no shade.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "sheet",
+   "line",
+   "scorecard",
+   "stream"
+  ],
+  "source": "scenes:25"
+ },
+ {
+  "id": "WF1530",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Amy lent me her spare ____ on Monday. I gave it back after our tennis lesson.",
+  "cn": "星期一埃米把备用球拍借给我。网球课后我把它还给她了。",
+  "slots": [
+   [
+    "racket"
+   ]
+  ],
+  "why": "“球拍”在这里对应 racket。结合前后句可还原为：Amy lent me her spare racket on Monday. I gave it back after our tennis lesson.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "racket",
+   "bridge",
+   "sticker",
+   "drawer"
+  ],
+  "source": "scenes:26"
+ },
+ {
+  "id": "WF1531",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The children were building a tower when the ____ blew the top box away. They moved indoors to finish it.",
+  "cn": "孩子们正在搭塔，风把顶上的盒子吹走了。他们转到室内把塔搭完。",
+  "slots": [
+   [
+    "wind"
+   ]
+  ],
+  "why": "“风”在这里对应 wind。结合前后句可还原为：The children were building a tower when the wind blew the top box away. They moved indoors to finish it.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "list",
+   "sticker",
+   "wind",
+   "piece"
+  ],
+  "source": "scenes:27"
+ },
+ {
+  "id": "WF1532",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "You can borrow a ____ at the park desk. Leave your name there and return the helmet before the park closes.",
+  "cn": "你可以在公园服务台借头盔。留下姓名，并在闭园前归还。",
+  "slots": [
+   [
+    "helmet"
+   ]
+  ],
+  "why": "“头盔”在这里对应 helmet。结合前后句可还原为：You can borrow a helmet at the park desk. Leave your name there and return the helmet before the park closes.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "wind",
+   "courtyard",
+   "helmet",
+   "napkin"
+  ],
+  "source": "scenes:28"
+ },
+ {
+  "id": "WF1533",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Anna wrote the meeting time on a ____ yesterday. She put it on her shoes because she sometimes leaves the house without looking at her phone.",
+  "cn": "昨天安娜把开会时间写在便签上，贴在鞋上，因为她有时出门前不看手机。",
+  "slots": [
+   [
+    "sticky note"
+   ]
+  ],
+  "why": "“便签”在这里对应 sticky note。结合前后句可还原为：Anna wrote the meeting time on a sticky note yesterday. She put it on her shoes because she sometimes leaves the house without looking at her phone.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "column",
+   "sticky note",
+   "panel",
+   "gloves"
+  ],
+  "source": "scenes:29"
+ },
+ {
+  "id": "WF1534",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The puppy kept pulling at its ____ until Max slowed down. Then it walked quietly beside him.",
+  "cn": "小狗一直拽牵引绳，直到马克斯放慢脚步。然后它安静地走在他身旁。",
+  "slots": [
+   [
+    "leash"
+   ]
+  ],
+  "why": "“牵引绳”在这里对应 leash。结合前后句可还原为：The puppy kept pulling at its leash until Max slowed down. Then it walked quietly beside him.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "photograph",
+   "slide",
+   "wording",
+   "leash"
+  ],
+  "source": "scenes:30"
+ },
+ {
+  "id": "WF1535",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Our teacher sent each family a ____ last night. It said the trip was still on, but we would meet at the side gate.",
+  "cn": "昨晚老师给每个家庭发了条消息。郊游照常，只是改在侧门集合。",
+  "slots": [
+   [
+    "message"
+   ]
+  ],
+  "why": "“消息”在这里对应 message。结合前后句可还原为：Our teacher sent each family a message last night. It said the trip was still on, but we would meet at the side gate.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "model",
+   "counter",
+   "ridge",
+   "message"
+  ],
+  "source": "scenes:31"
+ },
+ {
+  "id": "WF1536",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Sam enjoys collecting one ____ from each town he visits. On the back he writes one thing he wants to remember.",
+  "cn": "萨姆喜欢每到一个镇子就收集一张明信片。他会在背面写下一件想记住的事。",
+  "slots": [
+   [
+    "postcard"
+   ]
+  ],
+  "why": "“明信片”在这里对应 postcard。结合前后句可还原为：Sam enjoys collecting one postcard from each town he visits. On the back he writes one thing he wants to remember.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bridge",
+   "schedule",
+   "sticker",
+   "postcard"
+  ],
+  "source": "scenes:32"
+ },
+ {
+  "id": "WF1537",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The small ____ was closed for repairs on Tuesday. We followed yellow arrows to a second crossing farther along the river.",
+  "cn": "小桥周二因维修关闭了。我们沿着黄色箭头，到了河流更远处的另一处过河点。",
+  "slots": [
+   [
+    "bridge"
+   ]
+  ],
+  "why": "“桥”在这里对应 bridge。结合前后句可还原为：The small bridge was closed for repairs on Tuesday. We followed yellow arrows to a second crossing farther along the river.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bridge",
+   "stream",
+   "torch",
+   "venue"
+  ],
+  "source": "scenes:33"
+ },
+ {
+  "id": "WF1538",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The team lost its first match last week. Instead of blaming anyone, the players drew a ____ of the final play to see where the gap was.",
+  "cn": "球队上周输了第一场比赛。队员们没有责怪谁，而是画了最后一次配合的示意图，寻找漏洞。",
+  "slots": [
+   [
+    "diagram"
+   ]
+  ],
+  "why": "“示意图”在这里对应 diagram。结合前后句可还原为：The team lost its first match last week. Instead of blaming anyone, the players drew a diagram of the final play to see where the gap was.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bowl",
+   "column",
+   "diagram",
+   "racket"
+  ],
+  "source": "scenes:34"
+ },
+ {
+  "id": "WF1539",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "We decided to walk home after the show. The ____ for taxis stretched around the corner, and our house was only two streets away.",
+  "cn": "演出后我们决定走回家。等出租车的队伍都排到转角了，而家只隔两条街。",
+  "slots": [
+   [
+    "queue"
+   ]
+  ],
+  "why": "“队伍”在这里对应 queue。结合前后句可还原为：We decided to walk home after the show. The queue for taxis stretched around the corner, and our house was only two streets away.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "timestamp",
+   "queue",
+   "racket",
+   "pier"
+  ],
+  "source": "scenes:35"
+ },
+ {
+  "id": "WF1540",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "A little boy broke a chalk stick into two pieces. He handed the shorter ____ to his sister so they could draw at the same time.",
+  "cn": "小男孩把一根粉笔掰成两截，把较短的一截给了妹妹，这样两人就能同时画画。",
+  "slots": [
+   [
+    "piece"
+   ]
+  ],
+  "why": "“一截”在这里对应 piece。结合前后句可还原为：A little boy broke a chalk stick into two pieces. He handed the shorter piece to his sister so they could draw at the same time.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bench",
+   "bridge",
+   "bell",
+   "piece"
+  ],
+  "source": "scenes:36"
+ },
+ {
+  "id": "WF1541",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The school bus arrived ten minutes early yesterday. Our group waited under the ____ until the driver opened the doors.",
+  "cn": "昨天校车提前十分钟到了。我们在遮雨棚下等到司机开门。",
+  "slots": [
+   [
+    "shelter"
+   ]
+  ],
+  "why": "“遮雨棚”在这里对应 shelter。结合前后句可还原为：The school bus arrived ten minutes early yesterday. Our group waited under the shelter until the driver opened the doors.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "photograph",
+   "shelter",
+   "stripe",
+   "slot"
+  ],
+  "source": "scenes:37"
+ },
+ {
+  "id": "WF1542",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "My sister practices reading the menu aloud. She wants to order her own meal when we visit a ____ next week.",
+  "cn": "妹妹练习大声读菜单。下周去餐馆时，她想自己点餐。",
+  "slots": [
+   [
+    "restaurant"
+   ]
+  ],
+  "why": "“餐馆”在这里对应 restaurant。结合前后句可还原为：My sister practices reading the menu aloud. She wants to order her own meal when we visit a restaurant next week.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bookshelf",
+   "restaurant",
+   "ramp",
+   "scarf"
+  ],
+  "source": "scenes:38"
+ },
+ {
+  "id": "WF1543",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Leo caught the last ferry yesterday. He stood on the ____ until the lights of his village came into view.",
+  "cn": "昨天利奥赶上了最后一班渡船。他站在甲板上，直到看见村里的灯光。",
+  "slots": [
+   [
+    "deck"
+   ]
+  ],
+  "why": "“甲板”在这里对应 deck。结合前后句可还原为：Leo caught the last ferry yesterday. He stood on the deck until the lights of his village came into view.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "postcard",
+   "deck",
+   "stream",
+   "list"
+  ],
+  "source": "scenes:39"
+ },
+ {
+  "id": "WF1544",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "We have to fold the map along the red line. That way the town center appears on the ____ when the map is closed.",
+  "cn": "我们得沿红线折地图。这样合起来时，镇中心就显示在封面上。",
+  "slots": [
+   [
+    "cover"
+   ]
+  ],
+  "why": "“封面”在这里对应 cover。结合前后句可还原为：We have to fold the map along the red line. That way the town center appears on the cover when the map is closed.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "shelter",
+   "receipt",
+   "barrier",
+   "cover"
+  ],
+  "source": "scenes:40"
+ },
+ {
+  "id": "WF1545",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The film was starting when the back door opened. An usher used a small ____ to help the late visitors find their seats.",
+  "cn": "后门打开时电影正要开始。引座员用小手电筒帮迟到的观众找座位。",
+  "slots": [
+   [
+    "torch"
+   ]
+  ],
+  "why": "“手电筒”在这里对应 torch。结合前后句可还原为：The film was starting when the back door opened. An usher used a small torch to help the late visitors find their seats.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "torch",
+   "envelope",
+   "kitten",
+   "drawer"
+  ],
+  "source": "scenes:41"
+ },
+ {
+  "id": "WF1546",
+  "level": 2,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The children dug a shallow hole yesterday. They lined it with a clean ____ to keep their toy boat from touching the mud.",
+  "cn": "昨天孩子们挖了个浅坑。他们用一块干净的薄布垫在里面，以免玩具船碰到泥。",
+  "slots": [
+   [
+    "sheet"
+   ]
+  ],
+  "why": "“薄布”在这里对应 sheet。结合前后句可还原为：The children dug a shallow hole yesterday. They lined it with a clean sheet to keep their toy boat from touching the mud.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "sheet",
+   "blanket",
+   "map",
+   "badge"
+  ],
+  "source": "scenes:42"
+ },
+ {
+  "id": "WF1547",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Since the bakery opened, Mia has kept every paper ____ from her visits. She wants to see how much she spends there each month.",
+  "cn": "自面包店开业以来，米娅一直保留着每次消费的纸质收据。她想了解自己每月在那里花多少钱。",
+  "slots": [
+   [
+    "receipt"
+   ]
+  ],
+  "why": "“收据”在这里对应 receipt。结合前后句可还原为：Since the bakery opened, Mia has kept every paper receipt from her visits. She wants to see how much she spends there each month.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "receipt",
+   "margin",
+   "model",
+   "inscription"
+  ],
+  "source": "scenes:44"
+ },
+ {
+  "id": "WF1548",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The old ____ needs washing before we hang it in the reading room. Holding it up to the window, we can see a line of dust along the bottom.",
+  "cn": "旧窗帘得洗过才能挂到阅览室。对着窗户举起来，能看见底边积着一条灰。",
+  "slots": [
+   [
+    "curtain"
+   ]
+  ],
+  "why": "“窗帘”在这里对应 curtain。结合前后句可还原为：The old curtain needs washing before we hang it in the reading room. Holding it up to the window, we can see a line of dust along the bottom.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "pier",
+   "cover",
+   "curtain",
+   "sticker"
+  ],
+  "source": "scenes:45"
+ },
+ {
+  "id": "WF1549",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "By the time the bus came, Ada had read the whole ____. She already knew which rooms were closed before she entered the museum.",
+  "cn": "公交车来时，艾达已经看完整张宣传单。进博物馆前她就知道哪些展室关闭了。",
+  "slots": [
+   [
+    "leaflet"
+   ]
+  ],
+  "why": "“宣传单”在这里对应 leaflet。结合前后句可还原为：By the time the bus came, Ada had read the whole leaflet. She already knew which rooms were closed before she entered the museum.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "leaflet",
+   "contents",
+   "slide",
+   "pencil"
+  ],
+  "source": "scenes:46"
+ },
+ {
+  "id": "WF1550",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The class voted to spend the prize money on a ____. Buying more books could wait; the ones they owned were still piled on the floor.",
+  "cn": "班里投票决定用奖金买书架。买更多书可以等等，他们已有的书还堆在地上。",
+  "slots": [
+   [
+    "bookshelf"
+   ]
+  ],
+  "why": "“书架”在这里对应 bookshelf。结合前后句可还原为：The class voted to spend the prize money on a bookshelf. Buying more books could wait; the ones they owned were still piled on the floor.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "courtyard",
+   "category",
+   "bookshelf",
+   "structure"
+  ],
+  "source": "scenes:47"
+ },
+ {
+  "id": "WF1551",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The machine stopped working after lunch. A coin was stuck in the ____; once Jen removed it, another customer could pay.",
+  "cn": "午饭后机器停止了运转。一枚硬币卡在投币口，珍取出它后，下一位顾客就能付款了。",
+  "slots": [
+   [
+    "slot"
+   ]
+  ],
+  "why": "“投币口”在这里对应 slot。结合前后句可还原为：The machine stopped working after lunch. A coin was stuck in the slot; once Jen removed it, another customer could pay.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "drawer",
+   "leash",
+   "arrow",
+   "slot"
+  ],
+  "source": "scenes:48"
+ },
+ {
+  "id": "WF1552",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The seats near the stage were reserved for guests who could not hear well. A volunteer checked each ____ before letting people into the front row.",
+  "cn": "靠近舞台的座位留给听力不好的客人。志愿者在放人进入前排之前逐一查票。",
+  "slots": [
+   [
+    "ticket"
+   ]
+  ],
+  "why": "“票”在这里对应 ticket。结合前后句可还原为：The seats near the stage were reserved for guests who could not hear well. A volunteer checked each ticket before letting people into the front row.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "ticket",
+   "scarf",
+   "leash",
+   "shelter"
+  ],
+  "source": "scenes:49"
+ },
+ {
+  "id": "WF1553",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Nora suggested marking the deep end of the pool with a yellow ____. A written warning alone might be hard for younger children to read.",
+  "cn": "诺拉建议用一条黄线标出泳池深水端。年幼的孩子可能读不懂单靠文字写的警示。",
+  "slots": [
+   [
+    "stripe"
+   ]
+  ],
+  "why": "“条纹”在这里对应 stripe。结合前后句可还原为：Nora suggested marking the deep end of the pool with a yellow stripe. A written warning alone might be hard for younger children to read.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "sticker",
+   "gloves",
+   "stripe",
+   "quilt"
+  ],
+  "source": "scenes:50"
+ },
+ {
+  "id": "WF1554",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The guide asked us to count the steps as we climbed. On the ____, our answers differed because one person had counted the flat space as a step.",
+  "cn": "向导让我们边爬边数台阶。到了楼梯平台，大家的结果不一样，因为有人把平坦的平台也算作一级。",
+  "slots": [
+   [
+    "landing"
+   ]
+  ],
+  "why": "“楼梯平台”在这里对应 landing。结合前后句可还原为：The guide asked us to count the steps as we climbed. On the landing, our answers differed because one person had counted the flat space as a step.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "cup",
+   "landing",
+   "bakery",
+   "display"
+  ],
+  "source": "scenes:51"
+ },
+ {
+  "id": "WF1555",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "If the temperature drops tonight, we will cover the plants with an old ____. In the morning we will remove it so the leaves get light.",
+  "cn": "如果今晚气温下降，我们就用旧被子盖住植物。早上会把被子拿走，让叶子见光。",
+  "slots": [
+   [
+    "quilt"
+   ]
+  ],
+  "why": "“被子”在这里对应 quilt。结合前后句可还原为：If the temperature drops tonight, we will cover the plants with an old quilt. In the morning we will remove it so the leaves get light.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "quilt",
+   "deck",
+   "kitten",
+   "transcript"
+  ],
+  "source": "scenes:52"
+ },
+ {
+  "id": "WF1556",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The new path is wider than the old one. Two people can now push a ____ and a bicycle past each other without leaving the path.",
+  "cn": "新路比旧路宽。现在一个人推婴儿车、另一个人推自行车，可以在路上错身通过。",
+  "slots": [
+   [
+    "stroller"
+   ]
+  ],
+  "why": "“婴儿车”在这里对应 stroller。结合前后句可还原为：The new path is wider than the old one. Two people can now push a stroller and a bicycle past each other without leaving the path.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "stroller",
+   "timestamp",
+   "map",
+   "outline"
+  ],
+  "source": "scenes:53"
+ },
+ {
+  "id": "WF1557",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Our class has just finished drawing a town ____. We left the hospital symbol large because a visitor in a hurry should be able to find it quickly.",
+  "cn": "我们班刚画完一张小镇地图。我们把医院的标志画得很大，好让着急的游客能迅速找到。",
+  "slots": [
+   [
+    "map"
+   ]
+  ],
+  "why": "“地图”在这里对应 map。结合前后句可还原为：Our class has just finished drawing a town map. We left the hospital symbol large because a visitor in a hurry should be able to find it quickly.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "deck",
+   "map",
+   "receipt",
+   "badge"
+  ],
+  "source": "scenes:54"
+ },
+ {
+  "id": "WF1558",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Dan promised to replace the missing ____ before he returned the coat. Without it, the coat would not close properly.",
+  "cn": "丹答应还衣服前把掉了的纽扣补上。少了它，外套就扣不严。",
+  "slots": [
+   [
+    "button"
+   ]
+  ],
+  "why": "“纽扣”在这里对应 button。结合前后句可还原为：Dan promised to replace the missing button before he returned the coat. Without it, the coat would not close properly.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "surface",
+   "button",
+   "envelope",
+   "distance"
+  ],
+  "source": "scenes:55"
+ },
+ {
+  "id": "WF1559",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The soup smelled wonderful yesterday, but the first spoonful was cold. We put the ____ back on the stove for a few minutes.",
+  "cn": "昨天的汤闻起来很香，可第一口却是冷的。我们又把锅放回炉子上加热了几分钟。",
+  "slots": [
+   [
+    "pot"
+   ]
+  ],
+  "why": "“锅”在这里对应 pot。结合前后句可还原为：The soup smelled wonderful yesterday, but the first spoonful was cold. We put the pot back on the stove for a few minutes.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "pot",
+   "wind",
+   "circulation",
+   "torch"
+  ],
+  "source": "scenes:56"
+ },
+ {
+  "id": "WF1560",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Everyone was given a colored ____ at the door. People wearing the same color worked together even if they had never met.",
+  "cn": "每个人进门时都领到一枚彩色徽章。佩戴同种颜色的人组成一组，即使以前从未见过。",
+  "slots": [
+   [
+    "badge"
+   ]
+  ],
+  "why": "“徽章”在这里对应 badge。结合前后句可还原为：Everyone was given a colored badge at the door. People wearing the same color worked together even if they had never met.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "pencil",
+   "stroller",
+   "badge",
+   "sticky note"
+  ],
+  "source": "scenes:57"
+ },
+ {
+  "id": "WF1561",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Rita avoids using the busy entrance at noon. She takes a longer route past the ____ because there is usually no line there.",
+  "cn": "丽塔中午避开拥挤的入口，绕远经过喷泉走另一条路，因为那里通常不用排队。",
+  "slots": [
+   [
+    "fountain"
+   ]
+  ],
+  "why": "“喷泉”在这里对应 fountain。结合前后句可还原为：Rita avoids using the busy entrance at noon. She takes a longer route past the fountain because there is usually no line there.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "fountain",
+   "message",
+   "outline",
+   "scorecard"
+  ],
+  "source": "scenes:58"
+ },
+ {
+  "id": "WF1562",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The team had left before the delivery arrived. The driver placed the ____ under the office desk and sent a photo to show where it was.",
+  "cn": "快递到时团队已经离开。司机把包裹放在办公室桌下，又发了张照片说明位置。",
+  "slots": [
+   [
+    "parcel"
+   ]
+  ],
+  "why": "“包裹”在这里对应 parcel。结合前后句可还原为：The team had left before the delivery arrived. The driver placed the parcel under the office desk and sent a photo to show where it was.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "gloves",
+   "scarf",
+   "parcel",
+   "lamp"
+  ],
+  "source": "scenes:59"
+ },
+ {
+  "id": "WF1563",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Some visitors prefer walking around the whole lake. Others turn back at the wooden ____ so they can return before dark.",
+  "cn": "有些游客喜欢环湖步行。另一些人在木码头折返，好在天黑前回来。",
+  "slots": [
+   [
+    "pier"
+   ]
+  ],
+  "why": "“码头”在这里对应 pier。结合前后句可还原为：Some visitors prefer walking around the whole lake. Others turn back at the wooden pier so they can return before dark.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "photograph",
+   "sticker",
+   "mug",
+   "pier"
+  ],
+  "source": "scenes:60"
+ },
+ {
+  "id": "WF1564",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The alarm has gone off twice this week. Each time steam from the kettle reached the ____; no one saw smoke.",
+  "cn": "本周警报已响过两次。两次都是水壶蒸汽飘到了传感器旁，没有人看见烟。",
+  "slots": [
+   [
+    "sensor"
+   ]
+  ],
+  "why": "“传感器”在这里对应 sensor。结合前后句可还原为：The alarm has gone off twice this week. Each time steam from the kettle reached the sensor; no one saw smoke.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "contents",
+   "sensor",
+   "bakery",
+   "category"
+  ],
+  "source": "scenes:61"
+ },
+ {
+  "id": "WF1565",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The missing key was lying beneath a folded ____. We had looked across the table twice without lifting anything.",
+  "cn": "那把找不到的钥匙就在折起的餐巾下面。我们扫视了桌面两次，却什么都没拿起来看。",
+  "slots": [
+   [
+    "napkin"
+   ]
+  ],
+  "why": "“餐巾”在这里对应 napkin。结合前后句可还原为：The missing key was lying beneath a folded napkin. We had looked across the table twice without lifting anything.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "diagram",
+   "receipt",
+   "napkin",
+   "curtain"
+  ],
+  "source": "scenes:62"
+ },
+ {
+  "id": "WF1566",
+  "level": 3,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Tea tastes better in this cup than in the metal one, says Grandpa. His usual ____ has a thick handle that stays cool.",
+  "cn": "爷爷说，用这个杯子喝茶比用金属杯好喝。他常用的马克杯杯柄很厚，不烫手。",
+  "slots": [
+   [
+    "mug"
+   ]
+  ],
+  "why": "“马克杯”在这里对应 mug。结合前后句可还原为：Tea tastes better in this cup than in the metal one, says Grandpa. His usual mug has a thick handle that stays cool.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "barrier",
+   "kite",
+   "mug",
+   "blanket"
+  ],
+  "source": "scenes:63"
+ },
+ {
+  "id": "WF1567",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The posters had been printed before the venue changed. Rather than waste them, we covered the old address with a plain ____.",
+  "cn": "场地变更前海报就印好了。为了不浪费，我们用一张素色贴纸遮住旧地址。",
+  "slots": [
+   [
+    "sticker"
+   ]
+  ],
+  "why": "“贴纸”在这里对应 sticker。结合前后句可还原为：The posters had been printed before the venue changed. Rather than waste them, we covered the old address with a plain sticker.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "sticker",
+   "category",
+   "seal",
+   "scorecard"
+  ],
+  "source": "scenes:65"
+ },
+ {
+  "id": "WF1568",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Had Maya known about the steep steps, she would have chosen the north entrance. The south entrance had a ____, but it ended halfway up.",
+  "cn": "迈娅要是早知道有陡峭的台阶，就会选北入口。南入口虽有坡道，却只到半途。",
+  "slots": [
+   [
+    "ramp"
+   ]
+  ],
+  "why": "“坡道”在这里对应 ramp。结合前后句可还原为：Had Maya known about the steep steps, she would have chosen the north entrance. The south entrance had a ramp, but it ended halfway up.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "ramp",
+   "racket",
+   "star",
+   "scarf"
+  ],
+  "source": "scenes:66"
+ },
+ {
+  "id": "WF1569",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The prize went to the design chosen by the youngest visitors. The adult ____ had preferred a different model, but its vote was only advisory.",
+  "cn": "奖项颁给了最年幼访客选中的设计。成人评审小组更喜欢另一款模型，但其投票仅作参考。",
+  "slots": [
+   [
+    "panel"
+   ]
+  ],
+  "why": "“评审小组”在这里对应 panel。结合前后句可还原为：The prize went to the design chosen by the youngest visitors. The adult panel had preferred a different model, but its vote was only advisory.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "panel",
+   "quilt",
+   "line",
+   "barrier"
+  ],
+  "source": "scenes:67"
+ },
+ {
+  "id": "WF1570",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The two reports appear to disagree until you read the heading above each ____. One counts people; the other counts visits, including repeat visits.",
+  "cn": "不看每栏上方的标题，两份报告好像相互矛盾。一份统计人数，另一份统计到访次数，包括重复到访。",
+  "slots": [
+   [
+    "column"
+   ]
+  ],
+  "why": "“栏”在这里对应 column。结合前后句可还原为：The two reports appear to disagree until you read the heading above each column. One counts people; the other counts visits, including repeat visits.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "napkin",
+   "stripe",
+   "receipt",
+   "column"
+  ],
+  "source": "scenes:68"
+ },
+ {
+  "id": "WF1571",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The students insisted on testing the bridge with equal loads. Without that rule, the winning ____ might simply be the one given the lightest box.",
+  "cn": "学生们坚持用同样的载荷测试桥。否则获胜的模型可能只是被放了最轻盒子的那一个。",
+  "slots": [
+   [
+    "model"
+   ]
+  ],
+  "why": "“模型”在这里对应 model。结合前后句可还原为：The students insisted on testing the bridge with equal loads. Without that rule, the winning model might simply be the one given the lightest box.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "schedule",
+   "model",
+   "contents",
+   "map"
+  ],
+  "source": "scenes:69"
+ },
+ {
+  "id": "WF1572",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Not until the second count did we notice a gap in the ____. Two pages had the same number, so the final number alone could not tell us how many sheets we had.",
+  "cn": "直到第二次数数，我们才注意到编号序列的异常。两页编号相同，因此仅看末尾号码无法算出有多少张纸。",
+  "slots": [
+   [
+    "sequence"
+   ]
+  ],
+  "why": "“序列”在这里对应 sequence。结合前后句可还原为：Not until the second count did we notice a gap in the sequence. Two pages had the same number, so the final number alone could not tell us how many sheets we had.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "list",
+   "sequence",
+   "paragraph",
+   "schedule"
+  ],
+  "source": "scenes:70"
+ },
+ {
+  "id": "WF1573",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Only after comparing both sketches did Nina understand the change. The new ____ was just as tall but left more space beside the door.",
+  "cn": "妮娜比较了两张草图后才看懂改动。新轮廓同样高，却在门旁留出了更多空间。",
+  "slots": [
+   [
+    "outline"
+   ]
+  ],
+  "why": "“轮廓”在这里对应 outline。结合前后句可还原为：Only after comparing both sketches did Nina understand the change. The new outline was just as tall but left more space beside the door.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "outline",
+   "cover",
+   "photograph",
+   "structure"
+  ],
+  "source": "scenes:71"
+ },
+ {
+  "id": "WF1574",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Leo would rather repair the original clock than replace it. A small ____ on its face reminds him of the day he helped his grandfather hang it.",
+  "cn": "利奥宁愿修理原来的钟，也不愿换新。钟面上的一道小划痕让他想起帮爷爷挂钟的那一天。",
+  "slots": [
+   [
+    "scratch"
+   ]
+  ],
+  "why": "“划痕”在这里对应 scratch。结合前后句可还原为：Leo would rather repair the original clock than replace it. A small scratch on its face reminds him of the day he helped his grandfather hang it.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "scratch",
+   "gate",
+   "postcard",
+   "ramp"
+  ],
+  "source": "scenes:72"
+ },
+ {
+  "id": "WF1575",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The note attached to the door gave a new room number. A visitor who followed yesterday's ____ missed the first five minutes.",
+  "cn": "贴在门上的便条写了新房间号。一名照着昨天日程表走的访客错过了开头五分钟。",
+  "slots": [
+   [
+    "schedule"
+   ]
+  ],
+  "why": "“日程表”在这里对应 schedule。结合前后句可还原为：The note attached to the door gave a new room number. A visitor who followed yesterday's schedule missed the first five minutes.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "racket",
+   "badge",
+   "schedule",
+   "reason"
+  ],
+  "source": "scenes:73"
+ },
+ {
+  "id": "WF1576",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The librarian had the torn cover replaced. She kept the old ____ on the first page because it named the person who donated the book.",
+  "cn": "馆员请人更换了破损的封面。她保留了扉页上的旧题词，因为上面写着捐书人的名字。",
+  "slots": [
+   [
+    "inscription"
+   ]
+  ],
+  "why": "“题词”在这里对应 inscription。结合前后句可还原为：The librarian had the torn cover replaced. She kept the old inscription on the first page because it named the person who donated the book.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "ridge",
+   "outline",
+   "inscription",
+   "distance"
+  ],
+  "source": "scenes:74"
+ },
+ {
+  "id": "WF1577",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The visitors were not allowed to touch the ancient bowl. A modern ____ stood beside it so children could feel the shape without harming the original.",
+  "cn": "参观者不能触摸古碗。旁边放了一件现代复制品，让孩子能摸到它的形状而不损坏原件。",
+  "slots": [
+   [
+    "replica"
+   ]
+  ],
+  "why": "“复制品”在这里对应 replica。结合前后句可还原为：The visitors were not allowed to touch the ancient bowl. A modern replica stood beside it so children could feel the shape without harming the original.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "photograph",
+   "replica",
+   "fountain",
+   "quilt"
+  ],
+  "source": "scenes:75"
+ },
+ {
+  "id": "WF1578",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "If the bell had been louder, we might have heard it from the garden. A wall separated our work area from the ____ where the signal sounded.",
+  "cn": "要是铃声再响点，我们在花园里或许就听见了。我们工作的地方与响铃的庭院之间隔着一堵墙。",
+  "slots": [
+   [
+    "courtyard"
+   ]
+  ],
+  "why": "“庭院”在这里对应 courtyard。结合前后句可还原为：If the bell had been louder, we might have heard it from the garden. A wall separated our work area from the courtyard where the signal sounded.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "question",
+   "circulation",
+   "drawer",
+   "courtyard"
+  ],
+  "source": "scenes:76"
+ },
+ {
+  "id": "WF1579",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The museum postponed opening the exhibition until the labels arrived. A beautiful ____ would tell visitors little if they could not identify the objects.",
+  "cn": "博物馆把展览开幕推迟到标签到达以后。若参观者认不出展品，再漂亮的展陈也传递不了多少信息。",
+  "slots": [
+   [
+    "display"
+   ]
+  ],
+  "why": "“展陈”在这里对应 display。结合前后句可还原为：The museum postponed opening the exhibition until the labels arrived. A beautiful display would tell visitors little if they could not identify the objects.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "display",
+   "photograph",
+   "wording",
+   "sticky note"
+  ],
+  "source": "scenes:77"
+ },
+ {
+  "id": "WF1580",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "A letter written in pencil was hard to photograph. The archivist changed the angle of the ____ instead of writing over the faint lines.",
+  "cn": "一封铅笔写的信很难拍清。档案管理员调整了灯的角度，没有描重那些淡淡的字迹。",
+  "slots": [
+   [
+    "lamp"
+   ]
+  ],
+  "why": "“灯”在这里对应 lamp。结合前后句可还原为：A letter written in pencil was hard to photograph. The archivist changed the angle of the lamp instead of writing over the faint lines.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "lamp",
+   "receipt",
+   "timer",
+   "drawer"
+  ],
+  "source": "scenes:78"
+ },
+ {
+  "id": "WF1581",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The club is considering adding a late session. Its survey asked about the preferred ____, but only members of the morning group answered.",
+  "cn": "俱乐部在考虑加开晚场。问卷询问大家喜欢的时段，但只有晨间组成员作答。",
+  "slots": [
+   [
+    "timeslot"
+   ]
+  ],
+  "why": "“时段”在这里对应 timeslot。结合前后句可还原为：The club is considering adding a late session. Its survey asked about the preferred timeslot, but only members of the morning group answered.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "slot",
+   "basket",
+   "timeslot",
+   "ramp"
+  ],
+  "source": "scenes:79"
+ },
+ {
+  "id": "WF1582",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The sign was large enough to read from the opposite pavement. Its bold ____, however, pointed toward an entrance closed for repairs.",
+  "cn": "标牌大得足以从对面人行道读清。可是粗粗的箭头指向一个因维修而关闭的入口。",
+  "slots": [
+   [
+    "arrow"
+   ]
+  ],
+  "why": "“箭头”在这里对应 arrow。结合前后句可还原为：The sign was large enough to read from the opposite pavement. Its bold arrow, however, pointed toward an entrance closed for repairs.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "outline",
+   "seal",
+   "arrow",
+   "bowl"
+  ],
+  "source": "scenes:80"
+ },
+ {
+  "id": "WF1583",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "By noon, the workers had laid the floor tiles near the window. A narrow ____ kept people off the surface until it was safe to walk on.",
+  "cn": "到中午时，工人已铺好窗边的地砖。一道窄隔栏拦住行人，直到地面可以安全踩踏。",
+  "slots": [
+   [
+    "barrier"
+   ]
+  ],
+  "why": "“隔栏”在这里对应 barrier。结合前后句可还原为：By noon, the workers had laid the floor tiles near the window. A narrow barrier kept people off the surface until it was safe to walk on.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "stroller",
+   "queue",
+   "barrier",
+   "column"
+  ],
+  "source": "scenes:81"
+ },
+ {
+  "id": "WF1584",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The captain denied changing the result. She showed the original ____, where both teams had signed below the final score.",
+  "cn": "队长否认改过比赛结果。她出示了原始记分卡，两队都在最终比分下签了名。",
+  "slots": [
+   [
+    "scorecard"
+   ]
+  ],
+  "why": "“记分卡”在这里对应 scorecard。结合前后句可还原为：The captain denied changing the result. She showed the original scorecard, where both teams had signed below the final score.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "scorecard",
+   "ridge",
+   "pencil",
+   "cover"
+  ],
+  "source": "scenes:82"
+ },
+ {
+  "id": "WF1585",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The book is said to contain an extra chapter. We checked the ____ of two editions and found the new title only in the later one.",
+  "cn": "据说这本书多了一章。我们查了两个版本的目录，只在较晚的一版看到了新标题。",
+  "slots": [
+   [
+    "contents"
+   ]
+  ],
+  "why": "“目录”在这里对应 contents。结合前后句可还原为：The book is said to contain an extra chapter. We checked the contents of two editions and found the new title only in the later one.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "contents",
+   "notebook",
+   "bench",
+   "circulation"
+  ],
+  "source": "scenes:83"
+ },
+ {
+  "id": "WF1586",
+  "level": 4,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Hardly had the doors opened when the queue divided. One ____ led to ticket sales and the other to the entrance for people who had booked.",
+  "cn": "门刚开，队伍就分成两列。一列通往售票处，另一列通往已订票者的入口。",
+  "slots": [
+   [
+    "line"
+   ]
+  ],
+  "why": "“队列”在这里对应 line。结合前后句可还原为：Hardly had the doors opened when the queue divided. One line led to ticket sales and the other to the entrance for people who had booked.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "line",
+   "fountain",
+   "counter",
+   "piece"
+  ],
+  "source": "scenes:84"
+ },
+ {
+  "id": "WF1587",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Were the clock to stop, the count would continue but the times would be lost. The second ____ records entries without recording when they happen.",
+  "cn": "假设时钟停了，计数会继续，但具体时间会丢失。第二个计数器只记到访次数，不记发生时间。",
+  "slots": [
+   [
+    "counter"
+   ]
+  ],
+  "why": "“计数器”在这里对应 counter。结合前后句可还原为：Were the clock to stop, the count would continue but the times would be lost. The second counter records entries without recording when they happen.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "gate",
+   "ticket",
+   "counter",
+   "pier"
+  ],
+  "source": "scenes:86"
+ },
+ {
+  "id": "WF1588",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The map was useful despite having no scale. It showed the order of the stops, but no traveler could use it to estimate the ____ between them.",
+  "cn": "地图虽没有比例尺，仍有用。它能显示站点顺序，却不能据此估算站间距离。",
+  "slots": [
+   [
+    "distance"
+   ]
+  ],
+  "why": "“距离”在这里对应 distance。结合前后句可还原为：The map was useful despite having no scale. It showed the order of the stops, but no traveler could use it to estimate the distance between them.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "distance",
+   "stream",
+   "kite",
+   "question"
+  ],
+  "source": "scenes:87"
+ },
+ {
+  "id": "WF1589",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The editor regrets removing the first sentence. Without that opening, the final ____ seems to refer to a different person.",
+  "cn": "编辑后悔删掉了第一句。没有那个开头，最后的代词似乎指向了另一个人。",
+  "slots": [
+   [
+    "pronoun"
+   ]
+  ],
+  "why": "“代词”在这里对应 pronoun。结合前后句可还原为：The editor regrets removing the first sentence. Without that opening, the final pronoun seems to refer to a different person.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "distance",
+   "torch",
+   "sticker",
+   "pronoun"
+  ],
+  "source": "scenes:88"
+ },
+ {
+  "id": "WF1590",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "What mattered most was not how high the tower stood but whether it remained upright on a moving board. The tallest ____ fell during the first shake.",
+  "cn": "最重要的并非塔有多高，而是它能否在晃动的板上立住。最高的结构体在第一次晃动时就倒了。",
+  "slots": [
+   [
+    "structure"
+   ]
+  ],
+  "why": "“结构体”在这里对应 structure。结合前后句可还原为：What mattered most was not how high the tower stood but whether it remained upright on a moving board. The tallest structure fell during the first shake.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "slot",
+   "scratch",
+   "badge",
+   "structure"
+  ],
+  "source": "scenes:89"
+ },
+ {
+  "id": "WF1591",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The review could have been completed sooner if every page had carried a date. The missing ____ made two otherwise similar drafts hard to put in order.",
+  "cn": "要是每一页都有日期，审阅工作本可以更早完成。缺少时间标记使两份很相似的草稿难以排序。",
+  "slots": [
+   [
+    "timestamp"
+   ]
+  ],
+  "why": "“时间标记”在这里对应 timestamp。结合前后句可还原为：The review could have been completed sooner if every page had carried a date. The missing timestamp made two otherwise similar drafts hard to put in order.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "transcript",
+   "ticket",
+   "cover",
+   "timestamp"
+  ],
+  "source": "scenes:90"
+ },
+ {
+  "id": "WF1592",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The judge asked that the final round be held behind a screen. An instrument's ____ would then guide the decision without the player's name influencing it.",
+  "cn": "评委要求决赛在屏风后进行。这样就能按乐器音色评判，演奏者的姓名不会影响决定。",
+  "slots": [
+   [
+    "tone"
+   ]
+  ],
+  "why": "“音色”在这里对应 tone。结合前后句可还原为：The judge asked that the final round be held behind a screen. An instrument's tone would then guide the decision without the player's name influencing it.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "sticker",
+   "tone",
+   "circulation",
+   "kitten"
+  ],
+  "source": "scenes:91"
+ },
+ {
+  "id": "WF1593",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The higher the shelf, the harder it was for younger readers to reach. Moving the same titles down increased their ____ without adding a single new book.",
+  "cn": "书架越高，小读者越难够到。把同样的书移到低处后，即便新书一本也没加，借阅量仍增加了。",
+  "slots": [
+   [
+    "circulation"
+   ]
+  ],
+  "why": "“借阅流通量”在这里对应 circulation。结合前后句可还原为：The higher the shelf, the harder it was for younger readers to reach. Moving the same titles down increased their circulation without adding a single new book.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "button",
+   "badge",
+   "leaflet",
+   "circulation"
+  ],
+  "source": "scenes:92"
+ },
+ {
+  "id": "WF1594",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Without the second observer, the class might have missed a brief pause in the recording. Her ____ marked the silence as carefully as the spoken words.",
+  "cn": "如果没有第二位观察者，全班可能会漏掉录音里一次短暂停顿。她在文字记录中把静默标得和说出的词一样仔细。",
+  "slots": [
+   [
+    "transcript"
+   ]
+  ],
+  "why": "“文字记录”在这里对应 transcript。结合前后句可还原为：Without the second observer, the class might have missed a brief pause in the recording. Her transcript marked the silence as carefully as the spoken words.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "badge",
+   "transcript",
+   "torch",
+   "message"
+  ],
+  "source": "scenes:93"
+ },
+ {
+  "id": "WF1595",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "With the audience seated, the guide dimmed the lights. The first ____ was deliberately blank so everyone could notice how quickly the room darkened.",
+  "cn": "观众就座后，讲解员调暗灯光。第一张幻灯片故意留白，好让大家留意房间变暗的速度。",
+  "slots": [
+   [
+    "slide"
+   ]
+  ],
+  "why": "“幻灯片”在这里对应 slide。结合前后句可还原为：With the audience seated, the guide dimmed the lights. The first slide was deliberately blank so everyone could notice how quickly the room darkened.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "pier",
+   "stroller",
+   "venue",
+   "slide"
+  ],
+  "source": "scenes:94"
+ },
+ {
+  "id": "WF1596",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The committee opposed ranking the clubs by total attendance alone. A large ____ could admit more people even if the smaller event filled every seat.",
+  "cn": "委员会反对仅按总到场人数给社团排名。大场地能容纳更多人，即使小场地座无虚席也是如此。",
+  "slots": [
+   [
+    "venue"
+   ]
+  ],
+  "why": "“场地”在这里对应 venue。结合前后句可还原为：The committee opposed ranking the clubs by total attendance alone. A large venue could admit more people even if the smaller event filled every seat.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "bench",
+   "counter",
+   "bridge",
+   "venue"
+  ],
+  "source": "scenes:95"
+ },
+ {
+  "id": "WF1597",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The error was not discovered until all the cards had been sorted by color. One ____ appeared empty because its blue label had faded almost to gray.",
+  "cn": "直到所有卡片按颜色分完，错误才被发现。有一类看似空着，是因为它的蓝标签已褪得近乎灰色。",
+  "slots": [
+   [
+    "category"
+   ]
+  ],
+  "why": "“类别”在这里对应 category。结合前后句可还原为：The error was not discovered until all the cards had been sorted by color. One category appeared empty because its blue label had faded almost to gray.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "category",
+   "quilt",
+   "schedule",
+   "napkin"
+  ],
+  "source": "scenes:96"
+ },
+ {
+  "id": "WF1598",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The volunteer recalled seeing a crack before the frame was moved. Her dated ____ supported the sequence of events but did not explain what caused the damage.",
+  "cn": "志愿者记得画框搬动前就见过裂纹。带日期的照片支持这一事件顺序，却不能解释损伤的原因。",
+  "slots": [
+   [
+    "photograph"
+   ]
+  ],
+  "why": "“照片”在这里对应 photograph。结合前后句可还原为：The volunteer recalled seeing a crack before the frame was moved. Her dated photograph supported the sequence of events but did not explain what caused the damage.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "pot",
+   "cover",
+   "photograph",
+   "bakery"
+  ],
+  "source": "scenes:97"
+ },
+ {
+  "id": "WF1599",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Only by checking the names could we distinguish two prizes with identical covers. The gold ____ on each was the same, although the achievements being recognized were quite different.",
+  "cn": "只有核对名字，我们才能区分两份封面相同的奖状。两者的金色印章一模一样，表彰的成就却很不同。",
+  "slots": [
+   [
+    "seal"
+   ]
+  ],
+  "why": "“印章”在这里对应 seal。结合前后句可还原为：Only by checking the names could we distinguish two prizes with identical covers. The gold seal on each was the same, although the achievements being recognized were quite different.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "photograph",
+   "tone",
+   "seal",
+   "kitten"
+  ],
+  "source": "scenes:98"
+ },
+ {
+  "id": "WF1600",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "Had the group measured only speed, it would have selected the first route. The second route, however, offered a level ____ throughout, which mattered more to the wheelchair users.",
+  "cn": "若只衡量速度，小组会选择第一条路线。不过第二条全程路面平坦，对轮椅使用者更重要。",
+  "slots": [
+   [
+    "surface"
+   ]
+  ],
+  "why": "“路面”在这里对应 surface。结合前后句可还原为：Had the group measured only speed, it would have selected the first route. The second route, however, offered a level surface throughout, which mattered more to the wheelchair users.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "surface",
+   "message",
+   "kite",
+   "ridge"
+  ],
+  "source": "scenes:99"
+ },
+ {
+  "id": "WF1601",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The author revised the ending to avoid implying that one trial settled the question. A final ____ now describes conditions under which the result might change.",
+  "cn": "作者修改了结尾，以免暗示一次试验就能解决问题。如今最后一段描述了结果可能发生变化的条件。",
+  "slots": [
+   [
+    "paragraph"
+   ]
+  ],
+  "why": "“段落”在这里对应 paragraph。结合前后句可还原为：The author revised the ending to avoid implying that one trial settled the question. A final paragraph now describes conditions under which the result might change.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "surface",
+   "curtain",
+   "timestamp",
+   "paragraph"
+  ],
+  "source": "scenes:100"
+ },
+ {
+  "id": "WF1602",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The old drawer seemed to fit until the carpenter tried to close it. A small ____ at the back caught on the frame only in the last centimeter.",
+  "cn": "旧抽屉看似正合适，直到木匠尝试把它关上。背面一道小凸棱只有到最后一厘米才会卡住框架。",
+  "slots": [
+   [
+    "ridge"
+   ]
+  ],
+  "why": "“凸棱”在这里对应 ridge。结合前后句可还原为：The old drawer seemed to fit until the carpenter tried to close it. A small ridge at the back caught on the frame only in the last centimeter.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "question",
+   "stroller",
+   "kite",
+   "ridge"
+  ],
+  "source": "scenes:101"
+ },
+ {
+  "id": "WF1603",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "No sooner had the speaker paused than a hand went up. The student's ____ concerned an assumption in the example, not the numerical answer on the board.",
+  "cn": "讲者刚停顿，就有人举手。学生问的是例子中的一个假设，而非黑板上的数值答案。",
+  "slots": [
+   [
+    "question"
+   ]
+  ],
+  "why": "“提问”在这里对应 question。结合前后句可还原为：No sooner had the speaker paused than a hand went up. The student's question concerned an assumption in the example, not the numerical answer on the board.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "torch",
+   "display",
+   "question",
+   "pier"
+  ],
+  "source": "scenes:102"
+ },
+ {
+  "id": "WF1604",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The applicants were asked to describe a decision they had changed. The interviewers valued a clear ____ for reconsidering more than an impressive first answer.",
+  "cn": "申请人被要求描述一个自己曾修改过的决定。面试官更看重重新考虑的明确原因，而不是漂亮的最初答案。",
+  "slots": [
+   [
+    "reason"
+   ]
+  ],
+  "why": "“原因”在这里对应 reason。结合前后句可还原为：The applicants were asked to describe a decision they had changed. The interviewers valued a clear reason for reconsidering more than an impressive first answer.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "reason",
+   "structure",
+   "slide",
+   "bowl"
+  ],
+  "source": "scenes:103"
+ },
+ {
+  "id": "WF1605",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "What began as a list of repairs has grown into a history of the house. In the ____ beside each cost, the owner wrote who had helped and why the work mattered.",
+  "cn": "起初只是一张修缮清单，如今已成了房子的历史。主人在每笔花费旁的页边空白写下谁来帮忙，以及这项工作为何重要。",
+  "slots": [
+   [
+    "margin"
+   ]
+  ],
+  "why": "“页边空白”在这里对应 margin。结合前后句可还原为：What began as a list of repairs has grown into a history of the house. In the margin beside each cost, the owner wrote who had helped and why the work mattered.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "margin",
+   "stripe",
+   "model",
+   "postcard"
+  ],
+  "source": "scenes:104"
+ },
+ {
+  "id": "WF1606",
+  "level": 5,
+  "cat": "单词",
+  "kind": "语境选词",
+  "text": "The notice was revised after a visitor asked whether children were included in the limit of six. The new ____ says six people of any age, leaving less room for argument.",
+  "cn": "有访客询问六人上限是否包括儿童后，通知作了修改。新措辞写明任何年龄的人合计六位，减少了争议空间。",
+  "slots": [
+   [
+    "wording"
+   ]
+  ],
+  "why": "“措辞”在这里对应 wording。结合前后句可还原为：The notice was revised after a visitor asked whether children were included in the limit of six. The new wording says six people of any age, leaving less room for argument.",
+  "point": "词义与语境",
+  "hint": "根据句意与中文选择用词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "list",
+   "gloves",
+   "gate",
+   "wording"
+  ],
+  "source": "scenes:105"
+ }
+]

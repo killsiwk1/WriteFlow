@@ -1,0 +1,2302 @@
+[
+ {
+  "id": "WF2601",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Every Friday, our class leaves a basket by the door.\n\n根据以下中文情境，选出衔接原文的后续内容。\n每周五，我们班都会在门旁放一个篮子。有多余铅笔的人可以把笔留给下一个班。",
+  "cn": "每周五，我们班都会在门旁放一个篮子。有多余铅笔的人可以把笔留给下一个班。",
+  "why": "前句建立情境，后文补充的信息是：Anyone with a spare pencil can put it there for the next class.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Anyone with a spare pencil can put it there for the next class."
+   ]
+  ],
+  "options": [
+   "When one finished a page, the other started the next one.",
+   "After a minute it comes out to look at the visitor.",
+   "Anyone with a spare pencil can put it there for the next class."
+  ],
+  "source": "scene-link:1",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2602",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The shop opens at eight on weekdays.\n\n根据以下中文情境，选出衔接原文的后续内容。\n这家店平日八点开门。牌子上写着周日晚开一小时。",
+  "cn": "这家店平日八点开门。牌子上写着周日晚开一小时。",
+  "why": "前句建立情境，后文补充的信息是：A sign says it opens an hour later on Sundays.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A sign says it opens an hour later on Sundays."
+   ]
+  ],
+  "options": [
+   "I ate one and put the other two in my bag.",
+   "They have tickets, but the concert does not start until six.",
+   "A sign says it opens an hour later on Sundays."
+  ],
+  "source": "scene-link:2",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2603",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Yesterday I found a red scarf under my seat.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨天我在座位下发现了一条红围巾。我把它交给了公交司机，失主可以找司机认领。",
+  "cn": "昨天我在座位下发现了一条红围巾。我把它交给了公交司机，失主可以找司机认领。",
+  "why": "前句建立情境，后文补充的信息是：I left it with the bus driver so its owner could ask for it.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "I left it with the bus driver so its owner could ask for it."
+   ]
+  ],
+  "options": [
+   "On rainy days the children eat inside instead of taking their lunch to the yard.",
+   "When he hears a new word, he writes it down before he forgets it.",
+   "I left it with the bus driver so its owner could ask for it."
+  ],
+  "source": "scene-link:3",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2604",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "A bell rings at noon.\n\n根据以下中文情境，选出衔接原文的后续内容。\n中午铃响了。下雨天孩子们在室内吃饭，不把午餐带去院子。",
+  "cn": "中午铃响了。下雨天孩子们在室内吃饭，不把午餐带去院子。",
+  "why": "前句建立情境，后文补充的信息是：On rainy days the children eat inside instead of taking their lunch to the yard.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "On rainy days the children eat inside instead of taking their lunch to the yard."
+   ]
+  ],
+  "options": [
+   "When he hears a new word, he writes it down before he forgets it.",
+   "We have enough paper for everyone, but no tools for drawing.",
+   "On rainy days the children eat inside instead of taking their lunch to the yard."
+  ],
+  "source": "scene-link:4",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2605",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Mum bought two stamps yesterday.\n\n根据以下中文情境，选出衔接原文的后续内容。\n妈妈昨天买了两张邮票。她把一张贴在我的信封上，把另一张放在书桌里。",
+  "cn": "妈妈昨天买了两张邮票。她把一张贴在我的信封上，把另一张放在书桌里。",
+  "why": "前句建立情境，后文补充的信息是：She put one on my envelope and kept the other in her desk.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She put one on my envelope and kept the other in her desk."
+   ]
+  ],
+  "options": [
+   "She put one on my envelope and kept the other in her desk.",
+   "Anyone with a spare pencil can put it there for the next class.",
+   "His fingers felt cold as he waited for the morning bus."
+  ],
+  "source": "scene-link:5",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2606",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The blue cup belongs to Ben.\n\n根据以下中文情境，选出衔接原文的后续内容。\n蓝色杯子是本的。他喝完牛奶总是自己洗杯子。",
+  "cn": "蓝色杯子是本的。他喝完牛奶总是自己洗杯子。",
+  "why": "前句建立情境，后文补充的信息是：He always washes it himself after drinking his milk.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "He always washes it himself after drinking his milk."
+   ]
+  ],
+  "options": [
+   "They have tickets, but the concert does not start until six.",
+   "When one finished a page, the other started the next one.",
+   "He always washes it himself after drinking his milk."
+  ],
+  "source": "scene-link:6",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2607",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Two girls are waiting by the gate.\n\n根据以下中文情境，选出衔接原文的后续内容。\n两个女孩正在大门旁等候。她们有票，但音乐会要到六点才开始。",
+  "cn": "两个女孩正在大门旁等候。她们有票，但音乐会要到六点才开始。",
+  "why": "前句建立情境，后文补充的信息是：They have tickets, but the concert does not start until six.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "They have tickets, but the concert does not start until six."
+   ]
+  ],
+  "options": [
+   "They have tickets, but the concert does not start until six.",
+   "We have enough paper for everyone, but no tools for drawing.",
+   "Today it is sunny, so we have left it by the door."
+  ],
+  "source": "scene-link:7",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2608",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Tom left his gloves at home.\n\n根据以下中文情境，选出衔接原文的后续内容。\n汤姆把手套忘在家了。等早班公交时，他觉得手指很冷。",
+  "cn": "汤姆把手套忘在家了。等早班公交时，他觉得手指很冷。",
+  "why": "前句建立情境，后文补充的信息是：His fingers felt cold as he waited for the morning bus.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "His fingers felt cold as he waited for the morning bus."
+   ]
+  ],
+  "options": [
+   "Anyone with a spare pencil can put it there for the next class.",
+   "His fingers felt cold as he waited for the morning bus.",
+   "We have enough paper for everyone, but no tools for drawing."
+  ],
+  "source": "scene-link:8",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2609",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "My uncle keeps a tiny notebook in his pocket.\n\n根据以下中文情境，选出衔接原文的后续内容。\n叔叔口袋里总装着一个小笔记本。听到新词，他就趁还没忘记写下来。",
+  "cn": "叔叔口袋里总装着一个小笔记本。听到新词，他就趁还没忘记写下来。",
+  "why": "前句建立情境，后文补充的信息是：When he hears a new word, he writes it down before he forgets it.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "When he hears a new word, he writes it down before he forgets it."
+   ]
+  ],
+  "options": [
+   "I ate one and put the other two in my bag.",
+   "When he hears a new word, he writes it down before he forgets it.",
+   "I left it with the bus driver so its owner could ask for it."
+  ],
+  "source": "scene-link:9",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2610",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The baby slept through the music yesterday.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨天放音乐时宝宝一直在睡觉。爸爸先给她盖上毯子，然后关了灯。",
+  "cn": "昨天放音乐时宝宝一直在睡觉。爸爸先给她盖上毯子，然后关了灯。",
+  "why": "前句建立情境，后文补充的信息是：Dad put a blanket over her before he turned off the lamp.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Dad put a blanket over her before he turned off the lamp."
+   ]
+  ],
+  "options": [
+   "I ate one and put the other two in my bag.",
+   "Dad put a blanket over her before he turned off the lamp.",
+   "There are four stars beside the first four titles and none beside the fifth."
+  ],
+  "source": "scene-link:10",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2611",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "We usually share one large umbrella on the way home.\n\n根据以下中文情境，选出衔接原文的后续内容。\n回家路上我们通常共用一把大伞。今天是晴天，所以把它留在门边了。",
+  "cn": "回家路上我们通常共用一把大伞。今天是晴天，所以把它留在门边了。",
+  "why": "前句建立情境，后文补充的信息是：Today it is sunny, so we have left it by the door.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Today it is sunny, so we have left it by the door."
+   ]
+  ],
+  "options": [
+   "Today it is sunny, so we have left it by the door.",
+   "Anyone with a spare pencil can put it there for the next class.",
+   "A sign says it opens an hour later on Sundays."
+  ],
+  "source": "scene-link:11",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2612",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Each drawer has a different label.\n\n根据以下中文情境，选出衔接原文的后续内容。\n每个抽屉都有不同的标签。如果需要一张白纸，就找标着“纸”的那个。",
+  "cn": "每个抽屉都有不同的标签。如果需要一张白纸，就找标着“纸”的那个。",
+  "why": "前句建立情境，后文补充的信息是：Look for the one marked Paper if you need a clean sheet.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Look for the one marked Paper if you need a clean sheet."
+   ]
+  ],
+  "options": [
+   "His fingers felt cold as he waited for the morning bus.",
+   "It knows that the sound often means bread is ready.",
+   "Look for the one marked Paper if you need a clean sheet."
+  ],
+  "source": "scene-link:12",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2613",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The twins took turns reading last night.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨晚这对双胞胎轮流朗读。一个读完一页，另一个就开始读下一页。",
+  "cn": "昨晚这对双胞胎轮流朗读。一个读完一页，另一个就开始读下一页。",
+  "why": "前句建立情境，后文补充的信息是：When one finished a page, the other started the next one.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "When one finished a page, the other started the next one."
+   ]
+  ],
+  "options": [
+   "Today it is sunny, so we have left it by the door.",
+   "His fingers felt cold as he waited for the morning bus.",
+   "When one finished a page, the other started the next one."
+  ],
+  "source": "scene-link:13",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2614",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "A small kitten hides behind the chair whenever the doorbell rings.\n\n根据以下中文情境，选出衔接原文的后续内容。\n每当门铃响，小猫就躲在椅子后面。一分钟后，它又出来打量来客。",
+  "cn": "每当门铃响，小猫就躲在椅子后面。一分钟后，它又出来打量来客。",
+  "why": "前句建立情境，后文补充的信息是：After a minute it comes out to look at the visitor.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "After a minute it comes out to look at the visitor."
+   ]
+  ],
+  "options": [
+   "Look for the one marked Paper if you need a clean sheet.",
+   "After a minute it comes out to look at the visitor.",
+   "She put one on my envelope and kept the other in her desk."
+  ],
+  "source": "scene-link:14",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2615",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "There were three oranges in the bowl this morning.\n\n根据以下中文情境，选出衔接原文的后续内容。\n早上碗里有三个橙子。我吃了一个，把剩下两个放进包里。",
+  "cn": "早上碗里有三个橙子。我吃了一个，把剩下两个放进包里。",
+  "why": "前句建立情境，后文补充的信息是：I ate one and put the other two in my bag.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "I ate one and put the other two in my bag."
+   ]
+  ],
+  "options": [
+   "Dad put a blanket over her before he turned off the lamp.",
+   "Look for the one marked Paper if you need a clean sheet.",
+   "I ate one and put the other two in my bag."
+  ],
+  "source": "scene-link:15",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2616",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Nina draws a little star beside each book she finishes.\n\n根据以下中文情境，选出衔接原文的后续内容。\n妮娜每读完一本书，就在书名旁画一颗小星星。前四个书名旁都有星星，第五个旁边没有。",
+  "cn": "妮娜每读完一本书，就在书名旁画一颗小星星。前四个书名旁都有星星，第五个旁边没有。",
+  "why": "前句建立情境，后文补充的信息是：There are four stars beside the first four titles and none beside the fifth.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "There are four stars beside the first four titles and none beside the fifth."
+   ]
+  ],
+  "options": [
+   "There are four stars beside the first four titles and none beside the fifth.",
+   "Look for the one marked Paper if you need a clean sheet.",
+   "He always washes it himself after drinking his milk."
+  ],
+  "source": "scene-link:16",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2617",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Our dog ran to the kitchen when the timer rang.\n\n根据以下中文情境，选出衔接原文的后续内容。\n计时器一响，我家的狗就跑向厨房。它知道这声音常意味着面包好了。",
+  "cn": "计时器一响，我家的狗就跑向厨房。它知道这声音常意味着面包好了。",
+  "why": "前句建立情境，后文补充的信息是：It knows that the sound often means bread is ready.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "It knows that the sound often means bread is ready."
+   ]
+  ],
+  "options": [
+   "A sign says it opens an hour later on Sundays.",
+   "She put one on my envelope and kept the other in her desk.",
+   "It knows that the sound often means bread is ready."
+  ],
+  "source": "scene-link:17",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2618",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "Please bring a pencil to the drawing game.\n\n根据以下中文情境，选出衔接原文的后续内容。\n请带一支铅笔来参加绘画游戏。每个人的纸都有了，但我们没有画画工具。",
+  "cn": "请带一支铅笔来参加绘画游戏。每个人的纸都有了，但我们没有画画工具。",
+  "why": "前句建立情境，后文补充的信息是：We have enough paper for everyone, but no tools for drawing.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "We have enough paper for everyone, but no tools for drawing."
+   ]
+  ],
+  "options": [
+   "We have enough paper for everyone, but no tools for drawing.",
+   "I ate one and put the other two in my bag.",
+   "After a minute it comes out to look at the visitor."
+  ],
+  "source": "scene-link:18",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2619",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "The bus stops beside the bakery every morning.\n\n根据以下中文情境，选出衔接原文的后续内容。\n公交车每天早上停在面包店旁。闻到刚烤好的面包味，你就快到正确的车站了。",
+  "cn": "公交车每天早上停在面包店旁。闻到刚烤好的面包味，你就快到正确的车站了。",
+  "why": "前句建立情境，后文补充的信息是：If you can smell fresh bread, you are close to the right stop.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "If you can smell fresh bread, you are close to the right stop."
+   ]
+  ],
+  "options": [
+   "There are four stars beside the first four titles and none beside the fifth.",
+   "On rainy days the children eat inside instead of taking their lunch to the yard.",
+   "If you can smell fresh bread, you are close to the right stop."
+  ],
+  "source": "scene-link:19",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2620",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 1,
+  "text": "My brother made a kite last week.\n\n根据以下中文情境，选出衔接原文的后续内容。\n哥哥上周做了一只风筝。他今天想放风筝，但外面的树一动也不动。",
+  "cn": "哥哥上周做了一只风筝。他今天想放风筝，但外面的树一动也不动。",
+  "why": "前句建立情境，后文补充的信息是：He wants to fly it today, but the trees outside are perfectly still.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "He wants to fly it today, but the trees outside are perfectly still."
+   ]
+  ],
+  "options": [
+   "He always washes it himself after drinking his milk.",
+   "He wants to fly it today, but the trees outside are perfectly still.",
+   "When he hears a new word, he writes it down before he forgets it."
+  ],
+  "source": "scene-link:20",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2621",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The rain stopped just before our game began.\n\n根据以下中文情境，选出衔接原文的后续内容。\n比赛开始前雨刚停。我们把每条长椅上的水擦掉，好让其他队员坐下。",
+  "cn": "比赛开始前雨刚停。我们把每条长椅上的水擦掉，好让其他队员坐下。",
+  "why": "前句建立情境，后文补充的信息是：We wiped the water off each bench so the other players could sit down.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "We wiped the water off each bench so the other players could sit down."
+   ]
+  ],
+  "options": [
+   "That way the town center appears on the cover when the map is closed.",
+   "We wiped the water off each bench so the other players could sit down.",
+   "We followed yellow arrows to a second crossing farther along the river."
+  ],
+  "source": "scene-link:21",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2622",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Lena is packing her bag for the trip.\n\n根据以下中文情境，选出衔接原文的后续内容。\n莉娜正在收拾行李。她只有把东西放进包后才在清单上打钩。",
+  "cn": "莉娜正在收拾行李。她只有把东西放进包后才在清单上打钩。",
+  "why": "前句建立情境，后文补充的信息是：She checks each box on her list only after the item is inside.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She checks each box on her list only after the item is inside."
+   ]
+  ],
+  "options": [
+   "She checks each box on her list only after the item is inside.",
+   "The queue for taxis stretched around the corner, and our house was only two streets away.",
+   "Leave your name there and return the helmet before the park closes."
+  ],
+  "source": "scene-link:22",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2623",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Yesterday we chose the path beside the stream.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨天我们选了小溪边的小路。穿过田野的路更短，但那条路上没有树荫。",
+  "cn": "昨天我们选了小溪边的小路。穿过田野的路更短，但那条路上没有树荫。",
+  "why": "前句建立情境，后文补充的信息是：The road through the field was shorter, but it had no shade.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The road through the field was shorter, but it had no shade."
+   ]
+  ],
+  "options": [
+   "They moved indoors to finish it.",
+   "It said the trip was still on, but we would meet at the side gate.",
+   "The road through the field was shorter, but it had no shade."
+  ],
+  "source": "scene-link:23",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2624",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Amy lent me her spare racket on Monday.\n\n根据以下中文情境，选出衔接原文的后续内容。\n星期一埃米把备用球拍借给我。网球课后我把它还给她了。",
+  "cn": "星期一埃米把备用球拍借给我。网球课后我把它还给她了。",
+  "why": "前句建立情境，后文补充的信息是：I gave it back after our tennis lesson.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "I gave it back after our tennis lesson."
+   ]
+  ],
+  "options": [
+   "I gave it back after our tennis lesson.",
+   "The road through the field was shorter, but it had no shade.",
+   "Our group waited under the shelter until the driver opened the doors."
+  ],
+  "source": "scene-link:24",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2625",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The children were building a tower when the wind blew the top box away.\n\n根据以下中文情境，选出衔接原文的后续内容。\n孩子们正在搭塔，风把顶上的盒子吹走了。他们转到室内把塔搭完。",
+  "cn": "孩子们正在搭塔，风把顶上的盒子吹走了。他们转到室内把塔搭完。",
+  "why": "前句建立情境，后文补充的信息是：They moved indoors to finish it.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "They moved indoors to finish it."
+   ]
+  ],
+  "options": [
+   "They moved indoors to finish it.",
+   "Leave your name there and return the helmet before the park closes.",
+   "It said the trip was still on, but we would meet at the side gate."
+  ],
+  "source": "scene-link:25",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2626",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "You can borrow a helmet at the park desk.\n\n根据以下中文情境，选出衔接原文的后续内容。\n你可以在公园服务台借头盔。留下姓名，并在闭园前归还。",
+  "cn": "你可以在公园服务台借头盔。留下姓名，并在闭园前归还。",
+  "why": "前句建立情境，后文补充的信息是：Leave your name there and return the helmet before the park closes.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Leave your name there and return the helmet before the park closes."
+   ]
+  ],
+  "options": [
+   "The queue for taxis stretched around the corner, and our house was only two streets away.",
+   "He handed the shorter piece to his sister so they could draw at the same time.",
+   "Leave your name there and return the helmet before the park closes."
+  ],
+  "source": "scene-link:26",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2627",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Anna wrote the meeting time on a sticky note yesterday.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨天安娜把开会时间写在便签上，贴在鞋上，因为她有时出门前不看手机。",
+  "cn": "昨天安娜把开会时间写在便签上，贴在鞋上，因为她有时出门前不看手机。",
+  "why": "前句建立情境，后文补充的信息是：She put it on her shoes because she sometimes leaves the house without looking at her phone.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She put it on her shoes because she sometimes leaves the house without looking at her phone."
+   ]
+  ],
+  "options": [
+   "We wiped the water off each bench so the other players could sit down.",
+   "She put it on her shoes because she sometimes leaves the house without looking at her phone.",
+   "She wants to order her own meal when we visit a restaurant next week."
+  ],
+  "source": "scene-link:27",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2628",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The puppy kept pulling at its leash until Max slowed down.\n\n根据以下中文情境，选出衔接原文的后续内容。\n小狗一直拽牵引绳，直到马克斯放慢脚步。然后它安静地走在他身旁。",
+  "cn": "小狗一直拽牵引绳，直到马克斯放慢脚步。然后它安静地走在他身旁。",
+  "why": "前句建立情境，后文补充的信息是：Then it walked quietly beside him.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Then it walked quietly beside him."
+   ]
+  ],
+  "options": [
+   "We wiped the water off each bench so the other players could sit down.",
+   "Our group waited under the shelter until the driver opened the doors.",
+   "Then it walked quietly beside him."
+  ],
+  "source": "scene-link:28",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2629",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Our teacher sent each family a message last night.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨晚老师给每个家庭发了条消息。郊游照常，只是改在侧门集合。",
+  "cn": "昨晚老师给每个家庭发了条消息。郊游照常，只是改在侧门集合。",
+  "why": "前句建立情境，后文补充的信息是：It said the trip was still on, but we would meet at the side gate.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "It said the trip was still on, but we would meet at the side gate."
+   ]
+  ],
+  "options": [
+   "It said the trip was still on, but we would meet at the side gate.",
+   "The road through the field was shorter, but it had no shade.",
+   "He stood on the deck until the lights of his village came into view."
+  ],
+  "source": "scene-link:29",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2630",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Sam enjoys collecting one postcard from each town he visits.\n\n根据以下中文情境，选出衔接原文的后续内容。\n萨姆喜欢每到一个镇子就收集一张明信片。他会在背面写下一件想记住的事。",
+  "cn": "萨姆喜欢每到一个镇子就收集一张明信片。他会在背面写下一件想记住的事。",
+  "why": "前句建立情境，后文补充的信息是：On the back he writes one thing he wants to remember.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "On the back he writes one thing he wants to remember."
+   ]
+  ],
+  "options": [
+   "He stood on the deck until the lights of his village came into view.",
+   "On the back he writes one thing he wants to remember.",
+   "The road through the field was shorter, but it had no shade."
+  ],
+  "source": "scene-link:30",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2631",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The small bridge was closed for repairs on Tuesday.\n\n根据以下中文情境，选出衔接原文的后续内容。\n小桥周二因维修关闭了。我们沿着黄色箭头，到了河流更远处的另一处过河点。",
+  "cn": "小桥周二因维修关闭了。我们沿着黄色箭头，到了河流更远处的另一处过河点。",
+  "why": "前句建立情境，后文补充的信息是：We followed yellow arrows to a second crossing farther along the river.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "We followed yellow arrows to a second crossing farther along the river."
+   ]
+  ],
+  "options": [
+   "They lined it with a clean sheet to keep their toy boat from touching the mud.",
+   "We followed yellow arrows to a second crossing farther along the river.",
+   "That way the town center appears on the cover when the map is closed."
+  ],
+  "source": "scene-link:31",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2632",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The team lost its first match last week.\n\n根据以下中文情境，选出衔接原文的后续内容。\n球队上周输了第一场比赛。队员们没有责怪谁，而是画了最后一次配合的示意图，寻找漏洞。",
+  "cn": "球队上周输了第一场比赛。队员们没有责怪谁，而是画了最后一次配合的示意图，寻找漏洞。",
+  "why": "前句建立情境，后文补充的信息是：Instead of blaming anyone, the players drew a diagram of the final play to see where the gap was.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Instead of blaming anyone, the players drew a diagram of the final play to see where the gap was."
+   ]
+  ],
+  "options": [
+   "It said the trip was still on, but we would meet at the side gate.",
+   "We followed yellow arrows to a second crossing farther along the river.",
+   "Instead of blaming anyone, the players drew a diagram of the final play to see where the gap was."
+  ],
+  "source": "scene-link:32",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2633",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "We decided to walk home after the show.\n\n根据以下中文情境，选出衔接原文的后续内容。\n演出后我们决定走回家。等出租车的队伍都排到转角了，而家只隔两条街。",
+  "cn": "演出后我们决定走回家。等出租车的队伍都排到转角了，而家只隔两条街。",
+  "why": "前句建立情境，后文补充的信息是：The queue for taxis stretched around the corner, and our house was only two streets away.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The queue for taxis stretched around the corner, and our house was only two streets away."
+   ]
+  ],
+  "options": [
+   "An usher used a small torch to help the late visitors find their seats.",
+   "The road through the field was shorter, but it had no shade.",
+   "The queue for taxis stretched around the corner, and our house was only two streets away."
+  ],
+  "source": "scene-link:33",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2634",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "A little boy broke a chalk stick into two pieces.\n\n根据以下中文情境，选出衔接原文的后续内容。\n小男孩把一根粉笔掰成两截，把较短的一截给了妹妹，这样两人就能同时画画。",
+  "cn": "小男孩把一根粉笔掰成两截，把较短的一截给了妹妹，这样两人就能同时画画。",
+  "why": "前句建立情境，后文补充的信息是：He handed the shorter piece to his sister so they could draw at the same time.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "He handed the shorter piece to his sister so they could draw at the same time."
+   ]
+  ],
+  "options": [
+   "I gave it back after our tennis lesson.",
+   "On the back he writes one thing he wants to remember.",
+   "He handed the shorter piece to his sister so they could draw at the same time."
+  ],
+  "source": "scene-link:34",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2635",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The school bus arrived ten minutes early yesterday.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨天校车提前十分钟到了。我们在遮雨棚下等到司机开门。",
+  "cn": "昨天校车提前十分钟到了。我们在遮雨棚下等到司机开门。",
+  "why": "前句建立情境，后文补充的信息是：Our group waited under the shelter until the driver opened the doors.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Our group waited under the shelter until the driver opened the doors."
+   ]
+  ],
+  "options": [
+   "They moved indoors to finish it.",
+   "Our group waited under the shelter until the driver opened the doors.",
+   "I gave it back after our tennis lesson."
+  ],
+  "source": "scene-link:35",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2636",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "My sister practices reading the menu aloud.\n\n根据以下中文情境，选出衔接原文的后续内容。\n妹妹练习大声读菜单。下周去餐馆时，她想自己点餐。",
+  "cn": "妹妹练习大声读菜单。下周去餐馆时，她想自己点餐。",
+  "why": "前句建立情境，后文补充的信息是：She wants to order her own meal when we visit a restaurant next week.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She wants to order her own meal when we visit a restaurant next week."
+   ]
+  ],
+  "options": [
+   "The queue for taxis stretched around the corner, and our house was only two streets away.",
+   "That way the town center appears on the cover when the map is closed.",
+   "She wants to order her own meal when we visit a restaurant next week."
+  ],
+  "source": "scene-link:36",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2637",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "Leo caught the last ferry yesterday.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨天利奥赶上了最后一班渡船。他站在甲板上，直到看见村里的灯光。",
+  "cn": "昨天利奥赶上了最后一班渡船。他站在甲板上，直到看见村里的灯光。",
+  "why": "前句建立情境，后文补充的信息是：He stood on the deck until the lights of his village came into view.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "He stood on the deck until the lights of his village came into view."
+   ]
+  ],
+  "options": [
+   "He stood on the deck until the lights of his village came into view.",
+   "It said the trip was still on, but we would meet at the side gate.",
+   "The road through the field was shorter, but it had no shade."
+  ],
+  "source": "scene-link:37",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2638",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "We have to fold the map along the red line.\n\n根据以下中文情境，选出衔接原文的后续内容。\n我们得沿红线折地图。这样合起来时，镇中心就显示在封面上。",
+  "cn": "我们得沿红线折地图。这样合起来时，镇中心就显示在封面上。",
+  "why": "前句建立情境，后文补充的信息是：That way the town center appears on the cover when the map is closed.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "That way the town center appears on the cover when the map is closed."
+   ]
+  ],
+  "options": [
+   "They moved indoors to finish it.",
+   "They lined it with a clean sheet to keep their toy boat from touching the mud.",
+   "That way the town center appears on the cover when the map is closed."
+  ],
+  "source": "scene-link:38",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2639",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The film was starting when the back door opened.\n\n根据以下中文情境，选出衔接原文的后续内容。\n后门打开时电影正要开始。引座员用小手电筒帮迟到的观众找座位。",
+  "cn": "后门打开时电影正要开始。引座员用小手电筒帮迟到的观众找座位。",
+  "why": "前句建立情境，后文补充的信息是：An usher used a small torch to help the late visitors find their seats.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "An usher used a small torch to help the late visitors find their seats."
+   ]
+  ],
+  "options": [
+   "An usher used a small torch to help the late visitors find their seats.",
+   "She wants to order her own meal when we visit a restaurant next week.",
+   "Instead of blaming anyone, the players drew a diagram of the final play to see where the gap was."
+  ],
+  "source": "scene-link:39",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2640",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 2,
+  "text": "The children dug a shallow hole yesterday.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨天孩子们挖了个浅坑。他们用一块干净的薄布垫在里面，以免玩具船碰到泥。",
+  "cn": "昨天孩子们挖了个浅坑。他们用一块干净的薄布垫在里面，以免玩具船碰到泥。",
+  "why": "前句建立情境，后文补充的信息是：They lined it with a clean sheet to keep their toy boat from touching the mud.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "They lined it with a clean sheet to keep their toy boat from touching the mud."
+   ]
+  ],
+  "options": [
+   "She checks each box on her list only after the item is inside.",
+   "They lined it with a clean sheet to keep their toy boat from touching the mud.",
+   "They moved indoors to finish it."
+  ],
+  "source": "scene-link:40",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2641",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Since the bakery opened, Mia has kept every paper receipt from her visits.\n\n根据以下中文情境，选出衔接原文的后续内容。\n自面包店开业以来，米娅一直保留着每次消费的纸质收据。她想了解自己每月在那里花多少钱。",
+  "cn": "自面包店开业以来，米娅一直保留着每次消费的纸质收据。她想了解自己每月在那里花多少钱。",
+  "why": "前句建立情境，后文补充的信息是：She wants to see how much she spends there each month.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She wants to see how much she spends there each month."
+   ]
+  ],
+  "options": [
+   "On the landing, our answers differed because one person had counted the flat space as a step.",
+   "She already knew which rooms were closed before she entered the museum.",
+   "She wants to see how much she spends there each month."
+  ],
+  "source": "scene-link:41",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2642",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The old curtain needs washing before we hang it in the reading room.\n\n根据以下中文情境，选出衔接原文的后续内容。\n旧窗帘得洗过才能挂到阅览室。对着窗户举起来，能看见底边积着一条灰。",
+  "cn": "旧窗帘得洗过才能挂到阅览室。对着窗户举起来，能看见底边积着一条灰。",
+  "why": "前句建立情境，后文补充的信息是：Holding it up to the window, we can see a line of dust along the bottom.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Holding it up to the window, we can see a line of dust along the bottom."
+   ]
+  ],
+  "options": [
+   "The driver placed the parcel under the office desk and sent a photo to show where it was.",
+   "Two people can now push a stroller and a bicycle past each other without leaving the path.",
+   "Holding it up to the window, we can see a line of dust along the bottom."
+  ],
+  "source": "scene-link:42",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2643",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "By the time the bus came, Ada had read the whole leaflet.\n\n根据以下中文情境，选出衔接原文的后续内容。\n公交车来时，艾达已经看完整张宣传单。进博物馆前她就知道哪些展室关闭了。",
+  "cn": "公交车来时，艾达已经看完整张宣传单。进博物馆前她就知道哪些展室关闭了。",
+  "why": "前句建立情境，后文补充的信息是：She already knew which rooms were closed before she entered the museum.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She already knew which rooms were closed before she entered the museum."
+   ]
+  ],
+  "options": [
+   "She already knew which rooms were closed before she entered the museum.",
+   "A coin was stuck in the slot; once Jen removed it, another customer could pay.",
+   "People wearing the same color worked together even if they had never met."
+  ],
+  "source": "scene-link:43",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2644",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The class voted to spend the prize money on a bookshelf.\n\n根据以下中文情境，选出衔接原文的后续内容。\n班里投票决定用奖金买书架。买更多书可以等等，他们已有的书还堆在地上。",
+  "cn": "班里投票决定用奖金买书架。买更多书可以等等，他们已有的书还堆在地上。",
+  "why": "前句建立情境，后文补充的信息是：Buying more books could wait; the ones they owned were still piled on the floor.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Buying more books could wait; the ones they owned were still piled on the floor."
+   ]
+  ],
+  "options": [
+   "She already knew which rooms were closed before she entered the museum.",
+   "In the morning we will remove it so the leaves get light.",
+   "Buying more books could wait; the ones they owned were still piled on the floor."
+  ],
+  "source": "scene-link:44",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2645",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The machine stopped working after lunch.\n\n根据以下中文情境，选出衔接原文的后续内容。\n午饭后机器停止了运转。一枚硬币卡在投币口，珍取出它后，下一位顾客就能付款了。",
+  "cn": "午饭后机器停止了运转。一枚硬币卡在投币口，珍取出它后，下一位顾客就能付款了。",
+  "why": "前句建立情境，后文补充的信息是：A coin was stuck in the slot; once Jen removed it, another customer could pay.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A coin was stuck in the slot; once Jen removed it, another customer could pay."
+   ]
+  ],
+  "options": [
+   "A coin was stuck in the slot; once Jen removed it, another customer could pay.",
+   "She wants to see how much she spends there each month.",
+   "We put the pot back on the stove for a few minutes."
+  ],
+  "source": "scene-link:45",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2646",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The seats near the stage were reserved for guests who could not hear well.\n\n根据以下中文情境，选出衔接原文的后续内容。\n靠近舞台的座位留给听力不好的客人。志愿者在放人进入前排之前逐一查票。",
+  "cn": "靠近舞台的座位留给听力不好的客人。志愿者在放人进入前排之前逐一查票。",
+  "why": "前句建立情境，后文补充的信息是：A volunteer checked each ticket before letting people into the front row.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A volunteer checked each ticket before letting people into the front row."
+   ]
+  ],
+  "options": [
+   "Others turn back at the wooden pier so they can return before dark.",
+   "A volunteer checked each ticket before letting people into the front row.",
+   "On the landing, our answers differed because one person had counted the flat space as a step."
+  ],
+  "source": "scene-link:46",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2647",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Nora suggested marking the deep end of the pool with a yellow stripe.\n\n根据以下中文情境，选出衔接原文的后续内容。\n诺拉建议用一条黄线标出泳池深水端。年幼的孩子可能读不懂单靠文字写的警示。",
+  "cn": "诺拉建议用一条黄线标出泳池深水端。年幼的孩子可能读不懂单靠文字写的警示。",
+  "why": "前句建立情境，后文补充的信息是：A written warning alone might be hard for younger children to read.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A written warning alone might be hard for younger children to read."
+   ]
+  ],
+  "options": [
+   "She takes a longer route past the fountain because there is usually no line there.",
+   "A written warning alone might be hard for younger children to read.",
+   "His usual mug has a thick handle that stays cool."
+  ],
+  "source": "scene-link:47",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2648",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The guide asked us to count the steps as we climbed.\n\n根据以下中文情境，选出衔接原文的后续内容。\n向导让我们边爬边数台阶。到了楼梯平台，大家的结果不一样，因为有人把平坦的平台也算作一级。",
+  "cn": "向导让我们边爬边数台阶。到了楼梯平台，大家的结果不一样，因为有人把平坦的平台也算作一级。",
+  "why": "前句建立情境，后文补充的信息是：On the landing, our answers differed because one person had counted the flat space as a step.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "On the landing, our answers differed because one person had counted the flat space as a step."
+   ]
+  ],
+  "options": [
+   "On the landing, our answers differed because one person had counted the flat space as a step.",
+   "We had looked across the table twice without lifting anything.",
+   "A coin was stuck in the slot; once Jen removed it, another customer could pay."
+  ],
+  "source": "scene-link:48",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2649",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "If the temperature drops tonight, we will cover the plants with an old quilt.\n\n根据以下中文情境，选出衔接原文的后续内容。\n如果今晚气温下降，我们就用旧被子盖住植物。早上会把被子拿走，让叶子见光。",
+  "cn": "如果今晚气温下降，我们就用旧被子盖住植物。早上会把被子拿走，让叶子见光。",
+  "why": "前句建立情境，后文补充的信息是：In the morning we will remove it so the leaves get light.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "In the morning we will remove it so the leaves get light."
+   ]
+  ],
+  "options": [
+   "A volunteer checked each ticket before letting people into the front row.",
+   "We had looked across the table twice without lifting anything.",
+   "In the morning we will remove it so the leaves get light."
+  ],
+  "source": "scene-link:49",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2650",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The new path is wider than the old one.\n\n根据以下中文情境，选出衔接原文的后续内容。\n新路比旧路宽。现在一个人推婴儿车、另一个人推自行车，可以在路上错身通过。",
+  "cn": "新路比旧路宽。现在一个人推婴儿车、另一个人推自行车，可以在路上错身通过。",
+  "why": "前句建立情境，后文补充的信息是：Two people can now push a stroller and a bicycle past each other without leaving the path.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Two people can now push a stroller and a bicycle past each other without leaving the path."
+   ]
+  ],
+  "options": [
+   "His usual mug has a thick handle that stays cool.",
+   "Two people can now push a stroller and a bicycle past each other without leaving the path.",
+   "A volunteer checked each ticket before letting people into the front row."
+  ],
+  "source": "scene-link:50",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2651",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Our class has just finished drawing a town map.\n\n根据以下中文情境，选出衔接原文的后续内容。\n我们班刚画完一张小镇地图。我们把医院的标志画得很大，好让着急的游客能迅速找到。",
+  "cn": "我们班刚画完一张小镇地图。我们把医院的标志画得很大，好让着急的游客能迅速找到。",
+  "why": "前句建立情境，后文补充的信息是：We left the hospital symbol large because a visitor in a hurry should be able to find it quickly.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "We left the hospital symbol large because a visitor in a hurry should be able to find it quickly."
+   ]
+  ],
+  "options": [
+   "We had looked across the table twice without lifting anything.",
+   "Buying more books could wait; the ones they owned were still piled on the floor.",
+   "We left the hospital symbol large because a visitor in a hurry should be able to find it quickly."
+  ],
+  "source": "scene-link:51",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2652",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Dan promised to replace the missing button before he returned the coat.\n\n根据以下中文情境，选出衔接原文的后续内容。\n丹答应还衣服前把掉了的纽扣补上。少了它，外套就扣不严。",
+  "cn": "丹答应还衣服前把掉了的纽扣补上。少了它，外套就扣不严。",
+  "why": "前句建立情境，后文补充的信息是：Without it, the coat would not close properly.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Without it, the coat would not close properly."
+   ]
+  ],
+  "options": [
+   "Without it, the coat would not close properly.",
+   "A volunteer checked each ticket before letting people into the front row.",
+   "On the landing, our answers differed because one person had counted the flat space as a step."
+  ],
+  "source": "scene-link:52",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2653",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The soup smelled wonderful yesterday, but the first spoonful was cold.\n\n根据以下中文情境，选出衔接原文的后续内容。\n昨天的汤闻起来很香，可第一口却是冷的。我们又把锅放回炉子上加热了几分钟。",
+  "cn": "昨天的汤闻起来很香，可第一口却是冷的。我们又把锅放回炉子上加热了几分钟。",
+  "why": "前句建立情境，后文补充的信息是：We put the pot back on the stove for a few minutes.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "We put the pot back on the stove for a few minutes."
+   ]
+  ],
+  "options": [
+   "We put the pot back on the stove for a few minutes.",
+   "People wearing the same color worked together even if they had never met.",
+   "On the landing, our answers differed because one person had counted the flat space as a step."
+  ],
+  "source": "scene-link:53",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2654",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Everyone was given a colored badge at the door.\n\n根据以下中文情境，选出衔接原文的后续内容。\n每个人进门时都领到一枚彩色徽章。佩戴同种颜色的人组成一组，即使以前从未见过。",
+  "cn": "每个人进门时都领到一枚彩色徽章。佩戴同种颜色的人组成一组，即使以前从未见过。",
+  "why": "前句建立情境，后文补充的信息是：People wearing the same color worked together even if they had never met.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "People wearing the same color worked together even if they had never met."
+   ]
+  ],
+  "options": [
+   "A volunteer checked each ticket before letting people into the front row.",
+   "A written warning alone might be hard for younger children to read.",
+   "People wearing the same color worked together even if they had never met."
+  ],
+  "source": "scene-link:54",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2655",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Rita avoids using the busy entrance at noon.\n\n根据以下中文情境，选出衔接原文的后续内容。\n丽塔中午避开拥挤的入口，绕远经过喷泉走另一条路，因为那里通常不用排队。",
+  "cn": "丽塔中午避开拥挤的入口，绕远经过喷泉走另一条路，因为那里通常不用排队。",
+  "why": "前句建立情境，后文补充的信息是：She takes a longer route past the fountain because there is usually no line there.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She takes a longer route past the fountain because there is usually no line there."
+   ]
+  ],
+  "options": [
+   "She takes a longer route past the fountain because there is usually no line there.",
+   "The driver placed the parcel under the office desk and sent a photo to show where it was.",
+   "Without it, the coat would not close properly."
+  ],
+  "source": "scene-link:55",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2656",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The team had left before the delivery arrived.\n\n根据以下中文情境，选出衔接原文的后续内容。\n快递到时团队已经离开。司机把包裹放在办公室桌下，又发了张照片说明位置。",
+  "cn": "快递到时团队已经离开。司机把包裹放在办公室桌下，又发了张照片说明位置。",
+  "why": "前句建立情境，后文补充的信息是：The driver placed the parcel under the office desk and sent a photo to show where it was.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The driver placed the parcel under the office desk and sent a photo to show where it was."
+   ]
+  ],
+  "options": [
+   "We had looked across the table twice without lifting anything.",
+   "A volunteer checked each ticket before letting people into the front row.",
+   "The driver placed the parcel under the office desk and sent a photo to show where it was."
+  ],
+  "source": "scene-link:56",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2657",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Some visitors prefer walking around the whole lake.\n\n根据以下中文情境，选出衔接原文的后续内容。\n有些游客喜欢环湖步行。另一些人在木码头折返，好在天黑前回来。",
+  "cn": "有些游客喜欢环湖步行。另一些人在木码头折返，好在天黑前回来。",
+  "why": "前句建立情境，后文补充的信息是：Others turn back at the wooden pier so they can return before dark.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Others turn back at the wooden pier so they can return before dark."
+   ]
+  ],
+  "options": [
+   "Others turn back at the wooden pier so they can return before dark.",
+   "Without it, the coat would not close properly.",
+   "In the morning we will remove it so the leaves get light."
+  ],
+  "source": "scene-link:57",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2658",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The alarm has gone off twice this week.\n\n根据以下中文情境，选出衔接原文的后续内容。\n本周警报已响过两次。两次都是水壶蒸汽飘到了传感器旁，没有人看见烟。",
+  "cn": "本周警报已响过两次。两次都是水壶蒸汽飘到了传感器旁，没有人看见烟。",
+  "why": "前句建立情境，后文补充的信息是：Each time steam from the kettle reached the sensor; no one saw smoke.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Each time steam from the kettle reached the sensor; no one saw smoke."
+   ]
+  ],
+  "options": [
+   "Without it, the coat would not close properly.",
+   "She already knew which rooms were closed before she entered the museum.",
+   "Each time steam from the kettle reached the sensor; no one saw smoke."
+  ],
+  "source": "scene-link:58",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2659",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "The missing key was lying beneath a folded napkin.\n\n根据以下中文情境，选出衔接原文的后续内容。\n那把找不到的钥匙就在折起的餐巾下面。我们扫视了桌面两次，却什么都没拿起来看。",
+  "cn": "那把找不到的钥匙就在折起的餐巾下面。我们扫视了桌面两次，却什么都没拿起来看。",
+  "why": "前句建立情境，后文补充的信息是：We had looked across the table twice without lifting anything.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "We had looked across the table twice without lifting anything."
+   ]
+  ],
+  "options": [
+   "A volunteer checked each ticket before letting people into the front row.",
+   "She wants to see how much she spends there each month.",
+   "We had looked across the table twice without lifting anything."
+  ],
+  "source": "scene-link:59",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2660",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 3,
+  "text": "Tea tastes better in this cup than in the metal one, says Grandpa.\n\n根据以下中文情境，选出衔接原文的后续内容。\n爷爷说，用这个杯子喝茶比用金属杯好喝。他常用的马克杯杯柄很厚，不烫手。",
+  "cn": "爷爷说，用这个杯子喝茶比用金属杯好喝。他常用的马克杯杯柄很厚，不烫手。",
+  "why": "前句建立情境，后文补充的信息是：His usual mug has a thick handle that stays cool.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "His usual mug has a thick handle that stays cool."
+   ]
+  ],
+  "options": [
+   "His usual mug has a thick handle that stays cool.",
+   "We put the pot back on the stove for a few minutes.",
+   "A written warning alone might be hard for younger children to read."
+  ],
+  "source": "scene-link:60",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2661",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The posters had been printed before the venue changed.\n\n根据以下中文情境，选出衔接原文的后续内容。\n场地变更前海报就印好了。为了不浪费，我们用一张素色贴纸遮住旧地址。",
+  "cn": "场地变更前海报就印好了。为了不浪费，我们用一张素色贴纸遮住旧地址。",
+  "why": "前句建立情境，后文补充的信息是：Rather than waste them, we covered the old address with a plain sticker.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Rather than waste them, we covered the old address with a plain sticker."
+   ]
+  ],
+  "options": [
+   "A wall separated our work area from the courtyard where the signal sounded.",
+   "A modern replica stood beside it so children could feel the shape without harming the original.",
+   "Rather than waste them, we covered the old address with a plain sticker."
+  ],
+  "source": "scene-link:61",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2662",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Had Maya known about the steep steps, she would have chosen the north entrance.\n\n根据以下中文情境，选出衔接原文的后续内容。\n迈娅要是早知道有陡峭的台阶，就会选北入口。南入口虽有坡道，却只到半途。",
+  "cn": "迈娅要是早知道有陡峭的台阶，就会选北入口。南入口虽有坡道，却只到半途。",
+  "why": "前句建立情境，后文补充的信息是：The south entrance had a ramp, but it ended halfway up.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The south entrance had a ramp, but it ended halfway up."
+   ]
+  ],
+  "options": [
+   "A beautiful display would tell visitors little if they could not identify the objects.",
+   "The south entrance had a ramp, but it ended halfway up.",
+   "One counts people; the other counts visits, including repeat visits."
+  ],
+  "source": "scene-link:62",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2663",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The prize went to the design chosen by the youngest visitors.\n\n根据以下中文情境，选出衔接原文的后续内容。\n奖项颁给了最年幼访客选中的设计。成人评审小组更喜欢另一款模型，但其投票仅作参考。",
+  "cn": "奖项颁给了最年幼访客选中的设计。成人评审小组更喜欢另一款模型，但其投票仅作参考。",
+  "why": "前句建立情境，后文补充的信息是：The adult panel had preferred a different model, but its vote was only advisory.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The adult panel had preferred a different model, but its vote was only advisory."
+   ]
+  ],
+  "options": [
+   "She kept the old inscription on the first page because it named the person who donated the book.",
+   "The adult panel had preferred a different model, but its vote was only advisory.",
+   "A beautiful display would tell visitors little if they could not identify the objects."
+  ],
+  "source": "scene-link:63",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2664",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The two reports appear to disagree until you read the heading above each column.\n\n根据以下中文情境，选出衔接原文的后续内容。\n不看每栏上方的标题，两份报告好像相互矛盾。一份统计人数，另一份统计到访次数，包括重复到访。",
+  "cn": "不看每栏上方的标题，两份报告好像相互矛盾。一份统计人数，另一份统计到访次数，包括重复到访。",
+  "why": "前句建立情境，后文补充的信息是：One counts people; the other counts visits, including repeat visits.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "One counts people; the other counts visits, including repeat visits."
+   ]
+  ],
+  "options": [
+   "Its bold arrow, however, pointed toward an entrance closed for repairs.",
+   "One counts people; the other counts visits, including repeat visits.",
+   "She showed the original scorecard, where both teams had signed below the final score."
+  ],
+  "source": "scene-link:64",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2665",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The students insisted on testing the bridge with equal loads.\n\n根据以下中文情境，选出衔接原文的后续内容。\n学生们坚持用同样的载荷测试桥。否则获胜的模型可能只是被放了最轻盒子的那一个。",
+  "cn": "学生们坚持用同样的载荷测试桥。否则获胜的模型可能只是被放了最轻盒子的那一个。",
+  "why": "前句建立情境，后文补充的信息是：Without that rule, the winning model might simply be the one given the lightest box.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Without that rule, the winning model might simply be the one given the lightest box."
+   ]
+  ],
+  "options": [
+   "She kept the old inscription on the first page because it named the person who donated the book.",
+   "A modern replica stood beside it so children could feel the shape without harming the original.",
+   "Without that rule, the winning model might simply be the one given the lightest box."
+  ],
+  "source": "scene-link:65",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2666",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Not until the second count did we notice a gap in the sequence.\n\n根据以下中文情境，选出衔接原文的后续内容。\n直到第二次数数，我们才注意到编号序列的异常。两页编号相同，因此仅看末尾号码无法算出有多少张纸。",
+  "cn": "直到第二次数数，我们才注意到编号序列的异常。两页编号相同，因此仅看末尾号码无法算出有多少张纸。",
+  "why": "前句建立情境，后文补充的信息是：Two pages had the same number, so the final number alone could not tell us how many sheets we had.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Two pages had the same number, so the final number alone could not tell us how many sheets we had."
+   ]
+  ],
+  "options": [
+   "A narrow barrier kept people off the surface until it was safe to walk on.",
+   "A small scratch on its face reminds him of the day he helped his grandfather hang it.",
+   "Two pages had the same number, so the final number alone could not tell us how many sheets we had."
+  ],
+  "source": "scene-link:66",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2667",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Only after comparing both sketches did Nina understand the change.\n\n根据以下中文情境，选出衔接原文的后续内容。\n妮娜比较了两张草图后才看懂改动。新轮廓同样高，却在门旁留出了更多空间。",
+  "cn": "妮娜比较了两张草图后才看懂改动。新轮廓同样高，却在门旁留出了更多空间。",
+  "why": "前句建立情境，后文补充的信息是：The new outline was just as tall but left more space beside the door.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The new outline was just as tall but left more space beside the door."
+   ]
+  ],
+  "options": [
+   "A visitor who followed yesterday's schedule missed the first five minutes.",
+   "Without that rule, the winning model might simply be the one given the lightest box.",
+   "The new outline was just as tall but left more space beside the door."
+  ],
+  "source": "scene-link:67",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2668",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Leo would rather repair the original clock than replace it.\n\n根据以下中文情境，选出衔接原文的后续内容。\n利奥宁愿修理原来的钟，也不愿换新。钟面上的一道小划痕让他想起帮爷爷挂钟的那一天。",
+  "cn": "利奥宁愿修理原来的钟，也不愿换新。钟面上的一道小划痕让他想起帮爷爷挂钟的那一天。",
+  "why": "前句建立情境，后文补充的信息是：A small scratch on its face reminds him of the day he helped his grandfather hang it.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A small scratch on its face reminds him of the day he helped his grandfather hang it."
+   ]
+  ],
+  "options": [
+   "A beautiful display would tell visitors little if they could not identify the objects.",
+   "A small scratch on its face reminds him of the day he helped his grandfather hang it.",
+   "Rather than waste them, we covered the old address with a plain sticker."
+  ],
+  "source": "scene-link:68",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2669",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The note attached to the door gave a new room number.\n\n根据以下中文情境，选出衔接原文的后续内容。\n贴在门上的便条写了新房间号。一名照着昨天日程表走的访客错过了开头五分钟。",
+  "cn": "贴在门上的便条写了新房间号。一名照着昨天日程表走的访客错过了开头五分钟。",
+  "why": "前句建立情境，后文补充的信息是：A visitor who followed yesterday's schedule missed the first five minutes.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A visitor who followed yesterday's schedule missed the first five minutes."
+   ]
+  ],
+  "options": [
+   "Its survey asked about the preferred timeslot, but only members of the morning group answered.",
+   "A wall separated our work area from the courtyard where the signal sounded.",
+   "A visitor who followed yesterday's schedule missed the first five minutes."
+  ],
+  "source": "scene-link:69",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2670",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The librarian had the torn cover replaced.\n\n根据以下中文情境，选出衔接原文的后续内容。\n馆员请人更换了破损的封面。她保留了扉页上的旧题词，因为上面写着捐书人的名字。",
+  "cn": "馆员请人更换了破损的封面。她保留了扉页上的旧题词，因为上面写着捐书人的名字。",
+  "why": "前句建立情境，后文补充的信息是：She kept the old inscription on the first page because it named the person who donated the book.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She kept the old inscription on the first page because it named the person who donated the book."
+   ]
+  ],
+  "options": [
+   "A modern replica stood beside it so children could feel the shape without harming the original.",
+   "She kept the old inscription on the first page because it named the person who donated the book.",
+   "Rather than waste them, we covered the old address with a plain sticker."
+  ],
+  "source": "scene-link:70",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2671",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The visitors were not allowed to touch the ancient bowl.\n\n根据以下中文情境，选出衔接原文的后续内容。\n参观者不能触摸古碗。旁边放了一件现代复制品，让孩子能摸到它的形状而不损坏原件。",
+  "cn": "参观者不能触摸古碗。旁边放了一件现代复制品，让孩子能摸到它的形状而不损坏原件。",
+  "why": "前句建立情境，后文补充的信息是：A modern replica stood beside it so children could feel the shape without harming the original.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A modern replica stood beside it so children could feel the shape without harming the original."
+   ]
+  ],
+  "options": [
+   "A modern replica stood beside it so children could feel the shape without harming the original.",
+   "A visitor who followed yesterday's schedule missed the first five minutes.",
+   "The adult panel had preferred a different model, but its vote was only advisory."
+  ],
+  "source": "scene-link:71",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2672",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "If the bell had been louder, we might have heard it from the garden.\n\n根据以下中文情境，选出衔接原文的后续内容。\n要是铃声再响点，我们在花园里或许就听见了。我们工作的地方与响铃的庭院之间隔着一堵墙。",
+  "cn": "要是铃声再响点，我们在花园里或许就听见了。我们工作的地方与响铃的庭院之间隔着一堵墙。",
+  "why": "前句建立情境，后文补充的信息是：A wall separated our work area from the courtyard where the signal sounded.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A wall separated our work area from the courtyard where the signal sounded."
+   ]
+  ],
+  "options": [
+   "Rather than waste them, we covered the old address with a plain sticker.",
+   "A small scratch on its face reminds him of the day he helped his grandfather hang it.",
+   "A wall separated our work area from the courtyard where the signal sounded."
+  ],
+  "source": "scene-link:72",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2673",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The museum postponed opening the exhibition until the labels arrived.\n\n根据以下中文情境，选出衔接原文的后续内容。\n博物馆把展览开幕推迟到标签到达以后。若参观者认不出展品，再漂亮的展陈也传递不了多少信息。",
+  "cn": "博物馆把展览开幕推迟到标签到达以后。若参观者认不出展品，再漂亮的展陈也传递不了多少信息。",
+  "why": "前句建立情境，后文补充的信息是：A beautiful display would tell visitors little if they could not identify the objects.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A beautiful display would tell visitors little if they could not identify the objects."
+   ]
+  ],
+  "options": [
+   "Rather than waste them, we covered the old address with a plain sticker.",
+   "A beautiful display would tell visitors little if they could not identify the objects.",
+   "A visitor who followed yesterday's schedule missed the first five minutes."
+  ],
+  "source": "scene-link:73",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2674",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "A letter written in pencil was hard to photograph.\n\n根据以下中文情境，选出衔接原文的后续内容。\n一封铅笔写的信很难拍清。档案管理员调整了灯的角度，没有描重那些淡淡的字迹。",
+  "cn": "一封铅笔写的信很难拍清。档案管理员调整了灯的角度，没有描重那些淡淡的字迹。",
+  "why": "前句建立情境，后文补充的信息是：The archivist changed the angle of the lamp instead of writing over the faint lines.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The archivist changed the angle of the lamp instead of writing over the faint lines."
+   ]
+  ],
+  "options": [
+   "Two pages had the same number, so the final number alone could not tell us how many sheets we had.",
+   "The archivist changed the angle of the lamp instead of writing over the faint lines.",
+   "She kept the old inscription on the first page because it named the person who donated the book."
+  ],
+  "source": "scene-link:74",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2675",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The club is considering adding a late session.\n\n根据以下中文情境，选出衔接原文的后续内容。\n俱乐部在考虑加开晚场。问卷询问大家喜欢的时段，但只有晨间组成员作答。",
+  "cn": "俱乐部在考虑加开晚场。问卷询问大家喜欢的时段，但只有晨间组成员作答。",
+  "why": "前句建立情境，后文补充的信息是：Its survey asked about the preferred timeslot, but only members of the morning group answered.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Its survey asked about the preferred timeslot, but only members of the morning group answered."
+   ]
+  ],
+  "options": [
+   "Two pages had the same number, so the final number alone could not tell us how many sheets we had.",
+   "Its survey asked about the preferred timeslot, but only members of the morning group answered.",
+   "The adult panel had preferred a different model, but its vote was only advisory."
+  ],
+  "source": "scene-link:75",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2676",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The sign was large enough to read from the opposite pavement.\n\n根据以下中文情境，选出衔接原文的后续内容。\n标牌大得足以从对面人行道读清。可是粗粗的箭头指向一个因维修而关闭的入口。",
+  "cn": "标牌大得足以从对面人行道读清。可是粗粗的箭头指向一个因维修而关闭的入口。",
+  "why": "前句建立情境，后文补充的信息是：Its bold arrow, however, pointed toward an entrance closed for repairs.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Its bold arrow, however, pointed toward an entrance closed for repairs."
+   ]
+  ],
+  "options": [
+   "Its bold arrow, however, pointed toward an entrance closed for repairs.",
+   "A wall separated our work area from the courtyard where the signal sounded.",
+   "One counts people; the other counts visits, including repeat visits."
+  ],
+  "source": "scene-link:76",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2677",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "By noon, the workers had laid the floor tiles near the window.\n\n根据以下中文情境，选出衔接原文的后续内容。\n到中午时，工人已铺好窗边的地砖。一道窄隔栏拦住行人，直到地面可以安全踩踏。",
+  "cn": "到中午时，工人已铺好窗边的地砖。一道窄隔栏拦住行人，直到地面可以安全踩踏。",
+  "why": "前句建立情境，后文补充的信息是：A narrow barrier kept people off the surface until it was safe to walk on.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A narrow barrier kept people off the surface until it was safe to walk on."
+   ]
+  ],
+  "options": [
+   "Its bold arrow, however, pointed toward an entrance closed for repairs.",
+   "A narrow barrier kept people off the surface until it was safe to walk on.",
+   "We checked the contents of two editions and found the new title only in the later one."
+  ],
+  "source": "scene-link:77",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2678",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The captain denied changing the result.\n\n根据以下中文情境，选出衔接原文的后续内容。\n队长否认改过比赛结果。她出示了原始记分卡，两队都在最终比分下签了名。",
+  "cn": "队长否认改过比赛结果。她出示了原始记分卡，两队都在最终比分下签了名。",
+  "why": "前句建立情境，后文补充的信息是：She showed the original scorecard, where both teams had signed below the final score.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "She showed the original scorecard, where both teams had signed below the final score."
+   ]
+  ],
+  "options": [
+   "A modern replica stood beside it so children could feel the shape without harming the original.",
+   "A wall separated our work area from the courtyard where the signal sounded.",
+   "She showed the original scorecard, where both teams had signed below the final score."
+  ],
+  "source": "scene-link:78",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2679",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "The book is said to contain an extra chapter.\n\n根据以下中文情境，选出衔接原文的后续内容。\n据说这本书多了一章。我们查了两个版本的目录，只在较晚的一版看到了新标题。",
+  "cn": "据说这本书多了一章。我们查了两个版本的目录，只在较晚的一版看到了新标题。",
+  "why": "前句建立情境，后文补充的信息是：We checked the contents of two editions and found the new title only in the later one.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "We checked the contents of two editions and found the new title only in the later one."
+   ]
+  ],
+  "options": [
+   "A small scratch on its face reminds him of the day he helped his grandfather hang it.",
+   "We checked the contents of two editions and found the new title only in the later one.",
+   "A wall separated our work area from the courtyard where the signal sounded."
+  ],
+  "source": "scene-link:79",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2680",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 4,
+  "text": "Hardly had the doors opened when the queue divided.\n\n根据以下中文情境，选出衔接原文的后续内容。\n门刚开，队伍就分成两列。一列通往售票处，另一列通往已订票者的入口。",
+  "cn": "门刚开，队伍就分成两列。一列通往售票处，另一列通往已订票者的入口。",
+  "why": "前句建立情境，后文补充的信息是：One line led to ticket sales and the other to the entrance for people who had booked.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "One line led to ticket sales and the other to the entrance for people who had booked."
+   ]
+  ],
+  "options": [
+   "The adult panel had preferred a different model, but its vote was only advisory.",
+   "Without that rule, the winning model might simply be the one given the lightest box.",
+   "One line led to ticket sales and the other to the entrance for people who had booked."
+  ],
+  "source": "scene-link:80",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2681",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "Were the clock to stop, the count would continue but the times would be lost.\n\n根据以下中文情境，选出衔接原文的后续内容。\n假设时钟停了，计数会继续，但具体时间会丢失。第二个计数器只记到访次数，不记发生时间。",
+  "cn": "假设时钟停了，计数会继续，但具体时间会丢失。第二个计数器只记到访次数，不记发生时间。",
+  "why": "前句建立情境，后文补充的信息是：The second counter records entries without recording when they happen.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The second counter records entries without recording when they happen."
+   ]
+  ],
+  "options": [
+   "The second counter records entries without recording when they happen.",
+   "A small ridge at the back caught on the frame only in the last centimeter.",
+   "The new wording says six people of any age, leaving less room for argument."
+  ],
+  "source": "scene-link:81",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2682",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The map was useful despite having no scale.\n\n根据以下中文情境，选出衔接原文的后续内容。\n地图虽没有比例尺，仍有用。它能显示站点顺序，却不能据此估算站间距离。",
+  "cn": "地图虽没有比例尺，仍有用。它能显示站点顺序，却不能据此估算站间距离。",
+  "why": "前句建立情境，后文补充的信息是：It showed the order of the stops, but no traveler could use it to estimate the distance between them.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "It showed the order of the stops, but no traveler could use it to estimate the distance between them."
+   ]
+  ],
+  "options": [
+   "The interviewers valued a clear reason for reconsidering more than an impressive first answer.",
+   "Without that opening, the final pronoun seems to refer to a different person.",
+   "It showed the order of the stops, but no traveler could use it to estimate the distance between them."
+  ],
+  "source": "scene-link:82",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2683",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The editor regrets removing the first sentence.\n\n根据以下中文情境，选出衔接原文的后续内容。\n编辑后悔删掉了第一句。没有那个开头，最后的代词似乎指向了另一个人。",
+  "cn": "编辑后悔删掉了第一句。没有那个开头，最后的代词似乎指向了另一个人。",
+  "why": "前句建立情境，后文补充的信息是：Without that opening, the final pronoun seems to refer to a different person.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Without that opening, the final pronoun seems to refer to a different person."
+   ]
+  ],
+  "options": [
+   "Her dated photograph supported the sequence of events but did not explain what caused the damage.",
+   "Without that opening, the final pronoun seems to refer to a different person.",
+   "It showed the order of the stops, but no traveler could use it to estimate the distance between them."
+  ],
+  "source": "scene-link:83",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2684",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "What mattered most was not how high the tower stood but whether it remained upright on a moving board.\n\n根据以下中文情境，选出衔接原文的后续内容。\n最重要的并非塔有多高，而是它能否在晃动的板上立住。最高的结构体在第一次晃动时就倒了。",
+  "cn": "最重要的并非塔有多高，而是它能否在晃动的板上立住。最高的结构体在第一次晃动时就倒了。",
+  "why": "前句建立情境，后文补充的信息是：The tallest structure fell during the first shake.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The tallest structure fell during the first shake."
+   ]
+  ],
+  "options": [
+   "A large venue could admit more people even if the smaller event filled every seat.",
+   "The tallest structure fell during the first shake.",
+   "Moving the same titles down increased their circulation without adding a single new book."
+  ],
+  "source": "scene-link:84",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2685",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The review could have been completed sooner if every page had carried a date.\n\n根据以下中文情境，选出衔接原文的后续内容。\n要是每一页都有日期，审阅工作本可以更早完成。缺少时间标记使两份很相似的草稿难以排序。",
+  "cn": "要是每一页都有日期，审阅工作本可以更早完成。缺少时间标记使两份很相似的草稿难以排序。",
+  "why": "前句建立情境，后文补充的信息是：The missing timestamp made two otherwise similar drafts hard to put in order.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The missing timestamp made two otherwise similar drafts hard to put in order."
+   ]
+  ],
+  "options": [
+   "Her transcript marked the silence as carefully as the spoken words.",
+   "The second route, however, offered a level surface throughout, which mattered more to the wheelchair users.",
+   "The missing timestamp made two otherwise similar drafts hard to put in order."
+  ],
+  "source": "scene-link:85",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2686",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The judge asked that the final round be held behind a screen.\n\n根据以下中文情境，选出衔接原文的后续内容。\n评委要求决赛在屏风后进行。这样就能按乐器音色评判，演奏者的姓名不会影响决定。",
+  "cn": "评委要求决赛在屏风后进行。这样就能按乐器音色评判，演奏者的姓名不会影响决定。",
+  "why": "前句建立情境，后文补充的信息是：An instrument's tone would then guide the decision without the player's name influencing it.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "An instrument's tone would then guide the decision without the player's name influencing it."
+   ]
+  ],
+  "options": [
+   "It showed the order of the stops, but no traveler could use it to estimate the distance between them.",
+   "The student's question concerned an assumption in the example, not the numerical answer on the board.",
+   "An instrument's tone would then guide the decision without the player's name influencing it."
+  ],
+  "source": "scene-link:86",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2687",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The higher the shelf, the harder it was for younger readers to reach.\n\n根据以下中文情境，选出衔接原文的后续内容。\n书架越高，小读者越难够到。把同样的书移到低处后，即便新书一本也没加，借阅量仍增加了。",
+  "cn": "书架越高，小读者越难够到。把同样的书移到低处后，即便新书一本也没加，借阅量仍增加了。",
+  "why": "前句建立情境，后文补充的信息是：Moving the same titles down increased their circulation without adding a single new book.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Moving the same titles down increased their circulation without adding a single new book."
+   ]
+  ],
+  "options": [
+   "The gold seal on each was the same, although the achievements being recognized were quite different.",
+   "The student's question concerned an assumption in the example, not the numerical answer on the board.",
+   "Moving the same titles down increased their circulation without adding a single new book."
+  ],
+  "source": "scene-link:87",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2688",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "Without the second observer, the class might have missed a brief pause in the recording.\n\n根据以下中文情境，选出衔接原文的后续内容。\n如果没有第二位观察者，全班可能会漏掉录音里一次短暂停顿。她在文字记录中把静默标得和说出的词一样仔细。",
+  "cn": "如果没有第二位观察者，全班可能会漏掉录音里一次短暂停顿。她在文字记录中把静默标得和说出的词一样仔细。",
+  "why": "前句建立情境，后文补充的信息是：Her transcript marked the silence as carefully as the spoken words.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Her transcript marked the silence as carefully as the spoken words."
+   ]
+  ],
+  "options": [
+   "Without that opening, the final pronoun seems to refer to a different person.",
+   "A final paragraph now describes conditions under which the result might change.",
+   "Her transcript marked the silence as carefully as the spoken words."
+  ],
+  "source": "scene-link:88",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2689",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "With the audience seated, the guide dimmed the lights.\n\n根据以下中文情境，选出衔接原文的后续内容。\n观众就座后，讲解员调暗灯光。第一张幻灯片故意留白，好让大家留意房间变暗的速度。",
+  "cn": "观众就座后，讲解员调暗灯光。第一张幻灯片故意留白，好让大家留意房间变暗的速度。",
+  "why": "前句建立情境，后文补充的信息是：The first slide was deliberately blank so everyone could notice how quickly the room darkened.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The first slide was deliberately blank so everyone could notice how quickly the room darkened."
+   ]
+  ],
+  "options": [
+   "The student's question concerned an assumption in the example, not the numerical answer on the board.",
+   "The first slide was deliberately blank so everyone could notice how quickly the room darkened.",
+   "A large venue could admit more people even if the smaller event filled every seat."
+  ],
+  "source": "scene-link:89",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2690",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The committee opposed ranking the clubs by total attendance alone.\n\n根据以下中文情境，选出衔接原文的后续内容。\n委员会反对仅按总到场人数给社团排名。大场地能容纳更多人，即使小场地座无虚席也是如此。",
+  "cn": "委员会反对仅按总到场人数给社团排名。大场地能容纳更多人，即使小场地座无虚席也是如此。",
+  "why": "前句建立情境，后文补充的信息是：A large venue could admit more people even if the smaller event filled every seat.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A large venue could admit more people even if the smaller event filled every seat."
+   ]
+  ],
+  "options": [
+   "It showed the order of the stops, but no traveler could use it to estimate the distance between them.",
+   "A large venue could admit more people even if the smaller event filled every seat.",
+   "The second counter records entries without recording when they happen."
+  ],
+  "source": "scene-link:90",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2691",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The error was not discovered until all the cards had been sorted by color.\n\n根据以下中文情境，选出衔接原文的后续内容。\n直到所有卡片按颜色分完，错误才被发现。有一类看似空着，是因为它的蓝标签已褪得近乎灰色。",
+  "cn": "直到所有卡片按颜色分完，错误才被发现。有一类看似空着，是因为它的蓝标签已褪得近乎灰色。",
+  "why": "前句建立情境，后文补充的信息是：One category appeared empty because its blue label had faded almost to gray.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "One category appeared empty because its blue label had faded almost to gray."
+   ]
+  ],
+  "options": [
+   "One category appeared empty because its blue label had faded almost to gray.",
+   "The second counter records entries without recording when they happen.",
+   "Her dated photograph supported the sequence of events but did not explain what caused the damage."
+  ],
+  "source": "scene-link:91",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2692",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The volunteer recalled seeing a crack before the frame was moved.\n\n根据以下中文情境，选出衔接原文的后续内容。\n志愿者记得画框搬动前就见过裂纹。带日期的照片支持这一事件顺序，却不能解释损伤的原因。",
+  "cn": "志愿者记得画框搬动前就见过裂纹。带日期的照片支持这一事件顺序，却不能解释损伤的原因。",
+  "why": "前句建立情境，后文补充的信息是：Her dated photograph supported the sequence of events but did not explain what caused the damage.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "Her dated photograph supported the sequence of events but did not explain what caused the damage."
+   ]
+  ],
+  "options": [
+   "The interviewers valued a clear reason for reconsidering more than an impressive first answer.",
+   "In the margin beside each cost, the owner wrote who had helped and why the work mattered.",
+   "Her dated photograph supported the sequence of events but did not explain what caused the damage."
+  ],
+  "source": "scene-link:92",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2693",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "Only by checking the names could we distinguish two prizes with identical covers.\n\n根据以下中文情境，选出衔接原文的后续内容。\n只有核对名字，我们才能区分两份封面相同的奖状。两者的金色印章一模一样，表彰的成就却很不同。",
+  "cn": "只有核对名字，我们才能区分两份封面相同的奖状。两者的金色印章一模一样，表彰的成就却很不同。",
+  "why": "前句建立情境，后文补充的信息是：The gold seal on each was the same, although the achievements being recognized were quite different.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The gold seal on each was the same, although the achievements being recognized were quite different."
+   ]
+  ],
+  "options": [
+   "A small ridge at the back caught on the frame only in the last centimeter.",
+   "The interviewers valued a clear reason for reconsidering more than an impressive first answer.",
+   "The gold seal on each was the same, although the achievements being recognized were quite different."
+  ],
+  "source": "scene-link:93",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2694",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "Had the group measured only speed, it would have selected the first route.\n\n根据以下中文情境，选出衔接原文的后续内容。\n若只衡量速度，小组会选择第一条路线。不过第二条全程路面平坦，对轮椅使用者更重要。",
+  "cn": "若只衡量速度，小组会选择第一条路线。不过第二条全程路面平坦，对轮椅使用者更重要。",
+  "why": "前句建立情境，后文补充的信息是：The second route, however, offered a level surface throughout, which mattered more to the wheelchair users.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The second route, however, offered a level surface throughout, which mattered more to the wheelchair users."
+   ]
+  ],
+  "options": [
+   "The tallest structure fell during the first shake.",
+   "The missing timestamp made two otherwise similar drafts hard to put in order.",
+   "The second route, however, offered a level surface throughout, which mattered more to the wheelchair users."
+  ],
+  "source": "scene-link:94",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2695",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The author revised the ending to avoid implying that one trial settled the question.\n\n根据以下中文情境，选出衔接原文的后续内容。\n作者修改了结尾，以免暗示一次试验就能解决问题。如今最后一段描述了结果可能发生变化的条件。",
+  "cn": "作者修改了结尾，以免暗示一次试验就能解决问题。如今最后一段描述了结果可能发生变化的条件。",
+  "why": "前句建立情境，后文补充的信息是：A final paragraph now describes conditions under which the result might change.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A final paragraph now describes conditions under which the result might change."
+   ]
+  ],
+  "options": [
+   "A large venue could admit more people even if the smaller event filled every seat.",
+   "A final paragraph now describes conditions under which the result might change.",
+   "An instrument's tone would then guide the decision without the player's name influencing it."
+  ],
+  "source": "scene-link:95",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2696",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The old drawer seemed to fit until the carpenter tried to close it.\n\n根据以下中文情境，选出衔接原文的后续内容。\n旧抽屉看似正合适，直到木匠尝试把它关上。背面一道小凸棱只有到最后一厘米才会卡住框架。",
+  "cn": "旧抽屉看似正合适，直到木匠尝试把它关上。背面一道小凸棱只有到最后一厘米才会卡住框架。",
+  "why": "前句建立情境，后文补充的信息是：A small ridge at the back caught on the frame only in the last centimeter.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "A small ridge at the back caught on the frame only in the last centimeter."
+   ]
+  ],
+  "options": [
+   "The student's question concerned an assumption in the example, not the numerical answer on the board.",
+   "Moving the same titles down increased their circulation without adding a single new book.",
+   "A small ridge at the back caught on the frame only in the last centimeter."
+  ],
+  "source": "scene-link:96",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2697",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "No sooner had the speaker paused than a hand went up.\n\n根据以下中文情境，选出衔接原文的后续内容。\n讲者刚停顿，就有人举手。学生问的是例子中的一个假设，而非黑板上的数值答案。",
+  "cn": "讲者刚停顿，就有人举手。学生问的是例子中的一个假设，而非黑板上的数值答案。",
+  "why": "前句建立情境，后文补充的信息是：The student's question concerned an assumption in the example, not the numerical answer on the board.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The student's question concerned an assumption in the example, not the numerical answer on the board."
+   ]
+  ],
+  "options": [
+   "A final paragraph now describes conditions under which the result might change.",
+   "The student's question concerned an assumption in the example, not the numerical answer on the board.",
+   "An instrument's tone would then guide the decision without the player's name influencing it."
+  ],
+  "source": "scene-link:97",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2698",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The applicants were asked to describe a decision they had changed.\n\n根据以下中文情境，选出衔接原文的后续内容。\n申请人被要求描述一个自己曾修改过的决定。面试官更看重重新考虑的明确原因，而不是漂亮的最初答案。",
+  "cn": "申请人被要求描述一个自己曾修改过的决定。面试官更看重重新考虑的明确原因，而不是漂亮的最初答案。",
+  "why": "前句建立情境，后文补充的信息是：The interviewers valued a clear reason for reconsidering more than an impressive first answer.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The interviewers valued a clear reason for reconsidering more than an impressive first answer."
+   ]
+  ],
+  "options": [
+   "The missing timestamp made two otherwise similar drafts hard to put in order.",
+   "The interviewers valued a clear reason for reconsidering more than an impressive first answer.",
+   "The first slide was deliberately blank so everyone could notice how quickly the room darkened."
+  ],
+  "source": "scene-link:98",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2699",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "What began as a list of repairs has grown into a history of the house.\n\n根据以下中文情境，选出衔接原文的后续内容。\n起初只是一张修缮清单，如今已成了房子的历史。主人在每笔花费旁的页边空白写下谁来帮忙，以及这项工作为何重要。",
+  "cn": "起初只是一张修缮清单，如今已成了房子的历史。主人在每笔花费旁的页边空白写下谁来帮忙，以及这项工作为何重要。",
+  "why": "前句建立情境，后文补充的信息是：In the margin beside each cost, the owner wrote who had helped and why the work mattered.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "In the margin beside each cost, the owner wrote who had helped and why the work mattered."
+   ]
+  ],
+  "options": [
+   "Moving the same titles down increased their circulation without adding a single new book.",
+   "Her dated photograph supported the sequence of events but did not explain what caused the damage.",
+   "In the margin beside each cost, the owner wrote who had helped and why the work mattered."
+  ],
+  "source": "scene-link:99",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2700",
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "level": 5,
+  "text": "The notice was revised after a visitor asked whether children were included in the limit of six.\n\n根据以下中文情境，选出衔接原文的后续内容。\n有访客询问六人上限是否包括儿童后，通知作了修改。新措辞写明任何年龄的人合计六位，减少了争议空间。",
+  "cn": "有访客询问六人上限是否包括儿童后，通知作了修改。新措辞写明任何年龄的人合计六位，减少了争议空间。",
+  "why": "前句建立情境，后文补充的信息是：The new wording says six people of any age, leaving less room for argument.",
+  "point": "上下文衔接与双语理解",
+  "hint": "核对人物、动作及事件的先后关系。",
+  "slots": [
+   [
+    "The new wording says six people of any age, leaving less room for argument."
+   ]
+  ],
+  "options": [
+   "An instrument's tone would then guide the decision without the player's name influencing it.",
+   "A final paragraph now describes conditions under which the result might change.",
+   "The new wording says six people of any age, leaving less room for argument."
+  ],
+  "source": "scene-link:100",
+  "tip": "核对上下文，再读一遍完整表达。"
+ }
+]

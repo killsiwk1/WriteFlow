@@ -1,0 +1,19 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'local.writeflow.app'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'local.writeflow.app'
+        minSdk 26
+        targetSdk 32
+        versionCode 11
+        versionName '3.0.3'
+    }
+    sourceSets.main.assets.srcDirs = [layout.buildDirectory.dir('writeflow-assets').get().asFile]
+}
+tasks.register('copyOfflinePage', Copy) {
+    from(new File(rootDir, '../../dist/WriteFlow.html'))
+    into(layout.buildDirectory.dir('writeflow-assets'))
+    doFirst { if (!new File(rootDir, '../../dist/WriteFlow.html').exists()) throw new GradleException('Build dist/WriteFlow.html first') }
+}
+tasks.named('preBuild').configure { dependsOn 'copyOfflinePage' }

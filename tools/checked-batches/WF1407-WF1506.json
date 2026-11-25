@@ -1,0 +1,1904 @@
+[
+ {
+  "id": "WF1407",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Every Friday, our class ____ a basket by the door. Anyone with a spare pencil can put it there for the next class.",
+  "cn": "每周五，我们班都会在门旁放一个篮子。有多余铅笔的人可以把笔留给下一个班。",
+  "slots": [
+   [
+    "leaves"
+   ]
+  ],
+  "why": "每周重复的动作，单数集体主语 our class 后用 leaves。完整表达：Every Friday, our class leaves a basket by the door. Anyone with a spare pencil can put it there for the next class.",
+  "point": "语境中的动词形式",
+  "hint": "用 leave 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:2"
+ },
+ {
+  "id": "WF1408",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The shop ____ at eight on weekdays. A sign says it opens an hour later on Sundays.",
+  "cn": "这家店平日八点开门。牌子上写着周日晚开一小时。",
+  "slots": [
+   [
+    "opens"
+   ]
+  ],
+  "why": "店铺日常营业时间用一般现在时，shop 为单数。完整表达：The shop opens at eight on weekdays. A sign says it opens an hour later on Sundays.",
+  "point": "语境中的动词形式",
+  "hint": "用 open 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:3"
+ },
+ {
+  "id": "WF1409",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Yesterday I ____ a red scarf under my seat. I left it with the bus driver so its owner could ask for it.",
+  "cn": "昨天我在座位下发现了一条红围巾。我把它交给了公交司机，失主可以找司机认领。",
+  "slots": [
+   [
+    "found"
+   ]
+  ],
+  "why": "yesterday 要求一般过去时，find 的过去式是 found。完整表达：Yesterday I found a red scarf under my seat. I left it with the bus driver so its owner could ask for it.",
+  "point": "语境中的动词形式",
+  "hint": "用 find 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:4"
+ },
+ {
+  "id": "WF1410",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "A bell rings at noon. On rainy days the children ____ inside instead of taking their lunch to the yard.",
+  "cn": "中午铃响了。下雨天孩子们在室内吃饭，不把午餐带去院子。",
+  "slots": [
+   [
+    "eat"
+   ]
+  ],
+  "why": "复数主语 children 在一般现在时中用动词原形。完整表达：A bell rings at noon. On rainy days the children eat inside instead of taking their lunch to the yard.",
+  "point": "语境中的动词形式",
+  "hint": "用 eat 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:5"
+ },
+ {
+  "id": "WF1411",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Mum ____ two stamps yesterday. She put one on my envelope and kept the other in her desk.",
+  "cn": "妈妈昨天买了两张邮票。她把一张贴在我的信封上，把另一张放在书桌里。",
+  "slots": [
+   [
+    "bought"
+   ]
+  ],
+  "why": "buy 的不规则过去式为 bought。完整表达：Mum bought two stamps yesterday. She put one on my envelope and kept the other in her desk.",
+  "point": "语境中的动词形式",
+  "hint": "用 buy 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:6"
+ },
+ {
+  "id": "WF1412",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The blue cup belongs to Ben. He always ____ it himself after drinking his milk.",
+  "cn": "蓝色杯子是本的。他喝完牛奶总是自己洗杯子。",
+  "slots": [
+   [
+    "washes"
+   ]
+  ],
+  "why": "单数主语 he，wash 的第三人称单数加 es。完整表达：The blue cup belongs to Ben. He always washes it himself after drinking his milk.",
+  "point": "语境中的动词形式",
+  "hint": "用 wash 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:7"
+ },
+ {
+  "id": "WF1413",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Two girls ____ waiting by the gate. They have tickets, but the concert does not start until six.",
+  "cn": "两个女孩正在大门旁等候。她们有票，但音乐会要到六点才开始。",
+  "slots": [
+   [
+    "are"
+   ]
+  ],
+  "why": "复数主语 two girls 要用 are。完整表达：Two girls are waiting by the gate. They have tickets, but the concert does not start until six.",
+  "point": "语境中的动词形式",
+  "hint": "用 be 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:8"
+ },
+ {
+  "id": "WF1414",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Tom left his gloves at home. His fingers ____ cold as he waited for the morning bus.",
+  "cn": "汤姆把手套忘在家了。等早班公交时，他觉得手指很冷。",
+  "slots": [
+   [
+    "felt"
+   ]
+  ],
+  "why": "叙述过去的感觉，feel 的过去式为 felt。完整表达：Tom left his gloves at home. His fingers felt cold as he waited for the morning bus.",
+  "point": "语境中的动词形式",
+  "hint": "用 feel 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:9"
+ },
+ {
+  "id": "WF1415",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "My uncle ____ a tiny notebook in his pocket. When he hears a new word, he writes it down before he forgets it.",
+  "cn": "叔叔口袋里总装着一个小笔记本。听到新词，他就趁还没忘记写下来。",
+  "slots": [
+   [
+    "keeps"
+   ]
+  ],
+  "why": "单数主语 uncle 表示日常习惯，用 keeps。完整表达：My uncle keeps a tiny notebook in his pocket. When he hears a new word, he writes it down before he forgets it.",
+  "point": "语境中的动词形式",
+  "hint": "用 keep 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:10"
+ },
+ {
+  "id": "WF1416",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The baby ____ through the music yesterday. Dad put a blanket over her before he turned off the lamp.",
+  "cn": "昨天放音乐时宝宝一直在睡觉。爸爸先给她盖上毯子，然后关了灯。",
+  "slots": [
+   [
+    "slept"
+   ]
+  ],
+  "why": "昨天已经发生的事，sleep 的过去式为 slept。完整表达：The baby slept through the music yesterday. Dad put a blanket over her before he turned off the lamp.",
+  "point": "语境中的动词形式",
+  "hint": "用 sleep 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:11"
+ },
+ {
+  "id": "WF1417",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "We usually ____ one large umbrella on the way home. Today it is sunny, so we have left it by the door.",
+  "cn": "回家路上我们通常共用一把大伞。今天是晴天，所以把它留在门边了。",
+  "slots": [
+   [
+    "share"
+   ]
+  ],
+  "why": "we 在一般现在时后接动词原形。完整表达：We usually share one large umbrella on the way home. Today it is sunny, so we have left it by the door.",
+  "point": "语境中的动词形式",
+  "hint": "用 share 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:12"
+ },
+ {
+  "id": "WF1418",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Each drawer ____ a different label. Look for the one marked Paper if you need a clean sheet.",
+  "cn": "每个抽屉都有不同的标签。如果需要一张白纸，就找标着“纸”的那个。",
+  "slots": [
+   [
+    "has"
+   ]
+  ],
+  "why": "each 加单数名词，谓语用 has。完整表达：Each drawer has a different label. Look for the one marked Paper if you need a clean sheet.",
+  "point": "语境中的动词形式",
+  "hint": "用 have 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:13"
+ },
+ {
+  "id": "WF1419",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The twins ____ turns reading last night. When one finished a page, the other started the next one.",
+  "cn": "昨晚这对双胞胎轮流朗读。一个读完一页，另一个就开始读下一页。",
+  "slots": [
+   [
+    "took"
+   ]
+  ],
+  "why": "last night 描述过去，take 变 took。完整表达：The twins took turns reading last night. When one finished a page, the other started the next one.",
+  "point": "语境中的动词形式",
+  "hint": "用 take 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:14"
+ },
+ {
+  "id": "WF1420",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "A small kitten ____ behind the chair whenever the doorbell rings. After a minute it comes out to look at the visitor.",
+  "cn": "每当门铃响，小猫就躲在椅子后面。一分钟后，它又出来打量来客。",
+  "slots": [
+   [
+    "hides"
+   ]
+  ],
+  "why": "a kitten 为单数，描写习惯用 hides。完整表达：A small kitten hides behind the chair whenever the doorbell rings. After a minute it comes out to look at the visitor.",
+  "point": "语境中的动词形式",
+  "hint": "用 hide 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:15"
+ },
+ {
+  "id": "WF1421",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "There ____ three oranges in the bowl this morning. I ate one and put the other two in my bag.",
+  "cn": "早上碗里有三个橙子。我吃了一个，把剩下两个放进包里。",
+  "slots": [
+   [
+    "were"
+   ]
+  ],
+  "why": "过去的复数主语 three oranges 与 were 搭配。完整表达：There were three oranges in the bowl this morning. I ate one and put the other two in my bag.",
+  "point": "语境中的动词形式",
+  "hint": "用 be 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:16"
+ },
+ {
+  "id": "WF1422",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Nina ____ a little star beside each book she finishes. There are four stars beside the first four titles and none beside the fifth.",
+  "cn": "妮娜每读完一本书，就在书名旁画一颗小星星。前四个书名旁都有星星，第五个旁边没有。",
+  "slots": [
+   [
+    "draws"
+   ]
+  ],
+  "why": "第三人称单数，习惯动作。完整表达：Nina draws a little star beside each book she finishes. There are four stars beside the first four titles and none beside the fifth.",
+  "point": "语境中的动词形式",
+  "hint": "用 draw 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:17"
+ },
+ {
+  "id": "WF1423",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Our dog ____ to the kitchen when the timer rang. It knows that the sound often means bread is ready.",
+  "cn": "计时器一响，我家的狗就跑向厨房。它知道这声音常意味着面包好了。",
+  "slots": [
+   [
+    "ran"
+   ]
+  ],
+  "why": "叙述已发生动作，run 的过去式是 ran。完整表达：Our dog ran to the kitchen when the timer rang. It knows that the sound often means bread is ready.",
+  "point": "语境中的动词形式",
+  "hint": "用 run 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:18"
+ },
+ {
+  "id": "WF1424",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Please ____ a pencil to the drawing game. We have enough paper for everyone, but no tools for drawing.",
+  "cn": "请带一支铅笔来参加绘画游戏。每个人的纸都有了，但我们没有画画工具。",
+  "slots": [
+   [
+    "bring"
+   ]
+  ],
+  "why": "please 起首的祈使句用动词原形。完整表达：Please bring a pencil to the drawing game. We have enough paper for everyone, but no tools for drawing.",
+  "point": "语境中的动词形式",
+  "hint": "用 bring 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:19"
+ },
+ {
+  "id": "WF1425",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The bus ____ beside the bakery every morning. If you can smell fresh bread, you are close to the right stop.",
+  "cn": "公交车每天早上停在面包店旁。闻到刚烤好的面包味，你就快到正确的车站了。",
+  "slots": [
+   [
+    "stops"
+   ]
+  ],
+  "why": "单数 bus 配 stops，描述固定路线。完整表达：The bus stops beside the bakery every morning. If you can smell fresh bread, you are close to the right stop.",
+  "point": "语境中的动词形式",
+  "hint": "用 stop 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:20"
+ },
+ {
+  "id": "WF1426",
+  "level": 1,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "My brother ____ a kite last week. He wants to fly it today, but the trees outside are perfectly still.",
+  "cn": "哥哥上周做了一只风筝。他今天想放风筝，但外面的树一动也不动。",
+  "slots": [
+   [
+    "made"
+   ]
+  ],
+  "why": "last week 提示已完成的过去动作。完整表达：My brother made a kite last week. He wants to fly it today, but the trees outside are perfectly still.",
+  "point": "语境中的动词形式",
+  "hint": "用 make 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:21"
+ },
+ {
+  "id": "WF1427",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The rain ____ just before our game began. We wiped the water off each bench so the other players could sit down.",
+  "cn": "比赛开始前雨刚停。我们把每条长椅上的水擦掉，好让其他队员坐下。",
+  "slots": [
+   [
+    "stopped"
+   ]
+  ],
+  "why": "先前的动作已完成，stop 双写 p 加 ed。完整表达：The rain stopped just before our game began. We wiped the water off each bench so the other players could sit down.",
+  "point": "语境中的动词形式",
+  "hint": "用 stop 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:23"
+ },
+ {
+  "id": "WF1428",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Lena is ____ her bag for the trip. She checks each box on her list only after the item is inside.",
+  "cn": "莉娜正在收拾行李。她只有把东西放进包后才在清单上打钩。",
+  "slots": [
+   [
+    "packing"
+   ]
+  ],
+  "why": "is 后用现在分词，pack 加 ing。完整表达：Lena is packing her bag for the trip. She checks each box on her list only after the item is inside.",
+  "point": "语境中的动词形式",
+  "hint": "用 pack 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:24"
+ },
+ {
+  "id": "WF1429",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Yesterday we ____ the path beside the stream. The road through the field was shorter, but it had no shade.",
+  "cn": "昨天我们选了小溪边的小路。穿过田野的路更短，但那条路上没有树荫。",
+  "slots": [
+   [
+    "chose"
+   ]
+  ],
+  "why": "choose 的过去式为 chose。完整表达：Yesterday we chose the path beside the stream. The road through the field was shorter, but it had no shade.",
+  "point": "语境中的动词形式",
+  "hint": "用 choose 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:25"
+ },
+ {
+  "id": "WF1430",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Amy ____ me her spare racket on Monday. I gave it back after our tennis lesson.",
+  "cn": "星期一埃米把备用球拍借给我。网球课后我把它还给她了。",
+  "slots": [
+   [
+    "lent"
+   ]
+  ],
+  "why": "lend 的过去式为 lent，表示借出。完整表达：Amy lent me her spare racket on Monday. I gave it back after our tennis lesson.",
+  "point": "语境中的动词形式",
+  "hint": "用 lend 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:26"
+ },
+ {
+  "id": "WF1431",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The children were ____ a tower when the wind blew the top box away. They moved indoors to finish it.",
+  "cn": "孩子们正在搭塔，风把顶上的盒子吹走了。他们转到室内把塔搭完。",
+  "slots": [
+   [
+    "building"
+   ]
+  ],
+  "why": "were 与现在分词构成过去进行时。完整表达：The children were building a tower when the wind blew the top box away. They moved indoors to finish it.",
+  "point": "语境中的动词形式",
+  "hint": "用 build 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:27"
+ },
+ {
+  "id": "WF1432",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "You can ____ a helmet at the park desk. Leave your name there and return the helmet before the park closes.",
+  "cn": "你可以在公园服务台借头盔。留下姓名，并在闭园前归还。",
+  "slots": [
+   [
+    "borrow"
+   ]
+  ],
+  "why": "情态动词 can 后接原形。完整表达：You can borrow a helmet at the park desk. Leave your name there and return the helmet before the park closes.",
+  "point": "语境中的动词形式",
+  "hint": "用 borrow 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:28"
+ },
+ {
+  "id": "WF1433",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Anna ____ the meeting time on a sticky note yesterday. She put it on her shoes because she sometimes leaves the house without looking at her phone.",
+  "cn": "昨天安娜把开会时间写在便签上，贴在鞋上，因为她有时出门前不看手机。",
+  "slots": [
+   [
+    "wrote"
+   ]
+  ],
+  "why": "write 的过去式为 wrote。完整表达：Anna wrote the meeting time on a sticky note yesterday. She put it on her shoes because she sometimes leaves the house without looking at her phone.",
+  "point": "语境中的动词形式",
+  "hint": "用 write 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:29"
+ },
+ {
+  "id": "WF1434",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The puppy kept ____ at its leash until Max slowed down. Then it walked quietly beside him.",
+  "cn": "小狗一直拽牵引绳，直到马克斯放慢脚步。然后它安静地走在他身旁。",
+  "slots": [
+   [
+    "pulling"
+   ]
+  ],
+  "why": "keep 后接动名词表示动作持续。完整表达：The puppy kept pulling at its leash until Max slowed down. Then it walked quietly beside him.",
+  "point": "语境中的动词形式",
+  "hint": "用 pull 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:30"
+ },
+ {
+  "id": "WF1435",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Our teacher ____ each family a message last night. It said the trip was still on, but we would meet at the side gate.",
+  "cn": "昨晚老师给每个家庭发了条消息。郊游照常，只是改在侧门集合。",
+  "slots": [
+   [
+    "sent"
+   ]
+  ],
+  "why": "send 的过去式为 sent。完整表达：Our teacher sent each family a message last night. It said the trip was still on, but we would meet at the side gate.",
+  "point": "语境中的动词形式",
+  "hint": "用 send 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:31"
+ },
+ {
+  "id": "WF1436",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Sam enjoys ____ one postcard from each town he visits. On the back he writes one thing he wants to remember.",
+  "cn": "萨姆喜欢每到一个镇子就收集一张明信片。他会在背面写下一件想记住的事。",
+  "slots": [
+   [
+    "collecting"
+   ]
+  ],
+  "why": "enjoy 后接动名词。完整表达：Sam enjoys collecting one postcard from each town he visits. On the back he writes one thing he wants to remember.",
+  "point": "语境中的动词形式",
+  "hint": "用 collect 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:32"
+ },
+ {
+  "id": "WF1437",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The small bridge was ____ for repairs on Tuesday. We followed yellow arrows to a second crossing farther along the river.",
+  "cn": "小桥周二因维修关闭了。我们沿着黄色箭头，到了河流更远处的另一处过河点。",
+  "slots": [
+   [
+    "closed"
+   ]
+  ],
+  "why": "was 与过去分词构成被动语态。完整表达：The small bridge was closed for repairs on Tuesday. We followed yellow arrows to a second crossing farther along the river.",
+  "point": "语境中的动词形式",
+  "hint": "用 close 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:33"
+ },
+ {
+  "id": "WF1438",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The team ____ its first match last week. Instead of blaming anyone, the players drew a diagram of the final play to see where the gap was.",
+  "cn": "球队上周输了第一场比赛。队员们没有责怪谁，而是画了最后一次配合的示意图，寻找漏洞。",
+  "slots": [
+   [
+    "lost"
+   ]
+  ],
+  "why": "过去发生的结果用 lost。完整表达：The team lost its first match last week. Instead of blaming anyone, the players drew a diagram of the final play to see where the gap was.",
+  "point": "语境中的动词形式",
+  "hint": "用 lose 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:34"
+ },
+ {
+  "id": "WF1439",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "We decided ____ home after the show. The queue for taxis stretched around the corner, and our house was only two streets away.",
+  "cn": "演出后我们决定走回家。等出租车的队伍都排到转角了，而家只隔两条街。",
+  "slots": [
+   [
+    "to walk"
+   ]
+  ],
+  "why": "decide 后用不定式。完整表达：We decided to walk home after the show. The queue for taxis stretched around the corner, and our house was only two streets away.",
+  "point": "语境中的动词形式",
+  "hint": "用 walk 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:35"
+ },
+ {
+  "id": "WF1440",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "A little boy ____ a chalk stick into two pieces. He handed the shorter piece to his sister so they could draw at the same time.",
+  "cn": "小男孩把一根粉笔掰成两截，把较短的一截给了妹妹，这样两人就能同时画画。",
+  "slots": [
+   [
+    "broke"
+   ]
+  ],
+  "why": "叙述过去，break 变 broke。完整表达：A little boy broke a chalk stick into two pieces. He handed the shorter piece to his sister so they could draw at the same time.",
+  "point": "语境中的动词形式",
+  "hint": "用 break 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:36"
+ },
+ {
+  "id": "WF1441",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The school bus ____ ten minutes early yesterday. Our group waited under the shelter until the driver opened the doors.",
+  "cn": "昨天校车提前十分钟到了。我们在遮雨棚下等到司机开门。",
+  "slots": [
+   [
+    "arrived"
+   ]
+  ],
+  "why": "与过去参照点相配，用一般过去时。完整表达：The school bus arrived ten minutes early yesterday. Our group waited under the shelter until the driver opened the doors.",
+  "point": "语境中的动词形式",
+  "hint": "用 arrive 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:37"
+ },
+ {
+  "id": "WF1442",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "My sister practices ____ the menu aloud. She wants to order her own meal when we visit a restaurant next week.",
+  "cn": "妹妹练习大声读菜单。下周去餐馆时，她想自己点餐。",
+  "slots": [
+   [
+    "reading"
+   ]
+  ],
+  "why": "practice 后接动名词。完整表达：My sister practices reading the menu aloud. She wants to order her own meal when we visit a restaurant next week.",
+  "point": "语境中的动词形式",
+  "hint": "用 read 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:38"
+ },
+ {
+  "id": "WF1443",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Leo ____ the last ferry yesterday. He stood on the deck until the lights of his village came into view.",
+  "cn": "昨天利奥赶上了最后一班渡船。他站在甲板上，直到看见村里的灯光。",
+  "slots": [
+   [
+    "caught"
+   ]
+  ],
+  "why": "catch 的过去式是 caught。完整表达：Leo caught the last ferry yesterday. He stood on the deck until the lights of his village came into view.",
+  "point": "语境中的动词形式",
+  "hint": "用 catch 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:39"
+ },
+ {
+  "id": "WF1444",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "We have to ____ the map along the red line. That way the town center appears on the cover when the map is closed.",
+  "cn": "我们得沿红线折地图。这样合起来时，镇中心就显示在封面上。",
+  "slots": [
+   [
+    "fold"
+   ]
+  ],
+  "why": "have to 后接动词原形。完整表达：We have to fold the map along the red line. That way the town center appears on the cover when the map is closed.",
+  "point": "语境中的动词形式",
+  "hint": "用 fold 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:40"
+ },
+ {
+  "id": "WF1445",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The film was ____ when the back door opened. An usher used a small torch to help the late visitors find their seats.",
+  "cn": "后门打开时电影正要开始。引座员用小手电筒帮迟到的观众找座位。",
+  "slots": [
+   [
+    "starting"
+   ]
+  ],
+  "why": "was starting 表示当时正在开始。完整表达：The film was starting when the back door opened. An usher used a small torch to help the late visitors find their seats.",
+  "point": "语境中的动词形式",
+  "hint": "用 start 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:41"
+ },
+ {
+  "id": "WF1446",
+  "level": 2,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The children ____ a shallow hole yesterday. They lined it with a clean sheet to keep their toy boat from touching the mud.",
+  "cn": "昨天孩子们挖了个浅坑。他们用一块干净的薄布垫在里面，以免玩具船碰到泥。",
+  "slots": [
+   [
+    "dug"
+   ]
+  ],
+  "why": "过去完成的动作，dig 的过去式为 dug。完整表达：The children dug a shallow hole yesterday. They lined it with a clean sheet to keep their toy boat from touching the mud.",
+  "point": "语境中的动词形式",
+  "hint": "用 dig 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:42"
+ },
+ {
+  "id": "WF1447",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Since the bakery opened, Mia has ____ every paper receipt from her visits. She wants to see how much she spends there each month.",
+  "cn": "自面包店开业以来，米娅一直保留着每次消费的纸质收据。她想了解自己每月在那里花多少钱。",
+  "slots": [
+   [
+    "kept"
+   ]
+  ],
+  "why": "has 后接过去分词 kept。完整表达：Since the bakery opened, Mia has kept every paper receipt from her visits. She wants to see how much she spends there each month.",
+  "point": "语境中的动词形式",
+  "hint": "用 keep 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:44"
+ },
+ {
+  "id": "WF1448",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The old curtain needs ____ before we hang it in the reading room. Holding it up to the window, we can see a line of dust along the bottom.",
+  "cn": "旧窗帘得洗过才能挂到阅览室。对着窗户举起来，能看见底边积着一条灰。",
+  "slots": [
+   [
+    "washing"
+   ]
+  ],
+  "why": "need doing 表示物品需要被处理，此处用动名词。完整表达：The old curtain needs washing before we hang it in the reading room. Holding it up to the window, we can see a line of dust along the bottom.",
+  "point": "语境中的动词形式",
+  "hint": "用 wash 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:45"
+ },
+ {
+  "id": "WF1449",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "By the time the bus came, Ada had ____ the whole leaflet. She already knew which rooms were closed before she entered the museum.",
+  "cn": "公交车来时，艾达已经看完整张宣传单。进博物馆前她就知道哪些展室关闭了。",
+  "slots": [
+   [
+    "read"
+   ]
+  ],
+  "why": "had 后用过去分词 read，拼写不变。完整表达：By the time the bus came, Ada had read the whole leaflet. She already knew which rooms were closed before she entered the museum.",
+  "point": "语境中的动词形式",
+  "hint": "用 read 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:46"
+ },
+ {
+  "id": "WF1450",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The class voted ____ the prize money on a bookshelf. Buying more books could wait; the ones they owned were still piled on the floor.",
+  "cn": "班里投票决定用奖金买书架。买更多书可以等等，他们已有的书还堆在地上。",
+  "slots": [
+   [
+    "to spend"
+   ]
+  ],
+  "why": "vote to do 表示表决决定做某事。完整表达：The class voted to spend the prize money on a bookshelf. Buying more books could wait; the ones they owned were still piled on the floor.",
+  "point": "语境中的动词形式",
+  "hint": "用 spend 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:47"
+ },
+ {
+  "id": "WF1451",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The machine stopped ____ after lunch. A coin was stuck in the slot; once Jen removed it, another customer could pay.",
+  "cn": "午饭后机器停止了运转。一枚硬币卡在投币口，珍取出它后，下一位顾客就能付款了。",
+  "slots": [
+   [
+    "working"
+   ]
+  ],
+  "why": "stop doing 表示停止原来正在发生的动作。完整表达：The machine stopped working after lunch. A coin was stuck in the slot; once Jen removed it, another customer could pay.",
+  "point": "语境中的动词形式",
+  "hint": "用 work 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:48"
+ },
+ {
+  "id": "WF1452",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The seats near the stage were ____ for guests who could not hear well. A volunteer checked each ticket before letting people into the front row.",
+  "cn": "靠近舞台的座位留给听力不好的客人。志愿者在放人进入前排之前逐一查票。",
+  "slots": [
+   [
+    "reserved"
+   ]
+  ],
+  "why": "座位被预留，用过去分词。完整表达：The seats near the stage were reserved for guests who could not hear well. A volunteer checked each ticket before letting people into the front row.",
+  "point": "语境中的动词形式",
+  "hint": "用 reserve 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:49"
+ },
+ {
+  "id": "WF1453",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Nora suggested ____ the deep end of the pool with a yellow stripe. A written warning alone might be hard for younger children to read.",
+  "cn": "诺拉建议用一条黄线标出泳池深水端。年幼的孩子可能读不懂单靠文字写的警示。",
+  "slots": [
+   [
+    "marking"
+   ]
+  ],
+  "why": "suggest 后可接动名词。完整表达：Nora suggested marking the deep end of the pool with a yellow stripe. A written warning alone might be hard for younger children to read.",
+  "point": "语境中的动词形式",
+  "hint": "用 mark 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:50"
+ },
+ {
+  "id": "WF1454",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The guide asked us ____ the steps as we climbed. On the landing, our answers differed because one person had counted the flat space as a step.",
+  "cn": "向导让我们边爬边数台阶。到了楼梯平台，大家的结果不一样，因为有人把平坦的平台也算作一级。",
+  "slots": [
+   [
+    "to count"
+   ]
+  ],
+  "why": "ask someone to do 要用不定式。完整表达：The guide asked us to count the steps as we climbed. On the landing, our answers differed because one person had counted the flat space as a step.",
+  "point": "语境中的动词形式",
+  "hint": "用 count 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:51"
+ },
+ {
+  "id": "WF1455",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "If the temperature ____ tonight, we will cover the plants with an old quilt. In the morning we will remove it so the leaves get light.",
+  "cn": "如果今晚气温下降，我们就用旧被子盖住植物。早上会把被子拿走，让叶子见光。",
+  "slots": [
+   [
+    "drops"
+   ]
+  ],
+  "why": "真实条件句的 if 从句用一般现在时，temperature 为单数。完整表达：If the temperature drops tonight, we will cover the plants with an old quilt. In the morning we will remove it so the leaves get light.",
+  "point": "语境中的动词形式",
+  "hint": "用 drop 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:52"
+ },
+ {
+  "id": "WF1456",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The new path is ____ than the old one. Two people can now push a stroller and a bicycle past each other without leaving the path.",
+  "cn": "新路比旧路宽。现在一个人推婴儿车、另一个人推自行车，可以在路上错身通过。",
+  "slots": [
+   [
+    "wider"
+   ]
+  ],
+  "why": "than 提示比较级，wide 变 wider。完整表达：The new path is wider than the old one. Two people can now push a stroller and a bicycle past each other without leaving the path.",
+  "point": "语境中的动词形式",
+  "hint": "用 wide 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:53"
+ },
+ {
+  "id": "WF1457",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Our class has just ____ drawing a town map. We left the hospital symbol large because a visitor in a hurry should be able to find it quickly.",
+  "cn": "我们班刚画完一张小镇地图。我们把医院的标志画得很大，好让着急的游客能迅速找到。",
+  "slots": [
+   [
+    "finished"
+   ]
+  ],
+  "why": "has just 后接过去分词。完整表达：Our class has just finished drawing a town map. We left the hospital symbol large because a visitor in a hurry should be able to find it quickly.",
+  "point": "语境中的动词形式",
+  "hint": "用 finish 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:54"
+ },
+ {
+  "id": "WF1458",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Dan promised ____ the missing button before he returned the coat. Without it, the coat would not close properly.",
+  "cn": "丹答应还衣服前把掉了的纽扣补上。少了它，外套就扣不严。",
+  "slots": [
+   [
+    "to replace"
+   ]
+  ],
+  "why": "promise to do 表示承诺做某事。完整表达：Dan promised to replace the missing button before he returned the coat. Without it, the coat would not close properly.",
+  "point": "语境中的动词形式",
+  "hint": "用 replace 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:55"
+ },
+ {
+  "id": "WF1459",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The soup ____ wonderful yesterday, but the first spoonful was cold. We put the pot back on the stove for a few minutes.",
+  "cn": "昨天的汤闻起来很香，可第一口却是冷的。我们又把锅放回炉子上加热了几分钟。",
+  "slots": [
+   [
+    "smelled",
+    "smelt"
+   ]
+  ],
+  "why": "叙述过去的感官状态，使用过去式。完整表达：The soup smelled wonderful yesterday, but the first spoonful was cold. We put the pot back on the stove for a few minutes.",
+  "point": "语境中的动词形式",
+  "hint": "用 smell 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:56"
+ },
+ {
+  "id": "WF1460",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Everyone was ____ a colored badge at the door. People wearing the same color worked together even if they had never met.",
+  "cn": "每个人进门时都领到一枚彩色徽章。佩戴同种颜色的人组成一组，即使以前从未见过。",
+  "slots": [
+   [
+    "given"
+   ]
+  ],
+  "why": "被动语态使用 give 的过去分词 given。完整表达：Everyone was given a colored badge at the door. People wearing the same color worked together even if they had never met.",
+  "point": "语境中的动词形式",
+  "hint": "用 give 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:57"
+ },
+ {
+  "id": "WF1461",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Rita avoids ____ the busy entrance at noon. She takes a longer route past the fountain because there is usually no line there.",
+  "cn": "丽塔中午避开拥挤的入口，绕远经过喷泉走另一条路，因为那里通常不用排队。",
+  "slots": [
+   [
+    "using"
+   ]
+  ],
+  "why": "avoid 后接动名词。完整表达：Rita avoids using the busy entrance at noon. She takes a longer route past the fountain because there is usually no line there.",
+  "point": "语境中的动词形式",
+  "hint": "用 use 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:58"
+ },
+ {
+  "id": "WF1462",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The team had ____ before the delivery arrived. The driver placed the parcel under the office desk and sent a photo to show where it was.",
+  "cn": "快递到时团队已经离开。司机把包裹放在办公室桌下，又发了张照片说明位置。",
+  "slots": [
+   [
+    "left"
+   ]
+  ],
+  "why": "had 后用过去分词 left。完整表达：The team had left before the delivery arrived. The driver placed the parcel under the office desk and sent a photo to show where it was.",
+  "point": "语境中的动词形式",
+  "hint": "用 leave 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:59"
+ },
+ {
+  "id": "WF1463",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Some visitors prefer ____ around the whole lake. Others turn back at the wooden pier so they can return before dark.",
+  "cn": "有些游客喜欢环湖步行。另一些人在木码头折返，好在天黑前回来。",
+  "slots": [
+   [
+    "walking",
+    "to walk"
+   ]
+  ],
+  "why": "prefer 后可用动名词；与本题另一可接受形式 to walk 同义。完整表达：Some visitors prefer walking around the whole lake. Others turn back at the wooden pier so they can return before dark.",
+  "point": "语境中的动词形式",
+  "hint": "用 walk 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:60"
+ },
+ {
+  "id": "WF1464",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The alarm has ____ off twice this week. Each time steam from the kettle reached the sensor; no one saw smoke.",
+  "cn": "本周警报已响过两次。两次都是水壶蒸汽飘到了传感器旁，没有人看见烟。",
+  "slots": [
+   [
+    "gone"
+   ]
+  ],
+  "why": "has 后用过去分词 gone，go off 指响起。完整表达：The alarm has gone off twice this week. Each time steam from the kettle reached the sensor; no one saw smoke.",
+  "point": "语境中的动词形式",
+  "hint": "用 go 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:61"
+ },
+ {
+  "id": "WF1465",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The missing key was ____ beneath a folded napkin. We had looked across the table twice without lifting anything.",
+  "cn": "那把找不到的钥匙就在折起的餐巾下面。我们扫视了桌面两次，却什么都没拿起来看。",
+  "slots": [
+   [
+    "lying"
+   ]
+  ],
+  "why": "表示躺、位于时，lie 的现在分词为 lying。完整表达：The missing key was lying beneath a folded napkin. We had looked across the table twice without lifting anything.",
+  "point": "语境中的动词形式",
+  "hint": "用 lie 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:62"
+ },
+ {
+  "id": "WF1466",
+  "level": 3,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Tea tastes ____ in this cup than in the metal one, says Grandpa. His usual mug has a thick handle that stays cool.",
+  "cn": "爷爷说，用这个杯子喝茶比用金属杯好喝。他常用的马克杯杯柄很厚，不烫手。",
+  "slots": [
+   [
+    "better"
+   ]
+  ],
+  "why": "good 的比较级为 better。完整表达：Tea tastes better in this cup than in the metal one, says Grandpa. His usual mug has a thick handle that stays cool.",
+  "point": "语境中的动词形式",
+  "hint": "用 good 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:63"
+ },
+ {
+  "id": "WF1467",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The posters had been ____ before the venue changed. Rather than waste them, we covered the old address with a plain sticker.",
+  "cn": "场地变更前海报就印好了。为了不浪费，我们用一张素色贴纸遮住旧地址。",
+  "slots": [
+   [
+    "printed"
+   ]
+  ],
+  "why": "had been 加过去分词构成过去完成时的被动形式。完整表达：The posters had been printed before the venue changed. Rather than waste them, we covered the old address with a plain sticker.",
+  "point": "语境中的动词形式",
+  "hint": "用 print 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:65"
+ },
+ {
+  "id": "WF1468",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Had Maya ____ about the steep steps, she would have chosen the north entrance. The south entrance had a ramp, but it ended halfway up.",
+  "cn": "迈娅要是早知道有陡峭的台阶，就会选北入口。南入口虽有坡道，却只到半途。",
+  "slots": [
+   [
+    "known"
+   ]
+  ],
+  "why": "倒装条件句 Had Maya known 相当于 If Maya had known。完整表达：Had Maya known about the steep steps, she would have chosen the north entrance. The south entrance had a ramp, but it ended halfway up.",
+  "point": "语境中的动词形式",
+  "hint": "用 know 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:66"
+ },
+ {
+  "id": "WF1469",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The prize went to the design ____ by the youngest visitors. The adult panel had preferred a different model, but its vote was only advisory.",
+  "cn": "奖项颁给了最年幼访客选中的设计。成人评审小组更喜欢另一款模型，但其投票仅作参考。",
+  "slots": [
+   [
+    "chosen"
+   ]
+  ],
+  "why": "design 与 choose 构成被动关系，用过去分词作后置定语。完整表达：The prize went to the design chosen by the youngest visitors. The adult panel had preferred a different model, but its vote was only advisory.",
+  "point": "语境中的动词形式",
+  "hint": "用 choose 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:67"
+ },
+ {
+  "id": "WF1470",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The two reports appear ____ until you read the heading above each column. One counts people; the other counts visits, including repeat visits.",
+  "cn": "不看每栏上方的标题，两份报告好像相互矛盾。一份统计人数，另一份统计到访次数，包括重复到访。",
+  "slots": [
+   [
+    "to disagree"
+   ]
+  ],
+  "why": "appear 后接不定式，表示看似如此。完整表达：The two reports appear to disagree until you read the heading above each column. One counts people; the other counts visits, including repeat visits.",
+  "point": "语境中的动词形式",
+  "hint": "用 disagree 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:68"
+ },
+ {
+  "id": "WF1471",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The students insisted on ____ the bridge with equal loads. Without that rule, the winning model might simply be the one given the lightest box.",
+  "cn": "学生们坚持用同样的载荷测试桥。否则获胜的模型可能只是被放了最轻盒子的那一个。",
+  "slots": [
+   [
+    "testing"
+   ]
+  ],
+  "why": "on 为介词，后接动名词。完整表达：The students insisted on testing the bridge with equal loads. Without that rule, the winning model might simply be the one given the lightest box.",
+  "point": "语境中的动词形式",
+  "hint": "用 test 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:69"
+ },
+ {
+  "id": "WF1472",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Not until the second count did we ____ a gap in the sequence. Two pages had the same number, so the final number alone could not tell us how many sheets we had.",
+  "cn": "直到第二次数数，我们才注意到编号序列的异常。两页编号相同，因此仅看末尾号码无法算出有多少张纸。",
+  "slots": [
+   [
+    "notice"
+   ]
+  ],
+  "why": "did 后还原为动词原形。完整表达：Not until the second count did we notice a gap in the sequence. Two pages had the same number, so the final number alone could not tell us how many sheets we had.",
+  "point": "语境中的动词形式",
+  "hint": "用 notice 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:70"
+ },
+ {
+  "id": "WF1473",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Only after ____ both sketches did Nina understand the change. The new outline was just as tall but left more space beside the door.",
+  "cn": "妮娜比较了两张草图后才看懂改动。新轮廓同样高，却在门旁留出了更多空间。",
+  "slots": [
+   [
+    "comparing"
+   ]
+  ],
+  "why": "after 作介词时，动词用动名词。完整表达：Only after comparing both sketches did Nina understand the change. The new outline was just as tall but left more space beside the door.",
+  "point": "语境中的动词形式",
+  "hint": "用 compare 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:71"
+ },
+ {
+  "id": "WF1474",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Leo would rather ____ the original clock than replace it. A small scratch on its face reminds him of the day he helped his grandfather hang it.",
+  "cn": "利奥宁愿修理原来的钟，也不愿换新。钟面上的一道小划痕让他想起帮爷爷挂钟的那一天。",
+  "slots": [
+   [
+    "repair"
+   ]
+  ],
+  "why": "would rather 后接动词原形。完整表达：Leo would rather repair the original clock than replace it. A small scratch on its face reminds him of the day he helped his grandfather hang it.",
+  "point": "语境中的动词形式",
+  "hint": "用 repair 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:72"
+ },
+ {
+  "id": "WF1475",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The note ____ to the door gave a new room number. A visitor who followed yesterday's schedule missed the first five minutes.",
+  "cn": "贴在门上的便条写了新房间号。一名照着昨天日程表走的访客错过了开头五分钟。",
+  "slots": [
+   [
+    "attached"
+   ]
+  ],
+  "why": "note 被贴到门上，用过去分词作后置定语。完整表达：The note attached to the door gave a new room number. A visitor who followed yesterday's schedule missed the first five minutes.",
+  "point": "语境中的动词形式",
+  "hint": "用 attach 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:73"
+ },
+ {
+  "id": "WF1476",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The librarian had the torn cover ____. She kept the old inscription on the first page because it named the person who donated the book.",
+  "cn": "馆员请人更换了破损的封面。她保留了扉页上的旧题词，因为上面写着捐书人的名字。",
+  "slots": [
+   [
+    "replaced"
+   ]
+  ],
+  "why": "have something done 表示请人完成某事，宾语后用过去分词。完整表达：The librarian had the torn cover replaced. She kept the old inscription on the first page because it named the person who donated the book.",
+  "point": "语境中的动词形式",
+  "hint": "用 replace 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:74"
+ },
+ {
+  "id": "WF1477",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The visitors were not allowed ____ the ancient bowl. A modern replica stood beside it so children could feel the shape without harming the original.",
+  "cn": "参观者不能触摸古碗。旁边放了一件现代复制品，让孩子能摸到它的形状而不损坏原件。",
+  "slots": [
+   [
+    "to touch"
+   ]
+  ],
+  "why": "be allowed 后接不定式。完整表达：The visitors were not allowed to touch the ancient bowl. A modern replica stood beside it so children could feel the shape without harming the original.",
+  "point": "语境中的动词形式",
+  "hint": "用 touch 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:75"
+ },
+ {
+  "id": "WF1478",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "If the bell had been louder, we might have ____ it from the garden. A wall separated our work area from the courtyard where the signal sounded.",
+  "cn": "要是铃声再响点，我们在花园里或许就听见了。我们工作的地方与响铃的庭院之间隔着一堵墙。",
+  "slots": [
+   [
+    "heard"
+   ]
+  ],
+  "why": "might have 后用过去分词 heard。完整表达：If the bell had been louder, we might have heard it from the garden. A wall separated our work area from the courtyard where the signal sounded.",
+  "point": "语境中的动词形式",
+  "hint": "用 hear 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:76"
+ },
+ {
+  "id": "WF1479",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The museum postponed ____ the exhibition until the labels arrived. A beautiful display would tell visitors little if they could not identify the objects.",
+  "cn": "博物馆把展览开幕推迟到标签到达以后。若参观者认不出展品，再漂亮的展陈也传递不了多少信息。",
+  "slots": [
+   [
+    "opening"
+   ]
+  ],
+  "why": "postpone 后用动名词。完整表达：The museum postponed opening the exhibition until the labels arrived. A beautiful display would tell visitors little if they could not identify the objects.",
+  "point": "语境中的动词形式",
+  "hint": "用 open 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:77"
+ },
+ {
+  "id": "WF1480",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "A letter ____ in pencil was hard to photograph. The archivist changed the angle of the lamp instead of writing over the faint lines.",
+  "cn": "一封铅笔写的信很难拍清。档案管理员调整了灯的角度，没有描重那些淡淡的字迹。",
+  "slots": [
+   [
+    "written"
+   ]
+  ],
+  "why": "letter 与 write 关系为被动，过去分词作定语。完整表达：A letter written in pencil was hard to photograph. The archivist changed the angle of the lamp instead of writing over the faint lines.",
+  "point": "语境中的动词形式",
+  "hint": "用 write 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:78"
+ },
+ {
+  "id": "WF1481",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The club is considering ____ a late session. Its survey asked about the preferred timeslot, but only members of the morning group answered.",
+  "cn": "俱乐部在考虑加开晚场。问卷询问大家喜欢的时段，但只有晨间组成员作答。",
+  "slots": [
+   [
+    "adding"
+   ]
+  ],
+  "why": "consider 后接动名词。完整表达：The club is considering adding a late session. Its survey asked about the preferred timeslot, but only members of the morning group answered.",
+  "point": "语境中的动词形式",
+  "hint": "用 add 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:79"
+ },
+ {
+  "id": "WF1482",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The sign was large enough ____ from the opposite pavement. Its bold arrow, however, pointed toward an entrance closed for repairs.",
+  "cn": "标牌大得足以从对面人行道读清。可是粗粗的箭头指向一个因维修而关闭的入口。",
+  "slots": [
+   [
+    "to read"
+   ]
+  ],
+  "why": "enough to do 表示足够达到某种程度。完整表达：The sign was large enough to read from the opposite pavement. Its bold arrow, however, pointed toward an entrance closed for repairs.",
+  "point": "语境中的动词形式",
+  "hint": "用 read 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:80"
+ },
+ {
+  "id": "WF1483",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "By noon, the workers had ____ the floor tiles near the window. A narrow barrier kept people off the surface until it was safe to walk on.",
+  "cn": "到中午时，工人已铺好窗边的地砖。一道窄隔栏拦住行人，直到地面可以安全踩踏。",
+  "slots": [
+   [
+    "laid"
+   ]
+  ],
+  "why": "lay 表示铺设，过去分词是 laid。完整表达：By noon, the workers had laid the floor tiles near the window. A narrow barrier kept people off the surface until it was safe to walk on.",
+  "point": "语境中的动词形式",
+  "hint": "用 lay 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:81"
+ },
+ {
+  "id": "WF1484",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The captain denied ____ the result. She showed the original scorecard, where both teams had signed below the final score.",
+  "cn": "队长否认改过比赛结果。她出示了原始记分卡，两队都在最终比分下签了名。",
+  "slots": [
+   [
+    "changing"
+   ]
+  ],
+  "why": "deny 后接动名词。完整表达：The captain denied changing the result. She showed the original scorecard, where both teams had signed below the final score.",
+  "point": "语境中的动词形式",
+  "hint": "用 change 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:82"
+ },
+ {
+  "id": "WF1485",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The book is said ____ an extra chapter. We checked the contents of two editions and found the new title only in the later one.",
+  "cn": "据说这本书多了一章。我们查了两个版本的目录，只在较晚的一版看到了新标题。",
+  "slots": [
+   [
+    "to contain"
+   ]
+  ],
+  "why": "is said to do 表示据说某物具有某特征。完整表达：The book is said to contain an extra chapter. We checked the contents of two editions and found the new title only in the later one.",
+  "point": "语境中的动词形式",
+  "hint": "用 contain 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:83"
+ },
+ {
+  "id": "WF1486",
+  "level": 4,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Hardly had the doors ____ when the queue divided. One line led to ticket sales and the other to the entrance for people who had booked.",
+  "cn": "门刚开，队伍就分成两列。一列通往售票处，另一列通往已订票者的入口。",
+  "slots": [
+   [
+    "opened"
+   ]
+  ],
+  "why": "hardly had 加主语和过去分词，后接 when。完整表达：Hardly had the doors opened when the queue divided. One line led to ticket sales and the other to the entrance for people who had booked.",
+  "point": "语境中的动词形式",
+  "hint": "用 open 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:84"
+ },
+ {
+  "id": "WF1487",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Were the clock ____, the count would continue but the times would be lost. The second counter records entries without recording when they happen.",
+  "cn": "假设时钟停了，计数会继续，但具体时间会丢失。第二个计数器只记到访次数，不记发生时间。",
+  "slots": [
+   [
+    "to stop"
+   ]
+  ],
+  "why": "were 加主语加 to do 构成假设倒装。完整表达：Were the clock to stop, the count would continue but the times would be lost. The second counter records entries without recording when they happen.",
+  "point": "语境中的动词形式",
+  "hint": "用 stop 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:86"
+ },
+ {
+  "id": "WF1488",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The map was useful despite ____ no scale. It showed the order of the stops, but no traveler could use it to estimate the distance between them.",
+  "cn": "地图虽没有比例尺，仍有用。它能显示站点顺序，却不能据此估算站间距离。",
+  "slots": [
+   [
+    "having"
+   ]
+  ],
+  "why": "despite 是介词，后接动名词。完整表达：The map was useful despite having no scale. It showed the order of the stops, but no traveler could use it to estimate the distance between them.",
+  "point": "语境中的动词形式",
+  "hint": "用 have 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:87"
+ },
+ {
+  "id": "WF1489",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The editor regrets ____ the first sentence. Without that opening, the final pronoun seems to refer to a different person.",
+  "cn": "编辑后悔删掉了第一句。没有那个开头，最后的代词似乎指向了另一个人。",
+  "slots": [
+   [
+    "removing"
+   ]
+  ],
+  "why": "regret doing 表示后悔已经做过的事。完整表达：The editor regrets removing the first sentence. Without that opening, the final pronoun seems to refer to a different person.",
+  "point": "语境中的动词形式",
+  "hint": "用 remove 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:88"
+ },
+ {
+  "id": "WF1490",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "What mattered most was not how high the tower stood but whether it ____ upright on a moving board. The tallest structure fell during the first shake.",
+  "cn": "最重要的并非塔有多高，而是它能否在晃动的板上立住。最高的结构体在第一次晃动时就倒了。",
+  "slots": [
+   [
+    "remained"
+   ]
+  ],
+  "why": "在过去的评判情境中，whether 从句用一般过去时。完整表达：What mattered most was not how high the tower stood but whether it remained upright on a moving board. The tallest structure fell during the first shake.",
+  "point": "语境中的动词形式",
+  "hint": "用 remain 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:89"
+ },
+ {
+  "id": "WF1491",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The review could have been ____ sooner if every page had carried a date. The missing timestamp made two otherwise similar drafts hard to put in order.",
+  "cn": "要是每一页都有日期，审阅工作本可以更早完成。缺少时间标记使两份很相似的草稿难以排序。",
+  "slots": [
+   [
+    "completed"
+   ]
+  ],
+  "why": "could have been 后用过去分词构成被动。完整表达：The review could have been completed sooner if every page had carried a date. The missing timestamp made two otherwise similar drafts hard to put in order.",
+  "point": "语境中的动词形式",
+  "hint": "用 complete 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:90"
+ },
+ {
+  "id": "WF1492",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The judge asked that the final round ____ held behind a screen. An instrument's tone would then guide the decision without the player's name influencing it.",
+  "cn": "评委要求决赛在屏风后进行。这样就能按乐器音色评判，演奏者的姓名不会影响决定。",
+  "slots": [
+   [
+    "be"
+   ]
+  ],
+  "why": "ask that 表示要求时，美式虚拟语气用动词原形。完整表达：The judge asked that the final round be held behind a screen. An instrument's tone would then guide the decision without the player's name influencing it.",
+  "point": "语境中的动词形式",
+  "hint": "用 be 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:91"
+ },
+ {
+  "id": "WF1493",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The higher the shelf, the ____ it was for younger readers to reach. Moving the same titles down increased their circulation without adding a single new book.",
+  "cn": "书架越高，小读者越难够到。把同样的书移到低处后，即便新书一本也没加，借阅量仍增加了。",
+  "slots": [
+   [
+    "harder"
+   ]
+  ],
+  "why": "the 加比较级与 the 加比较级表达同步变化。完整表达：The higher the shelf, the harder it was for younger readers to reach. Moving the same titles down increased their circulation without adding a single new book.",
+  "point": "语境中的动词形式",
+  "hint": "用 hard 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:92"
+ },
+ {
+  "id": "WF1494",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Without the second observer, the class might have ____ a brief pause in the recording. Her transcript marked the silence as carefully as the spoken words.",
+  "cn": "如果没有第二位观察者，全班可能会漏掉录音里一次短暂停顿。她在文字记录中把静默标得和说出的词一样仔细。",
+  "slots": [
+   [
+    "missed"
+   ]
+  ],
+  "why": "might have 后接过去分词，表示过去本可能发生的结果。完整表达：Without the second observer, the class might have missed a brief pause in the recording. Her transcript marked the silence as carefully as the spoken words.",
+  "point": "语境中的动词形式",
+  "hint": "用 miss 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:93"
+ },
+ {
+  "id": "WF1495",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "With the audience ____, the guide dimmed the lights. The first slide was deliberately blank so everyone could notice how quickly the room darkened.",
+  "cn": "观众就座后，讲解员调暗灯光。第一张幻灯片故意留白，好让大家留意房间变暗的速度。",
+  "slots": [
+   [
+    "seated"
+   ]
+  ],
+  "why": "with 加宾语和过去分词，表示观众已经就座。完整表达：With the audience seated, the guide dimmed the lights. The first slide was deliberately blank so everyone could notice how quickly the room darkened.",
+  "point": "语境中的动词形式",
+  "hint": "用 seat 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:94"
+ },
+ {
+  "id": "WF1496",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The committee opposed ____ the clubs by total attendance alone. A large venue could admit more people even if the smaller event filled every seat.",
+  "cn": "委员会反对仅按总到场人数给社团排名。大场地能容纳更多人，即使小场地座无虚席也是如此。",
+  "slots": [
+   [
+    "ranking"
+   ]
+  ],
+  "why": "oppose 后接动名词。完整表达：The committee opposed ranking the clubs by total attendance alone. A large venue could admit more people even if the smaller event filled every seat.",
+  "point": "语境中的动词形式",
+  "hint": "用 rank 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:95"
+ },
+ {
+  "id": "WF1497",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The error was not discovered until all the cards had been ____ by color. One category appeared empty because its blue label had faded almost to gray.",
+  "cn": "直到所有卡片按颜色分完，错误才被发现。有一类看似空着，是因为它的蓝标签已褪得近乎灰色。",
+  "slots": [
+   [
+    "sorted"
+   ]
+  ],
+  "why": "had been 后用过去分词。完整表达：The error was not discovered until all the cards had been sorted by color. One category appeared empty because its blue label had faded almost to gray.",
+  "point": "语境中的动词形式",
+  "hint": "用 sort 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:96"
+ },
+ {
+  "id": "WF1498",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The volunteer recalled ____ a crack before the frame was moved. Her dated photograph supported the sequence of events but did not explain what caused the damage.",
+  "cn": "志愿者记得画框搬动前就见过裂纹。带日期的照片支持这一事件顺序，却不能解释损伤的原因。",
+  "slots": [
+   [
+    "seeing"
+   ]
+  ],
+  "why": "recall doing 表示记得曾做过某事。完整表达：The volunteer recalled seeing a crack before the frame was moved. Her dated photograph supported the sequence of events but did not explain what caused the damage.",
+  "point": "语境中的动词形式",
+  "hint": "用 see 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:97"
+ },
+ {
+  "id": "WF1499",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Only by checking the names could we ____ two prizes with identical covers. The gold seal on each was the same, although the achievements being recognized were quite different.",
+  "cn": "只有核对名字，我们才能区分两份封面相同的奖状。两者的金色印章一模一样，表彰的成就却很不同。",
+  "slots": [
+   [
+    "distinguish"
+   ]
+  ],
+  "why": "情态动词 could 后接动词原形。完整表达：Only by checking the names could we distinguish two prizes with identical covers. The gold seal on each was the same, although the achievements being recognized were quite different.",
+  "point": "语境中的动词形式",
+  "hint": "用 distinguish 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:98"
+ },
+ {
+  "id": "WF1500",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "Had the group measured only speed, it would have ____ the first route. The second route, however, offered a level surface throughout, which mattered more to the wheelchair users.",
+  "cn": "若只衡量速度，小组会选择第一条路线。不过第二条全程路面平坦，对轮椅使用者更重要。",
+  "slots": [
+   [
+    "selected"
+   ]
+  ],
+  "why": "would have 后用过去分词。完整表达：Had the group measured only speed, it would have selected the first route. The second route, however, offered a level surface throughout, which mattered more to the wheelchair users.",
+  "point": "语境中的动词形式",
+  "hint": "用 select 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:99"
+ },
+ {
+  "id": "WF1501",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The author revised the ending to avoid ____ that one trial settled the question. A final paragraph now describes conditions under which the result might change.",
+  "cn": "作者修改了结尾，以免暗示一次试验就能解决问题。如今最后一段描述了结果可能发生变化的条件。",
+  "slots": [
+   [
+    "implying"
+   ]
+  ],
+  "why": "avoid 后接动名词，imply 直接加 ing。完整表达：The author revised the ending to avoid implying that one trial settled the question. A final paragraph now describes conditions under which the result might change.",
+  "point": "语境中的动词形式",
+  "hint": "用 imply 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:100"
+ },
+ {
+  "id": "WF1502",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The old drawer seemed ____ until the carpenter tried to close it. A small ridge at the back caught on the frame only in the last centimeter.",
+  "cn": "旧抽屉看似正合适，直到木匠尝试把它关上。背面一道小凸棱只有到最后一厘米才会卡住框架。",
+  "slots": [
+   [
+    "to fit"
+   ]
+  ],
+  "why": "seem 后用不定式，描述当时的表面情况。完整表达：The old drawer seemed to fit until the carpenter tried to close it. A small ridge at the back caught on the frame only in the last centimeter.",
+  "point": "语境中的动词形式",
+  "hint": "用 fit 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:101"
+ },
+ {
+  "id": "WF1503",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "No sooner had the speaker ____ than a hand went up. The student's question concerned an assumption in the example, not the numerical answer on the board.",
+  "cn": "讲者刚停顿，就有人举手。学生问的是例子中的一个假设，而非黑板上的数值答案。",
+  "slots": [
+   [
+    "paused"
+   ]
+  ],
+  "why": "had 加过去分词，与 than 呼应。完整表达：No sooner had the speaker paused than a hand went up. The student's question concerned an assumption in the example, not the numerical answer on the board.",
+  "point": "语境中的动词形式",
+  "hint": "用 pause 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:102"
+ },
+ {
+  "id": "WF1504",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The applicants were asked ____ a decision they had changed. The interviewers valued a clear reason for reconsidering more than an impressive first answer.",
+  "cn": "申请人被要求描述一个自己曾修改过的决定。面试官更看重重新考虑的明确原因，而不是漂亮的最初答案。",
+  "slots": [
+   [
+    "to describe"
+   ]
+  ],
+  "why": "ask 的被动形式后用不定式。完整表达：The applicants were asked to describe a decision they had changed. The interviewers valued a clear reason for reconsidering more than an impressive first answer.",
+  "point": "语境中的动词形式",
+  "hint": "用 describe 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:103"
+ },
+ {
+  "id": "WF1505",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "What began as a list of repairs has ____ into a history of the house. In the margin beside each cost, the owner wrote who had helped and why the work mattered.",
+  "cn": "起初只是一张修缮清单，如今已成了房子的历史。主人在每笔花费旁的页边空白写下谁来帮忙，以及这项工作为何重要。",
+  "slots": [
+   [
+    "grown"
+   ]
+  ],
+  "why": "has 后接过去分词 grown。完整表达：What began as a list of repairs has grown into a history of the house. In the margin beside each cost, the owner wrote who had helped and why the work mattered.",
+  "point": "语境中的动词形式",
+  "hint": "用 grow 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:104"
+ },
+ {
+  "id": "WF1506",
+  "level": 5,
+  "cat": "动词与句法",
+  "kind": "动词变形",
+  "text": "The notice was revised after a visitor asked whether children were ____ in the limit of six. The new wording says six people of any age, leaving less room for argument.",
+  "cn": "有访客询问六人上限是否包括儿童后，通知作了修改。新措辞写明任何年龄的人合计六位，减少了争议空间。",
+  "slots": [
+   [
+    "included"
+   ]
+  ],
+  "why": "children 与 include 构成被动关系，用过去分词。完整表达：The notice was revised after a visitor asked whether children were included in the limit of six. The new wording says six people of any age, leaving less room for argument.",
+  "point": "语境中的动词形式",
+  "hint": "用 include 的适当形式补全。可填多个词。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "scenes:105"
+ }
+]

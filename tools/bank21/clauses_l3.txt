@@ -1,0 +1,56 @@
+# 情态被动与非谓语
+Every borrowed tablet must ____ to the desk by four.|每台借出的平板电脑都必须在四点前归还到服务台。|be returned|return / be returning it / have return|情态动词的被动式|tablet 是被归还的东西，must 后接 be returned。|must return 会让平板电脑变成执行归还动作的主体。
+The receipt should ____ until the repair is complete.|维修结束前应当留好收据。|be kept|@用 keep 的被动形式填空|should be done|收据需要被保留，should 后用 be 加 kept。|kept 本身不能紧跟 should 表示被动。
+This task can ____ into two shorter steps.|这个任务可以分成两个较短的步骤。|be divided|@用 divide 的被动形式填空|can 加被动|task 承受 divide 的动作，写作 can be divided into。|不要漏掉被动标志 be。
+Look at the footprints. Someone must ____ in the garden right now; I can hear tools.|看这些脚印。此刻肯定有人正在花园里干活，我听见工具声了。|be working|@用 work 表达「此刻正在做」|对正在进行的动作推测|right now 和工具声说明动作正进行，用 must be working。|must work 也可表示义务，不能突出进行中的动作。
+That ____ be our bus; ours has a red stripe, and this one is all white.|那不可能是我们的公交车，我们那辆有红条纹，这辆却全白。|can't|must / should certainly / needs to|否定推测|车身特征不符，可以强烈否定推测，用 can't be。|mustn't 通常表示禁止，不用来表达这种「不可能」。
+The bus leaves in ten minutes. We ____ miss it if we stop for snacks.|公交车十分钟后开。我们如果停下来买零食，可能会错过它。|may|are able / ought / were used to|may 表示可能结果|if 从句给出一种情况，may miss 表示可能出现的结果。|ought 后面如接动作需要 to，而且表示「应当」。
+Visitors ____ show ID at reception; it is required, even for short visits.|来客必须在前台出示证件，哪怕只短暂停留也有此要求。|have to|might perhaps / used to / would rather|客观要求|it is required 说明这是客观规定，复数 visitors 后用 have to。|might 表示可能，与明确规定的语气不同。
+You ____ have rehearsed more; the middle part sounded uncertain.|你本应该多排练一下，中间那段听起来没把握。|should|will certainly / were / can to|should have done|排练发生在演出之前，说话人现在提出对过去的改进意见。|should rehearse 指现在或以后的建议，时间不同。
+The lights in his flat were on all evening. He ____ have been home, but I didn't check.|他公寓的灯亮了一晚上。他可能在家，但我没去确认。|might|had to certainly / is / did|对过去的可能推测|灯亮只是线索，might have been 表示过去有这种可能。|不要把不确定的线索直接当成肯定结论。
+We were able ____ the last two boxes before the lift stopped.|电梯停运前，我们成功搬完了最后两箱。|to move|@用 move 的正确形式填空|be able to 表成功做到|were able to move 描写一次具体情况下实际完成的行动。|able 后的动词需要用带 to 的不定式。
+The town hall ____ repaired at the moment, so the meeting is elsewhere.|市政厅目前正在维修，所以会议改在别处。|is being|=在 repaired 前填入现在进行时被动语态缺少的部分|正在进行的被动动作|修理正在进行，hall 是接受修理的单数事物，结构为 is being repaired。|is repaired 常表示状态或常规，未突出正在施工。
+The new signs ____ been put up already; follow the arrows.|新路牌已经装好了，照箭头走。|have|has / are / were|现在完成时被动|already 表示动作已完成，复数 signs 配 have been put up。|被动结构中的 been 前仍要与主语作数的一致。
+The tickets were ____ online within an hour.|票在一小时内就在网上售出了。|sold|@用 sell 的正确形式填空|sell 的被动|tickets 承受出售的动作，were 后接过去分词 sold。|sell 的过去分词不是 selled。
+The new sports hall will ____ next March.|新体育馆将于明年三月竣工。|be completed|@用 complete 的被动形式填空|将来时被动|will 后用 be completed 表示体育馆将被建成。|will complete 更像主语自己去完成别的事。
+They noticed the date had been ____ incorrectly on the poster.|他们注意到海报上的日期被印错了。|printed|@用 print 的正确形式填空|had been 加过去分词|印错日期发生在 noticed 之前，已有 had been，只需填过去分词。|不要在空内重复填写 been。
+The artist avoided ____ the wet corner of the canvas.|画家避开了画布上湿的那一角，没有碰它。|touching|@用 touch 的正确形式填空|avoid doing|avoid 后用动名词，touching 表示要避开的行为。|不要写 avoid to touch。
+I look forward to ____ the paper lanterns at night.|我期待在夜里看那些纸灯笼。|seeing|@用 see 的正确形式填空|介词 to 后接动名词|look forward to 中 to 是介词，因此后接 seeing。|不要把所有 to 都当作不定式符号。
+Could you remind me ____ the plants before we lock up?|关门之前你能提醒我给植物浇水吗？|to water|@用 water 的正确形式填空|remind somebody to do|remind me 后面接待办动作 to water。|remind somebody of something 是提醒人想起某事，含义不同。
+Theo suggested ____ a shorter title for the poster.|西奥建议给海报选个短些的标题。|choosing|@用 choose 的正确形式填空|suggest doing|suggest 后可以直接接 doing 表示建议的活动。|不要用 suggest to choose 这一结构。
+At first I was nervous, but now I am used to ____ in front of a group.|起初我紧张，现在已习惯在一群人面前讲话了。|speaking|@用 speak 的正确形式填空|be used to doing|am used to 表示已习惯，此处的 to 是介词。|used to speak 表示过去常讲话，少了 am 时意义不同。
+We used to ____ the afternoon train, but now we travel by coach.|我们过去常坐下午那班火车，现在改乘长途客车。|take|@用 take 的正确形式填空|used to do|过去的习惯现已改变，用 used to 加原形 take。|不要与 be used to taking「习惯于乘坐」混淆。
+I could hear a tap ____ steadily while I lay awake.|我躺着睡不着时，能听见水龙头一直滴水。|dripping|@用 drip 的 -ing 形式突出持续过程|感知动词加现在分词|hear a tap dripping 把注意力放在持续听见的过程上。|drip 是重读闭音节，写 dripping 时双写 p。
+The guard saw the cyclist ____ a full circle and return to the gate.|警卫看见骑车人完整地绕了一圈，又回到门口。|ride|@用 ride 的原形，配合后面并列的 return|感知动词加原形|saw the cyclist ride…and return…把两个动作作为完整经过来描述。|ride 与 return 在此并列，不能一处加 to 一处不加。
+I'd rather ____ a simple meal at home than queue for an hour.|我宁愿在家做顿简单的饭，也不想排一小时的队。|cook|@用 cook 的正确形式填空|would rather do than do|would rather 和 than 后的并列动作都用原形，故填 cook。|不要把 would rather 与 would prefer to 的形式混用。
+Sorting the bottles first makes them easier ____ later.|先把瓶子分类，之后就更容易回收。|to recycle|@用 recycle 的正确形式填空|形容词加不定式|easier 后用 to recycle；them 已经指瓶子，是 recycle 的对象。|不要在 recycle 后再写 them。
+Rewrite using was told: The coach told Alex to slow down. → Alex ____ down by the coach.|教练叫亚历克斯放慢速度。|was told to slow|!填改写所需的部分，保留原动词|带不定式宾补的被动转换|把 Alex 放到主语位置，用 was told，原来的 to slow down 保留。|不能把 to slow 写成 slowing，否则结构不一致。
+Use without: She didn't open the envelope before she returned it. → She returned the envelope without ____ it.|她没有拆信封就把它退回了。|opening|!把 open 变为适合 without 的形式|介词后的动作|without 是介词，后接动名词 opening，it 指 the envelope。|without 不能直接跟 open 原形构成此短语。
+The cupboard is full. There is no space left ____ another box.|柜子满了，没有空间再存一个箱子。|to store|@用 store 的不定式说明空间的用途|不定式说明用途|to store another box 修饰 space，说明「用来存放箱子的空间」。|不要把 left 当成要求过去式的时间标记。
+Choose both natural completions: You ____ park in front of the fire exit. It's forbidden.|消防出口前禁止停车，选出两种表示禁止的补全方式。|must not & are not allowed to|+don't need to / are encouraged to|两种禁止表达|must not 和 are not allowed to 都明确不给予停车许可。|don't need to 只说没必要，不能表达禁止。
+Select both correct ways to describe a poster in progress.|选出两句能正确描述「海报正在绘制中」的句子。|Maya is drawing the poster. & The poster is being drawn by Maya.|+The poster is drawing Maya. / The poster has already been drawn.|进行时主被动对应|主动句用 is drawing，被动句中 poster 成为主语，用 is being drawn。|already been drawn 表示已绘制完成，而不是正在画。
+# 从句与连接词
+The box that ____ the spare cables is marked in green.|装着备用电缆的那个箱子有绿色标记。|holds|@用 hold 的一般现在时填空|关系从句中的一致|that 指单数 box，是 holds 的主语；cables 是宾语。|不能受复数 cables 影响而写 hold。
+The two volunteers who ____ the reading club live nearby.|经营这个读书会的两位志愿者都住在附近。|run|@用 run 的一般现在时填空|先行词与从句谓语|who 回指 two volunteers，所以用复数主语所配的 run。|读书会 club 虽是单数，但只是 run 的宾语。
+That's the bakery ____ we bought the star-shaped rolls.|那是我们买到星形面包卷的面包店。|where|which shop that / whose / what|where 在从句中作地点状语|we bought the rolls 的成分完整，空格补充在这家店的地点关系。|不能只因 bakery 是物就选作主语或宾语的 which。
+I still have the card ____ you sent me from the lake.|我仍然保存着你从湖边寄给我的卡片。|that / which|=填一个关系代词，不能省略空格|指物作宾语|sent me 后缺所寄的物品，that 或 which 代替 the card。|where 表地点，不能代替 send 的直接宾语。
+Friday was the day ____ the new ferry first sailed.|星期五是新渡轮首次航行的那一天。|when|whose / how many / who|when 表时间关系|the new ferry first sailed 已完整，when 相当于 on which，说明航行时间。|whose 表所属，后面通常会有被修饰的名词。
+The cyclist to ____ I lent my pump waved at me.|我把气筒借给的那位骑车人向我招了招手。|whom|whoever's / that / whose|介词前置指人|to 已前置，正式用法是 to whom，表示借气筒的对象。|that 不能直接跟在这个前置介词之后。
+I wonder ____ the lockers are big enough for our coats.|我想知道储物柜是否大到能放下我们的外套。|whether / if|=填一个表示「是否」的连词|一般疑问句作宾语|whether 和 if 都能在 wonder 后引出「是否」的问题。|不要改为 whether are the lockers 的倒装语序。
+She hasn't decided ____ or not to enter the contest.|她还没决定是否参加比赛。|whether|if / that / although|whether or not to do|whether 可以紧接 or not 和不定式，表达两种可能的选择。|if 不直接用于 if or not to enter 这种结构。
+Could you tell me how often the express bus ____ here?|你能告诉我快速公交多久在这里停一次吗？|stops|@用 stop 的一般现在时填空|频率间接问句|从句主语 the express bus 是单数，频率问题用一般现在时 stops。|外层的 Could 并不要求这趟公交改用过去时。
+I didn't realize ____ heavy the empty case was until I lifted it.|直到抬起来我才意识到这个空箱子有多重。|how|what / that a / which kind|how 加形容词|how heavy 表示重量达到的程度；后面用 the empty case was 的陈述语序。|what 不直接修饰 heavy 这个形容词。
+Neither the missing glove ____ the scarf was in the basket.|丢失的手套和围巾都不在篮子里。|nor|or / and / but also|neither…nor…|neither 和 nor 搭配，把 glove 和 scarf 两项同时否定。|不能把 neither 与 either…or 的后半部分混在一起。
+Either put the files back now ____ take them home to finish.|要么现在把文件放回去，要么带回家完成。|or|nor / but / and also|either…or…|either 和 or 连接两个并列祈使动作 put 与 take。|nor 常与 neither 搭配，这里不表示两者都不做。
+Not only the students ____ also their tutor joined the clean-up.|不只有学生，他们的导师也参加了清扫。|but|=补全 not only… also… 中缺少的一词|not only…but also…|but 构成第二部分 but also，引出同样参加的人。|不要把 but also 换成表示相反意思的 but not。
+The campsite was quiet ____ a few geese called from the lake.（表示「除了……这一点」。）|除了湖上传来几声雁叫，营地很安静。|except that|so that / in case / even if|except that 加分句|a few geese called 是完整分句，用 except that 引出例外。|except for 后通常接名词短语，不能直接接这个分句。
+We will start the game ____ everyone has a partner.|等每个人都有搭档了，我们就开始游戏。|once|although / whereas / because of|once 表条件兼时间|先具备人人有搭档的条件，接着开始游戏，用 once 表示「一旦」。|whereas 是对比，不表达先决条件。
+Even ____ the sign is faded, you can still read the numbers.|尽管标牌褪色了，你仍能看清上面的数字。|though|=补成 even 开头表示事实让步的连词|even though 表事实让步|标牌褪色是已知事实，even though 表示尽管如此仍能看清。|even if 更侧重假设；题干要求事实让步。
+Keep the drawing flat ____ the ink dries completely.|在墨水完全干透之前，一直把画平放着。|until / till|=填表示动作持续终点的连词|持续动作与 until|keep flat 表状态持续，dry completely 是这一要求的终点。|不要将两个动作理解为同时开始又同时结束。
+I turned the key twice, ____ the drawer still wouldn't open.|我把钥匙转了两次，可抽屉仍打不开。|yet|for example / so / as a result|yet 表让步转折|转动钥匙本应打开抽屉，still 表明预期落空，因此用 yet。|as a result 表示顺理成章的结果，不能突出出乎意料。
+There was so little room ____ we had to leave a chair outside.|地方小得我们只好把一把椅子留在外面。|that|=补全表示结果的 so little… 结构|so little…that…|room 表空间，是不可数名词。so little room that…说明空间少所造成的后果。|不能因为后面有名词就机械改用 such little。
+Rewrite using as soon as: She heard the whistle and immediately stopped rowing. → She stopped rowing ____ she heard the whistle.|她一听到哨声就停止划桨。|as soon as|!用题干指定的连接语表达紧接着发生|表示紧接发生|as soon as 将听见哨声和停桨连接起来，保留 immediately 的紧接意味。|仅用 after 不能同样明确地表达「马上」。
+Rewrite with although: The bag looked small, but it held all my books. → ____ the bag looked small, it held all my books.|尽管包看起来小，却装下了我所有的书。|Although|!以指定连词开头合并两句|转折改为让步从句|用 Although 引导外观小这一让步情况，主句表达实际容量。|主句不再重复写 but。
+Select both relatives that can fill the gap: The bell ____ hangs above the door is brass.|门上方悬着的铃是黄铜制的。选出都能填入的关系代词。|that & which|+whom / whose|指物主语关系代词|that 和 which 都能在限定性从句里指 bell 并作 hangs 的主语。|whom 指人作宾语；whose 需要表所属关系。
+Which two statements report the question “Where is the platform?” correctly?|哪两句话都能正确转述「站台在哪里？」这个问题？|He asked where the platform was. & She wants to know where the platform is.|+He asked where was the platform. / She wants to know where is the platform.|转述疑问句的语序|过去和现在的转述都使用主语 the platform 在 be 之前的顺序。|不要把直接问句中的倒装保留在宾语从句中。
+My sister draws maps, ____ I prefer taking photos. We record trips differently.|姐姐画地图，而我更喜欢拍照，我们记录旅行的方式不同。|whereas|because / so that / unless|whereas 表对比|两种记录方式并列比较，whereas 用于引出对照项。|because 会把其中一个人的偏好解释为另一个人行为的原因。

@@ -1,0 +1,6024 @@
+[
+ {
+  "id": "WF1807",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我弟弟把那条红鱼叫作佩珀。",
+  "cn": "我弟弟把那条红鱼叫作佩珀。",
+  "slots": [
+   [
+    "My little brother"
+   ],
+   [
+    "calls"
+   ],
+   [
+    "the red fish"
+   ],
+   [
+    "Pepper."
+   ]
+  ],
+  "why": "call 后先放被命名的对象，再放名字。原句：My little brother calls the red fish Pepper.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "My little brother",
+   "the red fish",
+   "Pepper.",
+   "calls"
+  ],
+  "source": "sequence:2"
+ },
+ {
+  "id": "WF1808",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：水槽里有一只纸船。",
+  "cn": "水槽里有一只纸船。",
+  "slots": [
+   [
+    "There"
+   ],
+   [
+    "is"
+   ],
+   [
+    "a paper boat"
+   ],
+   [
+    "in the sink."
+   ]
+  ],
+  "why": "there be 后接存在的事物和地点。原句：There is a paper boat in the sink.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "in the sink.",
+   "a paper boat",
+   "There",
+   "is"
+  ],
+  "source": "sequence:3"
+ },
+ {
+  "id": "WF1809",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：你的新表能显示日期吗？",
+  "cn": "你的新表能显示日期吗？",
+  "slots": [
+   [
+    "Does"
+   ],
+   [
+    "your new watch"
+   ],
+   [
+    "show"
+   ],
+   [
+    "the date?"
+   ]
+  ],
+  "why": "一般疑问句 does 在主语前，实义动词用原形。原句：Does your new watch show the date?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "show",
+   "the date?",
+   "your new watch",
+   "Does"
+  ],
+  "source": "sequence:4"
+ },
+ {
+  "id": "WF1810",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：请把小钥匙留在挂钩上。",
+  "cn": "请把小钥匙留在挂钩上。",
+  "slots": [
+   [
+    "Please"
+   ],
+   [
+    "leave"
+   ],
+   [
+    "the small key"
+   ],
+   [
+    "on the hook."
+   ]
+  ],
+  "why": "祈使句中 leave 后先放物品，再放地点。原句：Please leave the small key on the hook.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Please",
+   "the small key",
+   "leave",
+   "on the hook."
+  ],
+  "source": "sequence:5"
+ },
+ {
+  "id": "WF1811",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：戴黄帽子的男孩是我们的守门员。",
+  "cn": "戴黄帽子的男孩是我们的守门员。",
+  "slots": [
+   [
+    "The boy"
+   ],
+   [
+    "with the yellow cap"
+   ],
+   [
+    "is"
+   ],
+   [
+    "our goalkeeper."
+   ]
+  ],
+  "why": "with 短语紧接被修饰的 boy。原句：The boy with the yellow cap is our goalkeeper.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "with the yellow cap",
+   "The boy",
+   "is",
+   "our goalkeeper."
+  ],
+  "source": "sequence:6"
+ },
+ {
+  "id": "WF1812",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我们需要多少个干净杯子？",
+  "cn": "我们需要多少个干净杯子？",
+  "slots": [
+   [
+    "How many"
+   ],
+   [
+    "clean cups"
+   ],
+   [
+    "do"
+   ],
+   [
+    "we need?"
+   ]
+  ],
+  "why": "how many 与复数名词组成疑问部分。原句：How many clean cups do we need?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "clean cups",
+   "do",
+   "we need?",
+   "How many"
+  ],
+  "source": "sequence:7"
+ },
+ {
+  "id": "WF1813",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我能听见窗外的鸟叫。",
+  "cn": "我能听见窗外的鸟叫。",
+  "slots": [
+   [
+    "I"
+   ],
+   [
+    "can hear"
+   ],
+   [
+    "the birds"
+   ],
+   [
+    "outside my window."
+   ]
+  ],
+  "why": "情态动词与动词原形一起构成谓语。原句：I can hear the birds outside my window.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "outside my window.",
+   "can hear",
+   "I",
+   "the birds"
+  ],
+  "source": "sequence:8"
+ },
+ {
+  "id": "WF1814",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这条小路在哪里结束？",
+  "cn": "这条小路在哪里结束？",
+  "slots": [
+   [
+    "Where"
+   ],
+   [
+    "does"
+   ],
+   [
+    "this little path"
+   ],
+   [
+    "end?"
+   ]
+  ],
+  "why": "疑问词后按助动词、主语、动词原形排列。原句：Where does this little path end?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "end?",
+   "this little path",
+   "Where",
+   "does"
+  ],
+  "source": "sequence:9"
+ },
+ {
+  "id": "WF1815",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：那是我姨妈的旧冰鞋。",
+  "cn": "那是我姨妈的旧冰鞋。",
+  "slots": [
+   [
+    "Those"
+   ],
+   [
+    "are"
+   ],
+   [
+    "my aunt's"
+   ],
+   [
+    "old skates."
+   ]
+  ],
+  "why": "所有格与形容词一起放在名词前。原句：Those are my aunt's old skates.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "my aunt's",
+   "are",
+   "Those",
+   "old skates."
+  ],
+  "source": "sequence:10"
+ },
+ {
+  "id": "WF1816",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：把空瓶子放回箱子里。",
+  "cn": "把空瓶子放回箱子里。",
+  "slots": [
+   [
+    "Put"
+   ],
+   [
+    "the empty bottles"
+   ],
+   [
+    "back"
+   ],
+   [
+    "in the box."
+   ]
+  ],
+  "why": "put 的宾语后接 back 和目的地。原句：Put the empty bottles back in the box.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "back",
+   "in the box.",
+   "the empty bottles",
+   "Put"
+  ],
+  "source": "sequence:11"
+ },
+ {
+  "id": "WF1817",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我表妹正在学做饭团。",
+  "cn": "我表妹正在学做饭团。",
+  "slots": [
+   [
+    "My cousin"
+   ],
+   [
+    "is learning"
+   ],
+   [
+    "to make"
+   ],
+   [
+    "rice balls."
+   ]
+  ],
+  "why": "learn to do 中不定式说明正在学什么。原句：My cousin is learning to make rice balls.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "rice balls.",
+   "is learning",
+   "to make",
+   "My cousin"
+  ],
+  "source": "sequence:12"
+ },
+ {
+  "id": "WF1818",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：谁有音乐教室的钥匙？",
+  "cn": "谁有音乐教室的钥匙？",
+  "slots": [
+   [
+    "Who"
+   ],
+   [
+    "has"
+   ],
+   [
+    "the key"
+   ],
+   [
+    "to the music room?"
+   ]
+  ],
+  "why": "who 本身作主语，后面直接用谓语。原句：Who has the key to the music room?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "has",
+   "the key",
+   "Who",
+   "to the music room?"
+  ],
+  "source": "sequence:13"
+ },
+ {
+  "id": "WF1819",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：多么明亮的小房间啊！",
+  "cn": "多么明亮的小房间啊！",
+  "slots": [
+   [
+    "What a"
+   ],
+   [
+    "bright"
+   ],
+   [
+    "little"
+   ],
+   [
+    "room!"
+   ]
+  ],
+  "why": "what a 后接形容词和单数名词。原句：What a bright little room!",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "little",
+   "bright",
+   "room!",
+   "What a"
+  ],
+  "source": "sequence:14"
+ },
+ {
+  "id": "WF1820",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我们轮流开车。",
+  "cn": "我们轮流开车。",
+  "slots": [
+   [
+    "We"
+   ],
+   [
+    "take turns"
+   ],
+   [
+    "at"
+   ],
+   [
+    "the wheel."
+   ]
+  ],
+  "why": "take turns 表示轮流，at the wheel 表示驾车。原句：We take turns at the wheel.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "at",
+   "the wheel.",
+   "take turns",
+   "We"
+  ],
+  "source": "sequence:15"
+ },
+ {
+  "id": "WF1821",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：现在两扇窗都开着吗？",
+  "cn": "现在两扇窗都开着吗？",
+  "slots": [
+   [
+    "Are"
+   ],
+   [
+    "both windows"
+   ],
+   [
+    "open"
+   ],
+   [
+    "now?"
+   ]
+  ],
+  "why": "be 动词在前，状态形容词跟在主语后。原句：Are both windows open now?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Are",
+   "open",
+   "both windows",
+   "now?"
+  ],
+  "source": "sequence:16"
+ },
+ {
+  "id": "WF1822",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：给同伴看看第六页上的那幅画。",
+  "cn": "给同伴看看第六页上的那幅画。",
+  "slots": [
+   [
+    "Show"
+   ],
+   [
+    "your partner"
+   ],
+   [
+    "the drawing"
+   ],
+   [
+    "on page six."
+   ]
+  ],
+  "why": "show 后可先接人，再接展示的事物。原句：Show your partner the drawing on page six.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Show",
+   "your partner",
+   "on page six.",
+   "the drawing"
+  ],
+  "source": "sequence:17"
+ },
+ {
+  "id": "WF1823",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：每个盒子上都有一条细细的蓝胶带。",
+  "cn": "每个盒子上都有一条细细的蓝胶带。",
+  "slots": [
+   [
+    "Each box"
+   ],
+   [
+    "has"
+   ],
+   [
+    "a thin strip"
+   ],
+   [
+    "of blue tape."
+   ]
+  ],
+  "why": "each box 作单数主语，of 连接条状物与材料。原句：Each box has a thin strip of blue tape.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "has",
+   "of blue tape.",
+   "a thin strip",
+   "Each box"
+  ],
+  "source": "sequence:18"
+ },
+ {
+  "id": "WF1824",
+  "level": 1,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：你包上的条纹是什么颜色？",
+  "cn": "你包上的条纹是什么颜色？",
+  "slots": [
+   [
+    "What color"
+   ],
+   [
+    "is"
+   ],
+   [
+    "the stripe"
+   ],
+   [
+    "on your bag?"
+   ]
+  ],
+  "why": "what color 提问颜色，on 短语修饰 stripe。原句：What color is the stripe on your bag?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "is",
+   "What color",
+   "the stripe",
+   "on your bag?"
+  ],
+  "source": "sequence:19"
+ },
+ {
+  "id": "WF1825",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我姐姐不是故意开着灯离开的。",
+  "cn": "我姐姐不是故意开着灯离开的。",
+  "slots": [
+   [
+    "My sister"
+   ],
+   [
+    "didn't mean"
+   ],
+   [
+    "to leave"
+   ],
+   [
+    "the light on."
+   ]
+  ],
+  "why": "mean to do 表示打算做，leave 后的 on 表状态。原句：My sister didn't mean to leave the light on.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "My sister",
+   "to leave",
+   "the light on.",
+   "didn't mean"
+  ],
+  "source": "sequence:21"
+ },
+ {
+  "id": "WF1826",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这对双胞胎花了一小时给大门刷漆。",
+  "cn": "这对双胞胎花了一小时给大门刷漆。",
+  "slots": [
+   [
+    "It"
+   ],
+   [
+    "took"
+   ],
+   [
+    "the twins"
+   ],
+   [
+    "an hour to paint the gate."
+   ]
+  ],
+  "why": "it took someone some time to do。原句：It took the twins an hour to paint the gate.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It",
+   "an hour to paint the gate.",
+   "took",
+   "the twins"
+  ],
+  "source": "sequence:22"
+ },
+ {
+  "id": "WF1827",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：两项任务中较难的那项先开始。",
+  "cn": "两项任务中较难的那项先开始。",
+  "slots": [
+   [
+    "The harder"
+   ],
+   [
+    "of the two tasks"
+   ],
+   [
+    "came"
+   ],
+   [
+    "first."
+   ]
+  ],
+  "why": "两者之间取较难者，用 the harder 作中心。原句：The harder of the two tasks came first.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The harder",
+   "came",
+   "first.",
+   "of the two tasks"
+  ],
+  "source": "sequence:23"
+ },
+ {
+  "id": "WF1828",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：第二节课持续了多久？",
+  "cn": "第二节课持续了多久？",
+  "slots": [
+   [
+    "How long"
+   ],
+   [
+    "did"
+   ],
+   [
+    "the second lesson"
+   ],
+   [
+    "last?"
+   ]
+  ],
+  "why": "how long 问时长，did 后主语加动词原形。原句：How long did the second lesson last?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "How long",
+   "the second lesson",
+   "last?",
+   "did"
+  ],
+  "source": "sequence:24"
+ },
+ {
+  "id": "WF1829",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：农场主教我们怎样托住小鸭。",
+  "cn": "农场主教我们怎样托住小鸭。",
+  "slots": [
+   [
+    "The farmer"
+   ],
+   [
+    "taught us"
+   ],
+   [
+    "how to"
+   ],
+   [
+    "hold the young duck."
+   ]
+  ],
+  "why": "teach 后先接学习者，再接 how to 引导的内容。原句：The farmer taught us how to hold the young duck.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "how to",
+   "The farmer",
+   "taught us",
+   "hold the young duck."
+  ],
+  "source": "sequence:25"
+ },
+ {
+  "id": "WF1830",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这堵墙旁从前有家玩具店。",
+  "cn": "这堵墙旁从前有家玩具店。",
+  "slots": [
+   [
+    "There"
+   ],
+   [
+    "used to be"
+   ],
+   [
+    "a toy shop"
+   ],
+   [
+    "beside this wall."
+   ]
+  ],
+  "why": "there used to be 表示过去曾经存在。原句：There used to be a toy shop beside this wall.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "a toy shop",
+   "beside this wall.",
+   "There",
+   "used to be"
+  ],
+  "source": "sequence:26"
+ },
+ {
+  "id": "WF1831",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这汤太烫了，还不能端给客人。",
+  "cn": "这汤太烫了，还不能端给客人。",
+  "slots": [
+   [
+    "The soup"
+   ],
+   [
+    "was"
+   ],
+   [
+    "too hot"
+   ],
+   [
+    "to serve."
+   ]
+  ],
+  "why": "too 加形容词再接 to do。原句：The soup was too hot to serve.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "was",
+   "too hot",
+   "to serve.",
+   "The soup"
+  ],
+  "source": "sequence:27"
+ },
+ {
+  "id": "WF1832",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：你能告诉我去溜冰场的路吗？",
+  "cn": "你能告诉我去溜冰场的路吗？",
+  "slots": [
+   [
+    "Could"
+   ],
+   [
+    "you tell me"
+   ],
+   [
+    "the way"
+   ],
+   [
+    "to the ice rink?"
+   ]
+  ],
+  "why": "the way to 后接目的地。原句：Could you tell me the way to the ice rink?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Could",
+   "the way",
+   "to the ice rink?",
+   "you tell me"
+  ],
+  "source": "sequence:28"
+ },
+ {
+  "id": "WF1833",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：教练让我们最后一传不要匆忙。",
+  "cn": "教练让我们最后一传不要匆忙。",
+  "slots": [
+   [
+    "Our coach"
+   ],
+   [
+    "asked us"
+   ],
+   [
+    "not to rush"
+   ],
+   [
+    "the final pass."
+   ]
+  ],
+  "why": "ask someone not to do 是否定不定式。原句：Our coach asked us not to rush the final pass.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "the final pass.",
+   "Our coach",
+   "asked us",
+   "not to rush"
+  ],
+  "source": "sequence:29"
+ },
+ {
+  "id": "WF1834",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：楼梯旁的椅子感觉没有这把稳。",
+  "cn": "楼梯旁的椅子感觉没有这把稳。",
+  "slots": [
+   [
+    "The chair"
+   ],
+   [
+    "by the stairs"
+   ],
+   [
+    "feels"
+   ],
+   [
+    "less steady than this one."
+   ]
+  ],
+  "why": "地点短语修饰 chair，比较结构跟在 feels 后。原句：The chair by the stairs feels less steady than this one.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "feels",
+   "less steady than this one.",
+   "The chair",
+   "by the stairs"
+  ],
+  "source": "sequence:30"
+ },
+ {
+  "id": "WF1835",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我们为什么不试试更安静的入口呢？",
+  "cn": "我们为什么不试试更安静的入口呢？",
+  "slots": [
+   [
+    "Why"
+   ],
+   [
+    "don't"
+   ],
+   [
+    "we try"
+   ],
+   [
+    "the quieter entrance?"
+   ]
+  ],
+  "why": "why don't we 后用动词原形提出建议。原句：Why don't we try the quieter entrance?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "the quieter entrance?",
+   "we try",
+   "don't",
+   "Why"
+  ],
+  "source": "sequence:31"
+ },
+ {
+  "id": "WF1836",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：店主给了那个等候的孩子一面纸旗。",
+  "cn": "店主给了那个等候的孩子一面纸旗。",
+  "slots": [
+   [
+    "The shopkeeper"
+   ],
+   [
+    "gave"
+   ],
+   [
+    "the waiting child"
+   ],
+   [
+    "a paper flag."
+   ]
+  ],
+  "why": "give 后可接人和物两个宾语。原句：The shopkeeper gave the waiting child a paper flag.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The shopkeeper",
+   "the waiting child",
+   "a paper flag.",
+   "gave"
+  ],
+  "source": "sequence:32"
+ },
+ {
+  "id": "WF1837",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：包裹送到时小狗正在睡觉。",
+  "cn": "包裹送到时小狗正在睡觉。",
+  "slots": [
+   [
+    "The puppy"
+   ],
+   [
+    "was sleeping"
+   ],
+   [
+    "when"
+   ],
+   [
+    "the parcel arrived."
+   ]
+  ],
+  "why": "过去进行时交代背景，when 引出发生的事。原句：The puppy was sleeping when the parcel arrived.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "was sleeping",
+   "The puppy",
+   "when",
+   "the parcel arrived."
+  ],
+  "source": "sequence:33"
+ },
+ {
+  "id": "WF1838",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：记得带件暖和的衣物，回家路上穿。",
+  "cn": "记得带件暖和的衣物，回家路上穿。",
+  "slots": [
+   [
+    "Remember"
+   ],
+   [
+    "to bring"
+   ],
+   [
+    "something warm"
+   ],
+   [
+    "for the ride home."
+   ]
+  ],
+  "why": "尚未做的事用 remember to do，形容词放在 something 后。原句：Remember to bring something warm for the ride home.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "to bring",
+   "Remember",
+   "something warm",
+   "for the ride home."
+  ],
+  "source": "sequence:34"
+ },
+ {
+  "id": "WF1839",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这些罐子中哪一个装水最多？",
+  "cn": "这些罐子中哪一个装水最多？",
+  "slots": [
+   [
+    "Which"
+   ],
+   [
+    "of these jars"
+   ],
+   [
+    "holds"
+   ],
+   [
+    "the most water?"
+   ]
+  ],
+  "why": "which of these jars 构成疑问主语。原句：Which of these jars holds the most water?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "of these jars",
+   "Which",
+   "holds",
+   "the most water?"
+  ],
+  "source": "sequence:35"
+ },
+ {
+  "id": "WF1840",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这只兔子小得能钻进我的帽子。",
+  "cn": "这只兔子小得能钻进我的帽子。",
+  "slots": [
+   [
+    "The rabbit"
+   ],
+   [
+    "was"
+   ],
+   [
+    "small enough"
+   ],
+   [
+    "to fit inside my hat."
+   ]
+  ],
+  "why": "形容词在 enough 前，不定式补充结果。原句：The rabbit was small enough to fit inside my hat.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "to fit inside my hat.",
+   "was",
+   "small enough",
+   "The rabbit"
+  ],
+  "source": "sequence:36"
+ },
+ {
+  "id": "WF1841",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：流动图书馆多久来你们街上一回？",
+  "cn": "流动图书馆多久来你们街上一回？",
+  "slots": [
+   [
+    "How often"
+   ],
+   [
+    "does"
+   ],
+   [
+    "the mobile library"
+   ],
+   [
+    "visit your street?"
+   ]
+  ],
+  "why": "how often 提问频率，助动词后跟主语。原句：How often does the mobile library visit your street?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "the mobile library",
+   "does",
+   "How often",
+   "visit your street?"
+  ],
+  "source": "sequence:37"
+ },
+ {
+  "id": "WF1842",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：她想要一间朝向花园的房间。",
+  "cn": "她想要一间朝向花园的房间。",
+  "slots": [
+   [
+    "She"
+   ],
+   [
+    "would like"
+   ],
+   [
+    "a room"
+   ],
+   [
+    "facing the garden."
+   ]
+  ],
+  "why": "facing the garden 放在 room 后补充朝向。原句：She would like a room facing the garden.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "She",
+   "facing the garden.",
+   "a room",
+   "would like"
+  ],
+  "source": "sequence:38"
+ },
+ {
+  "id": "WF1843",
+  "level": 2,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我不得不等胶水干透。",
+  "cn": "我不得不等胶水干透。",
+  "slots": [
+   [
+    "I"
+   ],
+   [
+    "had to"
+   ],
+   [
+    "wait for"
+   ],
+   [
+    "the glue to dry."
+   ]
+  ],
+  "why": "wait for someone or something to do。原句：I had to wait for the glue to dry.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "had to",
+   "wait for",
+   "I",
+   "the glue to dry."
+  ],
+  "source": "sequence:39"
+ },
+ {
+  "id": "WF1844",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这张便条提醒我检查后门。",
+  "cn": "这张便条提醒我检查后门。",
+  "slots": [
+   [
+    "The note"
+   ],
+   [
+    "reminds me"
+   ],
+   [
+    "to check"
+   ],
+   [
+    "the back door."
+   ]
+  ],
+  "why": "remind someone to do 表示提醒某人做事。原句：The note reminds me to check the back door.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "to check",
+   "The note",
+   "the back door.",
+   "reminds me"
+  ],
+  "source": "sequence:41"
+ },
+ {
+  "id": "WF1845",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这就是我们存放备用线缆的抽屉。",
+  "cn": "这就是我们存放备用线缆的抽屉。",
+  "slots": [
+   [
+    "This"
+   ],
+   [
+    "is the drawer"
+   ],
+   [
+    "where"
+   ],
+   [
+    "we keep the spare cables."
+   ]
+  ],
+  "why": "where 引导地点定语从句。原句：This is the drawer where we keep the spare cables.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "we keep the spare cables.",
+   "where",
+   "is the drawer",
+   "This"
+  ],
+  "source": "sequence:42"
+ },
+ {
+  "id": "WF1846",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：你知道这个木框重多少吗？",
+  "cn": "你知道这个木框重多少吗？",
+  "slots": [
+   [
+    "Do you know"
+   ],
+   [
+    "how much"
+   ],
+   [
+    "the wooden frame"
+   ],
+   [
+    "weighs?"
+   ]
+  ],
+  "why": "嵌入疑问句使用主语在谓语前的陈述语序。原句：Do you know how much the wooden frame weighs?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "how much",
+   "the wooden frame",
+   "weighs?",
+   "Do you know"
+  ],
+  "source": "sequence:43"
+ },
+ {
+  "id": "WF1847",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：小组出发时，我的靴子已经干了。",
+  "cn": "小组出发时，我的靴子已经干了。",
+  "slots": [
+   [
+    "My boots"
+   ],
+   [
+    "had dried"
+   ],
+   [
+    "by the time"
+   ],
+   [
+    "the group set out."
+   ]
+  ],
+  "why": "by the time 给出过去参照点，先发生的事用过去完成时。原句：My boots had dried by the time the group set out.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "My boots",
+   "by the time",
+   "the group set out.",
+   "had dried"
+  ],
+  "source": "sequence:44"
+ },
+ {
+  "id": "WF1848",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：向导让每个人都佩戴名牌。",
+  "cn": "向导让每个人都佩戴名牌。",
+  "slots": [
+   [
+    "The guide"
+   ],
+   [
+    "made"
+   ],
+   [
+    "everyone"
+   ],
+   [
+    "wear a name tag."
+   ]
+  ],
+  "why": "make someone do 中动词前不加 to。原句：The guide made everyone wear a name tag.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "wear a name tag.",
+   "The guide",
+   "made",
+   "everyone"
+  ],
+  "source": "sequence:45"
+ },
+ {
+  "id": "WF1849",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这两条路线都不直接通往瀑布。",
+  "cn": "这两条路线都不直接通往瀑布。",
+  "slots": [
+   [
+    "Neither"
+   ],
+   [
+    "of the two routes"
+   ],
+   [
+    "leads"
+   ],
+   [
+    "directly to the waterfall."
+   ]
+  ],
+  "why": "neither 作主语，谓语按单数处理。原句：Neither of the two routes leads directly to the waterfall.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "directly to the waterfall.",
+   "Neither",
+   "of the two routes",
+   "leads"
+  ],
+  "source": "sequence:46"
+ },
+ {
+  "id": "WF1850",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：即使旅行结束，这张地图也值得保存。",
+  "cn": "即使旅行结束，这张地图也值得保存。",
+  "slots": [
+   [
+    "The map"
+   ],
+   [
+    "is worth"
+   ],
+   [
+    "keeping"
+   ],
+   [
+    "even after the trip."
+   ]
+  ],
+  "why": "be worth doing 表示值得做。原句：The map is worth keeping even after the trip.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "even after the trip.",
+   "keeping",
+   "is worth",
+   "The map"
+  ],
+  "source": "sequence:47"
+ },
+ {
+  "id": "WF1851",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我想知道这张票是否包含返程。",
+  "cn": "我想知道这张票是否包含返程。",
+  "slots": [
+   [
+    "I wonder"
+   ],
+   [
+    "whether"
+   ],
+   [
+    "the ticket"
+   ],
+   [
+    "includes the return journey."
+   ]
+  ],
+  "why": "whether 引导的宾语从句保持陈述语序。原句：I wonder whether the ticket includes the return journey.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "whether",
+   "includes the return journey.",
+   "I wonder",
+   "the ticket"
+  ],
+  "source": "sequence:48"
+ },
+ {
+  "id": "WF1852",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：湖边的标牌提醒泳者小心水底陡坡。",
+  "cn": "湖边的标牌提醒泳者小心水底陡坡。",
+  "slots": [
+   [
+    "The sign"
+   ],
+   [
+    "by the lake"
+   ],
+   [
+    "warns swimmers"
+   ],
+   [
+    "about the sudden drop."
+   ]
+  ],
+  "why": "warn 后接被提醒的人，about 引出危险。原句：The sign by the lake warns swimmers about the sudden drop.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The sign",
+   "about the sudden drop.",
+   "by the lake",
+   "warns swimmers"
+  ],
+  "source": "sequence:49"
+ },
+ {
+  "id": "WF1853",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：利奥把工具借给我们，真是好心。",
+  "cn": "利奥把工具借给我们，真是好心。",
+  "slots": [
+   [
+    "It"
+   ],
+   [
+    "was kind"
+   ],
+   [
+    "of Leo"
+   ],
+   [
+    "to lend us his tools."
+   ]
+  ],
+  "why": "kind 评价人的行为，用 of someone to do。原句：It was kind of Leo to lend us his tools.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "to lend us his tools.",
+   "of Leo",
+   "was kind",
+   "It"
+  ],
+  "source": "sequence:50"
+ },
+ {
+  "id": "WF1854",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：很少有人知道那处褪色的标记是什么意思。",
+  "cn": "很少有人知道那处褪色的标记是什么意思。",
+  "slots": [
+   [
+    "Few people"
+   ],
+   [
+    "knew"
+   ],
+   [
+    "what"
+   ],
+   [
+    "the faded mark meant."
+   ]
+  ],
+  "why": "what 在从句中作 meant 的宾语。原句：Few people knew what the faded mark meant.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "the faded mark meant.",
+   "Few people",
+   "knew",
+   "what"
+  ],
+  "source": "sequence:51"
+ },
+ {
+  "id": "WF1855",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：电影声音很轻，以至于我们都能听到放映机的声音。",
+  "cn": "电影声音很轻，以至于我们都能听到放映机的声音。",
+  "slots": [
+   [
+    "The film"
+   ],
+   [
+    "was so quiet"
+   ],
+   [
+    "that"
+   ],
+   [
+    "we could hear the projector."
+   ]
+  ],
+  "why": "so 加形容词，that 引出结果。原句：The film was so quiet that we could hear the projector.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "we could hear the projector.",
+   "that",
+   "was so quiet",
+   "The film"
+  ],
+  "source": "sequence:52"
+ },
+ {
+  "id": "WF1856",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这个盒子应避免阳光直射。",
+  "cn": "这个盒子应避免阳光直射。",
+  "slots": [
+   [
+    "The box"
+   ],
+   [
+    "should be"
+   ],
+   [
+    "kept"
+   ],
+   [
+    "away from direct sunlight."
+   ]
+  ],
+  "why": "情态动词的被动式为 should be kept。原句：The box should be kept away from direct sunlight.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "should be",
+   "away from direct sunlight.",
+   "kept",
+   "The box"
+  ],
+  "source": "sequence:53"
+ },
+ {
+  "id": "WF1857",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：十二岁以下的儿童须有成人陪同。",
+  "cn": "十二岁以下的儿童须有成人陪同。",
+  "slots": [
+   [
+    "Children"
+   ],
+   [
+    "under twelve"
+   ],
+   [
+    "must be"
+   ],
+   [
+    "accompanied by an adult."
+   ]
+  ],
+  "why": "under twelve 修饰 children，后接被动谓语。原句：Children under twelve must be accompanied by an adult.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "accompanied by an adult.",
+   "Children",
+   "must be",
+   "under twelve"
+  ],
+  "source": "sequence:54"
+ },
+ {
+  "id": "WF1858",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：参观最精彩的部分是试用那台旧印刷机。",
+  "cn": "参观最精彩的部分是试用那台旧印刷机。",
+  "slots": [
+   [
+    "The best part"
+   ],
+   [
+    "of the visit"
+   ],
+   [
+    "was"
+   ],
+   [
+    "trying the old printing press."
+   ]
+  ],
+  "why": "主语中心为 part，trying 短语作表语。原句：The best part of the visit was trying the old printing press.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "of the visit",
+   "trying the old printing press.",
+   "was",
+   "The best part"
+  ],
+  "source": "sequence:55"
+ },
+ {
+  "id": "WF1859",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我们毫不费力就找到了那条有标记的小径。",
+  "cn": "我们毫不费力就找到了那条有标记的小径。",
+  "slots": [
+   [
+    "We"
+   ],
+   [
+    "had no difficulty"
+   ],
+   [
+    "finding"
+   ],
+   [
+    "the marked trail."
+   ]
+  ],
+  "why": "have no difficulty 后接动名词。原句：We had no difficulty finding the marked trail.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "had no difficulty",
+   "the marked trail.",
+   "We",
+   "finding"
+  ],
+  "source": "sequence:56"
+ },
+ {
+  "id": "WF1860",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：要是末班车坐满了，你会怎么做？",
+  "cn": "要是末班车坐满了，你会怎么做？",
+  "slots": [
+   [
+    "What"
+   ],
+   [
+    "would you do"
+   ],
+   [
+    "if"
+   ],
+   [
+    "the last bus were full?"
+   ]
+  ],
+  "why": "would 加动词原形与表示假设的 if 从句呼应。原句：What would you do if the last bus were full?",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "What",
+   "if",
+   "would you do",
+   "the last bus were full?"
+  ],
+  "source": "sequence:57"
+ },
+ {
+  "id": "WF1861",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我从没见过与这艘如此相似的船。",
+  "cn": "我从没见过与这艘如此相似的船。",
+  "slots": [
+   [
+    "I"
+   ],
+   [
+    "have never seen"
+   ],
+   [
+    "a boat"
+   ],
+   [
+    "quite like this one."
+   ]
+  ],
+  "why": "like 引出相似的对象，修饰 boat。原句：I have never seen a boat quite like this one.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "have never seen",
+   "a boat",
+   "I",
+   "quite like this one."
+  ],
+  "source": "sequence:58"
+ },
+ {
+  "id": "WF1862",
+  "level": 3,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：问题没有初看上去那么简单。",
+  "cn": "问题没有初看上去那么简单。",
+  "slots": [
+   [
+    "The problem"
+   ],
+   [
+    "is not"
+   ],
+   [
+    "as simple as"
+   ],
+   [
+    "it first appears."
+   ]
+  ],
+  "why": "not as 加形容词加 as 表示不如。原句：The problem is not as simple as it first appears.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "it first appears.",
+   "as simple as",
+   "The problem",
+   "is not"
+  ],
+  "source": "sequence:59"
+ },
+ {
+  "id": "WF1863",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：直到中午，丢失的信封才出现。",
+  "cn": "直到中午，丢失的信封才出现。",
+  "slots": [
+   [
+    "Not until noon"
+   ],
+   [
+    "did"
+   ],
+   [
+    "the missing envelope"
+   ],
+   [
+    "turn up."
+   ]
+  ],
+  "why": "not until 提前，主句部分倒装。原句：Not until noon did the missing envelope turn up.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Not until noon",
+   "the missing envelope",
+   "turn up.",
+   "did"
+  ],
+  "source": "sequence:61"
+ },
+ {
+  "id": "WF1864",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：职员抄错的是地址。",
+  "cn": "职员抄错的是地址。",
+  "slots": [
+   [
+    "It"
+   ],
+   [
+    "was the address"
+   ],
+   [
+    "that"
+   ],
+   [
+    "the clerk had copied incorrectly."
+   ]
+  ],
+  "why": "强调结构 it was … that 包住被强调部分。原句：It was the address that the clerk had copied incorrectly.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "was the address",
+   "that",
+   "It",
+   "the clerk had copied incorrectly."
+  ],
+  "source": "sequence:62"
+ },
+ {
+  "id": "WF1865",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：画家让人单独运送她最大的画布。",
+  "cn": "画家让人单独运送她最大的画布。",
+  "slots": [
+   [
+    "The artist"
+   ],
+   [
+    "had"
+   ],
+   [
+    "her largest canvas"
+   ],
+   [
+    "delivered separately."
+   ]
+  ],
+  "why": "have something done 表示安排他人完成。原句：The artist had her largest canvas delivered separately.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "had",
+   "The artist",
+   "her largest canvas",
+   "delivered separately."
+  ],
+  "source": "sequence:63"
+ },
+ {
+  "id": "WF1866",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：没人能解释两只钟显示的时间为何不同。",
+  "cn": "没人能解释两只钟显示的时间为何不同。",
+  "slots": [
+   [
+    "No one"
+   ],
+   [
+    "could explain"
+   ],
+   [
+    "why"
+   ],
+   [
+    "the two clocks disagreed."
+   ]
+  ],
+  "why": "why 从句保持陈述语序。原句：No one could explain why the two clocks disagreed.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "why",
+   "No one",
+   "could explain",
+   "the two clocks disagreed."
+  ],
+  "source": "sequence:64"
+ },
+ {
+  "id": "WF1867",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：减少浪费的关键在于只买需要的东西。",
+  "cn": "减少浪费的关键在于只买需要的东西。",
+  "slots": [
+   [
+    "The key"
+   ],
+   [
+    "to reducing waste"
+   ],
+   [
+    "lies"
+   ],
+   [
+    "in buying only what we need."
+   ]
+  ],
+  "why": "to 为介词，后接 reducing；lies 与 key 一致。原句：The key to reducing waste lies in buying only what we need.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The key",
+   "lies",
+   "to reducing waste",
+   "in buying only what we need."
+  ],
+  "source": "sequence:65"
+ },
+ {
+  "id": "WF1868",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：直到那时我才认出录音中的声音。",
+  "cn": "直到那时我才认出录音中的声音。",
+  "slots": [
+   [
+    "Only then"
+   ],
+   [
+    "did"
+   ],
+   [
+    "I recognize"
+   ],
+   [
+    "the voice on the recording."
+   ]
+  ],
+  "why": "only then 置首，后面部分倒装。原句：Only then did I recognize the voice on the recording.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "the voice on the recording.",
+   "did",
+   "Only then",
+   "I recognize"
+  ],
+  "source": "sequence:66"
+ },
+ {
+  "id": "WF1869",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：去年春天上漆的长椅已经开始褪色。",
+  "cn": "去年春天上漆的长椅已经开始褪色。",
+  "slots": [
+   [
+    "The bench"
+   ],
+   [
+    "painted last spring"
+   ],
+   [
+    "has already begun"
+   ],
+   [
+    "to fade."
+   ]
+  ],
+  "why": "过去分词短语作后置定语，主句谓语是 has begun。原句：The bench painted last spring has already begun to fade.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "has already begun",
+   "The bench",
+   "painted last spring",
+   "to fade."
+  ],
+  "source": "sequence:67"
+ },
+ {
+  "id": "WF1870",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我们越仔细研究方案，发现的漏洞就越多。",
+  "cn": "我们越仔细研究方案，发现的漏洞就越多。",
+  "slots": [
+   [
+    "The more closely"
+   ],
+   [
+    "we examined the plan,"
+   ],
+   [
+    "the more gaps"
+   ],
+   [
+    "we found."
+   ]
+  ],
+  "why": "两组 the 加比较级构成关联结构。原句：The more closely we examined the plan, the more gaps we found.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "we found.",
+   "the more gaps",
+   "we examined the plan,",
+   "The more closely"
+  ],
+  "source": "sequence:68"
+ },
+ {
+  "id": "WF1871",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：让我惊讶的是房间里的人散得这么快。",
+  "cn": "让我惊讶的是房间里的人散得这么快。",
+  "slots": [
+   [
+    "What surprised me"
+   ],
+   [
+    "was"
+   ],
+   [
+    "how quickly"
+   ],
+   [
+    "the room emptied."
+   ]
+  ],
+  "why": "what 从句作主语，how 从句作表语。原句：What surprised me was how quickly the room emptied.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "was",
+   "the room emptied.",
+   "What surprised me",
+   "how quickly"
+  ],
+  "source": "sequence:69"
+ },
+ {
+  "id": "WF1872",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：最后一行看起来有个错误。",
+  "cn": "最后一行看起来有个错误。",
+  "slots": [
+   [
+    "There"
+   ],
+   [
+    "appears to be"
+   ],
+   [
+    "a mistake"
+   ],
+   [
+    "in the final row."
+   ]
+  ],
+  "why": "there appears to be 表示看似存在。原句：There appears to be a mistake in the final row.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "a mistake",
+   "in the final row.",
+   "There",
+   "appears to be"
+  ],
+  "source": "sequence:70"
+ },
+ {
+  "id": "WF1873",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：如果我当时留着收据，就能换这盏灯了。",
+  "cn": "如果我当时留着收据，就能换这盏灯了。",
+  "slots": [
+   [
+    "If I"
+   ],
+   [
+    "had kept"
+   ],
+   [
+    "the receipt,"
+   ],
+   [
+    "I could have exchanged the lamp."
+   ]
+  ],
+  "why": "与过去事实相反的条件句两侧使用不同的完成结构。原句：If I had kept the receipt, I could have exchanged the lamp.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "If I",
+   "the receipt,",
+   "had kept",
+   "I could have exchanged the lamp."
+  ],
+  "source": "sequence:71"
+ },
+ {
+  "id": "WF1874",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：设计获奖的学生感谢了工坊工作人员。",
+  "cn": "设计获奖的学生感谢了工坊工作人员。",
+  "slots": [
+   [
+    "The student"
+   ],
+   [
+    "whose design won"
+   ],
+   [
+    "thanked"
+   ],
+   [
+    "the workshop staff."
+   ]
+  ],
+  "why": "whose 引导所属关系从句，主句谓语为 thanked。原句：The student whose design won thanked the workshop staff.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The student",
+   "thanked",
+   "whose design won",
+   "the workshop staff."
+  ],
+  "source": "sequence:72"
+ },
+ {
+  "id": "WF1875",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：我们让剩余空格保持无标记状态。",
+  "cn": "我们让剩余空格保持无标记状态。",
+  "slots": [
+   [
+    "We"
+   ],
+   [
+    "left"
+   ],
+   [
+    "the remaining spaces"
+   ],
+   [
+    "unmarked."
+   ]
+  ],
+  "why": "leave 后的过去分词作宾语补足语。原句：We left the remaining spaces unmarked.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "unmarked.",
+   "We",
+   "left",
+   "the remaining spaces"
+  ],
+  "source": "sequence:73"
+ },
+ {
+  "id": "WF1876",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：再打开那个空盒子没多大意义。",
+  "cn": "再打开那个空盒子没多大意义。",
+  "slots": [
+   [
+    "There was"
+   ],
+   [
+    "little point"
+   ],
+   [
+    "in reopening"
+   ],
+   [
+    "the empty box."
+   ]
+  ],
+  "why": "there is little point in doing。原句：There was little point in reopening the empty box.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "the empty box.",
+   "in reopening",
+   "There was",
+   "little point"
+  ],
+  "source": "sequence:74"
+ },
+ {
+  "id": "WF1877",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这条新规定适用于所有使用共享工作室的人。",
+  "cn": "这条新规定适用于所有使用共享工作室的人。",
+  "slots": [
+   [
+    "The new rule"
+   ],
+   [
+    "applies to"
+   ],
+   [
+    "whoever"
+   ],
+   [
+    "uses the shared studio."
+   ]
+  ],
+  "why": "whoever 在从句内作 uses 的主语。原句：The new rule applies to whoever uses the shared studio.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "applies to",
+   "uses the shared studio.",
+   "whoever",
+   "The new rule"
+  ],
+  "source": "sequence:75"
+ },
+ {
+  "id": "WF1878",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：技术员检查完封条，把样品放进盒子里。",
+  "cn": "技术员检查完封条，把样品放进盒子里。",
+  "slots": [
+   [
+    "Having checked the seal,"
+   ],
+   [
+    "the technician"
+   ],
+   [
+    "placed the sample"
+   ],
+   [
+    "inside the case."
+   ]
+  ],
+  "why": "完成式分词说明检查先于放入，动作主语相同。原句：Having checked the seal, the technician placed the sample inside the case.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "inside the case.",
+   "the technician",
+   "placed the sample",
+   "Having checked the seal,"
+  ],
+  "source": "sequence:76"
+ },
+ {
+  "id": "WF1879",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：问题仍是有没有必要再测一次。",
+  "cn": "问题仍是有没有必要再测一次。",
+  "slots": [
+   [
+    "The question"
+   ],
+   [
+    "remains"
+   ],
+   [
+    "whether"
+   ],
+   [
+    "a second test is necessary."
+   ]
+  ],
+  "why": "whether 从句说明尚待解决的问题。原句：The question remains whether a second test is necessary.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "whether",
+   "remains",
+   "a second test is necessary.",
+   "The question"
+  ],
+  "source": "sequence:77"
+ },
+ {
+  "id": "WF1880",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：俱乐部此前从未收到过这么多申请。",
+  "cn": "俱乐部此前从未收到过这么多申请。",
+  "slots": [
+   [
+    "Never before"
+   ],
+   [
+    "had"
+   ],
+   [
+    "the club received"
+   ],
+   [
+    "so many applications."
+   ]
+  ],
+  "why": "never before 放句首引发助动词倒装。原句：Never before had the club received so many applications.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "so many applications.",
+   "Never before",
+   "had",
+   "the club received"
+  ],
+  "source": "sequence:78"
+ },
+ {
+  "id": "WF1881",
+  "level": 4,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这间屋子够大，整个团队都能在里面排练。",
+  "cn": "这间屋子够大，整个团队都能在里面排练。",
+  "slots": [
+   [
+    "The room"
+   ],
+   [
+    "is large enough"
+   ],
+   [
+    "for the whole team"
+   ],
+   [
+    "to rehearse in."
+   ]
+  ],
+  "why": "enough for someone to do；in 与 room 呼应。原句：The room is large enough for the whole team to rehearse in.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The room",
+   "to rehearse in.",
+   "is large enough",
+   "for the whole team"
+  ],
+  "source": "sequence:79"
+ },
+ {
+  "id": "WF1882",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：要不是有备用电池，录音早就中断了。",
+  "cn": "要不是有备用电池，录音早就中断了。",
+  "slots": [
+   [
+    "Had it"
+   ],
+   [
+    "not been for"
+   ],
+   [
+    "the spare battery,"
+   ],
+   [
+    "the recording would have ended early."
+   ]
+  ],
+  "why": "had it not been for 表示与过去事实相反的条件。原句：Had it not been for the spare battery, the recording would have ended early.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "not been for",
+   "the spare battery,",
+   "the recording would have ended early.",
+   "Had it"
+  ],
+  "source": "sequence:81"
+ },
+ {
+  "id": "WF1883",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：单次测量很少能为这样的问题定论。",
+  "cn": "单次测量很少能为这样的问题定论。",
+  "slots": [
+   [
+    "Rarely"
+   ],
+   [
+    "does"
+   ],
+   [
+    "a single measurement"
+   ],
+   [
+    "settle such a question."
+   ]
+  ],
+  "why": "rarely 置首，助动词移到主语前。原句：Rarely does a single measurement settle such a question.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "a single measurement",
+   "settle such a question.",
+   "Rarely",
+   "does"
+  ],
+  "source": "sequence:82"
+ },
+ {
+  "id": "WF1884",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：限制通行的是宽度而非高度。",
+  "cn": "限制通行的是宽度而非高度。",
+  "slots": [
+   [
+    "It"
+   ],
+   [
+    "is not the height"
+   ],
+   [
+    "but the width"
+   ],
+   [
+    "that limits access."
+   ]
+  ],
+  "why": "not A but B 整体位于强调句焦点处。原句：It is not the height but the width that limits access.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It",
+   "but the width",
+   "is not the height",
+   "that limits access."
+  ],
+  "source": "sequence:83"
+ },
+ {
+  "id": "WF1885",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：报告完全没说明这些名字是如何选出的。",
+  "cn": "报告完全没说明这些名字是如何选出的。",
+  "slots": [
+   [
+    "The report"
+   ],
+   [
+    "gives no indication"
+   ],
+   [
+    "of how"
+   ],
+   [
+    "the names were selected."
+   ]
+  ],
+  "why": "介词 of 后跟 how 引导的陈述语序从句。原句：The report gives no indication of how the names were selected.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "the names were selected.",
+   "gives no indication",
+   "of how",
+   "The report"
+  ],
+  "source": "sequence:84"
+ },
+ {
+  "id": "WF1886",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：编辑只有听两遍才能分清这两个人的声音。",
+  "cn": "编辑只有听两遍才能分清这两个人的声音。",
+  "slots": [
+   [
+    "Only by listening twice"
+   ],
+   [
+    "could"
+   ],
+   [
+    "the editor distinguish"
+   ],
+   [
+    "the two voices."
+   ]
+  ],
+  "why": "only 修饰方式状语置首，主句部分倒装。原句：Only by listening twice could the editor distinguish the two voices.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "the editor distinguish",
+   "Only by listening twice",
+   "the two voices.",
+   "could"
+  ],
+  "source": "sequence:85"
+ },
+ {
+  "id": "WF1887",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：变化如此缓慢，以至于起初谁也没察觉。",
+  "cn": "变化如此缓慢，以至于起初谁也没察觉。",
+  "slots": [
+   [
+    "So gradual"
+   ],
+   [
+    "was the change"
+   ],
+   [
+    "that"
+   ],
+   [
+    "nobody noticed it at first."
+   ]
+  ],
+  "why": "so 加形容词提前，系动词置于主语前。原句：So gradual was the change that nobody noticed it at first.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "was the change",
+   "that",
+   "So gradual",
+   "nobody noticed it at first."
+  ],
+  "source": "sequence:86"
+ },
+ {
+  "id": "WF1888",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这些数字说明什么，部分取决于如何界定一次到访。",
+  "cn": "这些数字说明什么，部分取决于如何界定一次到访。",
+  "slots": [
+   [
+    "What the figures suggest"
+   ],
+   [
+    "depends partly"
+   ],
+   [
+    "on how"
+   ],
+   [
+    "a visit is defined."
+   ]
+  ],
+  "why": "what 从句作主语，on 后接嵌入疑问从句。原句：What the figures suggest depends partly on how a visit is defined.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "on how",
+   "What the figures suggest",
+   "depends partly",
+   "a visit is defined."
+  ],
+  "source": "sequence:87"
+ },
+ {
+  "id": "WF1889",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：如果入口再次变动，印好的路线就需要修改。",
+  "cn": "如果入口再次变动，印好的路线就需要修改。",
+  "slots": [
+   [
+    "Were the entrance"
+   ],
+   [
+    "to move again,"
+   ],
+   [
+    "the printed route"
+   ],
+   [
+    "would need revising."
+   ]
+  ],
+  "why": "were 加不定式构成假设倒装，主句用 would。原句：Were the entrance to move again, the printed route would need revising.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "would need revising.",
+   "to move again,",
+   "the printed route",
+   "Were the entrance"
+  ],
+  "source": "sequence:88"
+ },
+ {
+  "id": "WF1890",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：标签写得越含糊，读者就越容易看错。",
+  "cn": "标签写得越含糊，读者就越容易看错。",
+  "slots": [
+   [
+    "The less clearly"
+   ],
+   [
+    "a label is written,"
+   ],
+   [
+    "the more likely"
+   ],
+   [
+    "a reader is to misread it."
+   ]
+  ],
+  "why": "前半比较清晰度，后半比较误读的可能性。原句：The less clearly a label is written, the more likely a reader is to misread it.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "a label is written,",
+   "a reader is to misread it.",
+   "The less clearly",
+   "the more likely"
+  ],
+  "source": "sequence:89"
+ },
+ {
+  "id": "WF1891",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：第二次试验不仅耗时更少，而且用水也更少。",
+  "cn": "第二次试验不仅耗时更少，而且用水也更少。",
+  "slots": [
+   [
+    "Not only"
+   ],
+   [
+    "did the second trial"
+   ],
+   [
+    "take less time,"
+   ],
+   [
+    "but it also used less water."
+   ]
+  ],
+  "why": "not only 位于句首时只将第一分句部分倒装。原句：Not only did the second trial take less time, but it also used less water.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "but it also used less water.",
+   "did the second trial",
+   "take less time,",
+   "Not only"
+  ],
+  "source": "sequence:90"
+ },
+ {
+  "id": "WF1892",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：没有可靠的需求估算，这项提议不大可能成功。",
+  "cn": "没有可靠的需求估算，这项提议不大可能成功。",
+  "slots": [
+   [
+    "The proposal"
+   ],
+   [
+    "is unlikely"
+   ],
+   [
+    "to succeed"
+   ],
+   [
+    "without a reliable estimate of demand."
+   ]
+  ],
+  "why": "be unlikely to do 表示做某事的可能性低。原句：The proposal is unlikely to succeed without a reliable estimate of demand.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "to succeed",
+   "The proposal",
+   "without a reliable estimate of demand.",
+   "is unlikely"
+  ],
+  "source": "sequence:91"
+ },
+ {
+  "id": "WF1893",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：直到人群散去，管理员才发现松动的铰链。",
+  "cn": "直到人群散去，管理员才发现松动的铰链。",
+  "slots": [
+   [
+    "It was"
+   ],
+   [
+    "not until the crowd left"
+   ],
+   [
+    "that the caretaker"
+   ],
+   [
+    "noticed the loose hinge."
+   ]
+  ],
+  "why": "it was not until … that 强调直到某时才发生。原句：It was not until the crowd left that the caretaker noticed the loose hinge.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "not until the crowd left",
+   "noticed the loose hinge.",
+   "It was",
+   "that the caretaker"
+  ],
+  "source": "sequence:92"
+ },
+ {
+  "id": "WF1894",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：虽然我很喜欢这场演讲，我对最后的论断仍有疑问。",
+  "cn": "虽然我很喜欢这场演讲，我对最后的论断仍有疑问。",
+  "slots": [
+   [
+    "Much as"
+   ],
+   [
+    "I enjoyed the talk,"
+   ],
+   [
+    "I still had doubts"
+   ],
+   [
+    "about its final claim."
+   ]
+  ],
+  "why": "much as 引导让步，主句保留相反或保留意见。原句：Much as I enjoyed the talk, I still had doubts about its final claim.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "about its final claim.",
+   "I enjoyed the talk,",
+   "Much as",
+   "I still had doubts"
+  ],
+  "source": "sequence:93"
+ },
+ {
+  "id": "WF1895",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：样本太小，所得结果无法代表全校。",
+  "cn": "样本太小，所得结果无法代表全校。",
+  "slots": [
+   [
+    "The sample"
+   ],
+   [
+    "is too small"
+   ],
+   [
+    "for its results"
+   ],
+   [
+    "to represent the entire school."
+   ]
+  ],
+  "why": "too … for … to 明确不定式的逻辑主语。原句：The sample is too small for its results to represent the entire school.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The sample",
+   "to represent the entire school.",
+   "for its results",
+   "is too small"
+  ],
+  "source": "sequence:94"
+ },
+ {
+  "id": "WF1896",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：任何情况下都不应未经核对日期就合并这两条记录。",
+  "cn": "任何情况下都不应未经核对日期就合并这两条记录。",
+  "slots": [
+   [
+    "Under no circumstances"
+   ],
+   [
+    "should"
+   ],
+   [
+    "these two records"
+   ],
+   [
+    "be merged without a date check."
+   ]
+  ],
+  "why": "否定介词短语置首，should 提前，后用被动形式。原句：Under no circumstances should these two records be merged without a date check.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Under no circumstances",
+   "be merged without a date check.",
+   "these two records",
+   "should"
+  ],
+  "source": "sequence:95"
+ },
+ {
+  "id": "WF1897",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：重复测试的原因是第一次读数超出了预期范围。",
+  "cn": "重复测试的原因是第一次读数超出了预期范围。",
+  "slots": [
+   [
+    "The reason"
+   ],
+   [
+    "the test was repeated"
+   ],
+   [
+    "was that"
+   ],
+   [
+    "the first reading fell outside the expected range."
+   ]
+  ],
+  "why": "the reason 作中心主语，以 that 从句说明原因。原句：The reason the test was repeated was that the first reading fell outside the expected range.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "was that",
+   "the test was repeated",
+   "The reason",
+   "the first reading fell outside the expected range."
+  ],
+  "source": "sequence:96"
+ },
+ {
+  "id": "WF1898",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：墨迹刚干，新时刻表就到了。",
+  "cn": "墨迹刚干，新时刻表就到了。",
+  "slots": [
+   [
+    "No sooner"
+   ],
+   [
+    "had the ink dried"
+   ],
+   [
+    "than"
+   ],
+   [
+    "a new timetable arrived."
+   ]
+  ],
+  "why": "no sooner 与 than 配对，并引发倒装。原句：No sooner had the ink dried than a new timetable arrived.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "a new timetable arrived.",
+   "than",
+   "had the ink dried",
+   "No sooner"
+  ],
+  "source": "sequence:97"
+ },
+ {
+  "id": "WF1899",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：这份记录与其他记录不同之处，在于它留意了发言之间的停顿。",
+  "cn": "这份记录与其他记录不同之处，在于它留意了发言之间的停顿。",
+  "slots": [
+   [
+    "What distinguishes"
+   ],
+   [
+    "this account from the others"
+   ],
+   [
+    "is its attention"
+   ],
+   [
+    "to the pauses between remarks."
+   ]
+  ],
+  "why": "what 从句作主语，attention 与 to 搭配。原句：What distinguishes this account from the others is its attention to the pauses between remarks.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "to the pauses between remarks.",
+   "this account from the others",
+   "What distinguishes",
+   "is its attention"
+  ],
+  "source": "sequence:98"
+ },
+ {
+  "id": "WF1900",
+  "level": 5,
+  "cat": "句子结构",
+  "kind": "句子排序",
+  "text": "按中文意思还原完整句子：那条更安静的路线是否会吸引更多步行者，还有待观察。",
+  "cn": "那条更安静的路线是否会吸引更多步行者，还有待观察。",
+  "slots": [
+   [
+    "It remains"
+   ],
+   [
+    "to be seen"
+   ],
+   [
+    "whether the quieter route"
+   ],
+   [
+    "will attract more walkers."
+   ]
+  ],
+  "why": "it remains to be seen whether … 表示结果尚未确定。原句：It remains to be seen whether the quieter route will attract more walkers.",
+  "point": "语序与句法",
+  "hint": "按顺序为每个位置选一个词块，每块用一次。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "whether the quieter route",
+   "It remains",
+   "to be seen",
+   "will attract more walkers."
+  ],
+  "source": "sequence:99"
+ },
+ {
+  "id": "WF1901",
+  "level": 1,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "It was Lin's first day at music club. She went to room 12 and heard a drum. The door was ____, but there were only small children inside. Lin looked at her card again. It said room 12, second floor. She was on the ____ floor. Upstairs, a girl was waiting by another door with the same number. \"You found us!\" she said, and gave Lin a ____ near the piano.",
+  "cn": "这是琳第一天去音乐社。她走到十二号房间，听见鼓声。门开着，里面却只有小孩子。琳重新看了看卡片，上面写着二楼十二号房间，而她在一楼。楼上，一个女孩在另一扇同样编号的门旁等着。“你找到我们啦！”她说着，给琳安排了钢琴旁的座位。",
+  "slots": [
+   [
+    "open"
+   ],
+   [
+    "first"
+   ],
+   [
+    "seat"
+   ]
+  ],
+  "why": "第1空（open）：琳看到了里面的孩子，开着的门符合情境。 第2空（first）：卡片写二楼，琳还要上楼一层。 第3空（seat）：near the piano 指座位的位置。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:1",
+  "slotOptions": [
+   [
+    "asleep",
+    "missing",
+    "empty",
+    "open"
+   ],
+   [
+    "first",
+    "next",
+    "second",
+    "top"
+   ],
+   [
+    "street",
+    "seat",
+    "ticket",
+    "roof"
+   ]
+  ],
+  "article": "The wrong floor"
+ },
+ {
+  "id": "WF1902",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "It was Lin's first day at music club. She went to room 12 and heard a drum. The door was open, but there were only small children inside. Lin looked at her card again. It said room 12, second floor. She was on the first floor. Upstairs, a girl was waiting by another door with the same number. \"You found us!\" she said, and gave Lin a seat near the piano.\n\nWhat did Lin hear first?",
+  "cn": "这是琳第一天去音乐社。她走到十二号房间，听见鼓声。门开着，里面却只有小孩子。琳重新看了看卡片，上面写着二楼十二号房间，而她在一楼。楼上，一个女孩在另一扇同样编号的门旁等着。“你找到我们啦！”她说着，给琳安排了钢琴旁的座位。",
+  "slots": [
+   [
+    "A drum."
+   ]
+  ],
+  "why": "首句之后写到 heard a drum。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A bell.",
+   "A drum.",
+   "A phone.",
+   "A piano lesson ending."
+  ],
+  "source": "articles:1",
+  "article": "The wrong floor"
+ },
+ {
+  "id": "WF1903",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "It was Lin's first day at music club. She went to room 12 and heard a drum. The door was open, but there were only small children inside. Lin looked at her card again. It said room 12, second floor. She was on the first floor. Upstairs, a girl was waiting by another door with the same number. \"You found us!\" she said, and gave Lin a seat near the piano.\n\nWhy did room 12 seem right at first?",
+  "cn": "这是琳第一天去音乐社。她走到十二号房间，听见鼓声。门开着，里面却只有小孩子。琳重新看了看卡片，上面写着二楼十二号房间，而她在一楼。楼上，一个女孩在另一扇同样编号的门旁等着。“你找到我们啦！”她说着，给琳安排了钢琴旁的座位。",
+  "slots": [
+   [
+    "Its number matched the card."
+   ]
+  ],
+  "why": "房号一致，楼层却不同。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A piano stood outside.",
+   "It was empty.",
+   "Her teacher called her name.",
+   "Its number matched the card."
+  ],
+  "source": "articles:1",
+  "article": "The wrong floor"
+ },
+ {
+  "id": "WF1904",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "It was Lin's first day at music club. She went to room 12 and heard a drum. The door was open, but there were only small children inside. Lin looked at her card again. It said room 12, second floor. She was on the first floor. Upstairs, a girl was waiting by another door with the same number. \"You found us!\" she said, and gave Lin a seat near the piano.\n\nWhat does us refer to at the end?",
+  "cn": "这是琳第一天去音乐社。她走到十二号房间，听见鼓声。门开着，里面却只有小孩子。琳重新看了看卡片，上面写着二楼十二号房间，而她在一楼。楼上，一个女孩在另一扇同样编号的门旁等着。“你找到我们啦！”她说着，给琳安排了钢琴旁的座位。",
+  "slots": [
+   [
+    "The music club members upstairs."
+   ]
+  ],
+  "why": "说话者在正确教室欢迎她加入。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The music club members upstairs.",
+   "The children downstairs.",
+   "The card makers.",
+   "Lin's family."
+  ],
+  "source": "articles:1",
+  "article": "The wrong floor"
+ },
+ {
+  "id": "WF1905",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "It was Lin's first day at music club. She went to room 12 and heard a drum. The door was open, but there were only small children inside. Lin looked at her card again. It said room 12, second floor. She was on the first floor. Upstairs, a girl was waiting by another door with the same number. \"You found us!\" she said, and gave Lin a seat near the piano.\n\nWhich detail would help Lin most next time?",
+  "cn": "这是琳第一天去音乐社。她走到十二号房间，听见鼓声。门开着，里面却只有小孩子。琳重新看了看卡片，上面写着二楼十二号房间，而她在一楼。楼上，一个女孩在另一扇同样编号的门旁等着。“你找到我们啦！”她说着，给琳安排了钢琴旁的座位。",
+  "slots": [
+   [
+    "The floor as well as the room number."
+   ]
+  ],
+  "why": "两个楼层都有十二号房，楼层信息能消除歧义。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The floor as well as the room number.",
+   "The number of children.",
+   "The size of the drum.",
+   "The color of her card."
+  ],
+  "source": "articles:1",
+  "article": "The wrong floor"
+ },
+ {
+  "id": "WF1906",
+  "level": 1,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "Bo put a bean in a glass jar with wet paper. He left the jar by the window. On Monday he saw nothing new. On Tuesday he wanted to throw it ____. His sister asked him to wait one more day. On Wednesday a white root pushed out. Bo drew it in his book ____ he went to school. That night he left a blank space under the drawing for the ____ day's picture.",
+  "cn": "小博把一粒豆子放进装有湿纸的玻璃罐里，又把罐子放在窗边。星期一他没见到新变化。周二他想把豆子扔掉，姐姐请他再等一天。周三，一条白色的根冒了出来。上学前他把它画进本子里。那天晚上，他在图下面留出空白，准备画第二天的样子。",
+  "slots": [
+   [
+    "away"
+   ],
+   [
+    "before"
+   ],
+   [
+    "next"
+   ]
+  ],
+  "why": "第1空（away）：throw away 表示扔掉。 第2空（before）：后半是去学校；叙述的是先画再去。 第3空（next）：留白给尚未画的观察图，因此是次日。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:9",
+  "slotOptions": [
+   [
+    "across",
+    "along",
+    "away",
+    "backward"
+   ],
+   [
+    "unless",
+    "while",
+    "before",
+    "since"
+   ],
+   [
+    "previous",
+    "next",
+    "last",
+    "first"
+   ]
+  ],
+  "article": "The little seed"
+ },
+ {
+  "id": "WF1907",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Bo put a bean in a glass jar with wet paper. He left the jar by the window. On Monday he saw nothing new. On Tuesday he wanted to throw it away. His sister asked him to wait one more day. On Wednesday a white root pushed out. Bo drew it in his book before he went to school. That night he left a blank space under the drawing for the next day's picture.\n\nWhere did Bo put the jar?",
+  "cn": "小博把一粒豆子放进装有湿纸的玻璃罐里，又把罐子放在窗边。星期一他没见到新变化。周二他想把豆子扔掉，姐姐请他再等一天。周三，一条白色的根冒了出来。上学前他把它画进本子里。那天晚上，他在图下面留出空白，准备画第二天的样子。",
+  "slots": [
+   [
+    "By a window."
+   ]
+  ],
+  "why": "第二句直接说明位置。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Under his bed.",
+   "By a window.",
+   "In his schoolbag.",
+   "Outside the gate."
+  ],
+  "source": "articles:9",
+  "article": "The little seed"
+ },
+ {
+  "id": "WF1908",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Bo put a bean in a glass jar with wet paper. He left the jar by the window. On Monday he saw nothing new. On Tuesday he wanted to throw it away. His sister asked him to wait one more day. On Wednesday a white root pushed out. Bo drew it in his book before he went to school. That night he left a blank space under the drawing for the next day's picture.\n\nWhat changed on Wednesday?",
+  "cn": "小博把一粒豆子放进装有湿纸的玻璃罐里，又把罐子放在窗边。星期一他没见到新变化。周二他想把豆子扔掉，姐姐请他再等一天。周三，一条白色的根冒了出来。上学前他把它画进本子里。那天晚上，他在图下面留出空白，准备画第二天的样子。",
+  "slots": [
+   [
+    "A root appeared."
+   ]
+  ],
+  "why": "a white root pushed out 是首次可见变化。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The paper dried completely.",
+   "The jar broke.",
+   "His sister planted a tree.",
+   "A root appeared."
+  ],
+  "source": "articles:9",
+  "article": "The little seed"
+ },
+ {
+  "id": "WF1909",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Bo put a bean in a glass jar with wet paper. He left the jar by the window. On Monday he saw nothing new. On Tuesday he wanted to throw it away. His sister asked him to wait one more day. On Wednesday a white root pushed out. Bo drew it in his book before he went to school. That night he left a blank space under the drawing for the next day's picture.\n\nHow did Bo keep a record?",
+  "cn": "小博把一粒豆子放进装有湿纸的玻璃罐里，又把罐子放在窗边。星期一他没见到新变化。周二他想把豆子扔掉，姐姐请他再等一天。周三，一条白色的根冒了出来。上学前他把它画进本子里。那天晚上，他在图下面留出空白，准备画第二天的样子。",
+  "slots": [
+   [
+    "He drew pictures."
+   ]
+  ],
+  "why": "draw 与 picture 呼应。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "He weighed the jar.",
+   "He sent an email.",
+   "He drew pictures.",
+   "He wrote numbers on the glass."
+  ],
+  "source": "articles:9",
+  "article": "The little seed"
+ },
+ {
+  "id": "WF1910",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Bo put a bean in a glass jar with wet paper. He left the jar by the window. On Monday he saw nothing new. On Tuesday he wanted to throw it away. His sister asked him to wait one more day. On Wednesday a white root pushed out. Bo drew it in his book before he went to school. That night he left a blank space under the drawing for the next day's picture.\n\nWhat does the blank space tell us?",
+  "cn": "小博把一粒豆子放进装有湿纸的玻璃罐里，又把罐子放在窗边。星期一他没见到新变化。周二他想把豆子扔掉，姐姐请他再等一天。周三，一条白色的根冒了出来。上学前他把它画进本子里。那天晚上，他在图下面留出空白，准备画第二天的样子。",
+  "slots": [
+   [
+    "Bo plans to keep watching."
+   ]
+  ],
+  "why": "特意留出下一幅图的位置说明还会观察。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Bo plans to keep watching.",
+   "His sister needs the book.",
+   "Bo has stopped caring.",
+   "The first drawing is lost."
+  ],
+  "source": "articles:9",
+  "article": "The little seed"
+ },
+ {
+  "id": "WF1911",
+  "level": 1,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "After the game, Sam filled two cups at the tap. He carried them ____ because both were full. His friend Lee reached for one. Sam shook his head and pointed to the coach, who was still putting the balls away. Lee ____. He took the cup to the coach and came back to fill one for himself. Then he helped Sam turn off the tap, which was still ____.",
+  "cn": "比赛后，萨姆在水龙头边装满了两杯水。他慢慢端着，因为两杯都很满。朋友李伸手想拿一杯。萨姆摇头，指了指还在收球的教练。李明白了，把那杯水送给教练，再回来给自己接水。随后他帮萨姆关掉了还在流水的水龙头。",
+  "slots": [
+   [
+    "slowly"
+   ],
+   [
+    "understood"
+   ],
+   [
+    "running"
+   ]
+  ],
+  "why": "第1空（slowly）：杯子满，慢走可免洒出。 第2空（understood）：接下来的行动说明李读懂了手势。 第3空（running）：turn off 说明水龙头还在流水。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:17",
+  "slotOptions": [
+   [
+    "carelessly",
+    "blindly",
+    "slowly",
+    "wildly"
+   ],
+   [
+    "disappeared",
+    "forgot",
+    "complained",
+    "understood"
+   ],
+   [
+    "empty",
+    "running",
+    "locked",
+    "broken"
+   ]
+  ],
+  "article": "Two cups of water"
+ },
+ {
+  "id": "WF1912",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "After the game, Sam filled two cups at the tap. He carried them slowly because both were full. His friend Lee reached for one. Sam shook his head and pointed to the coach, who was still putting the balls away. Lee understood. He took the cup to the coach and came back to fill one for himself. Then he helped Sam turn off the tap, which was still running.\n\nWho was putting the balls away?",
+  "cn": "比赛后，萨姆在水龙头边装满了两杯水。他慢慢端着，因为两杯都很满。朋友李伸手想拿一杯。萨姆摇头，指了指还在收球的教练。李明白了，把那杯水送给教练，再回来给自己接水。随后他帮萨姆关掉了还在流水的水龙头。",
+  "slots": [
+   [
+    "The coach."
+   ]
+  ],
+  "why": "who 紧接 the coach。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Lee.",
+   "Sam.",
+   "A parent.",
+   "The coach."
+  ],
+  "source": "articles:17",
+  "article": "Two cups of water"
+ },
+ {
+  "id": "WF1913",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "After the game, Sam filled two cups at the tap. He carried them slowly because both were full. His friend Lee reached for one. Sam shook his head and pointed to the coach, who was still putting the balls away. Lee understood. He took the cup to the coach and came back to fill one for himself. Then he helped Sam turn off the tap, which was still running.\n\nHow did Sam explain the second cup?",
+  "cn": "比赛后，萨姆在水龙头边装满了两杯水。他慢慢端着，因为两杯都很满。朋友李伸手想拿一杯。萨姆摇头，指了指还在收球的教练。李明白了，把那杯水送给教练，再回来给自己接水。随后他帮萨姆关掉了还在流水的水龙头。",
+  "slots": [
+   [
+    "With a gesture."
+   ]
+  ],
+  "why": "摇头和指向教练都是手势。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "With a note.",
+   "By calling loudly.",
+   "With a gesture.",
+   "By drawing a map."
+  ],
+  "source": "articles:17",
+  "article": "Two cups of water"
+ },
+ {
+  "id": "WF1914",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "After the game, Sam filled two cups at the tap. He carried them slowly because both were full. His friend Lee reached for one. Sam shook his head and pointed to the coach, who was still putting the balls away. Lee understood. He took the cup to the coach and came back to fill one for himself. Then he helped Sam turn off the tap, which was still running.\n\nWhich cup did Lee drink from?",
+  "cn": "比赛后，萨姆在水龙头边装满了两杯水。他慢慢端着，因为两杯都很满。朋友李伸手想拿一杯。萨姆摇头，指了指还在收球的教练。李明白了，把那杯水送给教练，再回来给自己接水。随后他帮萨姆关掉了还在流水的水龙头。",
+  "slots": [
+   [
+    "The one he filled for himself."
+   ]
+  ],
+  "why": "送水后他回来为自己接水。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Sam's first cup.",
+   "The one he filled for himself.",
+   "An empty one.",
+   "The coach's cup."
+  ],
+  "source": "articles:17",
+  "article": "Two cups of water"
+ },
+ {
+  "id": "WF1915",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "After the game, Sam filled two cups at the tap. He carried them slowly because both were full. His friend Lee reached for one. Sam shook his head and pointed to the coach, who was still putting the balls away. Lee understood. He took the cup to the coach and came back to fill one for himself. Then he helped Sam turn off the tap, which was still running.\n\nWhich title best fits?",
+  "cn": "比赛后，萨姆在水龙头边装满了两杯水。他慢慢端着，因为两杯都很满。朋友李伸手想拿一杯。萨姆摇头，指了指还在收球的教练。李明白了，把那杯水送给教练，再回来给自己接水。随后他帮萨姆关掉了还在流水的水龙头。",
+  "slots": [
+   [
+    "A Drink for the Coach"
+   ]
+  ],
+  "why": "故事围绕一杯为教练留的水展开。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A Drink for the Coach",
+   "A Lost Ball",
+   "A Race to the Gate",
+   "A Tap That Never Worked"
+  ],
+  "source": "articles:17",
+  "article": "Two cups of water"
+ },
+ {
+  "id": "WF1916",
+  "level": 1,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "May found a blue button beside the class door. Three children had blue coats. May did not guess. She asked each child to ____ at the front of the coat. Two coats had all their buttons. The third had a piece of blue ____ hanging from an empty place. Its owner took the button home. The next morning the empty place was ____, and the child could close the coat again.",
+  "cn": "梅在教室门旁捡到一颗蓝纽扣。三个孩子有蓝外套，梅没有乱猜。她请每个孩子看看衣服前面。两件外套的扣子都齐全，第三件有个空位，垂着一截蓝线。那件外套的主人把纽扣带回家。第二天早晨空位没有了，外套又能扣上了。",
+  "slots": [
+   [
+    "look"
+   ],
+   [
+    "thread"
+   ],
+   [
+    "gone"
+   ]
+  ],
+  "why": "第1空（look）：检查衣服要用 look at。 第2空（thread）：纽扣掉落后留下的是缝线。 第3空（gone）：又能扣上说明缺扣的位置已经修好。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:25",
+  "slotOptions": [
+   [
+    "wait",
+    "smile",
+    "look",
+    "listen"
+   ],
+   [
+    "thread",
+    "wood",
+    "paper",
+    "glass"
+   ],
+   [
+    "wider",
+    "deeper",
+    "open",
+    "gone"
+   ]
+  ],
+  "article": "The blue button"
+ },
+ {
+  "id": "WF1917",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "May found a blue button beside the class door. Three children had blue coats. May did not guess. She asked each child to look at the front of the coat. Two coats had all their buttons. The third had a piece of blue thread hanging from an empty place. Its owner took the button home. The next morning the empty place was gone, and the child could close the coat again.\n\nWhere did May find the button?",
+  "cn": "梅在教室门旁捡到一颗蓝纽扣。三个孩子有蓝外套，梅没有乱猜。她请每个孩子看看衣服前面。两件外套的扣子都齐全，第三件有个空位，垂着一截蓝线。那件外套的主人把纽扣带回家。第二天早晨空位没有了，外套又能扣上了。",
+  "slots": [
+   [
+    "Beside the class door."
+   ]
+  ],
+  "why": "开头交代拾得地点。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Under a bus seat.",
+   "At home.",
+   "Beside the class door.",
+   "In a coat pocket."
+  ],
+  "source": "articles:25",
+  "article": "The blue button"
+ },
+ {
+  "id": "WF1918",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "May found a blue button beside the class door. Three children had blue coats. May did not guess. She asked each child to look at the front of the coat. Two coats had all their buttons. The third had a piece of blue thread hanging from an empty place. Its owner took the button home. The next morning the empty place was gone, and the child could close the coat again.\n\nWhy did color alone fail to identify the owner?",
+  "cn": "梅在教室门旁捡到一颗蓝纽扣。三个孩子有蓝外套，梅没有乱猜。她请每个孩子看看衣服前面。两件外套的扣子都齐全，第三件有个空位，垂着一截蓝线。那件外套的主人把纽扣带回家。第二天早晨空位没有了，外套又能扣上了。",
+  "slots": [
+   [
+    "Three children had blue coats."
+   ]
+  ],
+  "why": "相同颜色对应多名可能的物主。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "All the coats were red.",
+   "Three children had blue coats.",
+   "The button had no color.",
+   "May was outside at night."
+  ],
+  "source": "articles:25",
+  "article": "The blue button"
+ },
+ {
+  "id": "WF1919",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "May found a blue button beside the class door. Three children had blue coats. May did not guess. She asked each child to look at the front of the coat. Two coats had all their buttons. The third had a piece of blue thread hanging from an empty place. Its owner took the button home. The next morning the empty place was gone, and the child could close the coat again.\n\nWhat was different about the third coat?",
+  "cn": "梅在教室门旁捡到一颗蓝纽扣。三个孩子有蓝外套，梅没有乱猜。她请每个孩子看看衣服前面。两件外套的扣子都齐全，第三件有个空位，垂着一截蓝线。那件外套的主人把纽扣带回家。第二天早晨空位没有了，外套又能扣上了。",
+  "slots": [
+   [
+    "One button was missing."
+   ]
+  ],
+  "why": "empty place 与另两件扣子齐全形成对照。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It had no pockets.",
+   "One button was missing.",
+   "It was too big.",
+   "It was a different color."
+  ],
+  "source": "articles:25",
+  "article": "The blue button"
+ },
+ {
+  "id": "WF1920",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "May found a blue button beside the class door. Three children had blue coats. May did not guess. She asked each child to look at the front of the coat. Two coats had all their buttons. The third had a piece of blue thread hanging from an empty place. Its owner took the button home. The next morning the empty place was gone, and the child could close the coat again.\n\nWhat probably happened at home?",
+  "cn": "梅在教室门旁捡到一颗蓝纽扣。三个孩子有蓝外套，梅没有乱猜。她请每个孩子看看衣服前面。两件外套的扣子都齐全，第三件有个空位，垂着一截蓝线。那件外套的主人把纽扣带回家。第二天早晨空位没有了，外套又能扣上了。",
+  "slots": [
+   [
+    "Someone sewed the button back on."
+   ]
+  ],
+  "why": "次日空位消失，衣服能扣上，支持缝回纽扣。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The child threw it away.",
+   "The owner painted the coat.",
+   "Someone sewed the button back on.",
+   "May bought a new door."
+  ],
+  "source": "articles:25",
+  "article": "The blue button"
+ },
+ {
+  "id": "WF1921",
+  "level": 2,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "A new student knocked on the library door at lunch. The room was dark, so he thought the library was ____. In fact, the books had been moved for one week while the lights were repaired. A sign inside the room gave the new address. The librarian saw the problem: a visitor could not read it through the dark glass. She made a ____ and put it outside. By Friday, students were finding the temporary room without ____ for help.",
+  "cn": "午餐时一个新生敲了图书馆的门。房间很暗，他以为闭馆了。其实是因为修灯，书暂时搬走一周。屋内的告示写着新地址。馆员发现，访客隔着暗玻璃无法看清，于是复制了一份贴在外面。到周五学生已经能自己找到临时阅览室了。",
+  "slots": [
+   [
+    "closed"
+   ],
+   [
+    "copy"
+   ],
+   [
+    "asking"
+   ]
+  ],
+  "why": "第1空（closed）：屋内没亮灯，让学生误以为关闭。 第2空（copy）：原告示还在里面，又做一份贴到外面。 第3空（asking）：without 为介词，后用动名词。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:33",
+  "slotOptions": [
+   [
+    "closed",
+    "crowded",
+    "free",
+    "noisy"
+   ],
+   [
+    "key",
+    "shelf",
+    "copy",
+    "seat"
+   ],
+   [
+    "ask",
+    "asked",
+    "asking",
+    "asks"
+   ]
+  ],
+  "article": "A sign for both doors"
+ },
+ {
+  "id": "WF1922",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A new student knocked on the library door at lunch. The room was dark, so he thought the library was closed. In fact, the books had been moved for one week while the lights were repaired. A sign inside the room gave the new address. The librarian saw the problem: a visitor could not read it through the dark glass. She made a copy and put it outside. By Friday, students were finding the temporary room without asking for help.\n\nWhy were the books moved?",
+  "cn": "午餐时一个新生敲了图书馆的门。房间很暗，他以为闭馆了。其实是因为修灯，书暂时搬走一周。屋内的告示写着新地址。馆员发现，访客隔着暗玻璃无法看清，于是复制了一份贴在外面。到周五学生已经能自己找到临时阅览室了。",
+  "slots": [
+   [
+    "The lights needed repair."
+   ]
+  ],
+  "why": "while 从句说明临时搬迁的原因。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The lights needed repair.",
+   "The librarian was away.",
+   "The books were all wet.",
+   "A new library had opened permanently."
+  ],
+  "source": "articles:33",
+  "article": "A sign for both doors"
+ },
+ {
+  "id": "WF1923",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A new student knocked on the library door at lunch. The room was dark, so he thought the library was closed. In fact, the books had been moved for one week while the lights were repaired. A sign inside the room gave the new address. The librarian saw the problem: a visitor could not read it through the dark glass. She made a copy and put it outside. By Friday, students were finding the temporary room without asking for help.\n\nWhat was wrong with the first sign?",
+  "cn": "午餐时一个新生敲了图书馆的门。房间很暗，他以为闭馆了。其实是因为修灯，书暂时搬走一周。屋内的告示写着新地址。馆员发现，访客隔着暗玻璃无法看清，于是复制了一份贴在外面。到周五学生已经能自己找到临时阅览室了。",
+  "slots": [
+   [
+    "People outside could not read it."
+   ]
+  ],
+  "why": "through the dark glass 说明位置阻碍阅读。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Its address was incorrect.",
+   "People outside could not read it.",
+   "It was too large.",
+   "It was written in pencil."
+  ],
+  "source": "articles:33",
+  "article": "A sign for both doors"
+ },
+ {
+  "id": "WF1924",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A new student knocked on the library door at lunch. The room was dark, so he thought the library was closed. In fact, the books had been moved for one week while the lights were repaired. A sign inside the room gave the new address. The librarian saw the problem: a visitor could not read it through the dark glass. She made a copy and put it outside. By Friday, students were finding the temporary room without asking for help.\n\nWhat does it in read it refer to?",
+  "cn": "午餐时一个新生敲了图书馆的门。房间很暗，他以为闭馆了。其实是因为修灯，书暂时搬走一周。屋内的告示写着新地址。馆员发现，访客隔着暗玻璃无法看清，于是复制了一份贴在外面。到周五学生已经能自己找到临时阅览室了。",
+  "slots": [
+   [
+    "The sign."
+   ]
+  ],
+  "why": "read 的宾语是前句给出地址的告示。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The bookcase.",
+   "The light.",
+   "The sign.",
+   "The door."
+  ],
+  "source": "articles:33",
+  "article": "A sign for both doors"
+ },
+ {
+  "id": "WF1925",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A new student knocked on the library door at lunch. The room was dark, so he thought the library was closed. In fact, the books had been moved for one week while the lights were repaired. A sign inside the room gave the new address. The librarian saw the problem: a visitor could not read it through the dark glass. She made a copy and put it outside. By Friday, students were finding the temporary room without asking for help.\n\nHow can we tell the change worked?",
+  "cn": "午餐时一个新生敲了图书馆的门。房间很暗，他以为闭馆了。其实是因为修灯，书暂时搬走一周。屋内的告示写着新地址。馆员发现，访客隔着暗玻璃无法看清，于是复制了一份贴在外面。到周五学生已经能自己找到临时阅览室了。",
+  "slots": [
+   [
+    "Students found the room without help."
+   ]
+  ],
+  "why": "最后一句给出措施产生的可观察结果。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Students found the room without help.",
+   "The repairs ended that day.",
+   "The books became lighter.",
+   "The door was replaced."
+  ],
+  "source": "articles:33",
+  "article": "A sign for both doors"
+ },
+ {
+  "id": "WF1926",
+  "level": 2,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "At eight thirty, six pupils always stood beside the class pencil sharpener. The teacher first thought it was too ____. Then she noticed that most pupils waited until the lesson began to check their pencils. She tried a different idea. Before the last bell each afternoon, everyone checked one pencil for the ____ morning. The machine stayed the same, ____ the line almost disappeared. Only broken pencils needed attention during lessons.",
+  "cn": "每天八点半总有六个学生站在班级卷笔刀旁。老师起初以为机器太慢。后来她发现，多数学生等到开课才检查铅笔。于是她试了另一种方法，每天下午最后一遍铃响前，大家为次日早晨检查一支铅笔。机器没换，队伍却几乎消失了。上课时只需处理折断的铅笔。",
+  "slots": [
+   [
+    "slow"
+   ],
+   [
+    "next"
+   ],
+   [
+    "but"
+   ]
+  ],
+  "why": "第1空（slow）：排队现象让老师怀疑机器速度。 第2空（next）：下午准备的是即将到来的早晨。 第3空（but）：机器未变与队伍消失构成转折。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:41",
+  "slotOptions": [
+   [
+    "heavy",
+    "slow",
+    "bright",
+    "tall"
+   ],
+   [
+    "next",
+    "last",
+    "past",
+    "first"
+   ],
+   [
+    "unless",
+    "or else",
+    "so that",
+    "but"
+   ]
+  ],
+  "article": "The busy pencil sharpener"
+ },
+ {
+  "id": "WF1927",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At eight thirty, six pupils always stood beside the class pencil sharpener. The teacher first thought it was too slow. Then she noticed that most pupils waited until the lesson began to check their pencils. She tried a different idea. Before the last bell each afternoon, everyone checked one pencil for the next morning. The machine stayed the same, but the line almost disappeared. Only broken pencils needed attention during lessons.\n\nWhen did pupils start checking pencils under the new plan?",
+  "cn": "每天八点半总有六个学生站在班级卷笔刀旁。老师起初以为机器太慢。后来她发现，多数学生等到开课才检查铅笔。于是她试了另一种方法，每天下午最后一遍铃响前，大家为次日早晨检查一支铅笔。机器没换，队伍却几乎消失了。上课时只需处理折断的铅笔。",
+  "slots": [
+   [
+    "Near the end of the school day."
+   ]
+  ],
+  "why": "before the last bell each afternoon 是新时间。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "At midnight.",
+   "After the next lesson began.",
+   "Near the end of the school day.",
+   "At breakfast."
+  ],
+  "source": "articles:41",
+  "article": "The busy pencil sharpener"
+ },
+ {
+  "id": "WF1928",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At eight thirty, six pupils always stood beside the class pencil sharpener. The teacher first thought it was too slow. Then she noticed that most pupils waited until the lesson began to check their pencils. She tried a different idea. Before the last bell each afternoon, everyone checked one pencil for the next morning. The machine stayed the same, but the line almost disappeared. Only broken pencils needed attention during lessons.\n\nWhat had caused much of the line?",
+  "cn": "每天八点半总有六个学生站在班级卷笔刀旁。老师起初以为机器太慢。后来她发现，多数学生等到开课才检查铅笔。于是她试了另一种方法，每天下午最后一遍铃响前，大家为次日早晨检查一支铅笔。机器没换，队伍却几乎消失了。上课时只需处理折断的铅笔。",
+  "slots": [
+   [
+    "Many pupils checked pencils at the same time."
+   ]
+  ],
+  "why": "问题出在需求同时出现。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "No pencil could be sharpened.",
+   "The class had only six pencils.",
+   "The teacher locked the machine.",
+   "Many pupils checked pencils at the same time."
+  ],
+  "source": "articles:41",
+  "article": "The busy pencil sharpener"
+ },
+ {
+  "id": "WF1929",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At eight thirty, six pupils always stood beside the class pencil sharpener. The teacher first thought it was too slow. Then she noticed that most pupils waited until the lesson began to check their pencils. She tried a different idea. Before the last bell each afternoon, everyone checked one pencil for the next morning. The machine stayed the same, but the line almost disappeared. Only broken pencils needed attention during lessons.\n\nWhich pencils might still need sharpening during class?",
+  "cn": "每天八点半总有六个学生站在班级卷笔刀旁。老师起初以为机器太慢。后来她发现，多数学生等到开课才检查铅笔。于是她试了另一种方法，每天下午最后一遍铃响前，大家为次日早晨检查一支铅笔。机器没换，队伍却几乎消失了。上课时只需处理折断的铅笔。",
+  "slots": [
+   [
+    "Ones that break."
+   ]
+  ],
+  "why": "末句说明了课堂中的例外。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Only the teacher's pencil.",
+   "Ones that break.",
+   "Every pencil bought yesterday.",
+   "All pencils kept in bags."
+  ],
+  "source": "articles:41",
+  "article": "The busy pencil sharpener"
+ },
+ {
+  "id": "WF1930",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At eight thirty, six pupils always stood beside the class pencil sharpener. The teacher first thought it was too slow. Then she noticed that most pupils waited until the lesson began to check their pencils. She tried a different idea. Before the last bell each afternoon, everyone checked one pencil for the next morning. The machine stayed the same, but the line almost disappeared. Only broken pencils needed attention during lessons.\n\nWhat does the example show?",
+  "cn": "每天八点半总有六个学生站在班级卷笔刀旁。老师起初以为机器太慢。后来她发现，多数学生等到开课才检查铅笔。于是她试了另一种方法，每天下午最后一遍铃响前，大家为次日早晨检查一支铅笔。机器没换，队伍却几乎消失了。上课时只需处理折断的铅笔。",
+  "slots": [
+   [
+    "Changing a routine can solve a problem."
+   ]
+  ],
+  "why": "调整检查时间就缩短了队伍。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A faster machine is always necessary.",
+   "Changing a routine can solve a problem.",
+   "Afternoon lessons should end earlier.",
+   "Lines cannot be shortened."
+  ],
+  "source": "articles:41",
+  "article": "The busy pencil sharpener"
+ },
+ {
+  "id": "WF1931",
+  "level": 2,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "During a walk, a shower washed the ink off part of Dad's map. A place name was still clear, but the arrow beside it had ____. Dad wanted to turn left. Mina remembered that the farmer had told them to cross a stone bridge first. They had not passed a bridge ____, so they stayed on the same path. Five minutes later the bridge came into ____. On its far side stood a sign with the missing direction.",
+  "cn": "散步时一阵雨冲掉了爸爸地图上的部分墨迹。地名还清楚，旁边的箭头却不见了。爸爸想左转。米娜记得农夫说过，他们得先过一座石桥。他们还没遇到桥，所以沿原路继续。五分钟后桥出现在眼前，桥对面立着写明方向的路牌。",
+  "slots": [
+   [
+    "vanished"
+   ],
+   [
+    "yet"
+   ],
+   [
+    "view"
+   ]
+  ],
+  "why": "第1空（vanished）：雨冲掉墨迹，因此箭头消失。 第2空（yet）：否定完成时中 yet 表示截至当时尚未。 第3空（view）：come into view 意为进入视野。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:49",
+  "slotOptions": [
+   [
+    "vanished",
+    "arrived",
+    "returned",
+    "grown"
+   ],
+   [
+    "yet",
+    "already",
+    "again",
+    "either way"
+   ],
+   [
+    "trouble",
+    "effect",
+    "use",
+    "view"
+   ]
+  ],
+  "article": "The map in the rain"
+ },
+ {
+  "id": "WF1932",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "During a walk, a shower washed the ink off part of Dad's map. A place name was still clear, but the arrow beside it had vanished. Dad wanted to turn left. Mina remembered that the farmer had told them to cross a stone bridge first. They had not passed a bridge yet, so they stayed on the same path. Five minutes later the bridge came into view. On its far side stood a sign with the missing direction.\n\nWhich part of the map was still readable?",
+  "cn": "散步时一阵雨冲掉了爸爸地图上的部分墨迹。地名还清楚，旁边的箭头却不见了。爸爸想左转。米娜记得农夫说过，他们得先过一座石桥。他们还没遇到桥，所以沿原路继续。五分钟后桥出现在眼前，桥对面立着写明方向的路牌。",
+  "slots": [
+   [
+    "A place name."
+   ]
+  ],
+  "why": "第二句明确区分名字和箭头。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A place name.",
+   "The arrow.",
+   "Every road.",
+   "A phone number."
+  ],
+  "source": "articles:49",
+  "article": "The map in the rain"
+ },
+ {
+  "id": "WF1933",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "During a walk, a shower washed the ink off part of Dad's map. A place name was still clear, but the arrow beside it had vanished. Dad wanted to turn left. Mina remembered that the farmer had told them to cross a stone bridge first. They had not passed a bridge yet, so they stayed on the same path. Five minutes later the bridge came into view. On its far side stood a sign with the missing direction.\n\nWhose earlier advice helped Mina?",
+  "cn": "散步时一阵雨冲掉了爸爸地图上的部分墨迹。地名还清楚，旁边的箭头却不见了。爸爸想左转。米娜记得农夫说过，他们得先过一座石桥。他们还没遇到桥，所以沿原路继续。五分钟后桥出现在眼前，桥对面立着写明方向的路牌。",
+  "slots": [
+   [
+    "A farmer's."
+   ]
+  ],
+  "why": "Mina remembered 后引出农夫的话。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A visitor's.",
+   "A teacher's.",
+   "A farmer's.",
+   "A driver's."
+  ],
+  "source": "articles:49",
+  "article": "The map in the rain"
+ },
+ {
+  "id": "WF1934",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "During a walk, a shower washed the ink off part of Dad's map. A place name was still clear, but the arrow beside it had vanished. Dad wanted to turn left. Mina remembered that the farmer had told them to cross a stone bridge first. They had not passed a bridge yet, so they stayed on the same path. Five minutes later the bridge came into view. On its far side stood a sign with the missing direction.\n\nWhy did they continue straight?",
+  "cn": "散步时一阵雨冲掉了爸爸地图上的部分墨迹。地名还清楚，旁边的箭头却不见了。爸爸想左转。米娜记得农夫说过，他们得先过一座石桥。他们还没遇到桥，所以沿原路继续。五分钟后桥出现在眼前，桥对面立着写明方向的路牌。",
+  "slots": [
+   [
+    "They had not reached the bridge yet."
+   ]
+  ],
+  "why": "先过桥是转弯前的条件。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "They had not reached the bridge yet.",
+   "The left path was blocked.",
+   "Dad could read the arrow.",
+   "They had lost their shoes."
+  ],
+  "source": "articles:49",
+  "article": "The map in the rain"
+ },
+ {
+  "id": "WF1935",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "During a walk, a shower washed the ink off part of Dad's map. A place name was still clear, but the arrow beside it had vanished. Dad wanted to turn left. Mina remembered that the farmer had told them to cross a stone bridge first. They had not passed a bridge yet, so they stayed on the same path. Five minutes later the bridge came into view. On its far side stood a sign with the missing direction.\n\nWhere did they recover the missing information?",
+  "cn": "散步时一阵雨冲掉了爸爸地图上的部分墨迹。地名还清楚，旁边的箭头却不见了。爸爸想左转。米娜记得农夫说过，他们得先过一座石桥。他们还没遇到桥，所以沿原路继续。五分钟后桥出现在眼前，桥对面立着写明方向的路牌。",
+  "slots": [
+   [
+    "On a sign beyond the bridge."
+   ]
+  ],
+  "why": "末句交代了路牌的位置。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "On a sign beyond the bridge.",
+   "On Dad's phone.",
+   "On the back of a ticket.",
+   "On Mina's coat."
+  ],
+  "source": "articles:49",
+  "article": "The map in the rain"
+ },
+ {
+  "id": "WF1936",
+  "level": 2,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "For three mornings, the children left seeds on a bird table and saw no birds. They planned to buy different seeds. Before they did, Jun noticed that the food was ____ by evening. He suggested watching from the kitchen instead of standing next to the table. The next day they stayed ____. Within ten minutes a small bird landed. The seeds had not changed; the children's ____ had.",
+  "cn": "接连三个早晨，孩子们在喂鸟台上放了种子，却没看到鸟。他们打算买别的种子。小俊先注意到，食物到傍晚就没了。他提议从厨房观察，不要站在台边。第二天他们待在室内，不到十分钟一只小鸟就落了下来。种子没换，改变的是孩子们的位置。",
+  "slots": [
+   [
+    "gone"
+   ],
+   [
+    "indoors"
+   ],
+   [
+    "position"
+   ]
+  ],
+  "why": "第1空（gone）：by evening 的发现提示食物已被吃掉或拿走。 第2空（indoors）：前一句建议从厨房观察。 第3空（position）：从台边改到厨房，改变的是观察位置。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:57",
+  "slotOptions": [
+   [
+    "gone",
+    "wet",
+    "green",
+    "whole"
+   ],
+   [
+    "indoors",
+    "on the table",
+    "nearby outdoors",
+    "above the roof"
+   ],
+   [
+    "position",
+    "menu",
+    "age",
+    "name"
+   ]
+  ],
+  "article": "The empty bird table"
+ },
+ {
+  "id": "WF1937",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "For three mornings, the children left seeds on a bird table and saw no birds. They planned to buy different seeds. Before they did, Jun noticed that the food was gone by evening. He suggested watching from the kitchen instead of standing next to the table. The next day they stayed indoors. Within ten minutes a small bird landed. The seeds had not changed; the children's position had.\n\nWhat did the children first plan to change?",
+  "cn": "接连三个早晨，孩子们在喂鸟台上放了种子，却没看到鸟。他们打算买别的种子。小俊先注意到，食物到傍晚就没了。他提议从厨房观察，不要站在台边。第二天他们待在室内，不到十分钟一只小鸟就落了下来。种子没换，改变的是孩子们的位置。",
+  "slots": [
+   [
+    "The seeds."
+   ]
+  ],
+  "why": "开头说他们想买不同的种子。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The window.",
+   "The time of sunset.",
+   "The table height.",
+   "The seeds."
+  ],
+  "source": "articles:57",
+  "article": "The empty bird table"
+ },
+ {
+  "id": "WF1938",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "For three mornings, the children left seeds on a bird table and saw no birds. They planned to buy different seeds. Before they did, Jun noticed that the food was gone by evening. He suggested watching from the kitchen instead of standing next to the table. The next day they stayed indoors. Within ten minutes a small bird landed. The seeds had not changed; the children's position had.\n\nWhich observation suggested the seeds might already attract a visitor?",
+  "cn": "接连三个早晨，孩子们在喂鸟台上放了种子，却没看到鸟。他们打算买别的种子。小俊先注意到，食物到傍晚就没了。他提议从厨房观察，不要站在台边。第二天他们待在室内，不到十分钟一只小鸟就落了下来。种子没换，改变的是孩子们的位置。",
+  "slots": [
+   [
+    "The food disappeared by evening."
+   ]
+  ],
+  "why": "食物不见是有动物来过的线索。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The table was wooden.",
+   "The food disappeared by evening.",
+   "The mornings were bright.",
+   "The kitchen was warm."
+  ],
+  "source": "articles:57",
+  "article": "The empty bird table"
+ },
+ {
+  "id": "WF1939",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "For three mornings, the children left seeds on a bird table and saw no birds. They planned to buy different seeds. Before they did, Jun noticed that the food was gone by evening. He suggested watching from the kitchen instead of standing next to the table. The next day they stayed indoors. Within ten minutes a small bird landed. The seeds had not changed; the children's position had.\n\nWhen did they actually see a bird?",
+  "cn": "接连三个早晨，孩子们在喂鸟台上放了种子，却没看到鸟。他们打算买别的种子。小俊先注意到，食物到傍晚就没了。他提议从厨房观察，不要站在台边。第二天他们待在室内，不到十分钟一只小鸟就落了下来。种子没换，改变的是孩子们的位置。",
+  "slots": [
+   [
+    "After they watched from indoors."
+   ]
+  ],
+  "why": "改变观察位置后才亲眼看到鸟。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "After they watched from indoors.",
+   "While buying new seeds.",
+   "Before they put out food.",
+   "After they removed the table."
+  ],
+  "source": "articles:57",
+  "article": "The empty bird table"
+ },
+ {
+  "id": "WF1940",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "For three mornings, the children left seeds on a bird table and saw no birds. They planned to buy different seeds. Before they did, Jun noticed that the food was gone by evening. He suggested watching from the kitchen instead of standing next to the table. The next day they stayed indoors. Within ten minutes a small bird landed. The seeds had not changed; the children's position had.\n\nWhy mention that the seeds stayed the same?",
+  "cn": "接连三个早晨，孩子们在喂鸟台上放了种子，却没看到鸟。他们打算买别的种子。小俊先注意到，食物到傍晚就没了。他提议从厨房观察，不要站在台边。第二天他们待在室内，不到十分钟一只小鸟就落了下来。种子没换，改变的是孩子们的位置。",
+  "slots": [
+   [
+    "To highlight what did change."
+   ]
+  ],
+  "why": "结尾对照强调人的位置这一变化。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To prove no birds had come before.",
+   "To highlight what did change.",
+   "To say all birds eat only one seed.",
+   "To show Jun had forgotten the plan."
+  ],
+  "source": "articles:57",
+  "article": "The empty bird table"
+ },
+ {
+  "id": "WF1941",
+  "level": 3,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "For a local history project, Rui recorded the morning market. Back at school, the first recording sounded like one continuous roar. Her teacher asked her to listen for a single sound that ____ at regular intervals. Rui noticed a bell. She went back and found a seller who rang it whenever a fresh tray of buns came out. In her second recording, Rui began beside the oven and then walked ____. The bell grew softer while the market grew louder. Her listeners could now follow a ____ instead of hearing an unexplained noise.",
+  "cn": "小瑞为地方历史项目录下了早市的声音。回校后，第一段录音听起来是一片持续的嘈杂。老师让她找一种有规律地再次出现的声音。她注意到铃声，返回市场后发现卖家每出一盘新包子就摇铃。第二段录音里她从炉边开始，逐渐走远。铃声减弱，市场声增大。听众这回能跟随一段行程，而不只是听一片不明所以的噪声。",
+  "slots": [
+   [
+    "returned"
+   ],
+   [
+    "away"
+   ],
+   [
+    "journey"
+   ]
+  ],
+  "why": "第1空（returned）：at regular intervals 表示声音反复出现。 第2空（away）：铃声渐弱提示她正在远离声源。 第3空（journey）：声音随行走变化，呈现路线。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:65",
+  "slotOptions": [
+   [
+    "broke",
+    "ended",
+    "hid",
+    "returned"
+   ],
+   [
+    "away",
+    "inside it",
+    "on board",
+    "backward in time"
+   ],
+   [
+    "recipe",
+    "journey",
+    "silence",
+    "argument"
+   ]
+  ],
+  "article": "Three minutes of sound"
+ },
+ {
+  "id": "WF1942",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "For a local history project, Rui recorded the morning market. Back at school, the first recording sounded like one continuous roar. Her teacher asked her to listen for a single sound that returned at regular intervals. Rui noticed a bell. She went back and found a seller who rang it whenever a fresh tray of buns came out. In her second recording, Rui began beside the oven and then walked away. The bell grew softer while the market grew louder. Her listeners could now follow a journey instead of hearing an unexplained noise.\n\nWhat was the weakness of the first recording?",
+  "cn": "小瑞为地方历史项目录下了早市的声音。回校后，第一段录音听起来是一片持续的嘈杂。老师让她找一种有规律地再次出现的声音。她注意到铃声，返回市场后发现卖家每出一盘新包子就摇铃。第二段录音里她从炉边开始，逐渐走远。铃声减弱，市场声增大。听众这回能跟随一段行程，而不只是听一片不明所以的噪声。",
+  "slots": [
+   [
+    "Its sounds were difficult to separate."
+   ]
+  ],
+  "why": "one continuous roar 表示声音混在一起。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It lasted only a second.",
+   "It contained no sound.",
+   "It was made at night.",
+   "Its sounds were difficult to separate."
+  ],
+  "source": "articles:65",
+  "article": "Three minutes of sound"
+ },
+ {
+  "id": "WF1943",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "For a local history project, Rui recorded the morning market. Back at school, the first recording sounded like one continuous roar. Her teacher asked her to listen for a single sound that returned at regular intervals. Rui noticed a bell. She went back and found a seller who rang it whenever a fresh tray of buns came out. In her second recording, Rui began beside the oven and then walked away. The bell grew softer while the market grew louder. Her listeners could now follow a journey instead of hearing an unexplained noise.\n\nWhat did the bell announce?",
+  "cn": "小瑞为地方历史项目录下了早市的声音。回校后，第一段录音听起来是一片持续的嘈杂。老师让她找一种有规律地再次出现的声音。她注意到铃声，返回市场后发现卖家每出一盘新包子就摇铃。第二段录音里她从炉边开始，逐渐走远。铃声减弱，市场声增大。听众这回能跟随一段行程，而不只是听一片不明所以的噪声。",
+  "slots": [
+   [
+    "Fresh buns were ready."
+   ]
+  ],
+  "why": "whenever 从句说明摇铃的时机。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The market was closing.",
+   "The teacher had come.",
+   "A bus was arriving.",
+   "Fresh buns were ready."
+  ],
+  "source": "articles:65",
+  "article": "Three minutes of sound"
+ },
+ {
+  "id": "WF1944",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "For a local history project, Rui recorded the morning market. Back at school, the first recording sounded like one continuous roar. Her teacher asked her to listen for a single sound that returned at regular intervals. Rui noticed a bell. She went back and found a seller who rang it whenever a fresh tray of buns came out. In her second recording, Rui began beside the oven and then walked away. The bell grew softer while the market grew louder. Her listeners could now follow a journey instead of hearing an unexplained noise.\n\nHow was the second recording organized?",
+  "cn": "小瑞为地方历史项目录下了早市的声音。回校后，第一段录音听起来是一片持续的嘈杂。老师让她找一种有规律地再次出现的声音。她注意到铃声，返回市场后发现卖家每出一盘新包子就摇铃。第二段录音里她从炉边开始，逐渐走远。铃声减弱，市场声增大。听众这回能跟随一段行程，而不只是听一片不明所以的噪声。",
+  "slots": [
+   [
+    "By movement away from one sound source."
+   ]
+  ],
+  "why": "从炉边出发再走远决定录音结构。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "By interviews only.",
+   "By movement away from one sound source.",
+   "By alphabetical order.",
+   "By a list of prices."
+  ],
+  "source": "articles:65",
+  "article": "Three minutes of sound"
+ },
+ {
+  "id": "WF1945",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "For a local history project, Rui recorded the morning market. Back at school, the first recording sounded like one continuous roar. Her teacher asked her to listen for a single sound that returned at regular intervals. Rui noticed a bell. She went back and found a seller who rang it whenever a fresh tray of buns came out. In her second recording, Rui began beside the oven and then walked away. The bell grew softer while the market grew louder. Her listeners could now follow a journey instead of hearing an unexplained noise.\n\nWhy did the teacher ask Rui to find a repeated sound?",
+  "cn": "小瑞为地方历史项目录下了早市的声音。回校后，第一段录音听起来是一片持续的嘈杂。老师让她找一种有规律地再次出现的声音。她注意到铃声，返回市场后发现卖家每出一盘新包子就摇铃。第二段录音里她从炉边开始，逐渐走远。铃声减弱，市场声增大。听众这回能跟随一段行程，而不只是听一片不明所以的噪声。",
+  "slots": [
+   [
+    "It could give listeners a recognizable point of reference."
+   ]
+  ],
+  "why": "铃声先被辨认，再成为定位声音变化的线索。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It could give listeners a recognizable point of reference.",
+   "It would shorten the walk.",
+   "It would make all other sounds disappear.",
+   "It would prove the market was quiet."
+  ],
+  "source": "articles:65",
+  "article": "Three minutes of sound"
+ },
+ {
+  "id": "WF1946",
+  "level": 3,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "Two pupils wanted to borrow the same field guide for different projects. The librarian could lend it to only one person at a ____. She asked what each pupil needed. Ben wanted to identify trees on a Saturday walk. Jo wanted the chart on the inside cover to compare leaf shapes during class. With the librarian's help, Jo drew her own chart and added an ____ from the school yard. Ben took the guide on Friday. The solution worked because the pupils had needed different things ____ the same book.",
+  "cn": "两名学生想借同一本野外指南做不同的项目。馆员一次只能借给一个人，于是问清各自需要什么。本周六散步时要识别树木，乔则要用封面内侧的图表在课堂上比较叶形。馆员帮乔画了她自己的图表，她还加了一个校园里的例子。本周五借走了书。问题能解决，是因为两人对同一本书的需求不同。",
+  "slots": [
+   [
+    "time"
+   ],
+   [
+    "example"
+   ],
+   [
+    "from"
+   ]
+  ],
+  "why": "第1空（time）：one at a time 表示一次一个。 第2空（example）：乔用校园植物为图表补充实例。 第3空（from）：need something from a source 表示从该来源获取所需内容。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:73",
+  "slotOptions": [
+   [
+    "time",
+    "side",
+    "turning",
+    "space"
+   ],
+   [
+    "entrance",
+    "ending",
+    "excuse",
+    "example"
+   ],
+   [
+    "throughout",
+    "under",
+    "behind",
+    "from"
+   ]
+  ],
+  "article": "A book in two places"
+ },
+ {
+  "id": "WF1947",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Two pupils wanted to borrow the same field guide for different projects. The librarian could lend it to only one person at a time. She asked what each pupil needed. Ben wanted to identify trees on a Saturday walk. Jo wanted the chart on the inside cover to compare leaf shapes during class. With the librarian's help, Jo drew her own chart and added an example from the school yard. Ben took the guide on Friday. The solution worked because the pupils had needed different things from the same book.\n\nWho needed the actual guide outdoors?",
+  "cn": "两名学生想借同一本野外指南做不同的项目。馆员一次只能借给一个人，于是问清各自需要什么。本周六散步时要识别树木，乔则要用封面内侧的图表在课堂上比较叶形。馆员帮乔画了她自己的图表，她还加了一个校园里的例子。本周五借走了书。问题能解决，是因为两人对同一本书的需求不同。",
+  "slots": [
+   [
+    "Ben."
+   ]
+  ],
+  "why": "Ben 的需要与周六的散步有关。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Jo.",
+   "The librarian.",
+   "Ben.",
+   "Both pupils together."
+  ],
+  "source": "articles:73",
+  "article": "A book in two places"
+ },
+ {
+  "id": "WF1948",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Two pupils wanted to borrow the same field guide for different projects. The librarian could lend it to only one person at a time. She asked what each pupil needed. Ben wanted to identify trees on a Saturday walk. Jo wanted the chart on the inside cover to compare leaf shapes during class. With the librarian's help, Jo drew her own chart and added an example from the school yard. Ben took the guide on Friday. The solution worked because the pupils had needed different things from the same book.\n\nWhere was the chart Jo wanted?",
+  "cn": "两名学生想借同一本野外指南做不同的项目。馆员一次只能借给一个人，于是问清各自需要什么。本周六散步时要识别树木，乔则要用封面内侧的图表在课堂上比较叶形。馆员帮乔画了她自己的图表，她还加了一个校园里的例子。本周五借走了书。问题能解决，是因为两人对同一本书的需求不同。",
+  "slots": [
+   [
+    "Inside the cover."
+   ]
+  ],
+  "why": "inside cover 明确指出原图位置。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Inside the cover.",
+   "In Ben's bag.",
+   "On the last page of her notebook.",
+   "On the school gate."
+  ],
+  "source": "articles:73",
+  "article": "A book in two places"
+ },
+ {
+  "id": "WF1949",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Two pupils wanted to borrow the same field guide for different projects. The librarian could lend it to only one person at a time. She asked what each pupil needed. Ben wanted to identify trees on a Saturday walk. Jo wanted the chart on the inside cover to compare leaf shapes during class. With the librarian's help, Jo drew her own chart and added an example from the school yard. Ben took the guide on Friday. The solution worked because the pupils had needed different things from the same book.\n\nWhat made Jo's chart more than a copy?",
+  "cn": "两名学生想借同一本野外指南做不同的项目。馆员一次只能借给一个人，于是问清各自需要什么。本周六散步时要识别树木，乔则要用封面内侧的图表在课堂上比较叶形。馆员帮乔画了她自己的图表，她还加了一个校园里的例子。本周五借走了书。问题能解决，是因为两人对同一本书的需求不同。",
+  "slots": [
+   [
+    "She added a local example."
+   ]
+  ],
+  "why": "add an example 是新信息。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "She made it smaller.",
+   "She added a local example.",
+   "She used the same cover.",
+   "She changed the title only."
+  ],
+  "source": "articles:73",
+  "article": "A book in two places"
+ },
+ {
+  "id": "WF1950",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Two pupils wanted to borrow the same field guide for different projects. The librarian could lend it to only one person at a time. She asked what each pupil needed. Ben wanted to identify trees on a Saturday walk. Jo wanted the chart on the inside cover to compare leaf shapes during class. With the librarian's help, Jo drew her own chart and added an example from the school yard. Ben took the guide on Friday. The solution worked because the pupils had needed different things from the same book.\n\nWhat question led to a solution?",
+  "cn": "两名学生想借同一本野外指南做不同的项目。馆员一次只能借给一个人，于是问清各自需要什么。本周六散步时要识别树木，乔则要用封面内侧的图表在课堂上比较叶形。馆员帮乔画了她自己的图表，她还加了一个校园里的例子。本周五借走了书。问题能解决，是因为两人对同一本书的需求不同。",
+  "slots": [
+   [
+    "What does each pupil need it for?"
+   ]
+  ],
+  "why": "了解具体需求后才发现可以分别满足。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "What does each pupil need it for?",
+   "Who asked first?",
+   "Which pupil is older?",
+   "How much does the guide cost?"
+  ],
+  "source": "articles:73",
+  "article": "A book in two places"
+ },
+ {
+  "id": "WF1951",
+  "level": 3,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "After a storm, a park volunteer found branches on a popular path. She placed a notice at the damaged section, then realized that walkers would already have climbed the long hill by the time they ____ it. She moved a second notice to the fork at the bottom. It showed another route of similar length. The upper notice ____ in place for people arriving from the other side. A walker later thanked her for the lower sign: the value of the information depended partly on ____ he received it.",
+  "cn": "暴风雨后，一名公园志愿者在热门步道上发现了树枝。她在受损处放了告示，随即意识到，行人到那里时已经爬完了长坡。她把另一块告示移到坡底岔路口，标出一条长度相近的替代路线。上面的告示仍留着，供从另一边来的人看。后来一名行人感谢她在坡下立了牌；信息有多大用，部分取决于他何时得到它。",
+  "slots": [
+   [
+    "reached"
+   ],
+   [
+    "remained"
+   ],
+   [
+    "when"
+   ]
+  ],
+  "why": "第1空（reached）：reach 为及物动词，过去叙述中用 reached。 第2空（remained）：上方告示继续为另一方向的行人服务。 第3空（when）：坡底和坡顶的差异在接收信息的时机。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:81",
+  "slotOptions": [
+   [
+    "reaching",
+    "reached",
+    "reach to",
+    "reaches"
+   ],
+   [
+    "traveled",
+    "remained",
+    "vanished",
+    "fell asleep"
+   ],
+   [
+    "whose",
+    "when",
+    "whom",
+    "how many"
+   ]
+  ],
+  "article": "The path after the storm"
+ },
+ {
+  "id": "WF1952",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "After a storm, a park volunteer found branches on a popular path. She placed a notice at the damaged section, then realized that walkers would already have climbed the long hill by the time they reached it. She moved a second notice to the fork at the bottom. It showed another route of similar length. The upper notice remained in place for people arriving from the other side. A walker later thanked her for the lower sign: the value of the information depended partly on when he received it.\n\nWhat blocked part of the path?",
+  "cn": "暴风雨后，一名公园志愿者在热门步道上发现了树枝。她在受损处放了告示，随即意识到，行人到那里时已经爬完了长坡。她把另一块告示移到坡底岔路口，标出一条长度相近的替代路线。上面的告示仍留着，供从另一边来的人看。后来一名行人感谢她在坡下立了牌；信息有多大用，部分取决于他何时得到它。",
+  "slots": [
+   [
+    "Branches."
+   ]
+  ],
+  "why": "首句直接交代障碍。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Branches.",
+   "A new fence.",
+   "A broken bench.",
+   "A lost bus."
+  ],
+  "source": "articles:81",
+  "article": "The path after the storm"
+ },
+ {
+  "id": "WF1953",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "After a storm, a park volunteer found branches on a popular path. She placed a notice at the damaged section, then realized that walkers would already have climbed the long hill by the time they reached it. She moved a second notice to the fork at the bottom. It showed another route of similar length. The upper notice remained in place for people arriving from the other side. A walker later thanked her for the lower sign: the value of the information depended partly on when he received it.\n\nWhy put a notice at the fork?",
+  "cn": "暴风雨后，一名公园志愿者在热门步道上发现了树枝。她在受损处放了告示，随即意识到，行人到那里时已经爬完了长坡。她把另一块告示移到坡底岔路口，标出一条长度相近的替代路线。上面的告示仍留着，供从另一边来的人看。后来一名行人感谢她在坡下立了牌；信息有多大用，部分取决于他何时得到它。",
+  "slots": [
+   [
+    "Walkers could choose before climbing."
+   ]
+  ],
+  "why": "fork 是提前作路线决定的地方。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The top notice was stolen.",
+   "Walkers could choose before climbing.",
+   "The other route had no hills at all.",
+   "The lower sign was larger."
+  ],
+  "source": "articles:81",
+  "article": "The path after the storm"
+ },
+ {
+  "id": "WF1954",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "After a storm, a park volunteer found branches on a popular path. She placed a notice at the damaged section, then realized that walkers would already have climbed the long hill by the time they reached it. She moved a second notice to the fork at the bottom. It showed another route of similar length. The upper notice remained in place for people arriving from the other side. A walker later thanked her for the lower sign: the value of the information depended partly on when he received it.\n\nWho still needed the upper notice?",
+  "cn": "暴风雨后，一名公园志愿者在热门步道上发现了树枝。她在受损处放了告示，随即意识到，行人到那里时已经爬完了长坡。她把另一块告示移到坡底岔路口，标出一条长度相近的替代路线。上面的告示仍留着，供从另一边来的人看。后来一名行人感谢她在坡下立了牌；信息有多大用，部分取决于他何时得到它。",
+  "slots": [
+   [
+    "People coming from the other side."
+   ]
+  ],
+  "why": "for people arriving from the other side 给出对象。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "People coming from the other side.",
+   "People who stayed home.",
+   "The person making the sign.",
+   "Only the volunteer."
+  ],
+  "source": "articles:81",
+  "article": "The path after the storm"
+ },
+ {
+  "id": "WF1955",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "After a storm, a park volunteer found branches on a popular path. She placed a notice at the damaged section, then realized that walkers would already have climbed the long hill by the time they reached it. She moved a second notice to the fork at the bottom. It showed another route of similar length. The upper notice remained in place for people arriving from the other side. A walker later thanked her for the lower sign: the value of the information depended partly on when he received it.\n\nWhich best summarizes the passage?",
+  "cn": "暴风雨后，一名公园志愿者在热门步道上发现了树枝。她在受损处放了告示，随即意识到，行人到那里时已经爬完了长坡。她把另一块告示移到坡底岔路口，标出一条长度相近的替代路线。上面的告示仍留着，供从另一边来的人看。后来一名行人感谢她在坡下立了牌；信息有多大用，部分取决于他何时得到它。",
+  "slots": [
+   [
+    "A warning helps most where a decision can still be made."
+   ]
+  ],
+  "why": "故事关注提示位置与决定时机的关系。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Walkers always choose the shortest path.",
+   "A warning helps most where a decision can still be made.",
+   "All information should be kept at the destination.",
+   "Every path needs exactly two signs."
+  ],
+  "source": "articles:81",
+  "article": "The path after the storm"
+ },
+ {
+  "id": "WF1956",
+  "level": 3,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "When the class recorded a radio play, a short laugh appeared between two lines. Nobody remembered laughing there. The editor was ready to ____ it, but the actor playing the youngest child asked to hear it again. In the scene, a lost traveler had just recognized his own street. The laugh sounded more like relief ____ a joke. The group kept it and shortened the pause that followed. Later listeners described the traveler as nervous at first and then relaxed. A sound that began by ____ had helped tell the story.",
+  "cn": "班上录广播剧时，两句台词之间出现了一声轻笑。没人记得自己在那里笑过。剪辑者正想删掉它，扮演最小孩子的演员却要求再听一遍。那一幕中，迷路的旅人刚认出自己住的街道。笑声听起来更像如释重负，而非觉得好笑。大家保留了它，缩短了随后的停顿。后来听众说旅人先紧张后放松。一个偶然出现的声音帮着讲好了故事。",
+  "slots": [
+   [
+    "remove"
+   ],
+   [
+    "than"
+   ],
+   [
+    "accident"
+   ]
+  ],
+  "why": "第1空（remove）：剪辑者原想删除没有计划的声音。 第2空（than）：more like A than B 构成比较。 第3空（accident）：无人刻意安排，用 by accident 表示偶然。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:89",
+  "slotOptions": [
+   [
+    "predict",
+    "translate",
+    "remove",
+    "purchase"
+   ],
+   [
+    "then",
+    "as if",
+    "unless",
+    "than"
+   ],
+   [
+    "permission",
+    "measurement",
+    "appointment",
+    "accident"
+   ]
+  ],
+  "article": "The extra voice"
+ },
+ {
+  "id": "WF1957",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "When the class recorded a radio play, a short laugh appeared between two lines. Nobody remembered laughing there. The editor was ready to remove it, but the actor playing the youngest child asked to hear it again. In the scene, a lost traveler had just recognized his own street. The laugh sounded more like relief than a joke. The group kept it and shortened the pause that followed. Later listeners described the traveler as nervous at first and then relaxed. A sound that began by accident had helped tell the story.\n\nWhat had the traveler just recognized?",
+  "cn": "班上录广播剧时，两句台词之间出现了一声轻笑。没人记得自己在那里笑过。剪辑者正想删掉它，扮演最小孩子的演员却要求再听一遍。那一幕中，迷路的旅人刚认出自己住的街道。笑声听起来更像如释重负，而非觉得好笑。大家保留了它，缩短了随后的停顿。后来听众说旅人先紧张后放松。一个偶然出现的声音帮着讲好了故事。",
+  "slots": [
+   [
+    "His own street."
+   ]
+  ],
+  "why": "in the scene 后提供剧情背景。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Another actor.",
+   "A joke in the script.",
+   "A radio station.",
+   "His own street."
+  ],
+  "source": "articles:89",
+  "article": "The extra voice"
+ },
+ {
+  "id": "WF1958",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "When the class recorded a radio play, a short laugh appeared between two lines. Nobody remembered laughing there. The editor was ready to remove it, but the actor playing the youngest child asked to hear it again. In the scene, a lost traveler had just recognized his own street. The laugh sounded more like relief than a joke. The group kept it and shortened the pause that followed. Later listeners described the traveler as nervous at first and then relaxed. A sound that began by accident had helped tell the story.\n\nWhich change did the group actually make?",
+  "cn": "班上录广播剧时，两句台词之间出现了一声轻笑。没人记得自己在那里笑过。剪辑者正想删掉它，扮演最小孩子的演员却要求再听一遍。那一幕中，迷路的旅人刚认出自己住的街道。笑声听起来更像如释重负，而非觉得好笑。大家保留了它，缩短了随后的停顿。后来听众说旅人先紧张后放松。一个偶然出现的声音帮着讲好了故事。",
+  "slots": [
+   [
+    "It shortened a pause."
+   ]
+  ],
+  "why": "保留笑声，缩短停顿。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It shortened a pause.",
+   "It changed the traveler into a child.",
+   "It removed the laugh.",
+   "It recorded the whole play outdoors."
+  ],
+  "source": "articles:89",
+  "article": "The extra voice"
+ },
+ {
+  "id": "WF1959",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "When the class recorded a radio play, a short laugh appeared between two lines. Nobody remembered laughing there. The editor was ready to remove it, but the actor playing the youngest child asked to hear it again. In the scene, a lost traveler had just recognized his own street. The laugh sounded more like relief than a joke. The group kept it and shortened the pause that followed. Later listeners described the traveler as nervous at first and then relaxed. A sound that began by accident had helped tell the story.\n\nWhat did the listeners' comments suggest?",
+  "cn": "班上录广播剧时，两句台词之间出现了一声轻笑。没人记得自己在那里笑过。剪辑者正想删掉它，扮演最小孩子的演员却要求再听一遍。那一幕中，迷路的旅人刚认出自己住的街道。笑声听起来更像如释重负，而非觉得好笑。大家保留了它，缩短了随后的停顿。后来听众说旅人先紧张后放松。一个偶然出现的声音帮着讲好了故事。",
+  "slots": [
+   [
+    "The sound suited an emotional change."
+   ]
+  ],
+  "why": "先紧张后放松与 relief 相符。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The traveler sounded angry throughout.",
+   "The laugh hid every word.",
+   "The sound suited an emotional change.",
+   "The group needed a louder radio."
+  ],
+  "source": "articles:89",
+  "article": "The extra voice"
+ },
+ {
+  "id": "WF1960",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "When the class recorded a radio play, a short laugh appeared between two lines. Nobody remembered laughing there. The editor was ready to remove it, but the actor playing the youngest child asked to hear it again. In the scene, a lost traveler had just recognized his own street. The laugh sounded more like relief than a joke. The group kept it and shortened the pause that followed. Later listeners described the traveler as nervous at first and then relaxed. A sound that began by accident had helped tell the story.\n\nWhat is the writer's main point?",
+  "cn": "班上录广播剧时，两句台词之间出现了一声轻笑。没人记得自己在那里笑过。剪辑者正想删掉它，扮演最小孩子的演员却要求再听一遍。那一幕中，迷路的旅人刚认出自己住的街道。笑声听起来更像如释重负，而非觉得好笑。大家保留了它，缩短了随后的停顿。后来听众说旅人先紧张后放松。一个偶然出现的声音帮着讲好了故事。",
+  "slots": [
+   [
+    "An unexpected detail can serve a purpose after careful listening."
+   ]
+  ],
+  "why": "关键是复听后判断与剧情的关系，而非盲目保留。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Editing always harms a play.",
+   "A play must contain a joke.",
+   "An unexpected detail can serve a purpose after careful listening.",
+   "Every mistake should stay in a recording."
+  ],
+  "source": "articles:89",
+  "article": "The extra voice"
+ },
+ {
+  "id": "WF1961",
+  "level": 4,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "The study room seemed busiest after four because that was when people complained about the noise. To test the impression, Mei counted occupied seats at three, four, and five on four afternoons. The largest counts actually came at three. At five, fewer people were present, ____ several were discussing group work. A sign asking everyone to leave at five would have solved the wrong problem. Mei proposed a small discussion area outside the reading room ____. Her counts did not explain every complaint, but they helped separate the number of people from the ____ of activity.",
+  "cn": "人们常在四点后抱怨噪声，于是自习室似乎那时最忙。梅连续四个下午在三点、四点、五点清点有人坐的位子。其实三点人数最多。五点人较少，却有人在讨论小组作业。要求所有人五点离开的告示解决不了真正的问题。梅转而建议在阅览室外设小块讨论区。计数不能解释所有投诉，却有助于区分人数和活动类型。",
+  "slots": [
+   [
+    "yet"
+   ],
+   [
+    "instead"
+   ],
+   [
+    "kind"
+   ]
+  ],
+  "why": "第1空（yet）：人数较少与讨论声较明显形成对照。 第2空（instead）：另提讨论区作为替代方案。 第3空（kind）：区别在于大家在做什么活动。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:97",
+  "slotOptions": [
+   [
+    "unless",
+    "therefore",
+    "for example",
+    "yet"
+   ],
+   [
+    "again",
+    "instead",
+    "once more",
+    "too early"
+   ],
+   [
+    "kind",
+    "date",
+    "height",
+    "price"
+   ]
+  ],
+  "article": "The quietest hour"
+ },
+ {
+  "id": "WF1962",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The study room seemed busiest after four because that was when people complained about the noise. To test the impression, Mei counted occupied seats at three, four, and five on four afternoons. The largest counts actually came at three. At five, fewer people were present, yet several were discussing group work. A sign asking everyone to leave at five would have solved the wrong problem. Mei proposed a small discussion area outside the reading room instead. Her counts did not explain every complaint, but they helped separate the number of people from the kind of activity.\n\nWhen were the most seats occupied?",
+  "cn": "人们常在四点后抱怨噪声，于是自习室似乎那时最忙。梅连续四个下午在三点、四点、五点清点有人坐的位子。其实三点人数最多。五点人较少，却有人在讨论小组作业。要求所有人五点离开的告示解决不了真正的问题。梅转而建议在阅览室外设小块讨论区。计数不能解释所有投诉，却有助于区分人数和活动类型。",
+  "slots": [
+   [
+    "At three."
+   ]
+  ],
+  "why": "实测最大值出现在三点。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "At four.",
+   "After closing.",
+   "At three.",
+   "At five."
+  ],
+  "source": "articles:97",
+  "article": "The quietest hour"
+ },
+ {
+  "id": "WF1963",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The study room seemed busiest after four because that was when people complained about the noise. To test the impression, Mei counted occupied seats at three, four, and five on four afternoons. The largest counts actually came at three. At five, fewer people were present, yet several were discussing group work. A sign asking everyone to leave at five would have solved the wrong problem. Mei proposed a small discussion area outside the reading room instead. Her counts did not explain every complaint, but they helped separate the number of people from the kind of activity.\n\nWhat had led to the original impression?",
+  "cn": "人们常在四点后抱怨噪声，于是自习室似乎那时最忙。梅连续四个下午在三点、四点、五点清点有人坐的位子。其实三点人数最多。五点人较少，却有人在讨论小组作业。要求所有人五点离开的告示解决不了真正的问题。梅转而建议在阅览室外设小块讨论区。计数不能解释所有投诉，却有助于区分人数和活动类型。",
+  "slots": [
+   [
+    "The timing of noise complaints."
+   ]
+  ],
+  "why": "开头把抱怨出现的时间与“最忙”的印象相连。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A broken clock.",
+   "A complete seat count.",
+   "The timing of noise complaints.",
+   "The length of the room."
+  ],
+  "source": "articles:97",
+  "article": "The quietest hour"
+ },
+ {
+  "id": "WF1964",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The study room seemed busiest after four because that was when people complained about the noise. To test the impression, Mei counted occupied seats at three, four, and five on four afternoons. The largest counts actually came at three. At five, fewer people were present, yet several were discussing group work. A sign asking everyone to leave at five would have solved the wrong problem. Mei proposed a small discussion area outside the reading room instead. Her counts did not explain every complaint, but they helped separate the number of people from the kind of activity.\n\nWhy might the discussion area help?",
+  "cn": "人们常在四点后抱怨噪声，于是自习室似乎那时最忙。梅连续四个下午在三点、四点、五点清点有人坐的位子。其实三点人数最多。五点人较少，却有人在讨论小组作业。要求所有人五点离开的告示解决不了真正的问题。梅转而建议在阅览室外设小块讨论区。计数不能解释所有投诉，却有助于区分人数和活动类型。",
+  "slots": [
+   [
+    "It separates activities with different noise levels."
+   ]
+  ],
+  "why": "方案针对讨论声与安静阅读的冲突。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It forces everyone home.",
+   "It makes group work impossible.",
+   "It separates activities with different noise levels.",
+   "It increases all seat counts."
+  ],
+  "source": "articles:97",
+  "article": "The quietest hour"
+ },
+ {
+  "id": "WF1965",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The study room seemed busiest after four because that was when people complained about the noise. To test the impression, Mei counted occupied seats at three, four, and five on four afternoons. The largest counts actually came at three. At five, fewer people were present, yet several were discussing group work. A sign asking everyone to leave at five would have solved the wrong problem. Mei proposed a small discussion area outside the reading room instead. Her counts did not explain every complaint, but they helped separate the number of people from the kind of activity.\n\nWhich limitation does the writer acknowledge?",
+  "cn": "人们常在四点后抱怨噪声，于是自习室似乎那时最忙。梅连续四个下午在三点、四点、五点清点有人坐的位子。其实三点人数最多。五点人较少，却有人在讨论小组作业。要求所有人五点离开的告示解决不了真正的问题。梅转而建议在阅览室外设小块讨论区。计数不能解释所有投诉，却有助于区分人数和活动类型。",
+  "slots": [
+   [
+    "The counts alone cannot explain every complaint."
+   ]
+  ],
+  "why": "末句明确限定计数的解释力。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Nobody used the room after four.",
+   "All complaints were mistaken.",
+   "Nobody counted at three.",
+   "The counts alone cannot explain every complaint."
+  ],
+  "source": "articles:97",
+  "article": "The quietest hour"
+ },
+ {
+  "id": "WF1966",
+  "level": 4,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "The school wanted to display an old costume worn in its first play. A hole near the sleeve was easy to mend. A name written on the inside was harder to decide about: washing the whole costume might ____ it. The drama group first made a list of what the costume could show future pupils. The name connected it to a particular performer, so the group chose to clean only the stained outer cloth. The hole was supported from behind ____ than hidden with bright new fabric. Their aim was to make the costume safe to display while ____ its history visible.",
+  "cn": "学校想展出首场戏的旧戏服。袖子附近的洞容易修，内侧写着的姓名却难处理，整件清洗可能把字迹洗掉。戏剧组先列出戏服能给后来的学生展示哪些信息。姓名把戏服与一名演员联系起来，因此他们只清理沾污的外层布。破洞从背面加固，不用鲜亮的新布盖住。目标是让戏服能安全展示，同时保留可见的历史痕迹。",
+  "slots": [
+   [
+    "erase"
+   ],
+   [
+    "rather"
+   ],
+   [
+    "keeping"
+   ]
+  ],
+  "why": "第1空（erase）：整件清洗可能使字迹消失。 第2空（rather）：rather than 表示采用前一种做法。 第3空（keeping）：while 后省略相同的主语和 be，使用现在分词。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:105",
+  "slotOptions": [
+   [
+    "predict",
+    "copy",
+    "enlarge",
+    "erase"
+   ],
+   [
+    "more",
+    "other",
+    "better",
+    "rather"
+   ],
+   [
+    "keeps",
+    "kept",
+    "keeping",
+    "keep"
+   ]
+  ],
+  "article": "Two kinds of repair"
+ },
+ {
+  "id": "WF1967",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The school wanted to display an old costume worn in its first play. A hole near the sleeve was easy to mend. A name written on the inside was harder to decide about: washing the whole costume might erase it. The drama group first made a list of what the costume could show future pupils. The name connected it to a particular performer, so the group chose to clean only the stained outer cloth. The hole was supported from behind rather than hidden with bright new fabric. Their aim was to make the costume safe to display while keeping its history visible.\n\nWhy was the name valuable?",
+  "cn": "学校想展出首场戏的旧戏服。袖子附近的洞容易修，内侧写着的姓名却难处理，整件清洗可能把字迹洗掉。戏剧组先列出戏服能给后来的学生展示哪些信息。姓名把戏服与一名演员联系起来，因此他们只清理沾污的外层布。破洞从背面加固，不用鲜亮的新布盖住。目标是让戏服能安全展示，同时保留可见的历史痕迹。",
+  "slots": [
+   [
+    "It linked the costume to one performer."
+   ]
+  ],
+  "why": "第二部分说明姓名能确定与之有关的人。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It named the school shop.",
+   "It linked the costume to one performer.",
+   "It gave washing instructions.",
+   "It showed the size of the hole."
+  ],
+  "source": "articles:105",
+  "article": "Two kinds of repair"
+ },
+ {
+  "id": "WF1968",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The school wanted to display an old costume worn in its first play. A hole near the sleeve was easy to mend. A name written on the inside was harder to decide about: washing the whole costume might erase it. The drama group first made a list of what the costume could show future pupils. The name connected it to a particular performer, so the group chose to clean only the stained outer cloth. The hole was supported from behind rather than hidden with bright new fabric. Their aim was to make the costume safe to display while keeping its history visible.\n\nWhat did the group do before choosing a cleaning method?",
+  "cn": "学校想展出首场戏的旧戏服。袖子附近的洞容易修，内侧写着的姓名却难处理，整件清洗可能把字迹洗掉。戏剧组先列出戏服能给后来的学生展示哪些信息。姓名把戏服与一名演员联系起来，因此他们只清理沾污的外层布。破洞从背面加固，不用鲜亮的新布盖住。目标是让戏服能安全展示，同时保留可见的历史痕迹。",
+  "slots": [
+   [
+    "It considered what the costume could tell pupils."
+   ]
+  ],
+  "why": "先确定想保留的信息，再决定处理方法。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It bought a new costume.",
+   "It washed everything.",
+   "It considered what the costume could tell pupils.",
+   "It removed the sleeve."
+  ],
+  "source": "articles:105",
+  "article": "Two kinds of repair"
+ },
+ {
+  "id": "WF1969",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The school wanted to display an old costume worn in its first play. A hole near the sleeve was easy to mend. A name written on the inside was harder to decide about: washing the whole costume might erase it. The drama group first made a list of what the costume could show future pupils. The name connected it to a particular performer, so the group chose to clean only the stained outer cloth. The hole was supported from behind rather than hidden with bright new fabric. Their aim was to make the costume safe to display while keeping its history visible.\n\nHow was the hole treated?",
+  "cn": "学校想展出首场戏的旧戏服。袖子附近的洞容易修，内侧写着的姓名却难处理，整件清洗可能把字迹洗掉。戏剧组先列出戏服能给后来的学生展示哪些信息。姓名把戏服与一名演员联系起来，因此他们只清理沾污的外层布。破洞从背面加固，不用鲜亮的新布盖住。目标是让戏服能安全展示，同时保留可见的历史痕迹。",
+  "slots": [
+   [
+    "It was supported from behind."
+   ]
+  ],
+  "why": "原文直接描述修补方法。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It was made larger.",
+   "It was cut out.",
+   "It was painted over.",
+   "It was supported from behind."
+  ],
+  "source": "articles:105",
+  "article": "Two kinds of repair"
+ },
+ {
+  "id": "WF1970",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The school wanted to display an old costume worn in its first play. A hole near the sleeve was easy to mend. A name written on the inside was harder to decide about: washing the whole costume might erase it. The drama group first made a list of what the costume could show future pupils. The name connected it to a particular performer, so the group chose to clean only the stained outer cloth. The hole was supported from behind rather than hidden with bright new fabric. Their aim was to make the costume safe to display while keeping its history visible.\n\nWhich statement fits the group's approach?",
+  "cn": "学校想展出首场戏的旧戏服。袖子附近的洞容易修，内侧写着的姓名却难处理，整件清洗可能把字迹洗掉。戏剧组先列出戏服能给后来的学生展示哪些信息。姓名把戏服与一名演员联系起来，因此他们只清理沾污的外层布。破洞从背面加固，不用鲜亮的新布盖住。目标是让戏服能安全展示，同时保留可见的历史痕迹。",
+  "slots": [
+   [
+    "A repair should protect both the object and its evidence."
+   ]
+  ],
+  "why": "修补兼顾展示安全与历史信息。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A name matters only if it is visible from the front.",
+   "Old cloth should never be touched.",
+   "A repair should protect both the object and its evidence.",
+   "A repair should make every old object look new."
+  ],
+  "source": "articles:105",
+  "article": "Two kinds of repair"
+ },
+ {
+  "id": "WF1971",
+  "level": 4,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "A travel club compared two walks from the station to school. The first group timed the riverside route on a quiet Tuesday. The second timed the market route on a busy Saturday. The market walk took ten minutes longer. Before publishing a recommendation, the club secretary pointed out that two things had ____: both the route and the day. On the next Tuesday, two groups left the station at the same time. This time the difference was only two minutes. The new result was more useful for a weekday traveler, ____ it did not settle which route was better during the weekend ____.",
+  "cn": "旅行社团比较从车站到学校的两条步行路线。第一组在安静的周二给河边路线计时，第二组在热闹的周六给集市路线计时，后者多花十分钟。发布建议前，秘书指出路线和日期两个因素都变了。下个周二，两组从车站同时出发，这回差距只有两分钟。新结果对工作日行人更有用，但周末赶集时哪条路更好，依然没有定论。",
+  "slots": [
+   [
+    "changed"
+   ],
+   [
+    "although"
+   ],
+   [
+    "market"
+   ]
+  ],
+  "why": "第1空（changed）：路线和日期两个条件都不同。 第2空（although）：工作日结果更有用，但仍有适用范围。 第3空（market）：周六的繁忙情境是集市。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:113",
+  "slotOptions": [
+   [
+    "agreed",
+    "changed",
+    "stopped",
+    "disappeared"
+   ],
+   [
+    "so that",
+    "until",
+    "because of",
+    "although"
+   ],
+   [
+    "flight",
+    "rehearsal",
+    "exam",
+    "market"
+   ]
+  ],
+  "article": "The short route home"
+ },
+ {
+  "id": "WF1972",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A travel club compared two walks from the station to school. The first group timed the riverside route on a quiet Tuesday. The second timed the market route on a busy Saturday. The market walk took ten minutes longer. Before publishing a recommendation, the club secretary pointed out that two things had changed: both the route and the day. On the next Tuesday, two groups left the station at the same time. This time the difference was only two minutes. The new result was more useful for a weekday traveler, although it did not settle which route was better during the weekend market.\n\nWhat was the first measured difference?",
+  "cn": "旅行社团比较从车站到学校的两条步行路线。第一组在安静的周二给河边路线计时，第二组在热闹的周六给集市路线计时，后者多花十分钟。发布建议前，秘书指出路线和日期两个因素都变了。下个周二，两组从车站同时出发，这回差距只有两分钟。新结果对工作日行人更有用，但周末赶集时哪条路更好，依然没有定论。",
+  "slots": [
+   [
+    "Ten minutes."
+   ]
+  ],
+  "why": "首次比较中集市路线多十分钟。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Zero.",
+   "One hour.",
+   "Ten minutes.",
+   "Two minutes."
+  ],
+  "source": "articles:113",
+  "article": "The short route home"
+ },
+ {
+  "id": "WF1973",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A travel club compared two walks from the station to school. The first group timed the riverside route on a quiet Tuesday. The second timed the market route on a busy Saturday. The market walk took ten minutes longer. Before publishing a recommendation, the club secretary pointed out that two things had changed: both the route and the day. On the next Tuesday, two groups left the station at the same time. This time the difference was only two minutes. The new result was more useful for a weekday traveler, although it did not settle which route was better during the weekend market.\n\nHow did the second comparison improve the test?",
+  "cn": "旅行社团比较从车站到学校的两条步行路线。第一组在安静的周二给河边路线计时，第二组在热闹的周六给集市路线计时，后者多花十分钟。发布建议前，秘书指出路线和日期两个因素都变了。下个周二，两组从车站同时出发，这回差距只有两分钟。新结果对工作日行人更有用，但周末赶集时哪条路更好，依然没有定论。",
+  "slots": [
+   [
+    "Both routes were timed simultaneously on the same day."
+   ]
+  ],
+  "why": "统一出发时间和日期，减少环境差异。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Both groups walked the same route.",
+   "Only the fastest pupil walked.",
+   "Both routes were timed simultaneously on the same day.",
+   "The market was moved."
+  ],
+  "source": "articles:113",
+  "article": "The short route home"
+ },
+ {
+  "id": "WF1974",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A travel club compared two walks from the station to school. The first group timed the riverside route on a quiet Tuesday. The second timed the market route on a busy Saturday. The market walk took ten minutes longer. Before publishing a recommendation, the club secretary pointed out that two things had changed: both the route and the day. On the next Tuesday, two groups left the station at the same time. This time the difference was only two minutes. The new result was more useful for a weekday traveler, although it did not settle which route was better during the weekend market.\n\nWho would find the second result most relevant?",
+  "cn": "旅行社团比较从车站到学校的两条步行路线。第一组在安静的周二给河边路线计时，第二组在热闹的周六给集市路线计时，后者多花十分钟。发布建议前，秘书指出路线和日期两个因素都变了。下个周二，两组从车站同时出发，这回差距只有两分钟。新结果对工作日行人更有用，但周末赶集时哪条路更好，依然没有定论。",
+  "slots": [
+   [
+    "Someone walking on a weekday."
+   ]
+  ],
+  "why": "第二次测量发生在周二，原文也明确限定适用者。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A traveler asking about winter roads.",
+   "Someone walking on a weekday.",
+   "A passenger choosing a flight.",
+   "Only Saturday traders."
+  ],
+  "source": "articles:113",
+  "article": "The short route home"
+ },
+ {
+  "id": "WF1975",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A travel club compared two walks from the station to school. The first group timed the riverside route on a quiet Tuesday. The second timed the market route on a busy Saturday. The market walk took ten minutes longer. Before publishing a recommendation, the club secretary pointed out that two things had changed: both the route and the day. On the next Tuesday, two groups left the station at the same time. This time the difference was only two minutes. The new result was more useful for a weekday traveler, although it did not settle which route was better during the weekend market.\n\nWhat evidence would best address the remaining question?",
+  "cn": "旅行社团比较从车站到学校的两条步行路线。第一组在安静的周二给河边路线计时，第二组在热闹的周六给集市路线计时，后者多花十分钟。发布建议前，秘书指出路线和日期两个因素都变了。下个周二，两组从车站同时出发，这回差距只有两分钟。新结果对工作日行人更有用，但周末赶集时哪条路更好，依然没有定论。",
+  "slots": [
+   [
+    "Time both routes during the same weekend market."
+   ]
+  ],
+  "why": "待解问题是周末有集市时的路线差异。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Count the clubs in school.",
+   "Time both routes during the same weekend market.",
+   "Ask which path has a nicer name.",
+   "Repeat only the riverside walk on Tuesday."
+  ],
+  "source": "articles:113",
+  "article": "The short route home"
+ },
+ {
+  "id": "WF1976",
+  "level": 4,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "A faded photograph showed five people holding tools beside a half-built wall. An old caption called them the builders of the school. While preparing an exhibition, Lan found a letter from one person in the picture. He described carrying water to the site for a single afternoon. The letter did not prove the old caption entirely ____; some of the others might indeed have built the wall. Lan wrote a more careful caption that described what visitors could ____ and quoted the letter separately. In this way, a piece of new evidence changed the wording without ____ more than it supported.",
+  "cn": "一张褪色照片上有五个人拿着工具站在未完工的墙边。旧说明称五人是学校的建造者。兰筹备展览时发现了其中一人的信，他写道自己有一天下午到工地送过水。信不能证明旧说明完全错误，其他人中确实可能有砌墙的人。兰重写说明，先描述参观者能看到的内容，再单独引用信件。新证据改变了措辞，又避免了超出依据的断言。",
+  "slots": [
+   [
+    "wrong"
+   ],
+   [
+    "see"
+   ],
+   [
+    "claiming"
+   ]
+  ],
+  "why": "第1空（wrong）：一人的经历不足以证明所有人的身份认定都错。 第2空（see）：先写照片上可直接观察到的东西。 第3空（claiming）：without 后接动名词。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:121",
+  "slotOptions": [
+   [
+    "visible",
+    "ancient",
+    "complete",
+    "wrong"
+   ],
+   [
+    "count on",
+    "see",
+    "look forward to",
+    "take away"
+   ],
+   [
+    "claims",
+    "claimed",
+    "claiming",
+    "claim"
+   ]
+  ],
+  "article": "The caption beneath the photo"
+ },
+ {
+  "id": "WF1977",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A faded photograph showed five people holding tools beside a half-built wall. An old caption called them the builders of the school. While preparing an exhibition, Lan found a letter from one person in the picture. He described carrying water to the site for a single afternoon. The letter did not prove the old caption entirely wrong; some of the others might indeed have built the wall. Lan wrote a more careful caption that described what visitors could see and quoted the letter separately. In this way, a piece of new evidence changed the wording without claiming more than it supported.\n\nWhat did the writer of the letter remember doing?",
+  "cn": "一张褪色照片上有五个人拿着工具站在未完工的墙边。旧说明称五人是学校的建造者。兰筹备展览时发现了其中一人的信，他写道自己有一天下午到工地送过水。信不能证明旧说明完全错误，其他人中确实可能有砌墙的人。兰重写说明，先描述参观者能看到的内容，再单独引用信件。新证据改变了措辞，又避免了超出依据的断言。",
+  "slots": [
+   [
+    "Carrying water."
+   ]
+  ],
+  "why": "信件只给出送水经历。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Writing the original caption.",
+   "Designing the school.",
+   "Carrying water.",
+   "Photographing the wall."
+  ],
+  "source": "articles:121",
+  "article": "The caption beneath the photo"
+ },
+ {
+  "id": "WF1978",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A faded photograph showed five people holding tools beside a half-built wall. An old caption called them the builders of the school. While preparing an exhibition, Lan found a letter from one person in the picture. He described carrying water to the site for a single afternoon. The letter did not prove the old caption entirely wrong; some of the others might indeed have built the wall. Lan wrote a more careful caption that described what visitors could see and quoted the letter separately. In this way, a piece of new evidence changed the wording without claiming more than it supported.\n\nWhy did Lan avoid rejecting the entire old caption?",
+  "cn": "一张褪色照片上有五个人拿着工具站在未完工的墙边。旧说明称五人是学校的建造者。兰筹备展览时发现了其中一人的信，他写道自己有一天下午到工地送过水。信不能证明旧说明完全错误，其他人中确实可能有砌墙的人。兰重写说明，先描述参观者能看到的内容，再单独引用信件。新证据改变了措辞，又避免了超出依据的断言。",
+  "slots": [
+   [
+    "The letter described only one person's contribution."
+   ]
+  ],
+  "why": "单个证词不能推及其他四人。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "All five had signed the caption.",
+   "The photograph was new.",
+   "Nobody could read the letter.",
+   "The letter described only one person's contribution."
+  ],
+  "source": "articles:121",
+  "article": "The caption beneath the photo"
+ },
+ {
+  "id": "WF1979",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A faded photograph showed five people holding tools beside a half-built wall. An old caption called them the builders of the school. While preparing an exhibition, Lan found a letter from one person in the picture. He described carrying water to the site for a single afternoon. The letter did not prove the old caption entirely wrong; some of the others might indeed have built the wall. Lan wrote a more careful caption that described what visitors could see and quoted the letter separately. In this way, a piece of new evidence changed the wording without claiming more than it supported.\n\nHow did the new caption organize the evidence?",
+  "cn": "一张褪色照片上有五个人拿着工具站在未完工的墙边。旧说明称五人是学校的建造者。兰筹备展览时发现了其中一人的信，他写道自己有一天下午到工地送过水。信不能证明旧说明完全错误，其他人中确实可能有砌墙的人。兰重写说明，先描述参观者能看到的内容，再单独引用信件。新证据改变了措辞，又避免了超出依据的断言。",
+  "slots": [
+   [
+    "It separated visual description from the written account."
+   ]
+  ],
+  "why": "照片证据与文字证据分开呈现。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It treated the tools as proof of five jobs.",
+   "It removed every mention of the people.",
+   "It separated visual description from the written account.",
+   "It guessed all five names."
+  ],
+  "source": "articles:121",
+  "article": "The caption beneath the photo"
+ },
+ {
+  "id": "WF1980",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A faded photograph showed five people holding tools beside a half-built wall. An old caption called them the builders of the school. While preparing an exhibition, Lan found a letter from one person in the picture. He described carrying water to the site for a single afternoon. The letter did not prove the old caption entirely wrong; some of the others might indeed have built the wall. Lan wrote a more careful caption that described what visitors could see and quoted the letter separately. In this way, a piece of new evidence changed the wording without claiming more than it supported.\n\nWhich description is directly supported by the photograph?",
+  "cn": "一张褪色照片上有五个人拿着工具站在未完工的墙边。旧说明称五人是学校的建造者。兰筹备展览时发现了其中一人的信，他写道自己有一天下午到工地送过水。信不能证明旧说明完全错误，其他人中确实可能有砌墙的人。兰重写说明，先描述参观者能看到的内容，再单独引用信件。新证据改变了措辞，又避免了超出依据的断言。",
+  "slots": [
+   [
+    "Five people stood near an unfinished wall."
+   ]
+  ],
+  "why": "第一项可见，其余涉及照片无法独立证明的经历或产权。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "All five built the entire school.",
+   "Five people stood near an unfinished wall.",
+   "The water carrier owned the land.",
+   "All five worked there for a year."
+  ],
+  "source": "articles:121",
+  "article": "The caption beneath the photo"
+ },
+ {
+  "id": "WF1981",
+  "level": 5,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "A museum mailed a short questionnaire to former volunteers. Most replies praised the new training sessions. Before calling the change a success, the coordinator counted the unanswered letters. Half the volunteers had not replied. She did not treat those missing answers as complaints; silence could have several ____. Instead, she telephoned a small mix of people who had and had not replied. Several nonrespondents had moved and never received the questionnaire. Others worked during the sessions. The later calls added voices that the letters had ____, but even these conversations could not speak ____ every absent volunteer.",
+  "cn": "博物馆给前志愿者寄了简短问卷。多数回信称赞新的培训课。协调员在宣布成功之前，数了未获回复的信，有半数志愿者没回。她没有把沉默当作投诉，因为不回复可能有多种原因。她给一小部分回过和没回过的人打了电话。有些没回的人已经搬家，没收到信；另一些人在培训时要工作。电话补充了原先遗漏的声音，但也不能代表所有未参与者。",
+  "slots": [
+   [
+    "causes"
+   ],
+   [
+    "missed"
+   ],
+   [
+    "for"
+   ]
+  ],
+  "why": "第1空（causes）：后文给出搬家、上班等多种原因。 第2空（missed）：电话接触到问卷没收集到的意见。 第3空（for）：speak for 表示代表。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:129",
+  "slotOptions": [
+   [
+    "locations",
+    "envelopes",
+    "causes",
+    "scores"
+   ],
+   [
+    "posted",
+    "praised",
+    "scheduled",
+    "missed"
+   ],
+   [
+    "throughout",
+    "behind",
+    "for",
+    "under"
+   ]
+  ],
+  "article": "The return envelope"
+ },
+ {
+  "id": "WF1982",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A museum mailed a short questionnaire to former volunteers. Most replies praised the new training sessions. Before calling the change a success, the coordinator counted the unanswered letters. Half the volunteers had not replied. She did not treat those missing answers as complaints; silence could have several causes. Instead, she telephoned a small mix of people who had and had not replied. Several nonrespondents had moved and never received the questionnaire. Others worked during the sessions. The later calls added voices that the letters had missed, but even these conversations could not speak for every absent volunteer.\n\nWhich group supplied the initial praise?",
+  "cn": "博物馆给前志愿者寄了简短问卷。多数回信称赞新的培训课。协调员在宣布成功之前，数了未获回复的信，有半数志愿者没回。她没有把沉默当作投诉，因为不回复可能有多种原因。她给一小部分回过和没回过的人打了电话。有些没回的人已经搬家，没收到信；另一些人在培训时要工作。电话补充了原先遗漏的声音，但也不能代表所有未参与者。",
+  "slots": [
+   [
+    "People who replied to the questionnaire."
+   ]
+  ],
+  "why": "最初结论来自收到的答复。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Every person reached later.",
+   "All former volunteers.",
+   "Only people who had moved.",
+   "People who replied to the questionnaire."
+  ],
+  "source": "articles:129",
+  "article": "The return envelope"
+ },
+ {
+  "id": "WF1983",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A museum mailed a short questionnaire to former volunteers. Most replies praised the new training sessions. Before calling the change a success, the coordinator counted the unanswered letters. Half the volunteers had not replied. She did not treat those missing answers as complaints; silence could have several causes. Instead, she telephoned a small mix of people who had and had not replied. Several nonrespondents had moved and never received the questionnaire. Others worked during the sessions. The later calls added voices that the letters had missed, but even these conversations could not speak for every absent volunteer.\n\nWhy did the coordinator count unanswered letters?",
+  "cn": "博物馆给前志愿者寄了简短问卷。多数回信称赞新的培训课。协调员在宣布成功之前，数了未获回复的信，有半数志愿者没回。她没有把沉默当作投诉，因为不回复可能有多种原因。她给一小部分回过和没回过的人打了电话。有些没回的人已经搬家，没收到信；另一些人在培训时要工作。电话补充了原先遗漏的声音，但也不能代表所有未参与者。",
+  "slots": [
+   [
+    "To check how widely the replies represented volunteers."
+   ]
+  ],
+  "why": "关注未回复比例，是为了理解证据的代表性。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To identify the best letter writer.",
+   "To label silence as criticism.",
+   "To stop the training immediately.",
+   "To check how widely the replies represented volunteers."
+  ],
+  "source": "articles:129",
+  "article": "The return envelope"
+ },
+ {
+  "id": "WF1984",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A museum mailed a short questionnaire to former volunteers. Most replies praised the new training sessions. Before calling the change a success, the coordinator counted the unanswered letters. Half the volunteers had not replied. She did not treat those missing answers as complaints; silence could have several causes. Instead, she telephoned a small mix of people who had and had not replied. Several nonrespondents had moved and never received the questionnaire. Others worked during the sessions. The later calls added voices that the letters had missed, but even these conversations could not speak for every absent volunteer.\n\nWhat did the calls establish about silence?",
+  "cn": "博物馆给前志愿者寄了简短问卷。多数回信称赞新的培训课。协调员在宣布成功之前，数了未获回复的信，有半数志愿者没回。她没有把沉默当作投诉，因为不回复可能有多种原因。她给一小部分回过和没回过的人打了电话。有些没回的人已经搬家，没收到信；另一些人在培训时要工作。电话补充了原先遗漏的声音，但也不能代表所有未参与者。",
+  "slots": [
+   [
+    "It had more than one possible explanation."
+   ]
+  ],
+  "why": "搬家和时间冲突是不同原因。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It proved all letters arrived.",
+   "It always meant approval.",
+   "It always meant rejection.",
+   "It had more than one possible explanation."
+  ],
+  "source": "articles:129",
+  "article": "The return envelope"
+ },
+ {
+  "id": "WF1985",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A museum mailed a short questionnaire to former volunteers. Most replies praised the new training sessions. Before calling the change a success, the coordinator counted the unanswered letters. Half the volunteers had not replied. She did not treat those missing answers as complaints; silence could have several causes. Instead, she telephoned a small mix of people who had and had not replied. Several nonrespondents had moved and never received the questionnaire. Others worked during the sessions. The later calls added voices that the letters had missed, but even these conversations could not speak for every absent volunteer.\n\nWhich conclusion is justified?",
+  "cn": "博物馆给前志愿者寄了简短问卷。多数回信称赞新的培训课。协调员在宣布成功之前，数了未获回复的信，有半数志愿者没回。她没有把沉默当作投诉，因为不回复可能有多种原因。她给一小部分回过和没回过的人打了电话。有些没回的人已经搬家，没收到信；另一些人在培训时要工作。电话补充了原先遗漏的声音，但也不能代表所有未参与者。",
+  "slots": [
+   [
+    "Many respondents liked the sessions, while the views of all volunteers remain uncertain."
+   ]
+  ],
+  "why": "肯定已知答复并保留对未观察人群的不确定性。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Many respondents liked the sessions, while the views of all volunteers remain uncertain.",
+   "The calls removed every uncertainty.",
+   "No volunteer benefited.",
+   "Exactly half disliked the sessions."
+  ],
+  "source": "articles:129",
+  "article": "The return envelope"
+ },
+ {
+  "id": "WF1986",
+  "level": 5,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "A café offered an empty corner to a reading club without charging rent. At first the club listed its meeting cost as zero. After two months, the owner showed them a change in the evening routine. Staff now stayed twenty minutes later to stack chairs and sweep. The club had paid no money, but someone still ____ a cost. Members offered to finish earlier and restore the corner themselves. The owner accepted, explaining that she wanted the reading group to stay. The conversation was about making a generous arrangement ____, not about turning the gift ____ a bill.",
+  "cn": "一家咖啡馆把空角落免费提供给读书会。起初读书会把开会成本记为零。两个月后，店主让他们看到晚间流程的变化，员工得多留二十分钟收椅子和扫地。社团没付钱，但仍有人承担成本。成员主动提出早点结束，自己恢复场地，店主同意了，她希望读书会继续留下。这次交谈旨在让善意的安排长久持续，并非将礼物变成账单。",
+  "slots": [
+   [
+    "bore"
+   ],
+   [
+    "last"
+   ],
+   [
+    "into"
+   ]
+  ],
+  "why": "第1空（bore）：bear a cost 指承担代价，过去式 bore。 第2空（last）：店主希望活动继续，last 表示持续。 第3空（into）：turn A into B 表示使 A 变成 B。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:137",
+  "slotOptions": [
+   [
+    "collected",
+    "escaped",
+    "printed",
+    "bore"
+   ],
+   [
+    "last",
+    "charge",
+    "vanish",
+    "fail"
+   ],
+   [
+    "under",
+    "into",
+    "against",
+    "beside"
+   ]
+  ],
+  "article": "The cost of a free chair"
+ },
+ {
+  "id": "WF1987",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A café offered an empty corner to a reading club without charging rent. At first the club listed its meeting cost as zero. After two months, the owner showed them a change in the evening routine. Staff now stayed twenty minutes later to stack chairs and sweep. The club had paid no money, but someone still bore a cost. Members offered to finish earlier and restore the corner themselves. The owner accepted, explaining that she wanted the reading group to stay. The conversation was about making a generous arrangement last, not about turning the gift into a bill.\n\nWhat cost had the club overlooked?",
+  "cn": "一家咖啡馆把空角落免费提供给读书会。起初读书会把开会成本记为零。两个月后，店主让他们看到晚间流程的变化，员工得多留二十分钟收椅子和扫地。社团没付钱，但仍有人承担成本。成员主动提出早点结束，自己恢复场地，店主同意了，她希望读书会继续留下。这次交谈旨在让善意的安排长久持续，并非将礼物变成账单。",
+  "slots": [
+   [
+    "Extra staff time."
+   ]
+  ],
+  "why": "员工延长二十分钟的劳动是此前漏算的成本。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The price of new books.",
+   "Rent paid in advance.",
+   "A ticket required of each member.",
+   "Extra staff time."
+  ],
+  "source": "articles:137",
+  "article": "The cost of a free chair"
+ },
+ {
+  "id": "WF1988",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A café offered an empty corner to a reading club without charging rent. At first the club listed its meeting cost as zero. After two months, the owner showed them a change in the evening routine. Staff now stayed twenty minutes later to stack chairs and sweep. The club had paid no money, but someone still bore a cost. Members offered to finish earlier and restore the corner themselves. The owner accepted, explaining that she wanted the reading group to stay. The conversation was about making a generous arrangement last, not about turning the gift into a bill.\n\nWhy did the owner show the evening routine?",
+  "cn": "一家咖啡馆把空角落免费提供给读书会。起初读书会把开会成本记为零。两个月后，店主让他们看到晚间流程的变化，员工得多留二十分钟收椅子和扫地。社团没付钱，但仍有人承担成本。成员主动提出早点结束，自己恢复场地，店主同意了，她希望读书会继续留下。这次交谈旨在让善意的安排长久持续，并非将礼物变成账单。",
+  "slots": [
+   [
+    "To explain an effect of the arrangement."
+   ]
+  ],
+  "why": "她同意调整后继续合作，说明是在沟通影响。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To explain an effect of the arrangement.",
+   "To announce that the club was banned.",
+   "To ask members to buy books.",
+   "To sell chairs to the members."
+  ],
+  "source": "articles:137",
+  "article": "The cost of a free chair"
+ },
+ {
+  "id": "WF1989",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A café offered an empty corner to a reading club without charging rent. At first the club listed its meeting cost as zero. After two months, the owner showed them a change in the evening routine. Staff now stayed twenty minutes later to stack chairs and sweep. The club had paid no money, but someone still bore a cost. Members offered to finish earlier and restore the corner themselves. The owner accepted, explaining that she wanted the reading group to stay. The conversation was about making a generous arrangement last, not about turning the gift into a bill.\n\nWhat did members offer to change?",
+  "cn": "一家咖啡馆把空角落免费提供给读书会。起初读书会把开会成本记为零。两个月后，店主让他们看到晚间流程的变化，员工得多留二十分钟收椅子和扫地。社团没付钱，但仍有人承担成本。成员主动提出早点结束，自己恢复场地，店主同意了，她希望读书会继续留下。这次交谈旨在让善意的安排长久持续，并非将礼物变成账单。",
+  "slots": [
+   [
+    "The time they finished and who cleaned up."
+   ]
+  ],
+  "why": "两项措施分别减少使用时间和员工劳动。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The time they finished and who cleaned up.",
+   "The owner of the building.",
+   "The café's menu.",
+   "The club's reading language."
+  ],
+  "source": "articles:137",
+  "article": "The cost of a free chair"
+ },
+ {
+  "id": "WF1990",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A café offered an empty corner to a reading club without charging rent. At first the club listed its meeting cost as zero. After two months, the owner showed them a change in the evening routine. Staff now stayed twenty minutes later to stack chairs and sweep. The club had paid no money, but someone still bore a cost. Members offered to finish earlier and restore the corner themselves. The owner accepted, explaining that she wanted the reading group to stay. The conversation was about making a generous arrangement last, not about turning the gift into a bill.\n\nWhich statement captures the central distinction?",
+  "cn": "一家咖啡馆把空角落免费提供给读书会。起初读书会把开会成本记为零。两个月后，店主让他们看到晚间流程的变化，员工得多留二十分钟收椅子和扫地。社团没付钱，但仍有人承担成本。成员主动提出早点结束，自己恢复场地，店主同意了，她希望读书会继续留下。这次交谈旨在让善意的安排长久持续，并非将礼物变成账单。",
+  "slots": [
+   [
+    "Free to the club did not mean costless for everyone."
+   ]
+  ],
+  "why": "文章区分使用者的付款与别人承担的时间成本。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A gift must eventually be charged for.",
+   "Free to the club did not mean costless for everyone.",
+   "Time has no value without a bill.",
+   "The owner regretted helping readers."
+  ],
+  "source": "articles:137",
+  "article": "The cost of a free chair"
+ },
+ {
+  "id": "WF1991",
+  "level": 5,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "A team built a simple map for visitors to an old town. To keep it clear, they removed narrow lanes and left only main streets. Most tourists found the map easier to use. A guide who used a wheelchair, however, pointed to one deleted lane. The main street climbed a flight of steps, while the lane offered a gentler way uphill. What looked like a minor detail to the mapmakers was a ____ connection for some travelers. The team restored the lane and marked its slope. The revision did not reject simplicity; it asked whose choices had been ____ in the process of making the map ____.",
+  "cn": "一支团队为古镇游客绘制简图。为使图面清楚，他们删去窄巷，只留主街。大多数游客觉得更好用。一位使用轮椅的向导却指出一条被删的小巷：主街有一段台阶，小巷则提供较缓的上坡路线。对制图者看似次要的细节，对部分行人却是必需的连接。团队恢复了这条巷子并标上坡度。修订并未否定简洁，而是追问简化过程中损失了谁的选择。",
+  "slots": [
+   [
+    "necessary"
+   ],
+   [
+    "lost"
+   ],
+   [
+    "simple"
+   ]
+  ],
+  "why": "第1空（necessary）：小巷让无法走台阶的人仍能上坡。 第2空（lost）：删去路线让部分人的选择不再可见。 第3空（simple）：末句回扣删减细节、追求简洁的起点。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:145",
+  "slotOptions": [
+   [
+    "temporary",
+    "necessary",
+    "accidental",
+    "decorative"
+   ],
+   [
+    "printed",
+    "lost",
+    "expanded",
+    "requested"
+   ],
+   [
+    "simple",
+    "expensive",
+    "wet",
+    "noisy"
+   ]
+  ],
+  "article": "When a shortcut disappears"
+ },
+ {
+  "id": "WF1992",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A team built a simple map for visitors to an old town. To keep it clear, they removed narrow lanes and left only main streets. Most tourists found the map easier to use. A guide who used a wheelchair, however, pointed to one deleted lane. The main street climbed a flight of steps, while the lane offered a gentler way uphill. What looked like a minor detail to the mapmakers was a necessary connection for some travelers. The team restored the lane and marked its slope. The revision did not reject simplicity; it asked whose choices had been lost in the process of making the map simple.\n\nWhy were lanes originally left out?",
+  "cn": "一支团队为古镇游客绘制简图。为使图面清楚，他们删去窄巷，只留主街。大多数游客觉得更好用。一位使用轮椅的向导却指出一条被删的小巷：主街有一段台阶，小巷则提供较缓的上坡路线。对制图者看似次要的细节，对部分行人却是必需的连接。团队恢复了这条巷子并标上坡度。修订并未否定简洁，而是追问简化过程中损失了谁的选择。",
+  "slots": [
+   [
+    "To make the map clearer."
+   ]
+  ],
+  "why": "首段说明初衷是图面清楚。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Because nobody lived there.",
+   "To close them to visitors.",
+   "To make the map clearer.",
+   "Because they had no names."
+  ],
+  "source": "articles:145",
+  "article": "When a shortcut disappears"
+ },
+ {
+  "id": "WF1993",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A team built a simple map for visitors to an old town. To keep it clear, they removed narrow lanes and left only main streets. Most tourists found the map easier to use. A guide who used a wheelchair, however, pointed to one deleted lane. The main street climbed a flight of steps, while the lane offered a gentler way uphill. What looked like a minor detail to the mapmakers was a necessary connection for some travelers. The team restored the lane and marked its slope. The revision did not reject simplicity; it asked whose choices had been lost in the process of making the map simple.\n\nWhat gave the deleted lane special importance?",
+  "cn": "一支团队为古镇游客绘制简图。为使图面清楚，他们删去窄巷，只留主街。大多数游客觉得更好用。一位使用轮椅的向导却指出一条被删的小巷：主街有一段台阶，小巷则提供较缓的上坡路线。对制图者看似次要的细节，对部分行人却是必需的连接。团队恢复了这条巷子并标上坡度。修订并未否定简洁，而是追问简化过程中损失了谁的选择。",
+  "slots": [
+   [
+    "It offered an alternative to steps."
+   ]
+  ],
+  "why": "轮椅使用者关注可通过性。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It offered an alternative to steps.",
+   "It was the shortest street in town.",
+   "It was the widest road.",
+   "It had the most shops."
+  ],
+  "source": "articles:145",
+  "article": "When a shortcut disappears"
+ },
+ {
+  "id": "WF1994",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A team built a simple map for visitors to an old town. To keep it clear, they removed narrow lanes and left only main streets. Most tourists found the map easier to use. A guide who used a wheelchair, however, pointed to one deleted lane. The main street climbed a flight of steps, while the lane offered a gentler way uphill. What looked like a minor detail to the mapmakers was a necessary connection for some travelers. The team restored the lane and marked its slope. The revision did not reject simplicity; it asked whose choices had been lost in the process of making the map simple.\n\nWhat did the team add besides the lane itself?",
+  "cn": "一支团队为古镇游客绘制简图。为使图面清楚，他们删去窄巷，只留主街。大多数游客觉得更好用。一位使用轮椅的向导却指出一条被删的小巷：主街有一段台阶，小巷则提供较缓的上坡路线。对制图者看似次要的细节，对部分行人却是必需的连接。团队恢复了这条巷子并标上坡度。修订并未否定简洁，而是追问简化过程中损失了谁的选择。",
+  "slots": [
+   [
+    "Information about its slope."
+   ]
+  ],
+  "why": "restored the lane and marked its slope 给出两项修改。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The guide's photograph.",
+   "A list of tourists.",
+   "A café review.",
+   "Information about its slope."
+  ],
+  "source": "articles:145",
+  "article": "When a shortcut disappears"
+ },
+ {
+  "id": "WF1995",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A team built a simple map for visitors to an old town. To keep it clear, they removed narrow lanes and left only main streets. Most tourists found the map easier to use. A guide who used a wheelchair, however, pointed to one deleted lane. The main street climbed a flight of steps, while the lane offered a gentler way uphill. What looked like a minor detail to the mapmakers was a necessary connection for some travelers. The team restored the lane and marked its slope. The revision did not reject simplicity; it asked whose choices had been lost in the process of making the map simple.\n\nWhat question does the ending invite designers to ask?",
+  "cn": "一支团队为古镇游客绘制简图。为使图面清楚，他们删去窄巷，只留主街。大多数游客觉得更好用。一位使用轮椅的向导却指出一条被删的小巷：主街有一段台阶，小巷则提供较缓的上坡路线。对制图者看似次要的细节，对部分行人却是必需的连接。团队恢复了这条巷子并标上坡度。修订并未否定简洁，而是追问简化过程中损失了谁的选择。",
+  "slots": [
+   [
+    "Who may lose an option when a detail is removed?"
+   ]
+  ],
+  "why": "作者关心简化对不同使用者造成的影响。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "How can every map have the fewest possible lines?",
+   "Who may lose an option when a detail is removed?",
+   "Which tourists buy the most maps?",
+   "Should simple maps always be abandoned?"
+  ],
+  "source": "articles:145",
+  "article": "When a shortcut disappears"
+ },
+ {
+  "id": "WF1996",
+  "level": 5,
+  "cat": "短文完形",
+  "kind": "短文完形",
+  "text": "At the science fair, two jars carried the same label: Water from the garden. One sample had been collected before a storm and the other afterward. A visitor asked why the colors differed. The pupils first offered an explanation about soil, then realized that the label did not identify which jar was ____. Their notes contained the times, but no jar numbers. Rather than match jars to times by color and then use color to prove the match, they took fresh samples in numbered bottles. The old jars could still ____ that two samples differed, but could no longer establish the ____ of the change.",
+  "cn": "科学展上，两个罐子都贴着“花园取水”的标签。一份水样在暴风雨前取得，另一份在雨后取得。有人问颜色为何不同。学生起初从土壤角度解释，随后发现标签分不清哪罐是哪份。笔记虽记了时间，却没有罐号。他们没有先靠颜色把罐子配给时间再用颜色证明配对，而是用编号瓶重新取样。旧罐仍能显示两份样品不同，却无法再确定变化的先后。",
+  "slots": [
+   [
+    "which"
+   ],
+   [
+    "show"
+   ],
+   [
+    "order"
+   ]
+  ],
+  "why": "第1空（which）：which was which 指各自是哪一个。 第2空（show）：颜色不同是仍可直接观察到的事实。 第3空（order）：不知哪罐在先，无法判断变化顺序。",
+  "point": "篇章完形：词义、语法与逻辑",
+  "hint": "每个空格各选四个选项中的一项。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [],
+  "source": "articles:153",
+  "slotOptions": [
+   [
+    "when",
+    "whose turn",
+    "which",
+    "how often"
+   ],
+   [
+    "show",
+    "deny",
+    "repair",
+    "collect"
+   ],
+   [
+    "cost",
+    "order",
+    "shape",
+    "size"
+   ]
+  ],
+  "article": "The second label"
+ },
+ {
+  "id": "WF1997",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At the science fair, two jars carried the same label: Water from the garden. One sample had been collected before a storm and the other afterward. A visitor asked why the colors differed. The pupils first offered an explanation about soil, then realized that the label did not identify which jar was which. Their notes contained the times, but no jar numbers. Rather than match jars to times by color and then use color to prove the match, they took fresh samples in numbered bottles. The old jars could still show that two samples differed, but could no longer establish the order of the change.\n\nWhat did the notes lack?",
+  "cn": "科学展上，两个罐子都贴着“花园取水”的标签。一份水样在暴风雨前取得，另一份在雨后取得。有人问颜色为何不同。学生起初从土壤角度解释，随后发现标签分不清哪罐是哪份。笔记虽记了时间，却没有罐号。他们没有先靠颜色把罐子配给时间再用颜色证明配对，而是用编号瓶重新取样。旧罐仍能显示两份样品不同，却无法再确定变化的先后。",
+  "slots": [
+   [
+    "A link between each time and a particular jar."
+   ]
+  ],
+  "why": "有时间却没有对应编号。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A place name on every page.",
+   "Collection times.",
+   "A link between each time and a particular jar.",
+   "The visitor's question."
+  ],
+  "source": "articles:153",
+  "article": "The second label"
+ },
+ {
+  "id": "WF1998",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At the science fair, two jars carried the same label: Water from the garden. One sample had been collected before a storm and the other afterward. A visitor asked why the colors differed. The pupils first offered an explanation about soil, then realized that the label did not identify which jar was which. Their notes contained the times, but no jar numbers. Rather than match jars to times by color and then use color to prove the match, they took fresh samples in numbered bottles. The old jars could still show that two samples differed, but could no longer establish the order of the change.\n\nWhy would matching the jars by color be a weak method?",
+  "cn": "科学展上，两个罐子都贴着“花园取水”的标签。一份水样在暴风雨前取得，另一份在雨后取得。有人问颜色为何不同。学生起初从土壤角度解释，随后发现标签分不清哪罐是哪份。笔记虽记了时间，却没有罐号。他们没有先靠颜色把罐子配给时间再用颜色证明配对，而是用编号瓶重新取样。旧罐仍能显示两份样品不同，却无法再确定变化的先后。",
+  "slots": [
+   [
+    "It would assume the very relationship being tested."
+   ]
+  ],
+  "why": "若以颜色变化规律推断顺序，再用该顺序证明规律，论证会循环。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It would assume the very relationship being tested.",
+   "Color can never be observed.",
+   "The jars had no water.",
+   "The visitor had already labeled them."
+  ],
+  "source": "articles:153",
+  "article": "The second label"
+ },
+ {
+  "id": "WF1999",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At the science fair, two jars carried the same label: Water from the garden. One sample had been collected before a storm and the other afterward. A visitor asked why the colors differed. The pupils first offered an explanation about soil, then realized that the label did not identify which jar was which. Their notes contained the times, but no jar numbers. Rather than match jars to times by color and then use color to prove the match, they took fresh samples in numbered bottles. The old jars could still show that two samples differed, but could no longer establish the order of the change.\n\nWhat could the old jars still demonstrate?",
+  "cn": "科学展上，两个罐子都贴着“花园取水”的标签。一份水样在暴风雨前取得，另一份在雨后取得。有人问颜色为何不同。学生起初从土壤角度解释，随后发现标签分不清哪罐是哪份。笔记虽记了时间，却没有罐号。他们没有先靠颜色把罐子配给时间再用颜色证明配对，而是用编号瓶重新取样。旧罐仍能显示两份样品不同，却无法再确定变化的先后。",
+  "slots": [
+   [
+    "The samples were visibly different."
+   ]
+  ],
+  "why": "观察到差异与证明先后、成因不同。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The samples were visibly different.",
+   "What caused the storm.",
+   "Which sample came first.",
+   "That soil alone caused the difference."
+  ],
+  "source": "articles:153",
+  "article": "The second label"
+ },
+ {
+  "id": "WF2000",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "At the science fair, two jars carried the same label: Water from the garden. One sample had been collected before a storm and the other afterward. A visitor asked why the colors differed. The pupils first offered an explanation about soil, then realized that the label did not identify which jar was which. Their notes contained the times, but no jar numbers. Rather than match jars to times by color and then use color to prove the match, they took fresh samples in numbered bottles. The old jars could still show that two samples differed, but could no longer establish the order of the change.\n\nHow did numbering the fresh bottles improve the work?",
+  "cn": "科学展上，两个罐子都贴着“花园取水”的标签。一份水样在暴风雨前取得，另一份在雨后取得。有人问颜色为何不同。学生起初从土壤角度解释，随后发现标签分不清哪罐是哪份。笔记虽记了时间，却没有罐号。他们没有先靠颜色把罐子配给时间再用颜色证明配对，而是用编号瓶重新取样。旧罐仍能显示两份样品不同，却无法再确定变化的先后。",
+  "slots": [
+   [
+    "It let each sample be linked to its own record."
+   ]
+  ],
+  "why": "编号提供样品与记录之间可核对的联系。",
+  "point": "细读与推断",
+  "hint": "阅读整篇短文，选择有原文依据的回答。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It removed the need to record times.",
+   "It guaranteed the pupils' first theory was true.",
+   "It let each sample be linked to its own record.",
+   "It changed the color of the water."
+  ],
+  "source": "articles:153",
+  "article": "The second label"
+ }
+]

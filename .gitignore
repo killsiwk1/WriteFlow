@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+dist/*
+!dist/WriteFlow.html
+*.pem
+*.jks
+*.keystore
+.env*
+.gradle/
+build/
+local.properties

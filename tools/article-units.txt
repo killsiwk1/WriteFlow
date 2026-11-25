@@ -1,0 +1,60 @@
+1|The missing lunch
+When Ben opened his schoolbag, his lunch box was [missing]. He looked under his desk, [but] there was nothing there. At noon his sister came to the door. She was holding two boxes. "We picked up the same bag this morning," she said. Ben finally had something to eat.
+本打开书包，发现饭盒不见了。他在课桌底下找，可那里什么都没有。中午姐姐来到门口，手里拿着两个盒子。她说：“今天早上我们拿的是同一个包。”本终于有东西吃了。
+missing/open/full/dry|找不到饭盒，后来姐姐才把它送来。|but/so/or/unless|寻找和一无所获形成转折。
+Who brought Ben his lunch?|His sister./His teacher./His father./A classmate.|holding two boxes 的人是姐姐。
+Why did Ben look under his desk?|He thought the box might be there./He wanted to hide his bag./His sister asked him to./He had finished lunch.|先发现饭盒丢失，接着寻找，说明他猜那里可能有饭盒。
+1|One dry seat
+It began to rain while May was waiting for the bus. The bench was wet [except] for one seat under a tree. May was about to sit down [when] she noticed an older man walking slowly toward her. She pointed to the dry seat and stayed on her feet. The man smiled.
+梅等公交车时下起了雨。除了树下一个座位，长椅上都湿了。梅刚想坐下，就看见一位老人慢慢向她走来。她指了指干燥的座位，自己站着。老人笑了。
+except/instead/because/ahead|except for 表示那一个干座位是例外。|when/until/since/though|be about to do … when … 表示正要做某事，这时发生了另一件事。
+Where was the dry seat?|Under a tree./Inside the bus./Beside a shop./Behind a wall.|第一段明确给出 under a tree。
+What does May's action suggest?|She wanted the man to rest./She wanted to leave the stop./She disliked the tree./She thought the bus was full.|她指向干座位并继续站着，是在让座。
+1|A name on a bell
+A small bell fell off a bike in the school yard. Jo picked it [up] and saw a name on the back. There were two boys named Sam in her class, [so] she asked both of them about the bell. Only one could tell her about the blue star on its side. Jo gave it to him.
+一个小铃铛从自行车上掉在校园里。乔捡起它，看见背面有个名字。班里两个男孩都叫萨姆，于是她问了两人铃铛的情况。只有一个人能说出铃铛侧面有颗蓝色星星。乔把铃铛还给了他。
+up/over/through/across|pick it up 指把掉在地上的东西捡起来。|so/yet/unless/although|同名导致她需要询问两个人。
+What was on the side of the bell?|A blue star./A class number./A red line./A bike picture.|注意区分背面的名字和侧面的星星。
+Why did the name alone fail to identify the owner?|Two classmates shared it./It was hard to read./It belonged to a teacher./It was a false name.|班中两人同名，需要第二条线索。
+2|A new way to count
+At the club fair, Lee tried to count visitors as they walked in. He lost count whenever someone asked a question. The next day he put a jar by the door and asked each visitor to [drop] one button into it. By closing time he had a total he could check [without] relying on his memory.
+社团展示会上，李试着数进门的访客。每当有人提问，他就数乱了。第二天他在门边放了个罐子，请每位访客往里面投一颗纽扣。闭馆时他可以核对总数，用不着靠记忆。
+drop/lend/sew/wear|into the jar 表示把纽扣投入罐中。|without/beside/until/among|纽扣保存了记录，因此不必靠记忆。
+What did one button represent?|One visitor./One question./One club./One hour.|each visitor 和 one button 一一对应。
+What problem did the jar solve?|Interruptions made Lee forget the count./Visitors could not find the door./The fair needed more money./The buttons kept breaking.|第一天别人问问题会打断计数，第二天的做法解决了这个问题。
+2|The quiet rehearsal
+The school hall was busy, so the band practiced in a small room. At first the drummer played as loudly as usual. Nobody could hear the singer. The drummer put his sticks [down] and tapped the beat with his hands. This time the music was softer, [yet] the whole group sounded clearer.
+学校礼堂有人使用，乐队只好在小房间里排练。起初鼓手像平常一样敲得很响，谁也听不见歌手的声音。他放下鼓槌，用手打节拍。这回音乐轻了，整个乐队的声音却更清楚了。
+down/together/away from/underneath|接着用手打节拍，说明先放下了鼓槌。|yet/unless/since/or|音量变小和整体更清晰形成出乎意料的对照。
+How did the drummer play at the end?|With his hands./With two new sticks./With a brush./With one shoe.|tapped the beat with his hands 直接交代方式。
+Which title best expresses the lesson?|Playing More Softly to Be Heard/A Singer Leaves the Band/A New School Hall/Buying Better Drums|转折发生在降低鼓声音量之后，团队整体才更清晰。
+2|The last postcard
+Nora bought three postcards during her trip. She sent two to friends and kept the last one blank. A month later her little brother asked what the old bridge looked like. Instead of trying to describe [it], Nora showed him the card. On the back she finally wrote the date, [so] she would remember their conversation too.
+诺拉旅行时买了三张明信片。她寄了两张给朋友，最后一张留着没写。一个月后弟弟问起老桥是什么样子。诺拉直接拿出卡片给他看。她终于在背面写下日期，这样也能记住这次谈话。
+it/them/him/herself|describe 的对象是刚提到的单数名词 the old bridge。|so/unless/although/whereas|写下日期是为了记住谈话，so 引出预期结果。
+How many cards did Nora send to friends?|Two./One./Three./Four.|买了三张，但只寄出两张。
+Why did the last card gain a second meaning?|It now reminded Nora of a talk at home./Her brother sent it abroad./It showed a second bridge./It had two addresses.|too 表明除了旅行，她还想记住和弟弟的谈话。
+3|The library shelf
+A librarian placed a box marked "Too hard to finish" beside the return desk. She expected students to leave long novels there. To her [surprise], most books in the box were short guides. Students explained that the guides used unfamiliar words without examples. The librarian kept the books [but] added a small card explaining the hardest terms in each one.
+一位图书管理员在还书台旁放了一个标有“太难读完”的箱子。她原以为学生会把长篇小说放进去。出乎她意料的是，里面大多数书都是简短的指南。学生说，指南用了生词却没举例。她保留了这些书，同时为每本书配了小卡片，解释最难的词语。
+surprise/permission/arrival/refusal|原先预期长篇小说，结果多是短指南，to her surprise 符合预期落差。|but/unless/once/because of|没有撤走指南，而是补充释义，两种处理形成对照。
+What made the guides difficult?|Unexplained vocabulary./Their length./Their small print./Missing pages.|学生指出难点在陌生词语和缺少例子。
+What assumption did the box challenge?|Longer books are always harder to finish./Students never return books./Cards take too long to make./Fiction needs a glossary.|实际放进箱子的多为短指南，推翻了按长度判断难度的预期。
+3|Two maps
+Visitors often missed the entrance to a small museum. The director ordered a larger street map, but the mistakes continued. A volunteer walked from the bus stop and noticed that a tall fence [blocked] the entrance sign. She drew a simple map showing the turn by the bakery. Although her map showed [fewer] streets, visitors found it easier to follow.
+访客常找不到一家小博物馆的入口。馆长订了一张更大的街道图，但大家还是走错。一位志愿者从公交站走了一趟，发现高围栏挡住了入口标志。她画了张简图，标出面包店旁的转弯处。虽然图上的街道更少，游客反而更容易看懂。
+blocked/printed/folded/carried|围栏造成视线遮挡，使人看不到入口标志。|fewer/less/much/little|streets 是可数名词复数，两张图作比较用 fewer。
+Which landmark helped visitors turn correctly?|The bakery./The station clock./The museum roof./A bridge.|简图标注了面包店旁的转弯处。
+Why does the writer mention the larger map?|To show that adding detail did not fix the problem./To recommend buying it./To explain why the fence was built./To compare ticket prices.|大图无效，与突出关键路口的简图形成对比。
+4|A second vote
+The first vote on the school garden seemed clear: most hands went up for roses. Before ordering plants, Mina asked students to write their choices privately. This time herbs came first. Several students said they had copied the first raised hands because they assumed those classmates knew more. Mina kept both results and [noted] how they had been collected. The figures meant little [unless] readers knew the method.
+学校花园的第一次表决看起来很明确，举手支持玫瑰的人最多。订购植物前，米娜让学生私下写出选择，这次香草排在第一。几个学生说，他们跟着最先举手的人选，是因为觉得那些同学更懂。米娜保留了两次结果并记录收集方式。读者只有了解统计方法，才能理解这些数字。
+noted/forgot/guessed/denied|保留两份结果的同时记录收集方式，便于解释差异。|unless/although/while/after|若不知道方法，数字意义有限，unless 引出例外条件。
+What changed between the votes?|Other students could no longer see each choice./Only gardeners could vote./The price of roses fell./New plants were added.|第二次采用私下书写，改变了他人选择的可见度。
+Which conclusion is best supported?|Visible choices can influence later voters./Everyone secretly preferred herbs./The first voters lied./Both votes were equally private.|部分学生明确说自己跟着他人举手；文章没有证明所有人的偏好。
+5|The empty comment box
+When the evening class first opened, its online comment box stayed empty. The organizer took the silence as a sign of satisfaction. A tutor pointed out that the form required a student number, even for a minor suggestion. The organizer removed that field [while] keeping the questions exactly the same. Comments soon appeared. The change did not prove that students had become less satisfied; it suggested that the earlier silence had been harder to [interpret] than it seemed.
+夜校刚开课时，网上意见箱一直是空的。组织者将沉默视为大家满意的信号。一名教师指出，即便提很小的建议，表格也要求填写学号。组织者删除了这一栏，同时保留原来的所有问题。很快就出现了意见。这一变化并不能证明学生的满意度下降了，它说明此前的沉默比看上去更难解读。
+while/despite of/unless/because of|删除身份栏和保留其余问题同时发生，用 while keeping。|interpret/register/submit/postpone|难点是判断沉默代表什么，即解读其含义。
+Which feature stayed the same?|The questions in the form./The student number field./The number of comments./The organizer's first conclusion.|exactly the same 明确指出问题保持原样。
+Why does the final sentence use suggested instead of proved?|The evidence allows more than one explanation./The form was never changed./All students were interviewed./The tutor rejected every comment.|留言增多可能与填写顾虑减少有关，不能直接推出满意度改变。

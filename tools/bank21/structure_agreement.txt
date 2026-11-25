@@ -1,0 +1,105 @@
+# level 1
+N|Two ____ were sticking out of the pencil case.|rulers|ruler;ruler's;rulers'|铅笔盒外露着两把尺子。|规则复数|two 修饰可数名词，ruler 的复数加 s。|所有格撇号不能表示普通复数。
+N|The pair of socks on my chair ____ dry now.|is|are;am;be|我椅子上的那双袜子现在干了。|a pair of|主语中心词 pair 是单数，谓语用 is。|不要让紧邻的 socks 决定谓语。
+N|There isn't ____ milk left in the jug.|much|many;a few;several|壶里剩的牛奶不多了。|不可数名词的数量|milk 表示液体的量，否定句中可用 much。|many 和 several 后面需要复数可数名词。
+N|Both of my ____ work at the post office.|parents|parent;parent's;parents'|我的父母都在邮局工作。|both of 后的名词|both 指两人，my 后面用普通复数 parents。|此处没有被拥有的事物，不加撇号。
+N|That shelf ____ all our board games.|holds|hold;holding;to hold|那个架子放着我们所有的桌游。|第三人称单数|that shelf 是单数主语，一般现在时谓语加 s。|不要根据宾语 games 选 hold。
+N|I put three ____ into the soup, one at a time.|potatoes|potatos;potato;potato's|我往汤里逐个放入三个土豆。|以 o 结尾的复数|potato 的复数通常写作 potatoes。|不能直接拼成 potatos。
+N|The children washed their ____ before lunch.|hands|hand's;hands';hand|孩子们午饭前洗了手。|身体部位的复数|说孩子们洗双手，使用复数 hands。|无需在名词上用所有格。
+N|How ____ eggs do we need for the pancakes?|many|much;little;any|做薄煎饼需要多少个鸡蛋？|how many 与 how much|eggs 是可单独计数的复数，选 many。|问液体的量才用 how much。
+N|A bowl of noodles ____ on the kitchen table.|sits|sit;sitting;to sit|一碗面放在厨房桌子上。|容器作主语|中心词是 A bowl，表示一碗，谓语用 sits。|of noodles 是修饰语。
+N|These ____ open the side door and the shed.|keys|key;keyes;key's|这些钥匙能打开侧门和棚屋的门。|元音加 y 的复数|key 的 y 前是元音 e，复数直接加 s。|不要像 baby 那样把 y 改成 ies。
+N|At the market we bought a ____ of grapes still on their stems.|bunch|slice;loaf;bar|我们在市场买了一串还连在梗上的葡萄。|名词与量词|bunch 指成簇连在一起的一串东西。|slice 表示切下的一片，不能表达整串。
+N|This box contains four small ____.|brushes|brush;brushs;brush's|这个盒子里装着四把小刷子。|sh 结尾的复数|brush 末尾是 sh，复数加 es。|不是所有名词都只加 s。
+N|Please give me a ____ of paper for a quick note.|sheet|drop;bottle;loaf|请给我一张纸写便条。|a sheet of|paper 作纸张材料时不可数，用 sheet 计张数。|不要直接用 a 修饰表示材料的 paper。
+N|The three lights above the stage ____ bright.|are|is;am;be|舞台上方的三盏灯很亮。|复数主语与 be|the three lights 为复数，现在时用 are。|stage 并非主语。
+N|Leo and I ____ a locker at the sports center.|share|shares;sharing;is sharing|利奥和我共用运动中心的一个储物柜。|and 连接两个人|Leo and I 是两个不同的人，谓语用原形 share。|不要只看到 Leo 就加 s。
+N|I bought one loaf yesterday and two ____ today.|loaves|loafs;loaf;loafes|我昨天买了一条面包，今天买了两条。|loaf 的不规则复数|此处计数单位是面包的一整条，loaf 变为 loaves。|不要把 bread 当成直接计数单位。
+N|A little ____ will help this dry plant.|water|stones;seeds;leaves|一点水就能帮助这株干枯的植物。|a little 修饰不可数名词|water 在这里指水量，不数一颗一颗。|复数 stones、seeds、leaves 需要 a few 等限定词。
+N|The news on the radio ____ good today.|is|are;were;be|今天广播里的这条消息令人高兴。|news 的数|news 在这里是不可数名词，作主语用单数谓语。|不要因词尾有 s 就当复数。
+N|Each child ____ a small flag at the parade.|carries|carry;carrying;to carry|游行时每个孩子都拿着一面小旗。|each 修饰单数|Each child 是逐个看待，谓语用 carries。|each 后的名词和谓语都要按单数处理。
+N|I need two ____ to seal these envelopes: one for each.|stamps|stamp;stamp's;stamps'|我需要两张邮票贴这两个信封，每个信封一张。|two 后的复数|one for each 表示一共两张，应填普通复数 stamps。|普通复数没有撇号。
+# level 2
+N|The woman in the green boots ____ herbs on our street every Friday.|sells|sell;selling;to sell|每周五那位穿绿靴子的女士都在我们街上卖香草。|隔开主谓的修饰语|中心词 woman 是单数；in the green boots 描写她的穿着。|不要跟着 boots 选 sell。
+N|We saw five ____ at the edge of the field, all with white wool.|sheep|sheeps;sheep's;sheepes|我们在草地边看到五只绵羊，都长着白色羊毛。|单复数同形|sheep 的单数和复数写法相同，five 已说明数量。|不能在 sheep 后再加 s。
+N|The dentist counted the child's new adult ____.|teeth|tooths;toothes;teeths|牙医数了数这个孩子新长出的恒牙。|不规则复数|tooth 的复数通过元音变化成为 teeth。|teeth 本身已是复数。
+N|There are a few ____ of cheese on the plate, all cut very thin.|slices|bars;loaves;drops|盘子里有几片奶酪，都切得很薄。|slice 作量词|cut very thin 表示薄片，切下来的一片可数。|bar 表示条或块，不能突出切片。
+N|The teacher gave us two ____ of advice about revision.|pieces|pairs;sheets;liters|老师给了我们两条复习建议。|advice 的计数|advice 不可数，用 two pieces of advice 表示两条。|不能直接写 two advices。
+N|The bus drivers' room has four ____, one for each driver on duty.|chairs|chair;chair's;chairs'|司机休息室有四把椅子，给当班司机每人一把。|复数与所有格|four 后面的 chairs 表示椅子的数量，没有所属关系。|drivers' 是所有格，并不意味着后面所有复数都带撇号。
+N|My glasses ____ in the blue case; I need them to read.|are|is;am;has|我的眼镜在蓝盒子里，阅读时我需要戴它们。|成对名词 glasses|glasses 指一副眼镜时采用复数谓语。|如果主语写成 a pair of glasses 才用 is。
+N|A piece of toast ____ enough for me before practice.|is|are;have;be|训练前吃一片吐司对我来说就够了。|a piece of 加不可数名词|一片吐司是单数数量，表语 enough 前用 is。|不要把 toast 加 s 来表示一片。
+N|Those ladies are our new ____; they moved in upstairs.|neighbors|neighbor;neighbor's;neighbors'|那几位女士是我们的新邻居，她们搬到了楼上。|表语的数|those ladies 指多人，说明身份的名词也取复数。|our 只表所属，并不表示名词应为单数。
+N|A lot of rice ____ left after dinner last night.|was|were;are;have|昨晚吃过饭后还剩了不少米饭。|a lot of 加物质名词|rice 是不可数名词，昨晚要用 was。|a lot of 不能单独决定单复数。
+N|There ____ two empty seats near the front right now.|are|is;was;be|此刻前排附近有两个空位。|there be 与实际主语|two empty seats 是复数，right now 要求现在时。|there 不是真正决定数的主语。
+N|Neither of the two lamps ____ a shade. Use has or have in formal written English.|has|have;having;to have|两盏灯都没有灯罩。按正式书面语选择。|neither of 的一致|正式书面语通常将 neither 看作单数，填 has。|不要仅根据 lamps 的复数机械选择。
+N|There is very ____ furniture in the rented room, just a bed.|little|few;many;several|出租屋里的家具很少，只有一张床。|furniture 不可数|家具的总量用 little 修饰；furniture 本身不加复数 s。|few 用于可逐件计数的复数名词。
+N|A ____ of scissors is missing from the sewing kit.|pair|piece;slice;loaf|针线包里少了一把剪刀。|剪刀的计数方式|scissors 是复数形式，计一把时用 a pair of。|不能直接写 a scissors。
+N|The stories in this thin book ____ with the same question.|begin|begins;beginning;has begun|这本薄书里的故事都以同一个问题开头。|复数中心词|主语是 stories，in this thin book 只是说明出处。|不要被单数 book 干扰。
+N|My baby sister has two toy ____ with gray tails.|mice|mouses;mices;mouse's|我小妹妹有两只带灰尾巴的玩具老鼠。|mouse 的复数|指动物或玩具动物的 mouse 常用不规则复数 mice。|mice 不再加 s。
+N|Each of these envelopes ____ a return address.|needs|need;needing;have needed|这些信封每个都需要回邮地址。|each of 加复数名词|each 是单数中心词，故选 needs。|of 后虽是复数，主语仍然是 each。
+N|Ten ____ of flour filled the big sack; each bag held one kilogram.|kilograms|kilogram;kilogram's;kilograms'|十千克面粉装满了大袋子，每小袋一千克。|度量单位复数|作普通名词短语时，ten 后面的单位加 s。|与 a ten-kilogram sack 中的定语形式要区分。
+N|We have ____ oranges for everyone: one orange each and two left over.|enough|little;much;a|我们有足够的橙子分给大家，每人一个后还剩两个。|enough 修饰名词|enough 放在复数名词前表示数量充足，和后面的分配结果一致。|much、little 不能直接修饰 oranges。
+N|My aunt's two ____ are both younger than I am.|children|childs;childrens;child|我姨妈的两个孩子都比我小。|child 的复数|child 的复数已经是 children。|不要在 children 后重复添加复数标记。
+# level 3
+N|Half of the soup ____ gone, but the bowls are still full of salad.|is|are;have;were|汤已经少了一半，但碗里仍装满沙拉。|分数加不可数名词|half of 后为不可数 soup，本句描述现在的状态，用 is。|half of 不一律接复数谓语。
+N|Half of the onions ____ too large for these jars.|are|is;was;has|这些洋葱有一半太大了，装不进这些罐子。|分数加复数名词|half of 后面的 onions 可数且为复数，故用 are。|分数作限定成分时看被分的对象。
+N|The number of missing buttons ____ fallen to three.|has|have;are;were|遗失的纽扣数量已降到三颗。|the number of|这里报道一个数量的变化，中心词 number 为单数。|不要与 a number of 混淆。
+N|A number of early sketches ____ survived the fire.|have|has;is;was|有不少早期草图在火灾中保存了下来。|a number of|a number of 表示“若干”，主语是复数 sketches。|不能只因看到 number 就选 has。
+N|The captain, along with two rowers, ____ the boat every Thursday.|checks|check;checking;have checked|队长和两名划手每周四一起检查这条船。|along with 短语|句子主语是 the captain，附带人物由 along with 引出。|along with 不等于构成并列主语的 and。
+N|Either the assistants or the manager ____ the spare key today.|has|have;are having;having|今天要么是助手们，要么是经理拿着备用钥匙。|either...or 的就近一致|靠近谓语的是单数 manager，正式练习中选 has。|不要只按第一个 assistants 判断。
+N|Neither the coach nor the players ____ satisfied with yesterday's result.|were|was;is;be|教练和队员们都对昨天的结果不满意。|neither...nor 的就近一致|最靠近谓语的是复数 players，且时间是昨天。|单数 coach 距离谓语较远。
+N|Everyone in the two reading groups ____ a copy of the poem.|receives|receive;receiving;have received|两个阅读小组里的每个人都收到一份诗稿。|不定代词作主语|everyone 按单数处理，一般现在时用 receives。|groups 是介词短语的一部分。
+N|It is a three-____ walk from the rehearsal room to the hall.|minute|minutes;minute's;minutes'|从排练室走到礼堂需要三分钟。|复合定语中的度量单位|three-minute 整体作形容词，单位 minute 保持单数。|普通时间短语 three minutes 才加 s。
+N|The new equipment ____ less space than the old machines.|takes up|take up;taking up;have taken up|新设备比那些旧机器占用的空间少。|equipment 作主语|equipment 是不可数集合名词，一般现在时用 takes up。|不要被后面的复数 machines 干扰。
+N|We need more ____ about the old bridge before we start the repairs.|information|informations;an information;many information|修桥前我们需要更多关于这座旧桥的信息。|information 不可数|more 可直接修饰不可数的 information。|汉语“一条信息”要用 a piece of information。
+N|The postcards are in my ____ bag. The two sisters share it.|cousins'|cousin's;cousins's;cousin|明信片在我两位表姐妹共用的包里。|规则复数的所有格|两位表姐妹是 cousins，复数以 s 结尾，所有格在 s 后加撇号。|cousin's 只表示一位表亲。
+N|The ____ changing room is next to the pool. It is for boys and girls under twelve.|children's|childrens';childrens;childrens's|儿童更衣室在泳池旁，供十二岁以下的孩子使用。|不规则复数的所有格|children 是不以 s 结尾的复数，加 's 表示所属。|不要先把 children 变成 childrens。
+N|Bread and butter ____ the single breakfast option on that old menu.|was|were;are;have been|那份旧菜单上，涂黄油的面包是唯一的早餐选项。|并列形式表示一道食物|the single breakfast option 明确把 bread and butter 当作一道食物，过去时用 was。|两个 and 连接的词也可能表示一个整体。
+N|The shop sells a wide ____ of brushes, from tiny ones to wall brushes.|range|slice;piece;drop|这家店销售多种刷子，从小刷子到刷墙用的大刷子。|a range of|from...to... 说明品种跨度，a wide range of 表示种类多。|这里不是在计算几把刷子。
+N|One of my neighbors ____ old radios as a hobby.|repairs|repair;repairing;have repaired|我的一位邻居以修旧收音机为爱好。|one of 加复数|动作执行者是 one，谓语 repairs 与一人一致。|不要把 neighbors 当成整个主语的中心词。
+N|The police ____ asking witnesses to contact the station.|are|is;has;was|警察正在请目击者联系警局。|police 的谓语|the police 表示警方人员，通常与复数谓语搭配。|要指一名警察可用 a police officer。
+N|The guide gave each of us a ____ of binoculars to watch the birds.|pair|slice;sheet;loaf|向导给我们每人一副双筒望远镜观鸟。|成对器具|binoculars 通常表示双筒望远镜，用 a pair of 计一副。|不能说 a binoculars。
+N|Five dollars ____ all I had with me that afternoon.|was|were;are;have|那天下午我身上总共只有五美元。|一笔总额作主语|five dollars 在这里指一整笔钱，过去时用 was。|若逐个谈论钞票本身才按可数物体理解。
+N|One spoonful of syrup ____ enough to sweeten this whole cup.|is|are;were;have|一匙糖浆就足以把这一整杯调甜。|数量单位 spoonful|中心词 one spoonful 为单数，of syrup 说明所装的东西。|不能因为装的是液体就忽视量词的数。
+# level 4
+N|The poet and illustrator ____ signing her new picture book. Both titles refer to Maya.|is|are;were;have|这位兼任插画家的诗人正在为她的新绘本签名。两个称呼都指玛雅。|同一人拥有两个身份|后文明确是同一人，所以谓语为 is。|不能只看 and 就断定是两个人。
+N|More than one visitor ____ noticed the tiny date on the painting.|has|have;are;were|不止一位访客注意到了画上的小日期。|more than one|more than one 后接单数可数名词，通常用单数谓语。|意义涉及多人，语法形式仍是单数。
+N|Many a reader ____ written to ask about the ending.|has|have;are;were|许多读者来信询问结尾。|many a 加单数|many a reader 是偏正式的结构，用单数谓语 has。|不能把 many a reader 当成 many readers 的相同语法形式。
+N|The only one of the lamps that ____ a red shade is on my desk.|has|have;having;to have|这些灯里，唯一装红色灯罩的那一盏在我桌上。|the only one 与定语从句|the only one 指出唯一的一盏，定语从句谓语取 has。|区分 one of the lamps that have... 所描述的复数组。
+N|Mia selected one of the designs that ____ two doors; several designs had that feature.|include|includes;including;is including|米娅选了那些设有两扇门的方案中的一个，有数个方案具备这一特点。|定语从句与先行词|that 描述 designs 这一组，故从句谓语用 include。|不要只因主句出现 one 就把定语从句也写成单数。
+N|Sixty percent of the donated cloth ____ blue.|is|are;were;have|捐来的布料中，百分之六十是蓝色的。|百分比与不可数名词|of 后的 cloth 指布料总量，谓语按单数处理。|percent 自身没有固定的谓语数。
+N|About a third of the tiles ____ cracked during the storm last night.|were|was;is;has|昨晚风暴中约三分之一的瓦片被震裂了。|分数与被动语态|tiles 是复数，且是裂开的承受者，过去时用 were cracked。|不能以分子 a 来决定谓语。
+N|A series of short talks ____ planned for next month as one program.|is|are;were;have|一系列短讲被安排在下个月，作为一个完整项目。|a series of 的中心词|a series 表示一个系列，整体作单数，后接 is planned。|talks 虽是复数，但限定的是系列内容。
+N|These two series of lessons ____ aimed at different age groups.|are|is;was;has|这两套课程面向不同年龄段。|series 的单复数同形|these two 明确有两个系列，谓语为 are。|不要以 series 的外形判断数。
+N|The scissors my father uses for leather ____ sharper than mine.|are|is;was;has|爸爸剪皮革的剪刀比我的锋利。|带定语从句的复数主语|主语是 scissors；my father uses for leather 是修饰语。|不要把 father 误当主句主语。
+N|There ____ only a thin layer of dust beneath the screen when we lifted it.|was|were;are;have been|我们抬起屏幕时，下面只有薄薄一层灰。|there be 与数量层次|一层是 a thin layer，过去背景用 was。|dust 不需复数，量用 layer 描述。
+N|Ten kilometers ____ too far for the beginner group to walk before lunch.|is|are;have;be|对初学组来说，午饭前走十公里太远了。|距离作为一个量|ten kilometers 指一段总距离，作整体看待。|不是逐个讨论这十个千米。
+N|Reading the labels and checking the dates ____ two separate steps on our list.|are|is;has been;was|看标签和核对日期是清单上的两个独立步骤。|两个动名词短语作主语|two separate steps 明确表示两项并列动作，故用 are。|不能只因每个动作都以 -ing 开头就判定整体单数。
+N|What we urgently need ____ a working lift, not extra stairs.|is|are;have;were|我们急需的是一部能运行的电梯，并非更多楼梯。|what 从句与单数表语|这里说明单一需要，后面是 a working lift，用 is。|末尾的 stairs 与谓语的数无关。
+N|Two ____ notice must be given before a large group visits. Use the plural possessive.|weeks'|week's;weeks;weeks's|大型团体来访前须提前两周通知。此处使用复数所有格。|时间名词所有格|two weeks 的所有格写作 two weeks'，表示两周的提前通知期。|week's 只对应一周。
+N|The ____ bicycles are parked outside. Tom and Lea each own a different bike.|children's|childrens;childs';childrens'|孩子们的自行车停在外面，汤姆和莉娅各有一辆。|children 作所有者|不规则复数 children 后直接加 's 表所属。|复数所有格并不总是只加撇号。
+N|Not a single one of the bulbs ____ working when the power came back.|was|were;are;have been|恢复供电时，这些灯泡没有一个能亮。|否定单数主语|not a single one 强调逐个都不能用，过去时用 was。|不要受最近的 bulbs 影响。
+N|The rest of the equipment ____ being cleaned after the match.|is|are;have;be|比赛后，其余设备正在清洗。|the rest of 加物质名词|rest 指 equipment 剩余的部分，equipment 不可数。|“许多件设备”的实际情况不改变 equipment 的语法数。
+N|One and a half ____ of flour is what this recipe calls for.|cups|cup;cup's;cups'|这份配方需要一杯半面粉。|one and a half 加复数|数量超过一杯，在 one and a half 后通常用复数 cups。|a half 中的 a 不能决定后面单位的数。
+N|Our luggage ____ weighed before we boarded yesterday.|was|were;are;have been|昨天登机前，我们的行李被称重了。|不可数集合名词 luggage|luggage 是不可数名词，过去时被动语态用 was weighed。|若用 bags 作主语，谓语才改为 were。
+# level 5
+N|The cause of the delays, rather than the delays themselves, ____ the main concern now.|is|are;were;have|现在，令人最担心的是延误的原因，而非延误本身。|排除插入成分|主语中心词是 cause，插入的 rather than 短语不改变数。|离谓语最近的 themselves 并非主语。
+N|Among the papers on the desk ____ the only signed copy of the agreement. Use present tense.|lies|lie;lying;have lain|桌上的文件里放着那份协议唯一签过字的副本。|地点状语前置后的主谓一致|倒装后主语在后，即 the only signed copy，故用 lies。|前面的 papers 不是主句主语。
+N|On the lowest shelf ____ three boxes of film that nobody has opened yet.|stand|stands;is standing;has stood|最底层的架子上立着三盒尚未开封的胶卷。|倒装句的复数主语|three boxes 是实际主语，使用 stand。|不要跟着句首 shelf 选单数谓语。
+N|Neither the lists of names nor the final count ____ available when the doors closed.|was|were;are;have been|关门时，名单和最终人数都还无法取得。|就近一致与过去时间|靠近谓语的是单数 final count，when the doors closed 限定过去。|不要让较远的 lists 和 names 干扰选择。
+N|The total cost of the frames and lenses ____ increased since March.|has|have;is;were|镜框与镜片的总成本从三月起有所上升。|中心词与完成时|total cost 是一个总成本，since March 提示现在完成时。|frames and lenses 是 of 的宾语。
+N|No one except the two technicians ____ authorized to change that setting at present.|is|are;were;have|目前，除了两位技术员，没有人获准更改那个设置。|no one 加 except|no one 作主语用单数；except the two technicians 表示例外。|technicians 不与 no one 组成并列主语。
+N|About 80 percent of the page ____ blank, though several lines are printed at the top.|is|are;have;were|这页大约八成是空白的，尽管顶部印有几行字。|同句中两个主语的数|主体是单页的一部分，谓语选 is；后面的 lines 才用 are。|不能为了与后文的 are 一致而改主句。
+N|The remains of the wooden bridge ____ still visible after the river fell. Use the past tense.|were|was;is;has been|河水退去后，木桥的残骸仍清晰可见。|remains 作名词|remains 表示残骸时是复数名词，过去时用 were。|不要把 remains 误作动词“留下”。
+N|A means of contacting every household ____ essential in an emergency.|is|are;have;be|紧急情况下，一种能联系到每家每户的方法至关重要。|means 数的判断|a means 指一种方法，即使词形以 s 结尾也按单数。|every household 是 contacting 的宾语。
+N|Several means of drying the wet maps ____ described in the handbook.|are|is;has;be|手册描述了几种弄干湿地图的方法。|means 与复数限定词|several means 表示几种办法，用 are described。|不能看到 means 就一律选单数。
+N|The proceeds from Saturday's sale ____ going to the animal shelter.|are|is;has;was|星期六义卖的收入将捐给动物收容所。|proceeds 表收入|proceeds 指一场销售所得款项时，通常作复数名词。|sale 是介词宾语，不能决定谓语。
+N|Mathematics ____ required for this course, but a second language is optional.|is|are;were;have|这门课要求数学基础，但第二外语是选修的。|学科名称|mathematics 表示一门学科，形式有 s，意义为单数。|不要按普通复数名词处理学科名称。
+N|The statistics in Table 3 ____ based on interviews with forty shopkeepers.|are|is;was;has|表三里的这些统计数据来自对四十名店主的访谈。|statistics 的具体义|这里指多项具体统计数据，谓语用 are。|表示“统计学”这一学科时通常用单数。
+N|Three months ____ the longest period we could leave the greenhouse unattended at that time.|was|were;are;have been|当时，三个月是我们能让温室无人看管的最长时间。|时长作一个整体|three months 表示一个完整时段，与 the longest period 对应。|不要按三个月份逐项理解。
+N|The first two-thirds of the route ____ uphill, so save your energy for the start.|is|are;were;have|这条路线的前面三分之二是上坡，因此要把体力留给开头那段。|分数指单条路线的一部分|the route 是单一路段，描述其前部的性质用 is。|three 等数字不自动触发复数谓语。
+N|The results of the first test, together with the later measurement, ____ a clear pattern.|show|shows;is showing;has shown|第一次测试的各项结果连同后来的测量结果呈现出清楚的规律。|together with 与复数主语|results 是主干，together with 引出的单数补充项不改变谓语。|不要被 measurement 的单数干扰。
+N|Not the torn pages but the missing cover ____ why the book was rejected.|explains|explain;explaining;have explained|这本书被退回的原因在于封面缺失，而不是书页破损。|not A but B 的一致|说话者把真正的原因落在单数 the missing cover 上，谓语用 explains。|不可只根据句首复数 pages 作答。
+N|The collection of poems and letters ____ to a small museum, according to the label.|belongs|belong;belonging;have belonged|标签上说，这批诗作和信件归一家小博物馆所有。|collection 作中心词|collection 是单数，poems and letters 说明收藏内容。|不要让 of 后面的并列名词成为主语。
+N|The supply of replacement parts ____ running low even though the orders keep arriving.|is|are;were;have|虽然订单不断到来，备件存量却快要不足了。|供给量与复数物品|主句描述的是单数 supply 的状态，orders 仅作让步从句的主语。|不能将两个分句的主语互换。
+N|One out of every ten tickets in yesterday's draw ____ a prize. Use a past passive verb.|was awarded|were awarded;are awarded;have been awarded|昨天的抽奖中，每十张票就有一张中奖。|one out of every ten|中心词 one 指每十张中的一张；要求过去时被动，所以选 was awarded。|ten tickets 在数量范围内，不是谓语的一致对象。

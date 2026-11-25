@@ -1,0 +1,56 @@
+# 情态被动与非谓语
+The cupboards are empty and the van is gone. The movers must ____ everything already.|柜子都空了，货车也走了。搬运工想必已经把东西全装好了。|have loaded|@用 load 表达对过去的肯定推测|must have done|目前的迹象支持对先前装货的推测，must 后用 have loaded。|must load 表示现在必须去装，无法解释已经出现的结果。
+The seal is still unbroken. Someone ____ have opened the box through this lid.|封条还完好无损，不可能有人通过这个盖子打开过盒子。|can't|must / should certainly / would rather|can't have done|封条完整提供了否定过去动作的证据，故用 can't have opened。|mustn't have 在基础用法中不表达这种强烈的否定推测。
+We needn't ____ extra chairs; half the seats stayed empty.|我们原本不用搬来额外的椅子，有一半座位一直空着。|have brought|@用 bring 表达做过却没必要的事|needn't have done|椅子已经搬来，事后看没有必要，用 needn't have brought。|didn't need to 本身未必说明最后到底做了没有。
+I should ____ the instructions more carefully before cutting the wood.|我锯木头前本应更仔细地读说明。|have read|@用 read 表达对先前行为的反思|should have done|说话人回顾已经发生的操作，should have read 表示当时应该做得更好。|不要填 have reading；have 后是过去分词。
+The bus might ____ delayed by the roadworks yesterday.|昨天的道路施工可能耽误了那班公交车。|have been|=填入 delayed 前缺少的完成被动结构|情态动词的完成被动|bus 承受 delay，yesterday 表过去，组合为 might have been delayed。|might have delayed 会让 bus 成为耽误其他事物的主体。
+If the fire drill ends early, we may ____ use the gym after all.|如果消防演练提前结束，我们最终也许能用体育馆。|be able to|can / be can / able to|情态动词与 be able to|may 表可能，be able to 表能做到，两种意思可借此叠加。|标准英语不用 may can 连放两个情态动词。
+My card didn't work, but the clerk managed ____ a paper ticket for me.|我的卡没用，不过职员还是设法给我开了张纸票。|to issue|@用 issue 的正确形式填空|manage to do|managed to 说明尽管遇到困难，动作最终成功完成。|managed issuing 不能表达这里的固定结构。
+The drain is blocked; it needs ____. Use the -ing form of clean.|下水口堵住了，需要清理。（用 clean 的 -ing 形式）|cleaning|@按指定形式填入 clean|need doing 的被动含义|needs cleaning 等于 needs to be cleaned，下水口是被清理的对象。|不要把语义是被动直接等同于必须写 being cleaned。
+We regret ____ you that this afternoon's tour has been canceled.|我们很遗憾地通知您，今天下午的参观已取消。|to inform|@用 inform 的正确形式，表示即将告知坏消息|regret to do|regret to inform 是正式通知的用法，说这句话时正要告知消息。|regret informing 表示后悔已经告知过。
+I regret ____ my first sketch away; it would have been a useful record.|我后悔扔掉了第一张草图，它本可以成为有用的记录。|throwing / having thrown|@用 throw 的动名词形式表达对已做之事的后悔|regret doing|扔草图发生在后悔之前，throwing 和强调先后的 having thrown 都可。|regret to throw 不表示后悔过去已扔掉。
+The wheel still squeaks. Try ____ a drop of oil; perhaps that will help.|轮子还在吱吱响。试着加一滴油看看，也许有用。|adding|@用 add 的 -ing 形式表示试用一种办法|try doing|加油是一种待试验的办法，用 try adding 强调看效果如何。|try to add 更强调努力完成加油这个动作。
+Reading the second clue meant ____ back to the first room.|阅读第二条线索意味着要走回第一个房间。|walking|@用 walk 的正确形式表示「意味着」|mean doing|meant walking 说明读线索所涉及的后果。|meant to walk 表示本打算走，主语和意思都不同。
+I meant ____ the draft to you, but I attached the wrong file.|我本想把草稿发给你，却附错了文件。|to send|@用 send 的正确形式，表示原来的打算|mean to do|主语 I 有一个意图，用 meant to send 表达。|meant sending 表示意味着发送，并非描述本意。
+She went on ____ how the pulley worked after she had named its parts.|她说完滑轮各部件的名称后，接着讲它的工作原理。|to explain|@用 explain 的不定式表示接着做另一件事|go on to do|先列名称再讲原理，是转入下一项内容，故用 to explain。|go on explaining 倾向于表示继续同一项讲解。
+We had the cracked mirror ____ before the shop reopened.|商店重新开门前，我们请人换掉了裂开的镜子。|replaced|@用 replace 的正确形式填空|have something done|mirror 是 replace 的承受者，have the mirror replaced 表示安排别人更换。|不要把镜子写成 replacing 的主动者。
+Please keep the escape route ____ of boxes and bags.|请让逃生通道保持畅通，不摆箱包。|clear|to clear / to be clearing / clears|keep 宾语加状态补语|这里说明希望 route 保持怎样的状态，用形容词 clear。|不要误以为 keep 后任何位置都只能用 -ing。
+I found the spare key ____ to the underside of the shelf.|我发现备用钥匙被粘在架子的底面上。|taped|@用 tape 的分词形式，表示钥匙所处的状态|find 宾语加过去分词|钥匙是被粘住的，taped 作宾语补足语描述其状态。|taping 会使 key 成为粘东西的动作发出者。
+The woman ____ badges at the entrance is our neighbor.|在入口分发胸牌的那位女士是我们的邻居。|handing out|@用 hand out 的现在分词形式填空|现在分词作定语|woman 主动分发胸牌，handing out badges 修饰她。|handed out 会表示她被分发，与语意不合。
+The photos ____ during the cleanup are on display.|大扫除期间拍摄的照片正在展出。|taken|@用 take 的过去分词作定语|过去分词作定语|photos 与 take 是被动关系，taken during the cleanup 修饰 photos。|taking 表主动，不能说照片自己拍摄。
+____ the sign twice, Leo still entered the wrong corridor.（用 read 的完成分词形式。）|利奥已经把指示牌读了两遍，却还是走错了走廊。|Having read|@按要求用 read 的完成分词形式|完成分词表示先发生|读指示牌发生在走错之前，Having read 明确先后，逻辑主语是 Leo。|不要使用 Having been read，Leo 是读的人。
+____ by the sudden noise, the cat slipped behind the sofa.|猫被突如其来的声音吓了一跳，溜到了沙发后面。|Startled|@用 startle 的过去分词表示被动感受|过去分词作状语|cat 承受 startle 的动作，Startled by…交代它溜走的原因。|Startling 表示令人受惊，用于发出这种影响的事物。
+With the stage lights ____ directly at us, we couldn't see the audience.|舞台灯直射着我们，我们看不见观众。|shining|@用 shine 的现在分词填空|with 加宾语加分词|lights 主动发光，且和看不见观众同时发生，用 shining。|shone 在此不表示灯被照射后的状态。
+We expect the missing file ____ before noon.|我们预计丢失的文件会在中午前找回。|to be found|@用 find 的被动不定式填空|expect something to be done|expect 的宾语 file 承受 find，后面的不定式须用被动形式。|to find 会把 file 当成寻找者。
+The notes seem ____ been left here by a visitor.|这些笔记似乎是一位访客先前留在这里的。|to have|=在 been left 前填写缺少的两个词|seem 加完成不定式|现在作出推断，留下笔记发生得更早，所以用 seem to have been left。|普通 to be left 不能同样清楚地标明先前已发生。
+Rewrite in the passive: The staff made us remove our shoes. → We ____ our shoes.|工作人员要求我们脱鞋。|were made to remove|!改为一般过去时被动句，保留 remove|make 的被动恢复 to|主动结构 made us remove 变成被动后需要 were made to remove。|不要把主动句省略 to 的形式直接照搬到被动句。
+Use worth: You should visit the tiny railway museum. → The tiny railway museum is worth ____.|那座小小的铁路博物馆值得参观。|visiting|!用 visit 的正确形式改写|be worth doing|worth 后接动名词 visiting，主语 museum 是参观的对象。|不用 worth to visit，也不用 worth being visited。
+Rewrite using prevent: The flood kept cars from entering the tunnel. → The flood prevented cars ____ the tunnel.|洪水使车辆无法进入隧道。|from entering / entering|!保留 enter，补全 prevent 的搭配|prevent somebody from doing|主动句里 prevent cars from entering 可省略 from，两种都可接受。|不要写 prevented cars to enter。
+The lantern broke while it was ____ from the ceiling.|那盏灯在被人从天花板上放下来时破了。|being lowered|@用 lower 的进行时被动形式补在 was 后|过去进行时被动|灯当时正被放下，was 已有，缺 being lowered。|was lowering 会把灯写成主动放下别的东西。
+Select both ways to say that the wet coat needs drying.|选出两句都能表达「湿外套需要晾干」的句子。|The wet coat needs drying. & The wet coat needs to be dried.|+The wet coat needs to dry the rack. / The wet coat needs dried to be.|need 的两种被动表达|needs doing 和 needs to be done 都可以让 coat 表示被处理的物品。|改变 done 与 be 的顺序会破坏被动不定式。
+Which two completions express criticism of a past choice? “You ____ without checking the brake.”|哪两种补全都表达对先前做法的批评？「你不该没检查刹车就出发。」|shouldn't have left & ought not to have left|+need to leave / may leave tomorrow|对过去的批评|两个正确短语都用否定的「应该」加完成形式评价先前的决定。|leave tomorrow 或 need to leave 指向现在或将来。
+# 从句与连接词
+The manager, ____ desk is next to mine, knows the new schedule.|经理的桌子就在我旁边，他知道新日程。|whose|who / whom / which|非限定性从句中的所属|desk 属于 manager，逗号后用 whose desk 补充关系。|whom 只作宾语，不能放在 desk 前表示所属。
+Our bus broke down halfway, ____ made us late for the opening.|我们的公交车中途抛锚了，这使我们错过了准时参加开幕的机会。|which|that / what / where|which 指代前面整件事|逗号后的 which 指整件「车抛锚」的事，在从句里作 made 的主语。|非限定性从句里不能用 that 来指代前面整件事。
+The drawer in ____ we stored old tickets will no longer close.|我们以前存放旧票的那个抽屉再也关不上了。|which|that / where / who|介词加关系代词指物|drawer 指物，in 已被提到从句前，用 in which。|in where 会把地点关系表达两次。
+The village ____ we visited last spring lies beside a canal.|我们去年春天参观的那个村庄位于一条运河边。|which / that|=填关系代词，保留空格|地点先行词也可作宾语|visited 后缺参观的对象，village 在从句中作宾语，因此用 which 或 that。|不能看见地点名词就填 where，要先看从句缺什么成分。
+Is this the reason ____ the old timetable was removed?（填关系副词。）|这就是旧时刻表被撤掉的原因吗？|why|=按要求填一个关系副词|reason 加 why|从句主谓完整，需要修饰原因的关系副词 why。|若后文是 explain the reason 这类缺宾语的结构，才另考虑关系代词。
+What matters most is ____ everyone gets a clear role.|最重要的是每个人都有明确的分工。|that|what task / where / whose|that 引导表语从句|is 后是一条完整陈述，that 引出说明「最重要的是什么」的内容。|what 需要在从句中另作成分，这里没有缺口。
+____ the pair will fit remains unclear until we try them on.|这双鞋是否合脚，在试穿之前仍不清楚。|Whether|If only / That which / Although|whether 引导主语从句|整段 Whether the pair will fit 作 remains 的主语，表达尚未确定的选择。|正式标准用法中不以 if 代替句首这一主语从句的 whether。
+The notice explains ____ to do if the machine shows a red light.|通知说明了机器亮红灯时该做什么。|what|where / how many / whose|what to do|do 缺宾语，what 表示要做的事；整个短语作 explains 的宾语。|how to do 通常还需要说明 do 的对象。
+I agree with ____ you said about adding a handrail.|我赞同你关于增加扶手所说的话。|what|that / which person / where|what 引导名词性从句|what 同时表示「所说的内容」，又是 said 的宾语。|that 只起连接作用，无法在这里填补 said 的宾语。
+You may use the spare room ____ you leave it tidy.|只要你用完保持整洁，就可以使用备用房间。|provided that|as though / even though / rather than|provided that 表条件|整洁是给出许可的前提，用 provided that 表示只要。|even though 表示尽管，不是在提出条件。
+Check the date before you pay, ____ the ticket can't be exchanged later.|付款前请核对日期，因为车票之后不能换。|for|but / so / unless|for 补充理由|后一分句对前面的建议给出理由，for 在此作并列连词。|so 会将后一分句变成「核对日期」导致的结果。
+The fan was left on ____ the paint would dry overnight.|风扇一直开着，为的是让油漆在夜里干透。|so that|even though / now that / whereas|目的状语从句|故意开着风扇是安排一种条件，so that 引出想达到的目的。|now that 表示既然，无法表达想实现的目标。
+____ I know, no one has tested the new route in winter.|据我所知，还没有人在冬天测试过这条新路线。|As far as|As soon as / As much that / In case|as far as I know|这一固定说法限定消息来源和把握程度，表示「据我所知」。|as soon as I know 描述时间，不是限定信息范围。
+____ tired you are, don't leave the heater on when you go out.|无论你多累，出门时都别让取暖器开着。|However|Whatever / Whoever / Whichever|however 加形容词|tired 是形容词，However tired you are 相当于 No matter how tired you are。|whatever 通常修饰名词或独立指事物，不能直接代替这里的 however。
+You can put the stool ____ it won't block the doorway.|你可以把小凳放在不会挡门的地方。|where|which / whose / what time|where 引导地点状语从句|主句 put the stool 需要放置地点，where 后面的分句说明合适位置。|which 需要有清楚的先行词或选择范围。
+The team changed the start time ____ more neighbors could attend.|团队调整了开始时间，以便更多邻居能参加。|in order that|in spite of / because of / so as to|in order that 加分句|more neighbors could attend 是有主语和谓语的分句，in order that 可引出目的。|so as to 后应接原形，不直接接这个分句。
+The moment I ____ the label, I realized the parcels had been mixed up.|我一读标签，就意识到包裹弄混了。|read|@用 read 的一般过去时填空|the moment 引导时间从句|the moment 直接作时间连接语；主句 realized 是过去时，read 也用过去式，同形异音。|不要让原形和过去式同形误导你添加 did。
+This is the second time that the fire alarm ____ off this week.|这是本周火警警报第二次响起。|has gone|@用 go 的现在完成时填空|This is the…time that…|在现在参照点统计本周截至此刻的第二次经历，用 has gone off。|off 是短语的一部分，不要只改成普通过去时 went。
+Rewrite using unless: You can't borrow the van if you don't show your license. → You can't borrow the van ____ you show your license.|除非你出示驾照，否则不能借这辆面包车。|unless|!用题干指定的连词改写|if…not 改为 unless|unless 已包含否定条件，后面的 show 保持肯定形式。|不要在 unless 后再否定一次，造成条件反转。
+Rewrite using whose: A neighbor owns this garden. Her son studies with me. → The neighbor ____ son studies with me owns this garden.|儿子和我一起学习的那位邻居拥有这座花园。|whose|!用指定关系词合并两句|把所属关系合并进从句|her son 中的 her 回指 neighbor，合并时写 whose son。|不能将原来的 her 和 whose 同时保留。
+Choose both connectors for a contrast between habits: I set an alarm, ____ my brother wakes up naturally.|选出两个都可以表示习惯对比的连词：我设闹钟，而我哥哥自然醒。|whereas & while|+so that / in case|while 与 whereas 表对照|两项长期习惯相对照，whereas 与表示对比的 while 均适用。|in case 意味着为可能情形作准备，会改变逻辑。
+Which two sentences keep the indirect question in normal word order?|哪两句间接问句采用了正确的陈述语序？|Nobody knows why the gate is locked. & I asked when the guide would arrive.|+Nobody knows why is the gate locked. / I asked when would the guide arrive.|间接问句的时态和语序|两句中 the gate 和 the guide 都位于各自的谓语前。|why 和 when 位于从句开头时不代表后面必须倒装。
+The fact ____ both keys open the door surprised the owner.|两把钥匙都能开这扇门，这一事实使主人惊讶。|that|which lock / where / whose|that 引导同位语从句|both keys open the door 是完整陈述，说明 fact 的具体内容。|这里的 that 不充当 open 的主语或宾语。
+I didn't hear the entire announcement, ____ I may have missed the change of platform.|我没听全通知，所以可能漏听了换站台的消息。|so|even though / unless / in order that|根据前提推断后果|没听完整是原因，可能错过信息是由此作出的推测，so 连接二者。|in order that 表示目的，不能将漏听写成目的。

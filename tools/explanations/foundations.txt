@@ -1,0 +1,100 @@
+每周五说明“哪一天”，six 才是空格直接限定的时间，相当于 six o’clock。可以完整说 at six on Friday；不能因为看见 Friday 就在 six 前填 on。
+September 给出整个月，没有指定某一天，所以是 in September。若改成 September 1，才是 on September 1。
+Monday 已经是具体的一天。对比 in May（一个月内）、on Monday（某一天）、at nine（那一天里的一个时刻）。
+July 单独出现时用 in；加上 8 后，整体变成一天的日期，介词跟整组 July 8 搭配。
+winter 表示一段季节。in winter 把下雪放进这一段时间；若表达某个冬日，则是 on a winter day。
+noon 表正午这个时间点，和 at twelve 一样用 at。不能照搬 in the afternoon，因为 afternoon 是一段时间。
+泛说夜间用 at night。若讲某个具体晚上，可说 on a rainy night；讲某一夜中途发生的事还可说 in the night。
+the morning 指一天的上午时段，所以用 in；这里没有 Monday 或某个日期把它限定成特定的一天。
+先读完整的 a cold morning in May：描述的是五月里的某个寒冷早晨，所以用 on。in the morning 泛指在上午。
+2010 是年份，范围比一天大。说 in 2010；若补成某个日期，如 May 1, 2010，就改用 on。
+goes 表示从一处前往另一处，station 是终点，所以用 to。at the station 表示人或车已经位于车站。
+把句意分成“信从哪儿来”和“信要到哪儿去”。表哥是寄件来源，用 from；to my cousin 会让表哥变成收件人。
+train 指出交通方式，用 by train。若谈人已坐在某一列火车上，才常说 on the train，名词前也多了 the。
+步行固定说 on foot。by bus 可以类推到 by train，却不能把 foot 当作一种车船名套进 by 后面。
+scissors 是手里用的具体工具，with scissors 表示用剪刀。比较 by cutting，by 后的 cutting 描述做事的方法。
+ink 是留下字迹的材料，用 in ink。若换成手里拿的 pen，就说 with a pen，材料和工具的关系不同。
+题意是照片挂在墙的表面，接触表面用 on。in the wall 会让人理解成在墙体内部。
+口袋有内部空间，钥匙在里面用 in。on my pocket 会把位置改为口袋表面。
+根据中文，包在床下，不是躺在床面上。换为 on the bed，句法仍通顺，但空间关系变了。
+six pieces 是分割后的结果，divide A into B。若说 divide the cake between two children，后者是接受分配的人。
+two cousins 是两个明确的位置参照，between 表示夹在二人中间。among 强调置身一群人中。
+秘密在人群里流传，没有逐一指定两方或两端，所以说 among the villagers。
+隧道有入口、内部、出口，火车经过的是内部空间。across 一般突出从表面的一侧到另一侧。
+from one shore to the other 已把两岸标作起点和终点。across 与这种横越相符；along 则是顺着岸走。
+小路延伸的方向跟河岸一致，所以用 along。若用 across，就成了从一边横过河岸。
+ninety minutes 回答 how long，是长度，用 for。since 后要接起点，如 since nine o’clock。
+May 给出开始居住的时间点，I've lived 把它连接到现在。换成 for 就要说 for six months 等时长。
+后面已有 to five，缺的是这一范围的起点。from nine to five 整体修饰 open，意为九点开始、五点结束。
+at the latest 说明可以早完成，只须不晚于周五，所以选 by。until 描述持续到某时，不能表达这句的完成期限。
+stayed awake 是持续状态，一直延伸到午夜用 until。by midnight 只限定最迟时间，不表达整段时间都醒着。
+interested 描述人的兴趣，后用 in 引入兴趣对象 astronomy。对照 astronomy interests me：改用动词 interests 时直接接宾语。
+drawing 是她擅长的活动，用 be good at。be good for 后接受益者或受益事物，表示“对……有益”。
+proud 是感到骄傲的状态，of our team 交代骄傲的对象。若改用名词 pride，常说 take pride in our team。
+spiders 是害怕的对象，be afraid of + 名词。be afraid to 后面需要动作，如 to touch a spider。
+new students 是受到善意的人，所以是 kind to them。It is kind of you 才是在评价“你这个人很体贴”。
+late for 后接没有按时赶上的活动，这里是 class。late in the day 描述一天中时间较晚，含义不同。
+mine 代替 my coat，是比较的另一件衣服。英语说 similar to，不能因为中文说“与……类似”就逐字填 with。
+full 已表达“满”，of apples 说明里面装的内容物。对照 filled with apples：意思相近，但中心词换了，搭配也变了。
+paintings 是她出名的原因，用 famous for。若填 as，后面要写身份，如 famous as a painter。
+worried about 引出担心的对象。his dog 是他牵挂的对象，不能按“在狗的旁边”理解成地点介词。
+listen 表示主动听，接对象用 to；hear the recording 中 hear 可直接带宾语。不能把 hear 的句法搬给 listen。
+wait 后的 bus 是人在等待的对象，所以用 for。wait at the bus stop 回答的是人在哪里等。
+belong to 后接拥有者，Sara 拥有这本书。换成 Sara owns the book 时主宾位置对调，也不需要介词。
+agree with you 指同意某个人；on this point 指在什么问题上意见一致。两个介词各有自己的对象。
+ask A for B 中 A 是被请教的人，B 是想得到的东西。老师已在前面，advice 是所求，因此填 for。
+clean water 是赖以生存的条件，depend on 表依赖。不能把中文里的“靠”简单理解成方位“在旁边”。
+thank someone for something：you 是感谢的人，the ride 是搭车这个值得感谢的行为，用 for 引出原因。
+the meal 是付款购买的东西，用 pay for the meal。pay the bill 则直接接要付的账单。
+句子里已经有 for shouting，说明道歉的原因；空后是接受道歉的人，用 to his sister。
+remind me of his name 是“使我想起他的名字”。若要提醒某人去做事，则用 remind me to call him，to 后要有动词。
+snow 前的 the 表明 the snow 是名词短语。because of 接这种短语，because 本身接完整分句，如 because it snowed。
+instead of 表示两种方式之间的替换。taking a taxi 在介词 of 后用 -ing，整句选择了走路这一项。
+the notice 是消息来源；according to the notice 相当于“按通知所说”。to 在此连接来源，并非表示去往某地。
+ahead of schedule 是比计划更早。behind schedule 表示落后于进度，两种说法不能按中文任意交换介词。
+天气影响结果，用 depends on the weather。upon 在这个搭配中也成立；辨认的是依赖关系。
+solving the puzzle 说明成功做成的事，succeed in doing。不能把形容词 successful 或名词 success 的结构原样套入。
+prevent A from doing B：water 是被阻止的对象，entering the house 是被阻止的动作。from 放在两者之间。
+walking 和 driving 是比较的两种活动，prefer A to B。这里 to 是介词，因此后接 driving，而非 drive。
+the others 是比较对象，用 differs from；in size 是差异所在的方面。空格不能再用 in 来引出比较对象。
+capable 是形容词，be capable of 后接名词或 -ing。换成情态动词 can 才能直接说 can lift a car。
+button 可以一个个数，题中首次说发现一颗，既无复数也未指明哪一颗。用 a button；the 会让读者寻找已知的那颗纽扣。
+雨伞是可数单数，题意是需要一把。umbrella 开头实际发元音，所以在 a 和 an 中选 an。
+orange 此处由 ate 确定为可数的一只橙子，首音为元音。若说橙汁 orange juice，名词的可数性就不同了。
+先听 useful 的开头，和 you 一样先发辅音 /j/。虽然第一个字母是 u，仍应说 a useful guide。
+university 开头是 /juː/，先有辅音 /j/，所以说 a university。对比 an umbrella，两词首字母相同，冠词不同。
+hour 的 h 不发音，起始音与 our 相同。an hour 指一小时；不能因为看见辅音字母 h 就选 a。
+冠词紧挨着 honest，要听的是 honest 的开头，不是 person 的 p。h 不发音，所以用 an honest person。
+one 的开头听起来是 /w/，这是辅音。a one-way street 指一条单行道，与开头字母 o 是否元音字母无关。
+engineer 是可数职业名词，“当一名工程师”要有冠词，又因首音为元音而选 an。
+nurse 是可数职业名词。be 后仍要表达“一名护士”，不能直接丢掉冠词；/n/ 开头选 a。
+第一次 a fox 引入一只狐狸；下一句跑掉的就是刚才那只。换成 A fox ran away 会重新引入一只，无法明确是同一只。
+前句给出一个盒子，即使 lid 首次出现，读者也能知道是那个盒子的盖，所以用 the。判断依据是能否确定对象，不只是数名词出现次数。
+above the roof 帮你找到眼前能共同认出的月亮。用 the moon，不把它当成许多同类中随便挑的一个。
+of the day 限定当天的比赛，first 在其中排出唯一的第一场，故用 the first race。
+in the house 给出范围，smallest 从中选出最小的一间。the 与这一特定选择相配。
+空格前已经写了 to，所以完整短语是 to the left。另一种说法 turn left 中没有 to，也就没有这个冠词空位。
+breakfast 泛指吃早饭这一日常活动，和 have lunch 一样通常不用冠词。若指旅馆今早提供的那顿饭，可说 the breakfast we had。
+play soccer 指从事足球运动，不是玩某一个足球。若指一个实物，要换成 a soccer ball 等名词表达。
+speak English 中 English 是语言名称，直接接在 speak 后。要用 the 时通常要有明确的限定对象，如 the English language。
+history 指课程学科，相当于学数学或英语，通常零冠词。the history of a town 才指特定地方的历史。
+by bus 把 bus 当作交通方式。若特指眼前那辆车，改说 on the bus；不能只把 the 塞进 by bus。
+to school to study 表示以学生身份去上学，典型用法省略冠词。to the school 更偏向去那所学校的地点。
+for the night 说明爸爸去睡觉，go to bed 是这一活动。go to the bed 可以是走到那张床边，并不一定睡觉。
+in general 明确说泛指所有苹果；复数 apples 可直接表示一类。the apples 会让人想到双方知道的某一批苹果。
+water 表一般物质，句中陈述植物生长所需，并没有指定哪一杯水，故零冠词。the water in this glass 才指特定的水。
+advice 不可数，但空格紧挨的中心词是可数单数 piece。a piece of advice 是一条建议，不能说 an advice。
+twice a week 中 a 的意思接近 per，整个短语是“每周两次”。这里没有指某个已知的星期，所以不用 the。
+the same age 把两个人的年龄看成同一数值，same 在这个结构前用 the。回到整句理解为“两人同龄”。
+have a good time 整体表示“玩得开心”。这里的 time 指一次愉快的经历，与表示抽象时间的不可数用法不同。
+take a look 中 look 是可数名词“一眼”，a 放在前面。若改成动词 Look at this photo，就不再需要冠词。
+in the end 是“最终”，表达最后作出的选择。at the end of the road 表示明确的尽头，不能把两种搭配混在一起。
+in a hurry 整体描写匆忙状态。动词 hurry 可直接说 She hurries，改用 in 开头的短语就要保留 a。
+for the first time 表示在一系列经历中第一次做这件事。不是任意一次，first time 前用 the。
+本题练教材常用表达 play the violin，指演奏小提琴。对比 play soccer，后者是球类运动。
+Atlantic 是大洋名称，完整说法是 the Atlantic Ocean。省去 Ocean 时，the 仍保留。
+Mount Fuji 已是完整山名，Mount 加专名通常不另加 the。不能因大洋常用 the，就把所有地名都同样处理。
+United States 是带复数 states 的国家名称，惯用 the United States；它和 France 这类单一专名的冠词不同。
+France 是通常不带冠词的国家专名，visit France 直接表示访问法国。不能因中文说“这个国家”就添加 the。
+such 后接可数单数时排列为 such + a/an + 形容词 + 名词。unusual 的开头是元音，因此是 such an unusual stone。
+后半句 enough to try again 意思是还有耐心再试。a little 表示有一点；little patience 则强调几乎没有，与后面的语气不合。

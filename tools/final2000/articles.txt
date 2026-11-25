@@ -1,0 +1,160 @@
+1|The wrong floor
+It was Lin's first day at music club. She went to room 12 and heard a drum. The door was [open], but there were only small children inside. Lin looked at her card again. It said room 12, second floor. She was on the [first] floor. Upstairs, a girl was waiting by another door with the same number. "You found us!" she said, and gave Lin a [seat] near the piano.
+这是琳第一天去音乐社。她走到十二号房间，听见鼓声。门开着，里面却只有小孩子。琳重新看了看卡片，上面写着二楼十二号房间，而她在一楼。楼上，一个女孩在另一扇同样编号的门旁等着。“你找到我们啦！”她说着，给琳安排了钢琴旁的座位。
+open/empty/missing/asleep|琳看到了里面的孩子，开着的门符合情境。|first/second/top/next|卡片写二楼，琳还要上楼一层。|seat/roof/street/ticket|near the piano 指座位的位置。
+What did Lin hear first?|A drum./A piano lesson ending./A phone./A bell.|首句之后写到 heard a drum。
+Why did room 12 seem right at first?|Its number matched the card./It was empty./Her teacher called her name./A piano stood outside.|房号一致，楼层却不同。
+What does us refer to at the end?|The music club members upstairs./The children downstairs./Lin's family./The card makers.|说话者在正确教室欢迎她加入。
+Which detail would help Lin most next time?|The floor as well as the room number./The color of her card./The size of the drum./The number of children.|两个楼层都有十二号房，楼层信息能消除歧义。
+1|The little seed
+Bo put a bean in a glass jar with wet paper. He left the jar by the window. On Monday he saw nothing new. On Tuesday he wanted to throw it [away]. His sister asked him to wait one more day. On Wednesday a white root pushed out. Bo drew it in his book [before] he went to school. That night he left a blank space under the drawing for the [next] day's picture.
+小博把一粒豆子放进装有湿纸的玻璃罐里，又把罐子放在窗边。星期一他没见到新变化。周二他想把豆子扔掉，姐姐请他再等一天。周三，一条白色的根冒了出来。上学前他把它画进本子里。那天晚上，他在图下面留出空白，准备画第二天的样子。
+away/backward/across/along|throw away 表示扔掉。|before/unless/while/since|后半是去学校；叙述的是先画再去。|next/last/first/previous|留白给尚未画的观察图，因此是次日。
+Where did Bo put the jar?|By a window./Under his bed./In his schoolbag./Outside the gate.|第二句直接说明位置。
+What changed on Wednesday?|A root appeared./The jar broke./The paper dried completely./His sister planted a tree.|a white root pushed out 是首次可见变化。
+How did Bo keep a record?|He drew pictures./He weighed the jar./He sent an email./He wrote numbers on the glass.|draw 与 picture 呼应。
+What does the blank space tell us?|Bo plans to keep watching./Bo has stopped caring./The first drawing is lost./His sister needs the book.|特意留出下一幅图的位置说明还会观察。
+1|Two cups of water
+After the game, Sam filled two cups at the tap. He carried them [slowly] because both were full. His friend Lee reached for one. Sam shook his head and pointed to the coach, who was still putting the balls away. Lee [understood]. He took the cup to the coach and came back to fill one for himself. Then he helped Sam turn off the tap, which was still [running].
+比赛后，萨姆在水龙头边装满了两杯水。他慢慢端着，因为两杯都很满。朋友李伸手想拿一杯。萨姆摇头，指了指还在收球的教练。李明白了，把那杯水送给教练，再回来给自己接水。随后他帮萨姆关掉了还在流水的水龙头。
+slowly/wildly/carelessly/blindly|杯子满，慢走可免洒出。|understood/forgot/complained/disappeared|接下来的行动说明李读懂了手势。|running/locked/empty/broken|turn off 说明水龙头还在流水。
+Who was putting the balls away?|The coach./Lee./Sam./A parent.|who 紧接 the coach。
+How did Sam explain the second cup?|With a gesture./With a note./By calling loudly./By drawing a map.|摇头和指向教练都是手势。
+Which cup did Lee drink from?|The one he filled for himself./The coach's cup./Sam's first cup./An empty one.|送水后他回来为自己接水。
+Which title best fits?|A Drink for the Coach/A Lost Ball/A Tap That Never Worked/A Race to the Gate|故事围绕一杯为教练留的水展开。
+1|The blue button
+May found a blue button beside the class door. Three children had blue coats. May did not guess. She asked each child to [look] at the front of the coat. Two coats had all their buttons. The third had a piece of blue [thread] hanging from an empty place. Its owner took the button home. The next morning the empty place was [gone], and the child could close the coat again.
+梅在教室门旁捡到一颗蓝纽扣。三个孩子有蓝外套，梅没有乱猜。她请每个孩子看看衣服前面。两件外套的扣子都齐全，第三件有个空位，垂着一截蓝线。那件外套的主人把纽扣带回家。第二天早晨空位没有了，外套又能扣上了。
+look/listen/wait/smile|检查衣服要用 look at。|thread/glass/wood/paper|纽扣掉落后留下的是缝线。|gone/wider/deeper/open|又能扣上说明缺扣的位置已经修好。
+Where did May find the button?|Beside the class door./In a coat pocket./At home./Under a bus seat.|开头交代拾得地点。
+Why did color alone fail to identify the owner?|Three children had blue coats./The button had no color./All the coats were red./May was outside at night.|相同颜色对应多名可能的物主。
+What was different about the third coat?|One button was missing./It had no pockets./It was a different color./It was too big.|empty place 与另两件扣子齐全形成对照。
+What probably happened at home?|Someone sewed the button back on./The owner painted the coat./The child threw it away./May bought a new door.|次日空位消失，衣服能扣上，支持缝回纽扣。
+2|A sign for both doors
+A new student knocked on the library door at lunch. The room was dark, so he thought the library was [closed]. In fact, the books had been moved for one week while the lights were repaired. A sign inside the room gave the new address. The librarian saw the problem: a visitor could not read it through the dark glass. She made a [copy] and put it outside. By Friday, students were finding the temporary room without [asking] for help.
+午餐时一个新生敲了图书馆的门。房间很暗，他以为闭馆了。其实是因为修灯，书暂时搬走一周。屋内的告示写着新地址。馆员发现，访客隔着暗玻璃无法看清，于是复制了一份贴在外面。到周五学生已经能自己找到临时阅览室了。
+closed/noisy/crowded/free|屋内没亮灯，让学生误以为关闭。|copy/shelf/key/seat|原告示还在里面，又做一份贴到外面。|asking/asked/asks/ask|without 为介词，后用动名词。
+Why were the books moved?|The lights needed repair./The books were all wet./The librarian was away./A new library had opened permanently.|while 从句说明临时搬迁的原因。
+What was wrong with the first sign?|People outside could not read it./Its address was incorrect./It was too large./It was written in pencil.|through the dark glass 说明位置阻碍阅读。
+What does it in read it refer to?|The sign./The door./The light./The bookcase.|read 的宾语是前句给出地址的告示。
+How can we tell the change worked?|Students found the room without help./The books became lighter./The door was replaced./The repairs ended that day.|最后一句给出措施产生的可观察结果。
+2|The busy pencil sharpener
+At eight thirty, six pupils always stood beside the class pencil sharpener. The teacher first thought it was too [slow]. Then she noticed that most pupils waited until the lesson began to check their pencils. She tried a different idea. Before the last bell each afternoon, everyone checked one pencil for the [next] morning. The machine stayed the same, [but] the line almost disappeared. Only broken pencils needed attention during lessons.
+每天八点半总有六个学生站在班级卷笔刀旁。老师起初以为机器太慢。后来她发现，多数学生等到开课才检查铅笔。于是她试了另一种方法，每天下午最后一遍铃响前，大家为次日早晨检查一支铅笔。机器没换，队伍却几乎消失了。上课时只需处理折断的铅笔。
+slow/bright/tall/heavy|排队现象让老师怀疑机器速度。|next/past/first/last|下午准备的是即将到来的早晨。|but/so that/or else/unless|机器未变与队伍消失构成转折。
+When did pupils start checking pencils under the new plan?|Near the end of the school day./At midnight./After the next lesson began./At breakfast.|before the last bell each afternoon 是新时间。
+What had caused much of the line?|Many pupils checked pencils at the same time./No pencil could be sharpened./The class had only six pencils./The teacher locked the machine.|问题出在需求同时出现。
+Which pencils might still need sharpening during class?|Ones that break./Every pencil bought yesterday./Only the teacher's pencil./All pencils kept in bags.|末句说明了课堂中的例外。
+What does the example show?|Changing a routine can solve a problem./A faster machine is always necessary./Lines cannot be shortened./Afternoon lessons should end earlier.|调整检查时间就缩短了队伍。
+2|The map in the rain
+During a walk, a shower washed the ink off part of Dad's map. A place name was still clear, but the arrow beside it had [vanished]. Dad wanted to turn left. Mina remembered that the farmer had told them to cross a stone bridge first. They had not passed a bridge [yet], so they stayed on the same path. Five minutes later the bridge came into [view]. On its far side stood a sign with the missing direction.
+散步时一阵雨冲掉了爸爸地图上的部分墨迹。地名还清楚，旁边的箭头却不见了。爸爸想左转。米娜记得农夫说过，他们得先过一座石桥。他们还没遇到桥，所以沿原路继续。五分钟后桥出现在眼前，桥对面立着写明方向的路牌。
+vanished/grown/arrived/returned|雨冲掉墨迹，因此箭头消失。|yet/already/again/either way|否定完成时中 yet 表示截至当时尚未。|view/use/trouble/effect|come into view 意为进入视野。
+Which part of the map was still readable?|A place name./The arrow./Every road./A phone number.|第二句明确区分名字和箭头。
+Whose earlier advice helped Mina?|A farmer's./A driver's./A teacher's./A visitor's.|Mina remembered 后引出农夫的话。
+Why did they continue straight?|They had not reached the bridge yet./They had lost their shoes./The left path was blocked./Dad could read the arrow.|先过桥是转弯前的条件。
+Where did they recover the missing information?|On a sign beyond the bridge./On Dad's phone./On Mina's coat./On the back of a ticket.|末句交代了路牌的位置。
+2|The empty bird table
+For three mornings, the children left seeds on a bird table and saw no birds. They planned to buy different seeds. Before they did, Jun noticed that the food was [gone] by evening. He suggested watching from the kitchen instead of standing next to the table. The next day they stayed [indoors]. Within ten minutes a small bird landed. The seeds had not changed; the children's [position] had.
+接连三个早晨，孩子们在喂鸟台上放了种子，却没看到鸟。他们打算买别的种子。小俊先注意到，食物到傍晚就没了。他提议从厨房观察，不要站在台边。第二天他们待在室内，不到十分钟一只小鸟就落了下来。种子没换，改变的是孩子们的位置。
+gone/wet/green/whole|by evening 的发现提示食物已被吃掉或拿走。|indoors/nearby outdoors/on the table/above the roof|前一句建议从厨房观察。|position/menu/age/name|从台边改到厨房，改变的是观察位置。
+What did the children first plan to change?|The seeds./The window./The table height./The time of sunset.|开头说他们想买不同的种子。
+Which observation suggested the seeds might already attract a visitor?|The food disappeared by evening./The table was wooden./The kitchen was warm./The mornings were bright.|食物不见是有动物来过的线索。
+When did they actually see a bird?|After they watched from indoors./Before they put out food./While buying new seeds./After they removed the table.|改变观察位置后才亲眼看到鸟。
+Why mention that the seeds stayed the same?|To highlight what did change./To say all birds eat only one seed./To show Jun had forgotten the plan./To prove no birds had come before.|结尾对照强调人的位置这一变化。
+3|Three minutes of sound
+For a local history project, Rui recorded the morning market. Back at school, the first recording sounded like one continuous roar. Her teacher asked her to listen for a single sound that [returned] at regular intervals. Rui noticed a bell. She went back and found a seller who rang it whenever a fresh tray of buns came out. In her second recording, Rui began beside the oven and then walked [away]. The bell grew softer while the market grew louder. Her listeners could now follow a [journey] instead of hearing an unexplained noise.
+小瑞为地方历史项目录下了早市的声音。回校后，第一段录音听起来是一片持续的嘈杂。老师让她找一种有规律地再次出现的声音。她注意到铃声，返回市场后发现卖家每出一盘新包子就摇铃。第二段录音里她从炉边开始，逐渐走远。铃声减弱，市场声增大。听众这回能跟随一段行程，而不只是听一片不明所以的噪声。
+returned/broke/hid/ended|at regular intervals 表示声音反复出现。|away/inside it/backward in time/on board|铃声渐弱提示她正在远离声源。|journey/recipe/argument/silence|声音随行走变化，呈现路线。
+What was the weakness of the first recording?|Its sounds were difficult to separate./It contained no sound./It was made at night./It lasted only a second.|one continuous roar 表示声音混在一起。
+What did the bell announce?|Fresh buns were ready./The market was closing./A bus was arriving./The teacher had come.|whenever 从句说明摇铃的时机。
+How was the second recording organized?|By movement away from one sound source./By alphabetical order./By a list of prices./By interviews only.|从炉边出发再走远决定录音结构。
+Why did the teacher ask Rui to find a repeated sound?|It could give listeners a recognizable point of reference./It would make all other sounds disappear./It would prove the market was quiet./It would shorten the walk.|铃声先被辨认，再成为定位声音变化的线索。
+3|A book in two places
+Two pupils wanted to borrow the same field guide for different projects. The librarian could lend it to only one person at a [time]. She asked what each pupil needed. Ben wanted to identify trees on a Saturday walk. Jo wanted the chart on the inside cover to compare leaf shapes during class. With the librarian's help, Jo drew her own chart and added an [example] from the school yard. Ben took the guide on Friday. The solution worked because the pupils had needed different things [from] the same book.
+两名学生想借同一本野外指南做不同的项目。馆员一次只能借给一个人，于是问清各自需要什么。本周六散步时要识别树木，乔则要用封面内侧的图表在课堂上比较叶形。馆员帮乔画了她自己的图表，她还加了一个校园里的例子。本周五借走了书。问题能解决，是因为两人对同一本书的需求不同。
+time/side/turning/space|one at a time 表示一次一个。|example/entrance/excuse/ending|乔用校园植物为图表补充实例。|from/under/behind/throughout|need something from a source 表示从该来源获取所需内容。
+Who needed the actual guide outdoors?|Ben./Jo./The librarian./Both pupils together.|Ben 的需要与周六的散步有关。
+Where was the chart Jo wanted?|Inside the cover./On the school gate./In Ben's bag./On the last page of her notebook.|inside cover 明确指出原图位置。
+What made Jo's chart more than a copy?|She added a local example./She changed the title only./She used the same cover./She made it smaller.|add an example 是新信息。
+What question led to a solution?|What does each pupil need it for?/Who asked first?/Which pupil is older?/How much does the guide cost?|了解具体需求后才发现可以分别满足。
+3|The path after the storm
+After a storm, a park volunteer found branches on a popular path. She placed a notice at the damaged section, then realized that walkers would already have climbed the long hill by the time they [reached] it. She moved a second notice to the fork at the bottom. It showed another route of similar length. The upper notice [remained] in place for people arriving from the other side. A walker later thanked her for the lower sign: the value of the information depended partly on [when] he received it.
+暴风雨后，一名公园志愿者在热门步道上发现了树枝。她在受损处放了告示，随即意识到，行人到那里时已经爬完了长坡。她把另一块告示移到坡底岔路口，标出一条长度相近的替代路线。上面的告示仍留着，供从另一边来的人看。后来一名行人感谢她在坡下立了牌；信息有多大用，部分取决于他何时得到它。
+reached/reach to/reaching/reaches|reach 为及物动词，过去叙述中用 reached。|remained/vanished/fell asleep/traveled|上方告示继续为另一方向的行人服务。|when/whose/whom/how many|坡底和坡顶的差异在接收信息的时机。
+What blocked part of the path?|Branches./A lost bus./A broken bench./A new fence.|首句直接交代障碍。
+Why put a notice at the fork?|Walkers could choose before climbing./The top notice was stolen./The other route had no hills at all./The lower sign was larger.|fork 是提前作路线决定的地方。
+Who still needed the upper notice?|People coming from the other side./Only the volunteer./People who stayed home./The person making the sign.|for people arriving from the other side 给出对象。
+Which best summarizes the passage?|A warning helps most where a decision can still be made./Every path needs exactly two signs./Walkers always choose the shortest path./All information should be kept at the destination.|故事关注提示位置与决定时机的关系。
+3|The extra voice
+When the class recorded a radio play, a short laugh appeared between two lines. Nobody remembered laughing there. The editor was ready to [remove] it, but the actor playing the youngest child asked to hear it again. In the scene, a lost traveler had just recognized his own street. The laugh sounded more like relief [than] a joke. The group kept it and shortened the pause that followed. Later listeners described the traveler as nervous at first and then relaxed. A sound that began by [accident] had helped tell the story.
+班上录广播剧时，两句台词之间出现了一声轻笑。没人记得自己在那里笑过。剪辑者正想删掉它，扮演最小孩子的演员却要求再听一遍。那一幕中，迷路的旅人刚认出自己住的街道。笑声听起来更像如释重负，而非觉得好笑。大家保留了它，缩短了随后的停顿。后来听众说旅人先紧张后放松。一个偶然出现的声音帮着讲好了故事。
+remove/predict/translate/purchase|剪辑者原想删除没有计划的声音。|than/then/as if/unless|more like A than B 构成比较。|accident/appointment/permission/measurement|无人刻意安排，用 by accident 表示偶然。
+What had the traveler just recognized?|His own street./Another actor./A radio station./A joke in the script.|in the scene 后提供剧情背景。
+Which change did the group actually make?|It shortened a pause./It removed the laugh./It changed the traveler into a child./It recorded the whole play outdoors.|保留笑声，缩短停顿。
+What did the listeners' comments suggest?|The sound suited an emotional change./The laugh hid every word./The traveler sounded angry throughout./The group needed a louder radio.|先紧张后放松与 relief 相符。
+What is the writer's main point?|An unexpected detail can serve a purpose after careful listening./Every mistake should stay in a recording./Editing always harms a play./A play must contain a joke.|关键是复听后判断与剧情的关系，而非盲目保留。
+4|The quietest hour
+The study room seemed busiest after four because that was when people complained about the noise. To test the impression, Mei counted occupied seats at three, four, and five on four afternoons. The largest counts actually came at three. At five, fewer people were present, [yet] several were discussing group work. A sign asking everyone to leave at five would have solved the wrong problem. Mei proposed a small discussion area outside the reading room [instead]. Her counts did not explain every complaint, but they helped separate the number of people from the [kind] of activity.
+人们常在四点后抱怨噪声，于是自习室似乎那时最忙。梅连续四个下午在三点、四点、五点清点有人坐的位子。其实三点人数最多。五点人较少，却有人在讨论小组作业。要求所有人五点离开的告示解决不了真正的问题。梅转而建议在阅览室外设小块讨论区。计数不能解释所有投诉，却有助于区分人数和活动类型。
+yet/therefore/for example/unless|人数较少与讨论声较明显形成对照。|instead/again/too early/once more|另提讨论区作为替代方案。|kind/price/date/height|区别在于大家在做什么活动。
+When were the most seats occupied?|At three./At four./At five./After closing.|实测最大值出现在三点。
+What had led to the original impression?|The timing of noise complaints./A complete seat count./A broken clock./The length of the room.|开头把抱怨出现的时间与“最忙”的印象相连。
+Why might the discussion area help?|It separates activities with different noise levels./It forces everyone home./It increases all seat counts./It makes group work impossible.|方案针对讨论声与安静阅读的冲突。
+Which limitation does the writer acknowledge?|The counts alone cannot explain every complaint./Nobody counted at three./Nobody used the room after four./All complaints were mistaken.|末句明确限定计数的解释力。
+4|Two kinds of repair
+The school wanted to display an old costume worn in its first play. A hole near the sleeve was easy to mend. A name written on the inside was harder to decide about: washing the whole costume might [erase] it. The drama group first made a list of what the costume could show future pupils. The name connected it to a particular performer, so the group chose to clean only the stained outer cloth. The hole was supported from behind [rather] than hidden with bright new fabric. Their aim was to make the costume safe to display while [keeping] its history visible.
+学校想展出首场戏的旧戏服。袖子附近的洞容易修，内侧写着的姓名却难处理，整件清洗可能把字迹洗掉。戏剧组先列出戏服能给后来的学生展示哪些信息。姓名把戏服与一名演员联系起来，因此他们只清理沾污的外层布。破洞从背面加固，不用鲜亮的新布盖住。目标是让戏服能安全展示，同时保留可见的历史痕迹。
+erase/predict/enlarge/copy|整件清洗可能使字迹消失。|rather/other/better/more|rather than 表示采用前一种做法。|keeping/keeps/kept/keep|while 后省略相同的主语和 be，使用现在分词。
+Why was the name valuable?|It linked the costume to one performer./It gave washing instructions./It named the school shop./It showed the size of the hole.|第二部分说明姓名能确定与之有关的人。
+What did the group do before choosing a cleaning method?|It considered what the costume could tell pupils./It washed everything./It bought a new costume./It removed the sleeve.|先确定想保留的信息，再决定处理方法。
+How was the hole treated?|It was supported from behind./It was made larger./It was painted over./It was cut out.|原文直接描述修补方法。
+Which statement fits the group's approach?|A repair should protect both the object and its evidence./A repair should make every old object look new./A name matters only if it is visible from the front./Old cloth should never be touched.|修补兼顾展示安全与历史信息。
+4|The short route home
+A travel club compared two walks from the station to school. The first group timed the riverside route on a quiet Tuesday. The second timed the market route on a busy Saturday. The market walk took ten minutes longer. Before publishing a recommendation, the club secretary pointed out that two things had [changed]: both the route and the day. On the next Tuesday, two groups left the station at the same time. This time the difference was only two minutes. The new result was more useful for a weekday traveler, [although] it did not settle which route was better during the weekend [market].
+旅行社团比较从车站到学校的两条步行路线。第一组在安静的周二给河边路线计时，第二组在热闹的周六给集市路线计时，后者多花十分钟。发布建议前，秘书指出路线和日期两个因素都变了。下个周二，两组从车站同时出发，这回差距只有两分钟。新结果对工作日行人更有用，但周末赶集时哪条路更好，依然没有定论。
+changed/agreed/disappeared/stopped|路线和日期两个条件都不同。|although/so that/because of/until|工作日结果更有用，但仍有适用范围。|market/exam/flight/rehearsal|周六的繁忙情境是集市。
+What was the first measured difference?|Ten minutes./Two minutes./One hour./Zero.|首次比较中集市路线多十分钟。
+How did the second comparison improve the test?|Both routes were timed simultaneously on the same day./Both groups walked the same route./Only the fastest pupil walked./The market was moved.|统一出发时间和日期，减少环境差异。
+Who would find the second result most relevant?|Someone walking on a weekday./Only Saturday traders./A passenger choosing a flight./A traveler asking about winter roads.|第二次测量发生在周二，原文也明确限定适用者。
+What evidence would best address the remaining question?|Time both routes during the same weekend market./Count the clubs in school./Ask which path has a nicer name./Repeat only the riverside walk on Tuesday.|待解问题是周末有集市时的路线差异。
+4|The caption beneath the photo
+A faded photograph showed five people holding tools beside a half-built wall. An old caption called them the builders of the school. While preparing an exhibition, Lan found a letter from one person in the picture. He described carrying water to the site for a single afternoon. The letter did not prove the old caption entirely [wrong]; some of the others might indeed have built the wall. Lan wrote a more careful caption that described what visitors could [see] and quoted the letter separately. In this way, a piece of new evidence changed the wording without [claiming] more than it supported.
+一张褪色照片上有五个人拿着工具站在未完工的墙边。旧说明称五人是学校的建造者。兰筹备展览时发现了其中一人的信，他写道自己有一天下午到工地送过水。信不能证明旧说明完全错误，其他人中确实可能有砌墙的人。兰重写说明，先描述参观者能看到的内容，再单独引用信件。新证据改变了措辞，又避免了超出依据的断言。
+wrong/complete/visible/ancient|一人的经历不足以证明所有人的身份认定都错。|see/count on/look forward to/take away|先写照片上可直接观察到的东西。|claiming/claims/claimed/claim|without 后接动名词。
+What did the writer of the letter remember doing?|Carrying water./Designing the school./Photographing the wall./Writing the original caption.|信件只给出送水经历。
+Why did Lan avoid rejecting the entire old caption?|The letter described only one person's contribution./The photograph was new./Nobody could read the letter./All five had signed the caption.|单个证词不能推及其他四人。
+How did the new caption organize the evidence?|It separated visual description from the written account./It removed every mention of the people./It guessed all five names./It treated the tools as proof of five jobs.|照片证据与文字证据分开呈现。
+Which description is directly supported by the photograph?|Five people stood near an unfinished wall./All five worked there for a year./All five built the entire school./The water carrier owned the land.|第一项可见，其余涉及照片无法独立证明的经历或产权。
+5|The return envelope
+A museum mailed a short questionnaire to former volunteers. Most replies praised the new training sessions. Before calling the change a success, the coordinator counted the unanswered letters. Half the volunteers had not replied. She did not treat those missing answers as complaints; silence could have several [causes]. Instead, she telephoned a small mix of people who had and had not replied. Several nonrespondents had moved and never received the questionnaire. Others worked during the sessions. The later calls added voices that the letters had [missed], but even these conversations could not speak [for] every absent volunteer.
+博物馆给前志愿者寄了简短问卷。多数回信称赞新的培训课。协调员在宣布成功之前，数了未获回复的信，有半数志愿者没回。她没有把沉默当作投诉，因为不回复可能有多种原因。她给一小部分回过和没回过的人打了电话。有些没回的人已经搬家，没收到信；另一些人在培训时要工作。电话补充了原先遗漏的声音，但也不能代表所有未参与者。
+causes/locations/envelopes/scores|后文给出搬家、上班等多种原因。|missed/posted/praised/scheduled|电话接触到问卷没收集到的意见。|for/under/behind/throughout|speak for 表示代表。
+Which group supplied the initial praise?|People who replied to the questionnaire./All former volunteers./Only people who had moved./Every person reached later.|最初结论来自收到的答复。
+Why did the coordinator count unanswered letters?|To check how widely the replies represented volunteers./To label silence as criticism./To stop the training immediately./To identify the best letter writer.|关注未回复比例，是为了理解证据的代表性。
+What did the calls establish about silence?|It had more than one possible explanation./It always meant approval./It always meant rejection./It proved all letters arrived.|搬家和时间冲突是不同原因。
+Which conclusion is justified?|Many respondents liked the sessions, while the views of all volunteers remain uncertain./Exactly half disliked the sessions./No volunteer benefited./The calls removed every uncertainty.|肯定已知答复并保留对未观察人群的不确定性。
+5|The cost of a free chair
+A café offered an empty corner to a reading club without charging rent. At first the club listed its meeting cost as zero. After two months, the owner showed them a change in the evening routine. Staff now stayed twenty minutes later to stack chairs and sweep. The club had paid no money, but someone still [bore] a cost. Members offered to finish earlier and restore the corner themselves. The owner accepted, explaining that she wanted the reading group to stay. The conversation was about making a generous arrangement [last], not about turning the gift [into] a bill.
+一家咖啡馆把空角落免费提供给读书会。起初读书会把开会成本记为零。两个月后，店主让他们看到晚间流程的变化，员工得多留二十分钟收椅子和扫地。社团没付钱，但仍有人承担成本。成员主动提出早点结束，自己恢复场地，店主同意了，她希望读书会继续留下。这次交谈旨在让善意的安排长久持续，并非将礼物变成账单。
+bore/printed/escaped/collected|bear a cost 指承担代价，过去式 bore。|last/charge/fail/vanish|店主希望活动继续，last 表示持续。|into/under/beside/against|turn A into B 表示使 A 变成 B。
+What cost had the club overlooked?|Extra staff time./Rent paid in advance./The price of new books./A ticket required of each member.|员工延长二十分钟的劳动是此前漏算的成本。
+Why did the owner show the evening routine?|To explain an effect of the arrangement./To announce that the club was banned./To sell chairs to the members./To ask members to buy books.|她同意调整后继续合作，说明是在沟通影响。
+What did members offer to change?|The time they finished and who cleaned up./The café's menu./The club's reading language./The owner of the building.|两项措施分别减少使用时间和员工劳动。
+Which statement captures the central distinction?|Free to the club did not mean costless for everyone./A gift must eventually be charged for./Time has no value without a bill./The owner regretted helping readers.|文章区分使用者的付款与别人承担的时间成本。
+5|When a shortcut disappears
+A team built a simple map for visitors to an old town. To keep it clear, they removed narrow lanes and left only main streets. Most tourists found the map easier to use. A guide who used a wheelchair, however, pointed to one deleted lane. The main street climbed a flight of steps, while the lane offered a gentler way uphill. What looked like a minor detail to the mapmakers was a [necessary] connection for some travelers. The team restored the lane and marked its slope. The revision did not reject simplicity; it asked whose choices had been [lost] in the process of making the map [simple].
+一支团队为古镇游客绘制简图。为使图面清楚，他们删去窄巷，只留主街。大多数游客觉得更好用。一位使用轮椅的向导却指出一条被删的小巷：主街有一段台阶，小巷则提供较缓的上坡路线。对制图者看似次要的细节，对部分行人却是必需的连接。团队恢复了这条巷子并标上坡度。修订并未否定简洁，而是追问简化过程中损失了谁的选择。
+necessary/decorative/accidental/temporary|小巷让无法走台阶的人仍能上坡。|lost/printed/requested/expanded|删去路线让部分人的选择不再可见。|simple/noisy/expensive/wet|末句回扣删减细节、追求简洁的起点。
+Why were lanes originally left out?|To make the map clearer./Because nobody lived there./To close them to visitors./Because they had no names.|首段说明初衷是图面清楚。
+What gave the deleted lane special importance?|It offered an alternative to steps./It was the shortest street in town./It had the most shops./It was the widest road.|轮椅使用者关注可通过性。
+What did the team add besides the lane itself?|Information about its slope./A list of tourists./A café review./The guide's photograph.|restored the lane and marked its slope 给出两项修改。
+What question does the ending invite designers to ask?|Who may lose an option when a detail is removed?/How can every map have the fewest possible lines?/Which tourists buy the most maps?/Should simple maps always be abandoned?|作者关心简化对不同使用者造成的影响。
+5|The second label
+At the science fair, two jars carried the same label: Water from the garden. One sample had been collected before a storm and the other afterward. A visitor asked why the colors differed. The pupils first offered an explanation about soil, then realized that the label did not identify which jar was [which]. Their notes contained the times, but no jar numbers. Rather than match jars to times by color and then use color to prove the match, they took fresh samples in numbered bottles. The old jars could still [show] that two samples differed, but could no longer establish the [order] of the change.
+科学展上，两个罐子都贴着“花园取水”的标签。一份水样在暴风雨前取得，另一份在雨后取得。有人问颜色为何不同。学生起初从土壤角度解释，随后发现标签分不清哪罐是哪份。笔记虽记了时间，却没有罐号。他们没有先靠颜色把罐子配给时间再用颜色证明配对，而是用编号瓶重新取样。旧罐仍能显示两份样品不同，却无法再确定变化的先后。
+which/when/how often/whose turn|which was which 指各自是哪一个。|show/deny/repair/collect|颜色不同是仍可直接观察到的事实。|order/size/cost/shape|不知哪罐在先，无法判断变化顺序。
+What did the notes lack?|A link between each time and a particular jar./Collection times./A place name on every page./The visitor's question.|有时间却没有对应编号。
+Why would matching the jars by color be a weak method?|It would assume the very relationship being tested./Color can never be observed./The jars had no water./The visitor had already labeled them.|若以颜色变化规律推断顺序，再用该顺序证明规律，论证会循环。
+What could the old jars still demonstrate?|The samples were visibly different./Which sample came first./What caused the storm./That soil alone caused the difference.|观察到差异与证明先后、成因不同。
+How did numbering the fresh bottles improve the work?|It let each sample be linked to its own record./It changed the color of the water./It guaranteed the pupils' first theory was true./It removed the need to record times.|编号提供样品与记录之间可核对的联系。

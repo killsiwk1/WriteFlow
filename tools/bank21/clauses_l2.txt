@@ -1,0 +1,56 @@
+# 情态被动与非谓语
+The library card is optional. New visitors ____ get one to read here.|借书证可以不办。新访客在这里读书不必办证。|needn't|mustn't / must / ought to|needn't 表示没有必要|optional 表明办理与否可自选，这里强调没有办证的必要。|mustn't 意为禁止办证，力度完全不同。
+Will I ____ use this lift after the repairs?|修好后我能使用这部电梯吗？|be able to|can / able to / could to|将来的能力|will 后接原形 be，组成 will be able to use。|不能把 will 和 can 两个情态动词直接连用。
+You had better ____ the address before you leave.|出发前你最好核对一下地址。|check|@用 check 的正确形式填空|had better do|had better 是固定结构，后面直接接原形 check。|不要在 better 后补上 to。
+You'd better ____ the bird's nest. The mother is nearby.|你最好别碰鸟窝，鸟妈妈就在附近。|not touch|don't touch / not to touch / touching not|had better 的否定|had better not 后直接接 touch，表示最好不要做。|这里没有单独使用祈使句，所以不用 don't touch。
+Children under six ____ be with an adult on this ride. It's a rule.|坐这个游乐设施时，不满六岁的儿童必须有成人陪同，这是规定。|must|might / would perhaps / used to|must 表示规则|It's a rule 提示陪同是一项必须遵守的要求。|might 只表示可能，表达不出强制性。
+There are dark clouds over the hill. It ____ rain later, but I'm not sure.|山上有乌云，待会儿可能下雨，但我不确定。|might|has to / is able / used to|might 表可能|I'm not sure 表明说话人没有把握，might rain 表示可能下雨。|不要用表示过去习惯的 used to 猜测稍后的天气。
+When the trail got steep, we stopped ____ our breath.|小路变陡时，我们停下来喘口气。|to catch|@用 catch 的正确形式，表示停下脚步的目的|stop to do|先停止走路，接着喘口气，to catch 说明停下的目的。|stop catching 会表示停止喘气，方向相反。
+When the baby slept, we stopped ____ to each other.|宝宝睡着时，我们停止了交谈。|talking|@用 talk 的正确形式，表示原来的活动结束|stop doing|原来正在交谈，这一活动停止了，用 stopped talking。|stopped to talk 表示停下别的事来交谈。
+Meg practiced ____ her speech in front of a mirror.|梅格对着镜子练习演讲。|giving|@用 give 的正确形式填空|practice doing|practice 后面接动名词，give 去 e 加 ing。|不要写成 practiced to give。
+Would you mind ____ the music down a little?|你介意把音乐调小一点吗？|turning|@用 turn 的正确形式填空|mind doing|mind 后用动名词 turning，turn down 表示调低音量。|Would you mind 后不能直接接 to turn。
+We decided ____ the broken shelf ourselves.|我们决定自己修坏掉的架子。|to fix|@用 fix 的正确形式填空|decide to do|decided 后用不定式来说明决定采取的行动。|不要把 decide 的搭配照成 enjoy doing。
+Please remember ____ the fridge door after you take the milk.|拿完牛奶后，请记得关冰箱门。|to close|@用 close 的正确形式，表示提醒做接下来的事|remember to do|这是对尚未完成动作的提醒，所以用 remember to close。|remember closing 表示记得过去关过门。
+I clearly remember ____ my blue pen to Jo yesterday.|我清楚地记得昨天把蓝笔借给了乔。|lending|@用 lend 的正确形式，表示回忆已发生的事|remember doing|yesterday 和 clearly remember 表明是在回忆已经借出笔这件事。|to lend 表示要记得去借，与这里的回忆不同。
+Our coach made us ____ the final move once more.|教练让我们把最后一个动作再做一次。|repeat|@用 repeat 的正确形式填空|make somebody do|主动句中 make 加宾语 us，再接动词原形 repeat。|不要在主动的 made us 后加 to。
+My teacher encouraged me ____ my poem aloud.|老师鼓励我大声朗读自己的诗。|to read|@用 read 的正确形式填空|encourage somebody to do|encouraged me 后用 to read 表示鼓励我采取的行动。|不要和 make somebody do 的结构混用。
+The map on the wall ____ drawn by two students yesterday.|墙上的地图昨天由两名学生绘制。|was|were / is / did|过去时单数被动|map 为单数，yesterday 指过去，故用 was drawn。|靠近空格的 wall 不影响判断，动作执行者 students 也不决定 be 的数。
+The sandwiches ____ wrapped in paper before we left yesterday.|昨天我们出发前，三明治已经用纸包好了。（用一般过去时）|were|was / are / have|过去时复数被动|主语 sandwiches 为复数，动作在过去完成，用 were wrapped。|不能因 paper 是不可数名词而写 was。
+The club calendar is ____ every month.|社团日历每月更新一次。|updated|@用 update 的正确形式填空|经常性动作的被动|日历承受更新的动作，is 后接过去分词 updated。|updating 是主动进行的形式，不能独自表达被更新。
+The old suitcase was ____ under a seat.|旧行李箱在座位下面被找到了。|found|@用 find 的正确形式填空|不规则过去分词|主语 suitcase 承受 find 的动作，过去分词是 found。|finded 不是 find 的过去分词。
+We hope ____ the school play this Friday.|我们希望本周五能看学校演出。|to see|@用 see 的正确形式填空|hope to do|hope 和 see 的动作主体都是 we，这里用 hope to see。|hope 后不能直接用 seeing 作这个意思。
+The drawing is easy ____ from the back row.|坐在后排也很容易看清这幅画。|to see|@用 see 的正确形式填空|easy to do|easy 后用 to see，主语 drawing 正是 see 的对象。|不要再加 it，否则会重复指代这幅画。
+Lina isn't tall enough ____ the top hook.|莉娜不够高，够不到顶上的挂钩。|to reach|@用 reach 的正确形式填空|enough to do|enough 放在 tall 后，to reach 表示能够完成的动作。|够到用 reach，可以直接接 the top hook。
+There are three letters ____ before lunch.（用 write 表示「待写的」。）|午饭前有三封信要写。|to write / to be written|=填入 write 的适当形式|不定式作后置修饰语|letters 后的不定式说明待办任务；to write 和 to be written 均可。|writing 会把 letters 写成执行「写」的主体。
+I don't know how ____ this folding chair.|我不知道怎样打开这把折叠椅。|to open|@用 open 的正确形式填空|疑问词加不定式|how to open 表示打开的方式，作 know 的宾语。|不要写 how opening 来表示「如何打开」。
+Rewrite with can: The twins are able to swim across this pool. → The twins ____ swim across this pool.|双胞胎能游过这个泳池。|can|!用题干指定的情态动词替换 are able to|能力表达转换|can 能直接表示能力，替换 are able to 后后接 swim 原形。|不要保留原来的 to。
+Rewrite using was: Someone broke the shop window last night. → The shop window ____ last night.|昨晚商店的窗户被人打破了。|was broken|!只填改写后缺少的部分|一般过去时主动转被动|window 成为主语，过去时用 was，break 的过去分词是 broken。|broke 是过去式，不是这里所需的过去分词。
+Our guide offered ____ a photo of our group.|向导主动提出给我们一行人拍张照。|to take|@用 take 的正确形式填空|offer to do|offer to take 表示向导主动提出自己来拍。|主动提出做事时不用 offer taking。
+The runners were asked ____ inside the white lines.|选手被要求留在白线内。|to stay|@用 stay 的正确形式填空|be asked to do|主动 ask somebody to stay 变为被动后仍保留 to stay。|不要因 asked 前有 were 就省略后面的 to。
+Select both possible predictions for an uncertain arrival time.|到达时间还不确定，选出两句表示「可能赶得上」的表达。|We may arrive in time. & We might arrive in time.|+We must arrive in time. / We failed to arrive in time.|may 和 might 表可能|may 与 might 都能表示不确定的可能性。|must arrive 描述必须准时的要求，failed to 描述已失败。
+Which two sentences correctly describe a bridge receiving an action?|选出两句语法正确且桥是动作承受者的句子。|The bridge was repaired in May. & The bridge is checked every spring.|+The bridge is check every spring. / The bridge repaired the workers.|识别简单被动句|was repaired 和 is checked 均为 be 加过去分词，bridge 承受动作。|不要只看到 is 就认作正确被动，还要查后面的动词形式。
+# 从句与连接词
+____ you hurry, you will miss the last boat.|除非你赶快，否则会错过最后一班船。|Unless|Because / Although / After|unless 表示否定条件|unless you hurry 表示「如果你不赶快」，与错过船的后果相连。|unless 已含否定意义，不必再加 don't。
+I'll send a picture when the cake ____ ready.|蛋糕做好时我会发张照片。|is|@用 be 的正确形式填空|将来时间从句用一般现在时|主句用 will，when 引出的将来时间从句用一般现在时；cake 是单数。|不要在这个时间从句中填 will be。
+Take a jacket in case it ____ cold tonight.|带件夹克，以防今晚变冷。|gets|@用 get 的一般现在时填空|in case 表预防|in case 引出可能发生的情况，it 作主语，get 变 gets。|它表示为可能情况作准备，并不表示已经变冷。
+I stayed near the stage so ____ I could hear the singer clearly.|我待在舞台附近，以便能听清歌手的声音。|that|=补全 so 后的目的连词，只填一词|so that 表目的|so that 后跟 I could hear，解释选择座位的目的。|不要写 than；这里没有比较对象。
+The drum was ____ loud that the cup shook.|鼓声大到杯子都震动了。|so|such / too / enough|so…that…结果句|loud 为形容词，用 so loud that 表示程度和造成的结果。|such 后通常接名词短语。
+It was ____ a narrow lane that only one bike could pass.|那条巷子窄得只能通过一辆自行车。|such|so / too / very much|such…that…结果句|a narrow lane 是名词短语，用 such a narrow lane that…。|so 不能直接放在 a narrow lane 这一整体前面。
+____ the hall was full, we still found two seats together.|虽然大厅坐满了人，我们还是找到了两个连在一起的座位。|Although|Because / Until / Since then|although 引导让步|前句是困难情况，still 表明结果与预期相反，因此用 Although。|although 引导的从句后无需再用 but 引出主句。
+The lights went out ____ I was tying my shoes.|我正在系鞋带时，灯灭了。|while|unless / so that / because of|while 加进行中的动作|was tying 是持续的背景动作，灯灭发生在这段时间内。|because of 后不能直接跟 I was tying。
+As soon as the doors ____, the crowd will enter calmly.|门一打开，人群就会有序入场。|open|@用 open 的一般现在时填空|as soon as 引导时间从句|主句说将来，时间从句用一般现在时；doors 是复数。|不要写 opens 或 will open。
+I am not sure ____ he wants tea or coffee.|我不确定他想喝茶还是咖啡。|whether|what color / that if / although|whether…or…|从句列出 tea 和 coffee 两个选择，用 whether 引导。|although 表让步，不能引出这里的选择疑问。
+Did the guide say ____ the walk would take? About an hour?|导游说这段路要走多久了吗？大约一小时吗？|how long|how far / how many / how soon after|how long 询问时长|About an hour 提供的是持续时间，与 how long 对应。|how far 问距离，通常用公里等单位回答。
+I forgot ____ I left my coat. Was it in the hall?|我忘了把外套放在哪儿了，是在大厅里吗？|where|how often / whose / why not|where 引出地点|Was it in the hall? 表明遗忘的是地点，从句用 where。|whose 表示所属，与地点无关。
+Do you know ____ fixed the leaking tap?|你知道是谁修好了漏水的水龙头吗？|who|whose / whom did / which time|who 作从句主语|空格后直接是 fixed，缺少修理的人，故用主格 who。|不要在 who 后再补 he 来重复主语。
+Tell me ____ lunch starts so I can set an alarm.|告诉我午饭几点开始，我好设个闹钟。|what time|how heavy / whose lunch time is / which person|询问具体时间|要设闹钟，需要的是开始时刻，用 what time 加陈述语序。|间接问句中不写 what time does lunch start。
+I took the seat ____ was nearest the screen.|我坐了离屏幕最近的那个座位。|that / which|=填一个关系代词|关系代词指物作主语|seat 指物，that 或 which 在从句中作 was 的主语。|作主语的关系代词不能省略。
+The player ____ scored our first goal is my neighbor.|为我们踢进第一个球的球员是我的邻居。|who / that|=填一个关系代词|关系代词指人作主语|先行词 player 指人，who 或 that 作 scored 的主语。|whom 通常作宾语，不用来作 scored 的主语。
+The person ____ bag has a blue ribbon is our guide.|包上系着蓝丝带的那个人是我们的向导。|whose|where / who / whom|whose 表示所属|包属于那个人，whose 放在名词 bag 前作限定。|who 不表示「谁的」，不能直接修饰 bag。
+The museum is closed on Mondays, ____ check the day before you go.|博物馆周一闭馆，所以去之前要核对日期。|so|although / because of / unless|事实引出建议|闭馆的事实说明为什么要查看日期，so 引出后面的建议。|unless 需要一个条件情形，并非用来引出结果。
+We can leave early ____ the tickets arrive before noon.|如果票在中午前送到，我们就可以提前出发。|if|though not / but / until then|if 连接条件与结果|「票先送到」是可以提前出发的条件，if 后接完整分句。|条件从句里 tickets 是复数，谓语用 arrive。
+Once you ____ the lid, keep the jar in the fridge.|一旦打开盖子，就要把罐子放进冰箱。|open|@用 open 的一般现在时填空|once 表示一旦|once 引出未来可能完成的动作，主语 you 后用原形 open。|不要在 once 从句里机械添加 will。
+Rewrite with because of: We stayed inside because it rained. → We stayed inside ____ the rain.|因为下雨，我们待在室内。|because of|!按要求把原因从句改成介词短语|because 和 because of|rain 在新句里是名词，前面用 because of。|because 后需要分句，不能直接接 the rain。
+Rewrite with before: First we checked the tent. Then we went to sleep. → We checked the tent ____ we went to sleep.|我们睡觉前先检查了帐篷。|before|!用指定连词合并两句|before 确定顺序|检查帐篷先于睡觉，before 放在较晚的事件前面。|after 会把两个事件的先后颠倒。
+Which two endings make “I brought a spare pen …” a grammatical sentence about a reason or precaution?|哪两个结尾可以接在「我带了支备用笔……」后面，说明原因或预防措施？|because mine often runs out. & in case mine stops working.|+because of mine often runs out. / so that to write my name.|原因和预防|because 接原因分句，in case 接准备防范的情况。|because of 后接名词，so that 后通常跟完整分句。
+Choose both correct indirect questions about the price.|选出两句正确询问价格的间接问句。|Do you know how much it costs? & Can you tell me what the price is?|+Do you know how much does it cost? / Can you tell me what is the price of it now exactly is?|间接问句用陈述语序|costs 的主语 it 在前，is 的主语 the price 也在前。|外层是问句，内层仍应保持主语在谓语前。

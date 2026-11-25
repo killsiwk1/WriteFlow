@@ -1,0 +1,4602 @@
+[
+ {
+  "id": "WF1607",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Every Friday, our class leaves a basket by the door. Anyone with a spare pencil can put it there for the next class.\n\nWho can use the pencils later?",
+  "cn": "每周五，我们班都会在门旁放一个篮子。有多余铅笔的人可以把笔留给下一个班。",
+  "slots": [
+   [
+    "The next class."
+   ]
+  ],
+  "why": "for the next class 说明了受益者。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The next class.",
+   "The shopkeeper.",
+   "Only the teacher."
+  ],
+  "source": "scenes:2"
+ },
+ {
+  "id": "WF1608",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The shop opens at eight on weekdays. A sign says it opens an hour later on Sundays.\n\nWhen does the shop open on Sunday?",
+  "cn": "这家店平日八点开门。牌子上写着周日晚开一小时。",
+  "slots": [
+   [
+    "At nine."
+   ]
+  ],
+  "why": "周日比八点晚一小时。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "At eight.",
+   "At nine.",
+   "At seven."
+  ],
+  "source": "scenes:3"
+ },
+ {
+  "id": "WF1609",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Yesterday I found a red scarf under my seat. I left it with the bus driver so its owner could ask for it.\n\nWho has the scarf now?",
+  "cn": "昨天我在座位下发现了一条红围巾。我把它交给了公交司机，失主可以找司机认领。",
+  "slots": [
+   [
+    "The driver."
+   ]
+  ],
+  "why": "I left it with the bus driver 交代了保管人。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The owner.",
+   "A passenger's sister.",
+   "The driver."
+  ],
+  "source": "scenes:4"
+ },
+ {
+  "id": "WF1610",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A bell rings at noon. On rainy days the children eat inside instead of taking their lunch to the yard.\n\nWhat changes on rainy days?",
+  "cn": "中午铃响了。下雨天孩子们在室内吃饭，不把午餐带去院子。",
+  "slots": [
+   [
+    "The place for lunch."
+   ]
+  ],
+  "why": "inside instead of … the yard 表明变化的是地点。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The place for lunch.",
+   "The sound of the bell.",
+   "The time of lunch."
+  ],
+  "source": "scenes:5"
+ },
+ {
+  "id": "WF1611",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Mum bought two stamps yesterday. She put one on my envelope and kept the other in her desk.\n\nHow many stamps went into the desk?",
+  "cn": "妈妈昨天买了两张邮票。她把一张贴在我的信封上，把另一张放在书桌里。",
+  "slots": [
+   [
+    "One."
+   ]
+  ],
+  "why": "两张中用了一张，余下一张放进书桌。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "One.",
+   "Two.",
+   "None."
+  ],
+  "source": "scenes:6"
+ },
+ {
+  "id": "WF1612",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The blue cup belongs to Ben. He always washes it himself after drinking his milk.\n\nWho cleans the blue cup?",
+  "cn": "蓝色杯子是本的。他喝完牛奶总是自己洗杯子。",
+  "slots": [
+   [
+    "Ben."
+   ]
+  ],
+  "why": "himself 指代本本人。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "His mother.",
+   "Ben.",
+   "His brother."
+  ],
+  "source": "scenes:7"
+ },
+ {
+  "id": "WF1613",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Two girls are waiting by the gate. They have tickets, but the concert does not start until six.\n\nWhy are the girls waiting?",
+  "cn": "两个女孩正在大门旁等候。她们有票，但音乐会要到六点才开始。",
+  "slots": [
+   [
+    "The concert has not started."
+   ]
+  ],
+  "why": "but 后说明等待的原因是还没到开始时间。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The concert has not started.",
+   "They need money for tickets.",
+   "They have lost the tickets."
+  ],
+  "source": "scenes:8"
+ },
+ {
+  "id": "WF1614",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Tom left his gloves at home. His fingers felt cold as he waited for the morning bus.\n\nWhat did Tom probably wish he had brought?",
+  "cn": "汤姆把手套忘在家了。等早班公交时，他觉得手指很冷。",
+  "slots": [
+   [
+    "Something to keep his hands warm."
+   ]
+  ],
+  "why": "fingers felt cold 与忘带手套相呼应。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A train ticket.",
+   "A larger schoolbag.",
+   "Something to keep his hands warm."
+  ],
+  "source": "scenes:9"
+ },
+ {
+  "id": "WF1615",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "My uncle keeps a tiny notebook in his pocket. When he hears a new word, he writes it down before he forgets it.\n\nWhat goes into the notebook?",
+  "cn": "叔叔口袋里总装着一个小笔记本。听到新词，他就趁还没忘记写下来。",
+  "slots": [
+   [
+    "New words."
+   ]
+  ],
+  "why": "第二句直接说明他记录的是新词。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "New words.",
+   "Friends' birthdays only.",
+   "Shopping prices only."
+  ],
+  "source": "scenes:10"
+ },
+ {
+  "id": "WF1616",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The baby slept through the music yesterday. Dad put a blanket over her before he turned off the lamp.\n\nWhat did Dad do first?",
+  "cn": "昨天放音乐时宝宝一直在睡觉。爸爸先给她盖上毯子，然后关了灯。",
+  "slots": [
+   [
+    "He covered the baby."
+   ]
+  ],
+  "why": "before 决定两个动作的先后。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "He woke the baby.",
+   "He switched off the lamp.",
+   "He covered the baby."
+  ],
+  "source": "scenes:11"
+ },
+ {
+  "id": "WF1617",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "We usually share one large umbrella on the way home. Today it is sunny, so we have left it by the door.\n\nWhere is the umbrella today?",
+  "cn": "回家路上我们通常共用一把大伞。今天是晴天，所以把它留在门边了。",
+  "slots": [
+   [
+    "By the door."
+   ]
+  ],
+  "why": "最后一句说明今天的例外。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "In the shower.",
+   "By the door.",
+   "Under a tree."
+  ],
+  "source": "scenes:12"
+ },
+ {
+  "id": "WF1618",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Each drawer has a different label. Look for the one marked Paper if you need a clean sheet.\n\nWhich label helps a pupil find a clean sheet?",
+  "cn": "每个抽屉都有不同的标签。如果需要一张白纸，就找标着“纸”的那个。",
+  "slots": [
+   [
+    "Paper."
+   ]
+  ],
+  "why": "a clean sheet 指一张没用过的纸。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Pens.",
+   "Maps.",
+   "Paper."
+  ],
+  "source": "scenes:13"
+ },
+ {
+  "id": "WF1619",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The twins took turns reading last night. When one finished a page, the other started the next one.\n\nHow did the twins divide the reading?",
+  "cn": "昨晚这对双胞胎轮流朗读。一个读完一页，另一个就开始读下一页。",
+  "slots": [
+   [
+    "By pages."
+   ]
+  ],
+  "why": "one finished a page 给出了轮换的单位。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "By pages.",
+   "By days.",
+   "By chapters."
+  ],
+  "source": "scenes:14"
+ },
+ {
+  "id": "WF1620",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A small kitten hides behind the chair whenever the doorbell rings. After a minute it comes out to look at the visitor.\n\nWhat makes the kitten hide?",
+  "cn": "每当门铃响，小猫就躲在椅子后面。一分钟后，它又出来打量来客。",
+  "slots": [
+   [
+    "The doorbell."
+   ]
+  ],
+  "why": "whenever 把躲藏和门铃响联系起来。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A falling chair.",
+   "Its food bowl.",
+   "The doorbell."
+  ],
+  "source": "scenes:15"
+ },
+ {
+  "id": "WF1621",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "There were three oranges in the bowl this morning. I ate one and put the other two in my bag.\n\nWhere are the two uneaten oranges?",
+  "cn": "早上碗里有三个橙子。我吃了一个，把剩下两个放进包里。",
+  "slots": [
+   [
+    "In the bag."
+   ]
+  ],
+  "why": "未吃的两个在第二个动作中被装进包。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "In the bowl.",
+   "On the table.",
+   "In the bag."
+  ],
+  "source": "scenes:16"
+ },
+ {
+  "id": "WF1622",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Nina draws a little star beside each book she finishes. There are four stars beside the first four titles and none beside the fifth.\n\nWhich book is not marked as finished?",
+  "cn": "妮娜每读完一本书，就在书名旁画一颗小星星。前四个书名旁都有星星，第五个旁边没有。",
+  "slots": [
+   [
+    "The fifth."
+   ]
+  ],
+  "why": "没有星星意味着尚未被标为读完。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The fifth.",
+   "The fourth.",
+   "The first."
+  ],
+  "source": "scenes:17"
+ },
+ {
+  "id": "WF1623",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Our dog ran to the kitchen when the timer rang. It knows that the sound often means bread is ready.\n\nWhat does the dog connect with the sound?",
+  "cn": "计时器一响，我家的狗就跑向厨房。它知道这声音常意味着面包好了。",
+  "slots": [
+   [
+    "Fresh bread."
+   ]
+  ],
+  "why": "often means bread is ready 说明狗形成了联想。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "An open gate.",
+   "A visitor.",
+   "Fresh bread."
+  ],
+  "source": "scenes:18"
+ },
+ {
+  "id": "WF1624",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Please bring a pencil to the drawing game. We have enough paper for everyone, but no tools for drawing.\n\nWhat does the organizer already have?",
+  "cn": "请带一支铅笔来参加绘画游戏。每个人的纸都有了，但我们没有画画工具。",
+  "slots": [
+   [
+    "Enough paper."
+   ]
+  ],
+  "why": "but 前后区分已备好的纸和缺少的工具。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Enough pencils.",
+   "Paint for everyone.",
+   "Enough paper."
+  ],
+  "source": "scenes:19"
+ },
+ {
+  "id": "WF1625",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The bus stops beside the bakery every morning. If you can smell fresh bread, you are close to the right stop.\n\nWhich clue can help someone find the stop?",
+  "cn": "公交车每天早上停在面包店旁。闻到刚烤好的面包味，你就快到正确的车站了。",
+  "slots": [
+   [
+    "The smell of bread."
+   ]
+  ],
+  "why": "面包店与车站相邻，气味可帮助定位。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The smell of bread.",
+   "A blue ticket.",
+   "The sound of a bell."
+  ],
+  "source": "scenes:20"
+ },
+ {
+  "id": "WF1626",
+  "level": 1,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "My brother made a kite last week. He wants to fly it today, but the trees outside are perfectly still.\n\nWhat may make flying the kite difficult?",
+  "cn": "哥哥上周做了一只风筝。他今天想放风筝，但外面的树一动也不动。",
+  "slots": [
+   [
+    "There is little wind."
+   ]
+  ],
+  "why": "树一动不动提示风很小。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The kite is too wet.",
+   "There is little wind.",
+   "The trees are too tall."
+  ],
+  "source": "scenes:21"
+ },
+ {
+  "id": "WF1627",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The rain stopped just before our game began. We wiped the water off each bench so the other players could sit down.\n\nWhy did the players wipe the benches?",
+  "cn": "比赛开始前雨刚停。我们把每条长椅上的水擦掉，好让其他队员坐下。",
+  "slots": [
+   [
+    "To give teammates a dry place to sit."
+   ]
+  ],
+  "why": "so 引出擦椅子的目的。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To mark the score.",
+   "To end the game early.",
+   "To give teammates a dry place to sit."
+  ],
+  "source": "scenes:23"
+ },
+ {
+  "id": "WF1628",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Lena is packing her bag for the trip. She checks each box on her list only after the item is inside.\n\nWhat does a checked box mean?",
+  "cn": "莉娜正在收拾行李。她只有把东西放进包后才在清单上打钩。",
+  "slots": [
+   [
+    "The item is already packed."
+   ]
+  ],
+  "why": "only after 明确打钩的条件。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The item is already packed.",
+   "The item still needs buying.",
+   "The item is too heavy."
+  ],
+  "source": "scenes:24"
+ },
+ {
+  "id": "WF1629",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Yesterday we chose the path beside the stream. The road through the field was shorter, but it had no shade.\n\nWhy might the group avoid the shorter road?",
+  "cn": "昨天我们选了小溪边的小路。穿过田野的路更短，但那条路上没有树荫。",
+  "slots": [
+   [
+    "It offered no shade."
+   ]
+  ],
+  "why": "but 后说明短路线的不足。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It was closed.",
+   "It crossed deep water.",
+   "It offered no shade."
+  ],
+  "source": "scenes:25"
+ },
+ {
+  "id": "WF1630",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Amy lent me her spare racket on Monday. I gave it back after our tennis lesson.\n\nWho owned the spare racket?",
+  "cn": "星期一埃米把备用球拍借给我。网球课后我把它还给她了。",
+  "slots": [
+   [
+    "Amy."
+   ]
+  ],
+  "why": "her spare racket 和 gave it back 表明所有者是埃米。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The speaker.",
+   "The coach.",
+   "Amy."
+  ],
+  "source": "scenes:26"
+ },
+ {
+  "id": "WF1631",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The children were building a tower when the wind blew the top box away. They moved indoors to finish it.\n\nWhy did they move inside?",
+  "cn": "孩子们正在搭塔，风把顶上的盒子吹走了。他们转到室内把塔搭完。",
+  "slots": [
+   [
+    "To finish the tower away from the wind."
+   ]
+  ],
+  "why": "顶层盒子被吹走是改变场地的原因。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To buy a new box.",
+   "To watch the rain.",
+   "To finish the tower away from the wind."
+  ],
+  "source": "scenes:27"
+ },
+ {
+  "id": "WF1632",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "You can borrow a helmet at the park desk. Leave your name there and return the helmet before the park closes.\n\nWhat must a visitor do before closing time?",
+  "cn": "你可以在公园服务台借头盔。留下姓名，并在闭园前归还。",
+  "slots": [
+   [
+    "Return the helmet."
+   ]
+  ],
+  "why": "return … before 给出了截止前必须做的事。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Write a letter.",
+   "Pay for a new desk.",
+   "Return the helmet."
+  ],
+  "source": "scenes:28"
+ },
+ {
+  "id": "WF1633",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Anna wrote the meeting time on a sticky note yesterday. She put it on her shoes because she sometimes leaves the house without looking at her phone.\n\nWhy did Anna choose her shoes?",
+  "cn": "昨天安娜把开会时间写在便签上，贴在鞋上，因为她有时出门前不看手机。",
+  "slots": [
+   [
+    "She was likely to notice the note there."
+   ]
+  ],
+  "why": "出门穿鞋时会看到便签，弥补她可能不看手机的问题。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "She wanted to hide the time.",
+   "She was likely to notice the note there.",
+   "Her phone had no clock."
+  ],
+  "source": "scenes:29"
+ },
+ {
+  "id": "WF1634",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The puppy kept pulling at its leash until Max slowed down. Then it walked quietly beside him.\n\nWhen did the puppy walk quietly?",
+  "cn": "小狗一直拽牵引绳，直到马克斯放慢脚步。然后它安静地走在他身旁。",
+  "slots": [
+   [
+    "After Max slowed down."
+   ]
+  ],
+  "why": "until 和 then 共同交代变化的时间。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "After Max slowed down.",
+   "When Max ran ahead.",
+   "Before the walk started."
+  ],
+  "source": "scenes:30"
+ },
+ {
+  "id": "WF1635",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Our teacher sent each family a message last night. It said the trip was still on, but we would meet at the side gate.\n\nWhat changed about the trip?",
+  "cn": "昨晚老师给每个家庭发了条消息。郊游照常，只是改在侧门集合。",
+  "slots": [
+   [
+    "The meeting place."
+   ]
+  ],
+  "why": "still on 说明活动照常，but 后交代新地点。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The number of families.",
+   "The day of the trip.",
+   "The meeting place."
+  ],
+  "source": "scenes:31"
+ },
+ {
+  "id": "WF1636",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Sam enjoys collecting one postcard from each town he visits. On the back he writes one thing he wants to remember.\n\nWhat does Sam add to each card?",
+  "cn": "萨姆喜欢每到一个镇子就收集一张明信片。他会在背面写下一件想记住的事。",
+  "slots": [
+   [
+    "A personal memory."
+   ]
+  ],
+  "why": "one thing he wants to remember 是他自己的记忆。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A personal memory.",
+   "A train number every time.",
+   "A price label."
+  ],
+  "source": "scenes:32"
+ },
+ {
+  "id": "WF1637",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The small bridge was closed for repairs on Tuesday. We followed yellow arrows to a second crossing farther along the river.\n\nWhat did the arrows show?",
+  "cn": "小桥周二因维修关闭了。我们沿着黄色箭头，到了河流更远处的另一处过河点。",
+  "slots": [
+   [
+    "A different way across the river."
+   ]
+  ],
+  "why": "箭头引导行人到第二个过河点。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The depth of the water.",
+   "A different way across the river.",
+   "Where to repair shoes."
+  ],
+  "source": "scenes:33"
+ },
+ {
+  "id": "WF1638",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The team lost its first match last week. Instead of blaming anyone, the players drew a diagram of the final play to see where the gap was.\n\nWhat was the diagram for?",
+  "cn": "球队上周输了第一场比赛。队员们没有责怪谁，而是画了最后一次配合的示意图，寻找漏洞。",
+  "slots": [
+   [
+    "Understanding a mistake."
+   ]
+  ],
+  "why": "to see where the gap was 交代目的。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Choosing team colors.",
+   "Announcing the winner.",
+   "Understanding a mistake."
+  ],
+  "source": "scenes:34"
+ },
+ {
+  "id": "WF1639",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "We decided to walk home after the show. The queue for taxis stretched around the corner, and our house was only two streets away.\n\nWhat made walking a sensible choice?",
+  "cn": "演出后我们决定走回家。等出租车的队伍都排到转角了，而家只隔两条街。",
+  "slots": [
+   [
+    "Home was close and the taxi line was long."
+   ]
+  ],
+  "why": "最后一句同时给出距离与等待时间两条依据。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "All the roads were closed.",
+   "They had missed the show.",
+   "Home was close and the taxi line was long."
+  ],
+  "source": "scenes:35"
+ },
+ {
+  "id": "WF1640",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A little boy broke a chalk stick into two pieces. He handed the shorter piece to his sister so they could draw at the same time.\n\nWhy did he break the chalk?",
+  "cn": "小男孩把一根粉笔掰成两截，把较短的一截给了妹妹，这样两人就能同时画画。",
+  "slots": [
+   [
+    "To share it."
+   ]
+  ],
+  "why": "so they could draw at the same time 点明目的。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To test the floor.",
+   "To share it.",
+   "To throw it away."
+  ],
+  "source": "scenes:36"
+ },
+ {
+  "id": "WF1641",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The school bus arrived ten minutes early yesterday. Our group waited under the shelter until the driver opened the doors.\n\nWhat ended the group's wait?",
+  "cn": "昨天校车提前十分钟到了。我们在遮雨棚下等到司机开门。",
+  "slots": [
+   [
+    "The driver opened the doors."
+   ]
+  ],
+  "why": "until 引出等待的终点。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A second bus arrived.",
+   "The rain began.",
+   "The driver opened the doors."
+  ],
+  "source": "scenes:37"
+ },
+ {
+  "id": "WF1642",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "My sister practices reading the menu aloud. She wants to order her own meal when we visit a restaurant next week.\n\nWhat is she preparing to do?",
+  "cn": "妹妹练习大声读菜单。下周去餐馆时，她想自己点餐。",
+  "slots": [
+   [
+    "Order a meal by herself."
+   ]
+  ],
+  "why": "第二句给出练习的目的。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Order a meal by herself.",
+   "Write a new menu.",
+   "Cook for the family."
+  ],
+  "source": "scenes:38"
+ },
+ {
+  "id": "WF1643",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Leo caught the last ferry yesterday. He stood on the deck until the lights of his village came into view.\n\nWhere was Leo when he saw the lights?",
+  "cn": "昨天利奥赶上了最后一班渡船。他站在甲板上，直到看见村里的灯光。",
+  "slots": [
+   [
+    "On the ferry."
+   ]
+  ],
+  "why": "stood on the deck until 表明他看到灯光时仍在船上。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Inside his house.",
+   "On the ferry.",
+   "At the village gate."
+  ],
+  "source": "scenes:39"
+ },
+ {
+  "id": "WF1644",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "We have to fold the map along the red line. That way the town center appears on the cover when the map is closed.\n\nWhat does folding along the line achieve?",
+  "cn": "我们得沿红线折地图。这样合起来时，镇中心就显示在封面上。",
+  "slots": [
+   [
+    "The center stays visible on the outside."
+   ]
+  ],
+  "why": "that way 引出按线折叠的效果。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The streets become shorter.",
+   "The center stays visible on the outside.",
+   "The map shows a new town."
+  ],
+  "source": "scenes:40"
+ },
+ {
+  "id": "WF1645",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The film was starting when the back door opened. An usher used a small torch to help the late visitors find their seats.\n\nWho used the light?",
+  "cn": "后门打开时电影正要开始。引座员用小手电筒帮迟到的观众找座位。",
+  "slots": [
+   [
+    "An usher."
+   ]
+  ],
+  "why": "第二句主语是 an usher。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A late visitor.",
+   "The director.",
+   "An usher."
+  ],
+  "source": "scenes:41"
+ },
+ {
+  "id": "WF1646",
+  "level": 2,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The children dug a shallow hole yesterday. They lined it with a clean sheet to keep their toy boat from touching the mud.\n\nWhy did they line the hole?",
+  "cn": "昨天孩子们挖了个浅坑。他们用一块干净的薄布垫在里面，以免玩具船碰到泥。",
+  "slots": [
+   [
+    "To separate the boat from the mud."
+   ]
+  ],
+  "why": "to keep … from 表明隔开泥土的目的。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To hide the boat from everyone.",
+   "To separate the boat from the mud.",
+   "To make the hole deeper."
+  ],
+  "source": "scenes:42"
+ },
+ {
+  "id": "WF1647",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Since the bakery opened, Mia has kept every paper receipt from her visits. She wants to see how much she spends there each month.\n\nWhat does Mia hope to calculate?",
+  "cn": "自面包店开业以来，米娅一直保留着每次消费的纸质收据。她想了解自己每月在那里花多少钱。",
+  "slots": [
+   [
+    "Her monthly spending."
+   ]
+  ],
+  "why": "each month 和 spends 说明关注的是个人月度支出。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The price of the shop.",
+   "Her monthly spending.",
+   "The baker's pay."
+  ],
+  "source": "scenes:44"
+ },
+ {
+  "id": "WF1648",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The old curtain needs washing before we hang it in the reading room. Holding it up to the window, we can see a line of dust along the bottom.\n\nWhat shows that the curtain needs attention?",
+  "cn": "旧窗帘得洗过才能挂到阅览室。对着窗户举起来，能看见底边积着一条灰。",
+  "slots": [
+   [
+    "The dust along one edge."
+   ]
+  ],
+  "why": "底边的灰是需要清洗的证据。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A hole at the top.",
+   "Its bright color.",
+   "The dust along one edge."
+  ],
+  "source": "scenes:45"
+ },
+ {
+  "id": "WF1649",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "By the time the bus came, Ada had read the whole leaflet. She already knew which rooms were closed before she entered the museum.\n\nHow did Ada learn about the closed rooms?",
+  "cn": "公交车来时，艾达已经看完整张宣传单。进博物馆前她就知道哪些展室关闭了。",
+  "slots": [
+   [
+    "By reading before she arrived."
+   ]
+  ],
+  "why": "第二句的 already knew 来自先前的阅读。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "By reading before she arrived.",
+   "By following a guard.",
+   "By asking inside the museum."
+  ],
+  "source": "scenes:46"
+ },
+ {
+  "id": "WF1650",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The class voted to spend the prize money on a bookshelf. Buying more books could wait; the ones they owned were still piled on the floor.\n\nWhat did the class need first?",
+  "cn": "班里投票决定用奖金买书架。买更多书可以等等，他们已有的书还堆在地上。",
+  "slots": [
+   [
+    "Somewhere to put its books."
+   ]
+  ],
+  "why": "书堆在地上，优先解决存放问题。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Somewhere to put its books.",
+   "A larger prize.",
+   "New textbooks."
+  ],
+  "source": "scenes:47"
+ },
+ {
+  "id": "WF1651",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The machine stopped working after lunch. A coin was stuck in the slot; once Jen removed it, another customer could pay.\n\nWhat caused the trouble?",
+  "cn": "午饭后机器停止了运转。一枚硬币卡在投币口，珍取出它后，下一位顾客就能付款了。",
+  "slots": [
+   [
+    "A trapped coin."
+   ]
+  ],
+  "why": "卡住的硬币取出后机器恢复收款。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "An empty shelf.",
+   "A trapped coin.",
+   "A missing customer."
+  ],
+  "source": "scenes:48"
+ },
+ {
+  "id": "WF1652",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The seats near the stage were reserved for guests who could not hear well. A volunteer checked each ticket before letting people into the front row.\n\nWhy were some guests seated near the stage?",
+  "cn": "靠近舞台的座位留给听力不好的客人。志愿者在放人进入前排之前逐一查票。",
+  "slots": [
+   [
+    "To help them hear."
+   ]
+  ],
+  "why": "第一句说明座位安排与听力有关。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To keep their tickets dry.",
+   "To let them leave first.",
+   "To help them hear."
+  ],
+  "source": "scenes:49"
+ },
+ {
+  "id": "WF1653",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Nora suggested marking the deep end of the pool with a yellow stripe. A written warning alone might be hard for younger children to read.\n\nWho might benefit most from the stripe?",
+  "cn": "诺拉建议用一条黄线标出泳池深水端。年幼的孩子可能读不懂单靠文字写的警示。",
+  "slots": [
+   [
+    "Children who cannot read the warning easily."
+   ]
+  ],
+  "why": "颜色补充了对儿童不易理解的文字提示。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "People painting the wall.",
+   "Children who cannot read the warning easily.",
+   "Visitors buying tickets."
+  ],
+  "source": "scenes:50"
+ },
+ {
+  "id": "WF1654",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The guide asked us to count the steps as we climbed. On the landing, our answers differed because one person had counted the flat space as a step.\n\nWhy were the counts different?",
+  "cn": "向导让我们边爬边数台阶。到了楼梯平台，大家的结果不一样，因为有人把平坦的平台也算作一级。",
+  "slots": [
+   [
+    "The group used different counting rules."
+   ]
+  ],
+  "why": "是否把平台算作一级，改变了计数结果。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The group used different counting rules.",
+   "The guide moved a step.",
+   "Someone climbed a different staircase."
+  ],
+  "source": "scenes:51"
+ },
+ {
+  "id": "WF1655",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "If the temperature drops tonight, we will cover the plants with an old quilt. In the morning we will remove it so the leaves get light.\n\nWhy remove the cover in the morning?",
+  "cn": "如果今晚气温下降，我们就用旧被子盖住植物。早上会把被子拿走，让叶子见光。",
+  "slots": [
+   [
+    "To let light reach the leaves."
+   ]
+  ],
+  "why": "so 从句明确说明早晨拿掉被子的目的。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To change the plants' names.",
+   "To let light reach the leaves.",
+   "To keep the soil dark."
+  ],
+  "source": "scenes:52"
+ },
+ {
+  "id": "WF1656",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The new path is wider than the old one. Two people can now push a stroller and a bicycle past each other without leaving the path.\n\nWhat benefit does the example illustrate?",
+  "cn": "新路比旧路宽。现在一个人推婴儿车、另一个人推自行车，可以在路上错身通过。",
+  "slots": [
+   [
+    "People have more room to pass."
+   ]
+  ],
+  "why": "例子说明路面宽度给错身通过带来的便利。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The path is shorter.",
+   "People have more room to pass.",
+   "Bicycles move faster downhill."
+  ],
+  "source": "scenes:53"
+ },
+ {
+  "id": "WF1657",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Our class has just finished drawing a town map. We left the hospital symbol large because a visitor in a hurry should be able to find it quickly.\n\nWhy is one symbol larger?",
+  "cn": "我们班刚画完一张小镇地图。我们把医院的标志画得很大，好让着急的游客能迅速找到。",
+  "slots": [
+   [
+    "It marks a place people may need urgently."
+   ]
+  ],
+  "why": "in a hurry 与 quickly 说明设计考虑的是查找速度。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It marks a place people may need urgently.",
+   "The hospital is the oldest building.",
+   "The map had empty space."
+  ],
+  "source": "scenes:54"
+ },
+ {
+  "id": "WF1658",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Dan promised to replace the missing button before he returned the coat. Without it, the coat would not close properly.\n\nWhat must Dan do before returning the coat?",
+  "cn": "丹答应还衣服前把掉了的纽扣补上。少了它，外套就扣不严。",
+  "slots": [
+   [
+    "Repair its fastening."
+   ]
+  ],
+  "why": "补上纽扣能解决扣不严的问题。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Repair its fastening.",
+   "Wash the sleeves.",
+   "Buy a different coat."
+  ],
+  "source": "scenes:55"
+ },
+ {
+  "id": "WF1659",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The soup smelled wonderful yesterday, but the first spoonful was cold. We put the pot back on the stove for a few minutes.\n\nWhich detail showed the soup needed reheating?",
+  "cn": "昨天的汤闻起来很香，可第一口却是冷的。我们又把锅放回炉子上加热了几分钟。",
+  "slots": [
+   [
+    "The temperature of the first spoonful."
+   ]
+  ],
+  "why": "香味不足以判断温度，第一口才发现冷了。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The size of the pot.",
+   "The smell in the room.",
+   "The temperature of the first spoonful."
+  ],
+  "source": "scenes:56"
+ },
+ {
+  "id": "WF1660",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Everyone was given a colored badge at the door. People wearing the same color worked together even if they had never met.\n\nWhat decided each person's group?",
+  "cn": "每个人进门时都领到一枚彩色徽章。佩戴同种颜色的人组成一组，即使以前从未见过。",
+  "slots": [
+   [
+    "The badge color."
+   ]
+  ],
+  "why": "same color 是分组依据。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The person's age.",
+   "The badge color.",
+   "The arrival time."
+  ],
+  "source": "scenes:57"
+ },
+ {
+  "id": "WF1661",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Rita avoids using the busy entrance at noon. She takes a longer route past the fountain because there is usually no line there.\n\nWhat advantage does the longer route offer?",
+  "cn": "丽塔中午避开拥挤的入口，绕远经过喷泉走另一条路，因为那里通常不用排队。",
+  "slots": [
+   [
+    "Less waiting."
+   ]
+  ],
+  "why": "绕路换来较短的排队时间。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A cheaper ticket.",
+   "Less waiting.",
+   "More shops."
+  ],
+  "source": "scenes:58"
+ },
+ {
+  "id": "WF1662",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The team had left before the delivery arrived. The driver placed the parcel under the office desk and sent a photo to show where it was.\n\nWhy send a photo?",
+  "cn": "快递到时团队已经离开。司机把包裹放在办公室桌下，又发了张照片说明位置。",
+  "slots": [
+   [
+    "To help the team find the delivery."
+   ]
+  ],
+  "why": "to show where it was 明确交代意图。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To help the team find the delivery.",
+   "To prove the team arrived early.",
+   "To advertise a new desk."
+  ],
+  "source": "scenes:59"
+ },
+ {
+  "id": "WF1663",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Some visitors prefer walking around the whole lake. Others turn back at the wooden pier so they can return before dark.\n\nWhich visitors probably finish earlier?",
+  "cn": "有些游客喜欢环湖步行。另一些人在木码头折返，好在天黑前回来。",
+  "slots": [
+   [
+    "Those who turn at the pier."
+   ]
+  ],
+  "why": "折返是为了天黑前返回。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Those who wait for darkness.",
+   "Those who turn at the pier.",
+   "Those who circle the lake."
+  ],
+  "source": "scenes:60"
+ },
+ {
+  "id": "WF1664",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The alarm has gone off twice this week. Each time steam from the kettle reached the sensor; no one saw smoke.\n\nWhat seems to have triggered the alarm?",
+  "cn": "本周警报已响过两次。两次都是水壶蒸汽飘到了传感器旁，没有人看见烟。",
+  "slots": [
+   [
+    "Steam."
+   ]
+  ],
+  "why": "每次都观察到蒸汽，而没有观察到烟。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A burning chair.",
+   "Steam.",
+   "A broken window."
+  ],
+  "source": "scenes:61"
+ },
+ {
+  "id": "WF1665",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The missing key was lying beneath a folded napkin. We had looked across the table twice without lifting anything.\n\nWhy was the key hard to spot?",
+  "cn": "那把找不到的钥匙就在折起的餐巾下面。我们扫视了桌面两次，却什么都没拿起来看。",
+  "slots": [
+   [
+    "Something covered it."
+   ]
+  ],
+  "why": "钥匙被餐巾挡住，光扫视表面看不到。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It was outside.",
+   "Something covered it.",
+   "The table was too far away."
+  ],
+  "source": "scenes:62"
+ },
+ {
+  "id": "WF1666",
+  "level": 3,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Tea tastes better in this cup than in the metal one, says Grandpa. His usual mug has a thick handle that stays cool.\n\nWhich feature makes the mug comfortable to hold?",
+  "cn": "爷爷说，用这个杯子喝茶比用金属杯好喝。他常用的马克杯杯柄很厚，不烫手。",
+  "slots": [
+   [
+    "Its cool handle."
+   ]
+  ],
+  "why": "stays cool 直接关系到握持时的感受。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Its price.",
+   "Its cool handle.",
+   "Its metal lid."
+  ],
+  "source": "scenes:63"
+ },
+ {
+  "id": "WF1667",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The posters had been printed before the venue changed. Rather than waste them, we covered the old address with a plain sticker.\n\nWhat did the group save by using stickers?",
+  "cn": "场地变更前海报就印好了。为了不浪费，我们用一张素色贴纸遮住旧地址。",
+  "slots": [
+   [
+    "The posters already printed."
+   ]
+  ],
+  "why": "覆盖地址使旧海报仍可使用。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The old venue.",
+   "The posters already printed.",
+   "The cost of every ticket."
+  ],
+  "source": "scenes:65"
+ },
+ {
+  "id": "WF1668",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Had Maya known about the steep steps, she would have chosen the north entrance. The south entrance had a ramp, but it ended halfway up.\n\nWhat was misleading about the south entrance?",
+  "cn": "迈娅要是早知道有陡峭的台阶，就会选北入口。南入口虽有坡道，却只到半途。",
+  "slots": [
+   [
+    "Its ramp did not cover the whole climb."
+   ]
+  ],
+  "why": "but 后说明有坡道也不能全程避免台阶。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Its steps led underground.",
+   "Its sign pointed north.",
+   "Its ramp did not cover the whole climb."
+  ],
+  "source": "scenes:66"
+ },
+ {
+  "id": "WF1669",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The prize went to the design chosen by the youngest visitors. The adult panel had preferred a different model, but its vote was only advisory.\n\nWhose choice determined the prize?",
+  "cn": "奖项颁给了最年幼访客选中的设计。成人评审小组更喜欢另一款模型，但其投票仅作参考。",
+  "slots": [
+   [
+    "The youngest visitors'."
+   ]
+  ],
+  "why": "成人投票 only advisory，决定结果的是年轻访客。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The youngest visitors'.",
+   "The adult judges'.",
+   "The builders'."
+  ],
+  "source": "scenes:67"
+ },
+ {
+  "id": "WF1670",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The two reports appear to disagree until you read the heading above each column. One counts people; the other counts visits, including repeat visits.\n\nWhy can the figures differ even if both are accurate?",
+  "cn": "不看每栏上方的标题，两份报告好像相互矛盾。一份统计人数，另一份统计到访次数，包括重复到访。",
+  "slots": [
+   [
+    "They count different things."
+   ]
+  ],
+  "why": "人数与人次的单位不同。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "They count different things.",
+   "Only one includes a heading.",
+   "Both exclude repeat visits."
+  ],
+  "source": "scenes:68"
+ },
+ {
+  "id": "WF1671",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The students insisted on testing the bridge with equal loads. Without that rule, the winning model might simply be the one given the lightest box.\n\nWhat is the purpose of equal loads?",
+  "cn": "学生们坚持用同样的载荷测试桥。否则获胜的模型可能只是被放了最轻盒子的那一个。",
+  "slots": [
+   [
+    "To make the comparison fair."
+   ]
+  ],
+  "why": "载荷不同会干扰对桥梁承重能力的比较。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To find the smallest box.",
+   "To make every bridge fail.",
+   "To make the comparison fair."
+  ],
+  "source": "scenes:69"
+ },
+ {
+  "id": "WF1672",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Not until the second count did we notice a gap in the sequence. Two pages had the same number, so the final number alone could not tell us how many sheets we had.\n\nWhy was the final number unreliable?",
+  "cn": "直到第二次数数，我们才注意到编号序列的异常。两页编号相同，因此仅看末尾号码无法算出有多少张纸。",
+  "slots": [
+   [
+    "A number appeared twice."
+   ]
+  ],
+  "why": "重复编号破坏了页数与末号的一一对应。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The numbers were written in pencil.",
+   "A number appeared twice.",
+   "The last sheet was torn."
+  ],
+  "source": "scenes:70"
+ },
+ {
+  "id": "WF1673",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Only after comparing both sketches did Nina understand the change. The new outline was just as tall but left more space beside the door.\n\nWhat stayed the same?",
+  "cn": "妮娜比较了两张草图后才看懂改动。新轮廓同样高，却在门旁留出了更多空间。",
+  "slots": [
+   [
+    "The height."
+   ]
+  ],
+  "why": "just as tall 表明高度保持一致。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The space beside the door.",
+   "The position of every line.",
+   "The height."
+  ],
+  "source": "scenes:71"
+ },
+ {
+  "id": "WF1674",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Leo would rather repair the original clock than replace it. A small scratch on its face reminds him of the day he helped his grandfather hang it.\n\nWhy does Leo value a damaged clock?",
+  "cn": "利奥宁愿修理原来的钟，也不愿换新。钟面上的一道小划痕让他想起帮爷爷挂钟的那一天。",
+  "slots": [
+   [
+    "It carries a personal memory."
+   ]
+  ],
+  "why": "划痕与共同经历联系在一起。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Its glass is expensive.",
+   "It carries a personal memory.",
+   "It keeps perfect time."
+  ],
+  "source": "scenes:72"
+ },
+ {
+  "id": "WF1675",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The note attached to the door gave a new room number. A visitor who followed yesterday's schedule missed the first five minutes.\n\nWhich source was more up to date?",
+  "cn": "贴在门上的便条写了新房间号。一名照着昨天日程表走的访客错过了开头五分钟。",
+  "slots": [
+   [
+    "The note on the door."
+   ]
+  ],
+  "why": "便条写的是变更后的地点。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Yesterday's schedule.",
+   "The note on the door.",
+   "The visitor's watch."
+  ],
+  "source": "scenes:73"
+ },
+ {
+  "id": "WF1676",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The librarian had the torn cover replaced. She kept the old inscription on the first page because it named the person who donated the book.\n\nWhy keep the inscription?",
+  "cn": "馆员请人更换了破损的封面。她保留了扉页上的旧题词，因为上面写着捐书人的名字。",
+  "slots": [
+   [
+    "It records who gave the book."
+   ]
+  ],
+  "why": "because 从句明确说明题词的记录价值。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It records who gave the book.",
+   "It gives the book's price.",
+   "It explains how to repair a cover."
+  ],
+  "source": "scenes:74"
+ },
+ {
+  "id": "WF1677",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The visitors were not allowed to touch the ancient bowl. A modern replica stood beside it so children could feel the shape without harming the original.\n\nWhat was the replica for?",
+  "cn": "参观者不能触摸古碗。旁边放了一件现代复制品，让孩子能摸到它的形状而不损坏原件。",
+  "slots": [
+   [
+    "Hands-on exploration."
+   ]
+  ],
+  "why": "复制品兼顾体验与原件保护。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Replacing a broken label.",
+   "Hiding the ancient bowl.",
+   "Hands-on exploration."
+  ],
+  "source": "scenes:75"
+ },
+ {
+  "id": "WF1678",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "If the bell had been louder, we might have heard it from the garden. A wall separated our work area from the courtyard where the signal sounded.\n\nWhat made the signal difficult to hear?",
+  "cn": "要是铃声再响点，我们在花园里或许就听见了。我们工作的地方与响铃的庭院之间隔着一堵墙。",
+  "slots": [
+   [
+    "A wall between the two places."
+   ]
+  ],
+  "why": "第二句解释声音传播受到的阻隔。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A wall between the two places.",
+   "A bell inside a closed box.",
+   "The workers' headphones."
+  ],
+  "source": "scenes:76"
+ },
+ {
+  "id": "WF1679",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The museum postponed opening the exhibition until the labels arrived. A beautiful display would tell visitors little if they could not identify the objects.\n\nWhy wait for the labels?",
+  "cn": "博物馆把展览开幕推迟到标签到达以后。若参观者认不出展品，再漂亮的展陈也传递不了多少信息。",
+  "slots": [
+   [
+    "To help visitors understand the objects."
+   ]
+  ],
+  "why": "标签提供识别展品所需的信息。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To help visitors understand the objects.",
+   "To make the room brighter.",
+   "To replace the objects."
+  ],
+  "source": "scenes:77"
+ },
+ {
+  "id": "WF1680",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "A letter written in pencil was hard to photograph. The archivist changed the angle of the lamp instead of writing over the faint lines.\n\nWhich choice preserved the original writing?",
+  "cn": "一封铅笔写的信很难拍清。档案管理员调整了灯的角度，没有描重那些淡淡的字迹。",
+  "slots": [
+   [
+    "Moving the light."
+   ]
+  ],
+  "why": "改变照明不会改动原件。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Using a darker pencil on the letter.",
+   "Moving the light.",
+   "Tracing the lines."
+  ],
+  "source": "scenes:78"
+ },
+ {
+  "id": "WF1681",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The club is considering adding a late session. Its survey asked about the preferred timeslot, but only members of the morning group answered.\n\nWhich opinion is missing?",
+  "cn": "俱乐部在考虑加开晚场。问卷询问大家喜欢的时段，但只有晨间组成员作答。",
+  "slots": [
+   [
+    "That of people outside the morning group."
+   ]
+  ],
+  "why": "回答者的来源限制了调查能代表的人群。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "That of the club organizer alone.",
+   "That of every morning member.",
+   "That of people outside the morning group."
+  ],
+  "source": "scenes:79"
+ },
+ {
+  "id": "WF1682",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The sign was large enough to read from the opposite pavement. Its bold arrow, however, pointed toward an entrance closed for repairs.\n\nWhat was wrong with the sign?",
+  "cn": "标牌大得足以从对面人行道读清。可是粗粗的箭头指向一个因维修而关闭的入口。",
+  "slots": [
+   [
+    "Its directions were out of date."
+   ]
+  ],
+  "why": "看得清不代表指引依然有效。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Its letters were too small.",
+   "It had no arrow.",
+   "Its directions were out of date."
+  ],
+  "source": "scenes:80"
+ },
+ {
+  "id": "WF1683",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "By noon, the workers had laid the floor tiles near the window. A narrow barrier kept people off the surface until it was safe to walk on.\n\nWhy was the barrier temporary?",
+  "cn": "到中午时，工人已铺好窗边的地砖。一道窄隔栏拦住行人，直到地面可以安全踩踏。",
+  "slots": [
+   [
+    "The new surface needed time before use."
+   ]
+  ],
+  "why": "until 指明隔栏只在地面未准备好时需要。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The new surface needed time before use.",
+   "The window would soon disappear.",
+   "The workers disliked visitors."
+  ],
+  "source": "scenes:81"
+ },
+ {
+  "id": "WF1684",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The captain denied changing the result. She showed the original scorecard, where both teams had signed below the final score.\n\nWhat strengthened the captain's explanation?",
+  "cn": "队长否认改过比赛结果。她出示了原始记分卡，两队都在最终比分下签了名。",
+  "slots": [
+   [
+    "Both teams had signed the original record."
+   ]
+  ],
+  "why": "双方签名为原记录提供共同确认的证据。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "She had won before.",
+   "The card was colorful.",
+   "Both teams had signed the original record."
+  ],
+  "source": "scenes:82"
+ },
+ {
+  "id": "WF1685",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The book is said to contain an extra chapter. We checked the contents of two editions and found the new title only in the later one.\n\nWhich copy should someone choose for the extra chapter?",
+  "cn": "据说这本书多了一章。我们查了两个版本的目录，只在较晚的一版看到了新标题。",
+  "slots": [
+   [
+    "The later edition."
+   ]
+  ],
+  "why": "新标题仅出现在较晚版本的目录中。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Either edition equally.",
+   "The first edition.",
+   "The later edition."
+  ],
+  "source": "scenes:83"
+ },
+ {
+  "id": "WF1686",
+  "level": 4,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Hardly had the doors opened when the queue divided. One line led to ticket sales and the other to the entrance for people who had booked.\n\nWho should join the second line?",
+  "cn": "门刚开，队伍就分成两列。一列通往售票处，另一列通往已订票者的入口。",
+  "slots": [
+   [
+    "People with a booking."
+   ]
+  ],
+  "why": "the other 指第二列，for 后写明适用人群。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "People buying their first ticket.",
+   "Visitors who want a refund.",
+   "People with a booking."
+  ],
+  "source": "scenes:84"
+ },
+ {
+  "id": "WF1687",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Were the clock to stop, the count would continue but the times would be lost. The second counter records entries without recording when they happen.\n\nWhat could still be recovered after a clock failure?",
+  "cn": "假设时钟停了，计数会继续，但具体时间会丢失。第二个计数器只记到访次数，不记发生时间。",
+  "slots": [
+   [
+    "The number of entries."
+   ]
+  ],
+  "why": "独立计数器保留次数而非时间。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The exact moment of each visit.",
+   "The number of entries.",
+   "The length of each stay."
+  ],
+  "source": "scenes:86"
+ },
+ {
+  "id": "WF1688",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The map was useful despite having no scale. It showed the order of the stops, but no traveler could use it to estimate the distance between them.\n\nWhich question can the map answer?",
+  "cn": "地图虽没有比例尺，仍有用。它能显示站点顺序，却不能据此估算站间距离。",
+  "slots": [
+   [
+    "Which stop comes next?"
+   ]
+  ],
+  "why": "顺序是图上保留的信息，长度并未保留。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Which stop comes next?",
+   "How long is the whole route?",
+   "How many meters separate the stops?"
+  ],
+  "source": "scenes:87"
+ },
+ {
+  "id": "WF1689",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The editor regrets removing the first sentence. Without that opening, the final pronoun seems to refer to a different person.\n\nWhat did the opening help establish?",
+  "cn": "编辑后悔删掉了第一句。没有那个开头，最后的代词似乎指向了另一个人。",
+  "slots": [
+   [
+    "Who a later word referred to."
+   ]
+  ],
+  "why": "删掉开头后代词的指向发生变化。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The printing date.",
+   "Who a later word referred to.",
+   "The number of paragraphs."
+  ],
+  "source": "scenes:88"
+ },
+ {
+  "id": "WF1690",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "What mattered most was not how high the tower stood but whether it remained upright on a moving board. The tallest structure fell during the first shake.\n\nWhat did the test mainly measure?",
+  "cn": "最重要的并非塔有多高，而是它能否在晃动的板上立住。最高的结构体在第一次晃动时就倒了。",
+  "slots": [
+   [
+    "Stability."
+   ]
+  ],
+  "why": "moving board 和 remained upright 指向稳定性。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Maximum height.",
+   "Speed of construction.",
+   "Stability."
+  ],
+  "source": "scenes:89"
+ },
+ {
+  "id": "WF1691",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The review could have been completed sooner if every page had carried a date. The missing timestamp made two otherwise similar drafts hard to put in order.\n\nWhich task took extra time?",
+  "cn": "要是每一页都有日期，审阅工作本可以更早完成。缺少时间标记使两份很相似的草稿难以排序。",
+  "slots": [
+   [
+    "Deciding which draft came first."
+   ]
+  ],
+  "why": "难以确认时间顺序拖慢了审阅。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Translating the dates.",
+   "Deciding which draft came first.",
+   "Measuring the pages."
+  ],
+  "source": "scenes:90"
+ },
+ {
+  "id": "WF1692",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The judge asked that the final round be held behind a screen. An instrument's tone would then guide the decision without the player's name influencing it.\n\nWhy hide the performer?",
+  "cn": "评委要求决赛在屏风后进行。这样就能按乐器音色评判，演奏者的姓名不会影响决定。",
+  "slots": [
+   [
+    "To focus attention on the sound."
+   ]
+  ],
+  "why": "屏风隐去身份，使评委依据听到的表现判断。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "To shorten the final round.",
+   "To make the music louder.",
+   "To focus attention on the sound."
+  ],
+  "source": "scenes:91"
+ },
+ {
+  "id": "WF1693",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The higher the shelf, the harder it was for younger readers to reach. Moving the same titles down increased their circulation without adding a single new book.\n\nWhat changed between the two arrangements?",
+  "cn": "书架越高，小读者越难够到。把同样的书移到低处后，即便新书一本也没加，借阅量仍增加了。",
+  "slots": [
+   [
+    "Accessibility."
+   ]
+  ],
+  "why": "书目不变，变化的是读者能否够到书。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The number of titles.",
+   "The age of the books.",
+   "Accessibility."
+  ],
+  "source": "scenes:92"
+ },
+ {
+  "id": "WF1694",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Without the second observer, the class might have missed a brief pause in the recording. Her transcript marked the silence as carefully as the spoken words.\n\nWhat made the second observer's notes valuable?",
+  "cn": "如果没有第二位观察者，全班可能会漏掉录音里一次短暂停顿。她在文字记录中把静默标得和说出的词一样仔细。",
+  "slots": [
+   [
+    "They included an absence of speech."
+   ]
+  ],
+  "why": "她保留了别人容易忽略的停顿。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "They were the longest.",
+   "They changed the speaker's words.",
+   "They included an absence of speech."
+  ],
+  "source": "scenes:93"
+ },
+ {
+  "id": "WF1695",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "With the audience seated, the guide dimmed the lights. The first slide was deliberately blank so everyone could notice how quickly the room darkened.\n\nWhy was the blank slide intentional?",
+  "cn": "观众就座后，讲解员调暗灯光。第一张幻灯片故意留白，好让大家留意房间变暗的速度。",
+  "slots": [
+   [
+    "It directed attention to the change in light."
+   ]
+  ],
+  "why": "so 引出留白的教学目的。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It marked the end of the talk.",
+   "The speaker had forgotten a photo.",
+   "It directed attention to the change in light."
+  ],
+  "source": "scenes:94"
+ },
+ {
+  "id": "WF1696",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The committee opposed ranking the clubs by total attendance alone. A large venue could admit more people even if the smaller event filled every seat.\n\nWhat could total attendance hide?",
+  "cn": "委员会反对仅按总到场人数给社团排名。大场地能容纳更多人，即使小场地座无虚席也是如此。",
+  "slots": [
+   [
+    "How full each venue was."
+   ]
+  ],
+  "why": "人数取决于场地容量，不能单独反映上座情况。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "How many seats were sold in total.",
+   "Whether anyone attended.",
+   "How full each venue was."
+  ],
+  "source": "scenes:95"
+ },
+ {
+  "id": "WF1697",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The error was not discovered until all the cards had been sorted by color. One category appeared empty because its blue label had faded almost to gray.\n\nWhy might blue cards have been put in the wrong group?",
+  "cn": "直到所有卡片按颜色分完，错误才被发现。有一类看似空着，是因为它的蓝标签已褪得近乎灰色。",
+  "slots": [
+   [
+    "A label's appearance had changed."
+   ]
+  ],
+  "why": "褪色使类别标志被误认。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The rules banned blue cards.",
+   "The blue cards were missing.",
+   "A label's appearance had changed."
+  ],
+  "source": "scenes:96"
+ },
+ {
+  "id": "WF1698",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The volunteer recalled seeing a crack before the frame was moved. Her dated photograph supported the sequence of events but did not explain what caused the damage.\n\nWhich claim does the photograph support?",
+  "cn": "志愿者记得画框搬动前就见过裂纹。带日期的照片支持这一事件顺序，却不能解释损伤的原因。",
+  "slots": [
+   [
+    "The crack existed before the move."
+   ]
+  ],
+  "why": "时间证据能说明先后，但不能证明成因。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The crack existed before the move.",
+   "The mover caused the crack.",
+   "The volunteer repaired it."
+  ],
+  "source": "scenes:97"
+ },
+ {
+  "id": "WF1699",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Only by checking the names could we distinguish two prizes with identical covers. The gold seal on each was the same, although the achievements being recognized were quite different.\n\nWhich clue was useless for telling the prizes apart?",
+  "cn": "只有核对名字，我们才能区分两份封面相同的奖状。两者的金色印章一模一样，表彰的成就却很不同。",
+  "slots": [
+   [
+    "The gold seal."
+   ]
+  ],
+  "why": "相同的印章不能区分两者。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The names.",
+   "The achievements listed inside.",
+   "The gold seal."
+  ],
+  "source": "scenes:98"
+ },
+ {
+  "id": "WF1700",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "Had the group measured only speed, it would have selected the first route. The second route, however, offered a level surface throughout, which mattered more to the wheelchair users.\n\nWhat could reverse a decision based only on speed?",
+  "cn": "若只衡量速度，小组会选择第一条路线。不过第二条全程路面平坦，对轮椅使用者更重要。",
+  "slots": [
+   [
+    "Considering who would use the route."
+   ]
+  ],
+  "why": "使用者的无障碍需求改变了路线评价标准。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Considering who would use the route.",
+   "Measuring speed a second time alone.",
+   "Ignoring the ground conditions."
+  ],
+  "source": "scenes:99"
+ },
+ {
+  "id": "WF1701",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The author revised the ending to avoid implying that one trial settled the question. A final paragraph now describes conditions under which the result might change.\n\nHow did the revision affect the claim?",
+  "cn": "作者修改了结尾，以免暗示一次试验就能解决问题。如今最后一段描述了结果可能发生变化的条件。",
+  "slots": [
+   [
+    "It limited its scope."
+   ]
+  ],
+  "why": "补充适用条件意味着结论有边界。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It made it unconditional.",
+   "It removed all findings.",
+   "It limited its scope."
+  ],
+  "source": "scenes:100"
+ },
+ {
+  "id": "WF1702",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The old drawer seemed to fit until the carpenter tried to close it. A small ridge at the back caught on the frame only in the last centimeter.\n\nWhy did the first impression prove wrong?",
+  "cn": "旧抽屉看似正合适，直到木匠尝试把它关上。背面一道小凸棱只有到最后一厘米才会卡住框架。",
+  "slots": [
+   [
+    "The problem appeared only at the end of the movement."
+   ]
+  ],
+  "why": "部分推入并不能检验关闭时的最后一段。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The carpenter measured a different drawer.",
+   "The drawer was too short to enter the frame.",
+   "The problem appeared only at the end of the movement."
+  ],
+  "source": "scenes:101"
+ },
+ {
+  "id": "WF1703",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "No sooner had the speaker paused than a hand went up. The student's question concerned an assumption in the example, not the numerical answer on the board.\n\nWhich response would best address the student?",
+  "cn": "讲者刚停顿，就有人举手。学生问的是例子中的一个假设，而非黑板上的数值答案。",
+  "slots": [
+   [
+    "Explain why the starting condition was chosen."
+   ]
+  ],
+  "why": "关注假设的人需要知道出发条件的依据。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Read the final number again.",
+   "Explain why the starting condition was chosen.",
+   "Erase the example immediately."
+  ],
+  "source": "scenes:102"
+ },
+ {
+  "id": "WF1704",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The applicants were asked to describe a decision they had changed. The interviewers valued a clear reason for reconsidering more than an impressive first answer.\n\nWhich quality did the interviewers value?",
+  "cn": "申请人被要求描述一个自己曾修改过的决定。面试官更看重重新考虑的明确原因，而不是漂亮的最初答案。",
+  "slots": [
+   [
+    "The ability to rethink a decision."
+   ]
+  ],
+  "why": "题目和评分重点都指向根据理由重新思考。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Giving the fastest answer.",
+   "The ability to rethink a decision.",
+   "Never changing one's mind."
+  ],
+  "source": "scenes:103"
+ },
+ {
+  "id": "WF1705",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "What began as a list of repairs has grown into a history of the house. In the margin beside each cost, the owner wrote who had helped and why the work mattered.\n\nWhat turned the list into a history?",
+  "cn": "起初只是一张修缮清单，如今已成了房子的历史。主人在每笔花费旁的页边空白写下谁来帮忙，以及这项工作为何重要。",
+  "slots": [
+   [
+    "The personal notes beside the costs."
+   ]
+  ],
+  "why": "人物与原因给费用记录补充了叙事信息。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The order of the prices alone.",
+   "The personal notes beside the costs.",
+   "The total at the bottom."
+  ],
+  "source": "scenes:104"
+ },
+ {
+  "id": "WF1706",
+  "level": 5,
+  "cat": "阅读理解与语境判断",
+  "kind": "阅读理解",
+  "text": "The notice was revised after a visitor asked whether children were included in the limit of six. The new wording says six people of any age, leaving less room for argument.\n\nWhich uncertainty did the revision remove?",
+  "cn": "有访客询问六人上限是否包括儿童后，通知作了修改。新措辞写明任何年龄的人合计六位，减少了争议空间。",
+  "slots": [
+   [
+    "Whether a child counts toward the limit."
+   ]
+  ],
+  "why": "of any age 消除了关于年龄的歧义。",
+  "point": "阅读证据与判断",
+  "hint": "在文中找到支持选项的依据。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Whether a child counts toward the limit.",
+   "When the limit begins each day.",
+   "Where visitors should wait."
+  ],
+  "source": "scenes:105"
+ },
+ {
+  "id": "WF1707",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "安静的清晨｜电子邮件\n向室友解释早班车时间，并商定一种不会吵醒对方的起床办法。哪一句最能完成这一步：请求室友确认可行的安排？",
+  "cn": "安静的清晨",
+  "slots": [
+   [
+    "Would it help if I packed my bag before bed and used a quieter alarm?"
+   ]
+  ],
+  "why": "这一步需要请求室友确认可行的安排。所选句用具体内容回应了题目要求：Would it help if I packed my bag before bed and used a quieter alarm?",
+  "point": "请求室友确认可行的安排",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I was born in a very quiet town.",
+   "You should get up when I do.",
+   "Would it help if I packed my bag before bed and used a quieter alarm?"
+  ],
+  "source": "editor:1"
+ },
+ {
+  "id": "WF1708",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "爷爷的抽屉｜人物介绍\n用抽屉中两件旧物说明爷爷的爱好，选一件写出它背后的故事。哪一句最能完成这一步：用动作表现爷爷珍惜旧物？",
+  "cn": "爷爷的抽屉",
+  "slots": [
+   [
+    "He tested the bent key once more before placing it back beside the old lock."
+   ]
+  ],
+  "why": "这一步需要用动作表现爷爷珍惜旧物。所选句用具体内容回应了题目要求：He tested the bent key once more before placing it back beside the old lock.",
+  "point": "用动作表现爷爷珍惜旧物",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "He tested the bent key once more before placing it back beside the old lock.",
+   "Drawers are sold in many sizes.",
+   "My grandfather is very, very interesting."
+  ],
+  "source": "editor:2"
+ },
+ {
+  "id": "WF1709",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "餐桌上的空位｜邀请信\n邀请新转学的同学来吃周日晚餐，说明家庭习惯并询问忌口。哪一句最能完成这一步：询问客人的饮食需要？",
+  "cn": "餐桌上的空位",
+  "slots": [
+   [
+    "Is there anything you would like us to leave out of the meal?"
+   ]
+  ],
+  "why": "这一步需要询问客人的饮食需要。所选句用具体内容回应了题目要求：Is there anything you would like us to leave out of the meal?",
+  "point": "询问客人的饮食需要",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Is there anything you would like us to leave out of the meal?",
+   "Dinner was served yesterday.",
+   "You will eat everything we make."
+  ],
+  "source": "editor:3"
+ },
+ {
+  "id": "WF1710",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "忘记的食谱｜个人经历\n讲一次凭记忆做菜的经历，解释哪一步出了问题、家人怎样补救。哪一句最能完成这一步：交代菜肴如何得到补救？",
+  "cn": "忘记的食谱",
+  "slots": [
+   [
+    "The sauce tasted too salty, so Mum stirred in another cup of plain tomatoes."
+   ]
+  ],
+  "why": "这一步需要交代菜肴如何得到补救。所选句用具体内容回应了题目要求：The sauce tasted too salty, so Mum stirred in another cup of plain tomatoes.",
+  "point": "交代菜肴如何得到补救",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The sauce tasted too salty, so Mum stirred in another cup of plain tomatoes.",
+   "We cooked it because we cooked it.",
+   "Cooking is a useful activity for everyone."
+  ],
+  "source": "editor:4"
+ },
+ {
+  "id": "WF1711",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "两种周日安排｜事物比较\n比较全家骑行和在家做饭，从天气和家庭成员的需要解释你的选择。哪一句最能完成这一步：按家庭需要作选择？",
+  "cn": "两种周日安排",
+  "slots": [
+   [
+    "Since Grandma finds steep hills tiring, cooking together would include everyone."
+   ]
+  ],
+  "why": "这一步需要按家庭需要作选择。所选句用具体内容回应了题目要求：Since Grandma finds steep hills tiring, cooking together would include everyone.",
+  "point": "按家庭需要作选择",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Both activities are activities.",
+   "Since Grandma finds steep hills tiring, cooking together would include everyone.",
+   "Cycling is always best for every family."
+  ],
+  "source": "editor:5"
+ },
+ {
+  "id": "WF1712",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "镜头后的朋友｜人物介绍\n介绍一位总给别人拍照的朋友，用一次他主动放下相机的经历表现他的性格。哪一句最能完成这一步：用细节表现朋友愿意帮忙？",
+  "cn": "镜头后的朋友",
+  "slots": [
+   [
+    "He put the camera down and held the ladder steady for the youngest photographer."
+   ]
+  ],
+  "why": "这一步需要用细节表现朋友愿意帮忙。所选句用具体内容回应了题目要求：He put the camera down and held the ladder steady for the youngest photographer.",
+  "point": "用细节表现朋友愿意帮忙",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "He owns a camera with a big lens.",
+   "Cameras were on sale that day.",
+   "He put the camera down and held the ladder steady for the youngest photographer."
+  ],
+  "source": "editor:6"
+ },
+ {
+  "id": "WF1713",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "借来的外套｜道歉信\n向朋友说明外套上的污渍从哪里来，并提出归还时间和清洁方案。哪一句最能完成这一步：提出能兑现的补救？",
+  "cn": "借来的外套",
+  "slots": [
+   [
+    "I will have the sleeve cleaned and bring the jacket back on Friday."
+   ]
+  ],
+  "why": "这一步需要提出能兑现的补救。所选句用具体内容回应了题目要求：I will have the sleeve cleaned and bring the jacket back on Friday.",
+  "point": "提出能兑现的补救",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I will have the sleeve cleaned and bring the jacket back on Friday.",
+   "It is a nice jacket and jackets are useful.",
+   "You probably will not notice the mark."
+  ],
+  "source": "editor:7"
+ },
+ {
+  "id": "WF1714",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "带新同学认路｜地点介绍\n给新生介绍从校门到教室的路线，指出一个容易走错的路口。哪一句最能完成这一步：提醒新生辨认易错路口？",
+  "cn": "带新同学认路",
+  "slots": [
+   [
+    "Turn after the library, not at the smaller lane just before it."
+   ]
+  ],
+  "why": "这一步需要提醒新生辨认易错路口。所选句用具体内容回应了题目要求：Turn after the library, not at the smaller lane just before it.",
+  "point": "提醒新生辨认易错路口",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "There are lots of corners in the world.",
+   "Turn after the library, not at the smaller lane just before it.",
+   "Walk until you get there."
+  ],
+  "source": "editor:8"
+ },
+ {
+  "id": "WF1715",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "改变我想法的一课｜个人经历\n讲述一道自己起初不肯再试的题，以及老师问的哪个问题让你重新动笔。哪一句最能完成这一步：写出促使自己再试的问题？",
+  "cn": "改变我想法的一课",
+  "slots": [
+   [
+    "When Ms. Lin asked which part I could already prove, I reached for my pencil again."
+   ]
+  ],
+  "why": "这一步需要写出促使自己再试的问题。所选句用具体内容回应了题目要求：When Ms. Lin asked which part I could already prove, I reached for my pencil again.",
+  "point": "写出促使自己再试的问题",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "My teacher asked many good questions.",
+   "Math is a subject that people study.",
+   "When Ms. Lin asked which part I could already prove, I reached for my pencil again."
+  ],
+  "source": "editor:9"
+ },
+ {
+  "id": "WF1716",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "午餐队伍的新规则｜通知\n告诉全校学生新队伍从哪里开始、何时实行，并说明给行动不便同学的安排。哪一句最能完成这一步：向学生清楚交代生效时间？",
+  "cn": "午餐队伍的新规则",
+  "slots": [
+   [
+    "Starting Monday, please line up along the wall opposite the kitchen."
+   ]
+  ],
+  "why": "这一步需要向学生清楚交代生效时间。所选句用具体内容回应了题目要求：Starting Monday, please line up along the wall opposite the kitchen.",
+  "point": "向学生清楚交代生效时间",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "People have always enjoyed eating lunch.",
+   "I wonder whether the lunch line was long once.",
+   "Starting Monday, please line up along the wall opposite the kitchen."
+  ],
+  "source": "editor:10"
+ },
+ {
+  "id": "WF1717",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "上课前十分钟｜日记\n记录你提早到校看到的两件小事，以及这一早晨怎样影响你当天的心情。哪一句最能完成这一步：用观察写早到后的感受？",
+  "cn": "上课前十分钟",
+  "slots": [
+   [
+    "Hearing the caretaker hum in the empty hall made the building feel surprisingly friendly."
+   ]
+  ],
+  "why": "这一步需要用观察写早到后的感受。所选句用具体内容回应了题目要求：Hearing the caretaker hum in the empty hall made the building feel surprisingly friendly.",
+  "point": "用观察写早到后的感受",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Schools generally have halls.",
+   "I was early, and early means not late.",
+   "Hearing the caretaker hum in the empty hall made the building feel surprisingly friendly."
+  ],
+  "source": "editor:11"
+ },
+ {
+  "id": "WF1718",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "第一本速写本｜个人经历\n选一张最不满意的画，说明后来发现其中哪个细节值得保留。哪一句最能完成这一步：指出素描中值得保留的细节？",
+  "cn": "第一本速写本",
+  "slots": [
+   [
+    "The wheel was crooked, but its shadow still showed exactly where the light came from."
+   ]
+  ],
+  "why": "这一步需要指出素描中值得保留的细节。所选句用具体内容回应了题目要求：The wheel was crooked, but its shadow still showed exactly where the light came from.",
+  "point": "指出素描中值得保留的细节",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The wheel was crooked, but its shadow still showed exactly where the light came from.",
+   "Artists need paper.",
+   "The picture was bad in every possible way."
+  ],
+  "source": "editor:12"
+ },
+ {
+  "id": "WF1719",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "雨天的体育活动｜建议信\n给体育委员推荐一种适合室内的活动，交代规则和有限空间的用法。哪一句最能完成这一步：说明雨天活动如何适应空间？",
+  "cn": "雨天的体育活动",
+  "slots": [
+   [
+    "Pairs can pass a soft ball while standing on marked spots a meter apart."
+   ]
+  ],
+  "why": "这一步需要说明雨天活动如何适应空间。所选句用具体内容回应了题目要求：Pairs can pass a soft ball while standing on marked spots a meter apart.",
+  "point": "说明雨天活动如何适应空间",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Everyone should run in any direction at full speed.",
+   "Rain often falls from clouds.",
+   "Pairs can pass a soft ball while standing on marked spots a meter apart."
+  ],
+  "source": "editor:13"
+ },
+ {
+  "id": "WF1720",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "积水的球场｜通知\n向参赛队说明比赛延期原因，给出新场地和查询时间的方法。哪一句最能完成这一步：比赛延期通知提供下一次更新办法？",
+  "cn": "积水的球场",
+  "slots": [
+   [
+    "Check the team board at noon on Friday for the revised kickoff time."
+   ]
+  ],
+  "why": "这一步需要比赛延期通知提供下一次更新办法。所选句用具体内容回应了题目要求：Check the team board at noon on Friday for the revised kickoff time.",
+  "point": "比赛延期通知提供下一次更新办法",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Check the team board at noon on Friday for the revised kickoff time.",
+   "Our field has seen many exciting games.",
+   "Maybe you will find out later."
+  ],
+  "source": "editor:14"
+ },
+ {
+  "id": "WF1721",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "怎样过课间｜观点表达\n向校报说明你支持哪种课间安排，比较活动和休息对下一节课的影响。哪一句最能完成这一步：说明课间选择的具体影响？",
+  "cn": "怎样过课间",
+  "slots": [
+   [
+    "A five-minute walk helps me settle down for the next lesson."
+   ]
+  ],
+  "why": "这一步需要说明课间选择的具体影响。所选句用具体内容回应了题目要求：A five-minute walk helps me settle down for the next lesson.",
+  "point": "说明课间选择的具体影响",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Breaks are called breaks.",
+   "My choice is good because it is the best.",
+   "A five-minute walk helps me settle down for the next lesson."
+  ],
+  "source": "editor:15"
+ },
+ {
+  "id": "WF1722",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "小卖部零食架｜个人建议\n替值班老师设计两种方便携带的点心组合，解释价格和包装上的考虑。哪一句最能完成这一步：把推荐与预算联系起来？",
+  "cn": "小卖部零食架",
+  "slots": [
+   [
+    "A banana and a plain roll cost less together than the large packaged snack."
+   ]
+  ],
+  "why": "这一步需要把推荐与预算联系起来。所选句用具体内容回应了题目要求：A banana and a plain roll cost less together than the large packaged snack.",
+  "point": "把推荐与预算联系起来",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "People have different favorite colors.",
+   "A banana and a plain roll cost less together than the large packaged snack.",
+   "Expensive snacks always taste better."
+  ],
+  "source": "editor:16"
+ },
+ {
+  "id": "WF1723",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "夜里的车站｜日记\n写错过末班车后的经过，写清如何联系家人及等候时的感受。哪一句最能完成这一步：用行动推动错过末班车的叙事？",
+  "cn": "夜里的车站",
+  "slots": [
+   [
+    "I called my sister and waited beside the staffed ticket window."
+   ]
+  ],
+  "why": "这一步需要用行动推动错过末班车的叙事。所选句用具体内容回应了题目要求：I called my sister and waited beside the staffed ticket window.",
+  "point": "用行动推动错过末班车的叙事",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I waited for a very long time in a long wait.",
+   "Stations can be large or small.",
+   "I called my sister and waited beside the staffed ticket window."
+  ],
+  "source": "editor:17"
+ },
+ {
+  "id": "WF1724",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "多出的一张票｜故事续写\n以 I counted the tickets again. 开头，说明为何多了一张票，让它影响结局。哪一句最能完成这一步：让多出的一张票推动情节？",
+  "cn": "多出的一张票",
+  "slots": [
+   [
+    "The extra ticket had a child's name on it, so I ran back to the family by the gate."
+   ]
+  ],
+  "why": "这一步需要让多出的一张票推动情节。所选句用具体内容回应了题目要求：The extra ticket had a child's name on it, so I ran back to the family by the gate.",
+  "point": "让多出的一张票推动情节",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I counted the tickets, and then the story ended.",
+   "Tickets have existed for many years.",
+   "The extra ticket had a child's name on it, so I ran back to the family by the gate."
+  ],
+  "source": "editor:18"
+ },
+ {
+  "id": "WF1725",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "没有行李箱的周末｜个人经历\n讲清行李没到时最先要解决的事，以及哪件物品其实可以不用。哪一句最能完成这一步：举例说明行李丢失后的取舍？",
+  "cn": "没有行李箱的周末",
+  "slots": [
+   [
+    "I borrowed a toothbrush that first night; my three pairs of shoes could wait."
+   ]
+  ],
+  "why": "这一步需要举例说明行李丢失后的取舍。所选句用具体内容回应了题目要求：I borrowed a toothbrush that first night; my three pairs of shoes could wait.",
+  "point": "举例说明行李丢失后的取舍",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Packing is a normal thing to do.",
+   "I borrowed a toothbrush that first night; my three pairs of shoes could wait.",
+   "My suitcase had many things inside it."
+  ],
+  "source": "editor:19"
+ },
+ {
+  "id": "WF1726",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "街角的小店｜地点介绍\n从店外写到店内，用一段短对话说明居民为什么喜欢来这里。哪一句最能完成这一步：用对话体现小店的人情味？",
+  "cn": "街角的小店",
+  "slots": [
+   [
+    "Before I spoke, Mr. Hu asked, “Is your grandmother feeling better today?”"
+   ]
+  ],
+  "why": "这一步需要用对话体现小店的人情味。所选句用具体内容回应了题目要求：Before I spoke, Mr. Hu asked, “Is your grandmother feeling better today?”",
+  "point": "用对话体现小店的人情味",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A large shopping center opened in another town.",
+   "The corner shop is a shop on a corner.",
+   "Before I spoke, Mr. Hu asked, “Is your grandmother feeling better today?”"
+  ],
+  "source": "editor:20"
+ },
+ {
+  "id": "WF1727",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "窗边的座位｜图片描述\n选择一张本地车窗照片，从近处写到远处，再用一句话表达旅客心情。哪一句最能完成这一步：区分图片观察与情绪猜测？",
+  "cn": "窗边的座位",
+  "slots": [
+   [
+    "The traveler grips her ticket with both hands; perhaps she is nervous about missing her stop."
+   ]
+  ],
+  "why": "这一步需要区分图片观察与情绪猜测。所选句用具体内容回应了题目要求：The traveler grips her ticket with both hands; perhaps she is nervous about missing her stop.",
+  "point": "区分图片观察与情绪猜测",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I know every thought in the traveler's mind.",
+   "The traveler grips her ticket with both hands; perhaps she is nervous about missing her stop.",
+   "Every traveler everywhere feels the same."
+  ],
+  "source": "editor:21"
+ },
+ {
+  "id": "WF1728",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "安静些的路口｜求助信\n请社区工作人员帮忙记录路口最吵的时段，说明观察位置和已有记录。哪一句最能完成这一步：向社区提出具体观察请求？",
+  "cn": "安静些的路口",
+  "slots": [
+   [
+    "Could someone record the noise at the east crossing between four and five on school days?"
+   ]
+  ],
+  "why": "这一步需要向社区提出具体观察请求。所选句用具体内容回应了题目要求：Could someone record the noise at the east crossing between four and five on school days?",
+  "point": "向社区提出具体观察请求",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Traffic is a common topic.",
+   "Could someone record the noise at the east crossing between four and five on school days?",
+   "Please fix absolutely everything immediately."
+  ],
+  "source": "editor:22"
+ },
+ {
+  "id": "WF1729",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "日落前挂灯笼｜海报和活动介绍\n为社区灯笼制作活动写招募海报，交代材料、地点和儿童参加条件。哪一句最能完成这一步：写清儿童参加活动的条件？",
+  "cn": "日落前挂灯笼",
+  "slots": [
+   [
+    "Children under ten should bring an adult to help with the lantern frame."
+   ]
+  ],
+  "why": "这一步需要写清儿童参加活动的条件。所选句用具体内容回应了题目要求：Children under ten should bring an adult to help with the lantern frame.",
+  "point": "写清儿童参加活动的条件",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Everyone can work alone regardless of age.",
+   "Children under ten should bring an adult to help with the lantern frame.",
+   "Lanterns look wonderful in the evening."
+  ],
+  "source": "editor:23"
+ },
+ {
+  "id": "WF1730",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "两家人的过节方式｜事物比较\n比较两个家庭庆祝同一节日的方式，找出一处差异和共同意义。哪一句最能完成这一步：在节日差异后指出共同意义？",
+  "cn": "两家人的过节方式",
+  "slots": [
+   [
+    "One family makes dumplings and the other cooks fish, but both set aside a place for relatives coming home."
+   ]
+  ],
+  "why": "这一步需要在节日差异后指出共同意义。所选句用具体内容回应了题目要求：One family makes dumplings and the other cooks fish, but both set aside a place for relatives coming home.",
+  "point": "在节日差异后指出共同意义",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "One family makes dumplings and the other cooks fish, but both set aside a place for relatives coming home.",
+   "Our two families do exactly the same different things.",
+   "Fish live in water."
+  ],
+  "source": "editor:24"
+ },
+ {
+  "id": "WF1731",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "教我写这个汉字｜书信\n给笔友讲一个你喜欢的汉字，描述笔画或字形，并解释选择它的原因。哪一句最能完成这一步：向笔友解释选字原因？",
+  "cn": "教我写这个汉字",
+  "slots": [
+   [
+    "I chose the character for rest because its parts remind me of a person beside a tree."
+   ]
+  ],
+  "why": "这一步需要向笔友解释选字原因。所选句用具体内容回应了题目要求：I chose the character for rest because its parts remind me of a person beside a tree.",
+  "point": "向笔友解释选字原因",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I chose the character for rest because its parts remind me of a person beside a tree.",
+   "You should learn every character today.",
+   "This character is good because it is a character."
+  ],
+  "source": "editor:25"
+ },
+ {
+  "id": "WF1732",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "差点退掉的书｜个人经历\n解释开头为什么读不下去，写出改变你看法的一幕并评价阅读体验。哪一句最能完成这一步：用具体一幕解释阅读态度变化？",
+  "cn": "差点退掉的书",
+  "slots": [
+   [
+    "I nearly closed the book until the narrator found her own name on the old map."
+   ]
+  ],
+  "why": "这一步需要用具体一幕解释阅读态度变化。所选句用具体内容回应了题目要求：I nearly closed the book until the narrator found her own name on the old map.",
+  "point": "用具体一幕解释阅读态度变化",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The book was interesting because it interested me.",
+   "I nearly closed the book until the narrator found her own name on the old map.",
+   "All stories have many words."
+  ],
+  "source": "editor:26"
+ },
+ {
+  "id": "WF1733",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "给短篇读物一个书架｜申请信\n向图书馆申请一层书架举办短篇推荐展，说明选书标准和维护办法。哪一句最能完成这一步：申请展架时说明维护责任？",
+  "cn": "给短篇读物一个书架",
+  "slots": [
+   [
+    "I can check the shelf every Friday and replace cards when a featured book is borrowed."
+   ]
+  ],
+  "why": "这一步需要申请展架时说明维护责任。所选句用具体内容回应了题目要求：I can check the shelf every Friday and replace cards when a featured book is borrowed.",
+  "point": "申请展架时说明维护责任",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I can check the shelf every Friday and replace cards when a featured book is borrowed.",
+   "The library should give us all its shelves.",
+   "Books are written by writers."
+  ],
+  "source": "editor:27"
+ },
+ {
+  "id": "WF1734",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "边读边做记号｜演讲稿\n向同学演示一种读书标注法，用具体的一句话示范，再请听众尝试。哪一句最能完成这一步：现场演示标注方法？",
+  "cn": "边读边做记号",
+  "slots": [
+   [
+    "Listen to this line: I underline although because it tells me the next idea will contrast with the first."
+   ]
+  ],
+  "why": "这一步需要现场演示标注方法。所选句用具体内容回应了题目要求：Listen to this line: I underline although because it tells me the next idea will contrast with the first.",
+  "point": "现场演示标注方法",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Listen to this line: I underline although because it tells me the next idea will contrast with the first.",
+   "Annotation is important, important, important.",
+   "Please remember to read something someday."
+  ],
+  "source": "editor:28"
+ },
+ {
+  "id": "WF1735",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "一天记一个词｜建议信\n给记单词总遗忘的同学设计三天复习安排，示范怎样把一个词用到生活中。哪一句最能完成这一步：给出可执行的复习安排？",
+  "cn": "一天记一个词",
+  "slots": [
+   [
+    "Use the new word in a message tonight, then cover it and recall it on Thursday."
+   ]
+  ],
+  "why": "这一步需要给出可执行的复习安排。所选句用具体内容回应了题目要求：Use the new word in a message tonight, then cover it and recall it on Thursday.",
+  "point": "给出可执行的复习安排",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Never forget any word again.",
+   "Use the new word in a message tonight, then cover it and recall it on Thursday.",
+   "Vocabulary is a large subject."
+  ],
+  "source": "editor:29"
+ },
+ {
+  "id": "WF1736",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "两本笔记本｜利弊分析\n比较纸笔记和电子笔记在上课及复习时的得失，分别给出适用场景。哪一句最能完成这一步：按实际用途比较笔记工具？",
+  "cn": "两本笔记本",
+  "slots": [
+   [
+    "I can sketch a graph faster on paper, but my digital notes let me search last month's examples."
+   ]
+  ],
+  "why": "这一步需要按实际用途比较笔记工具。所选句用具体内容回应了题目要求：I can sketch a graph faster on paper, but my digital notes let me search last month's examples.",
+  "point": "按实际用途比较笔记工具",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Both tools have existed for some time.",
+   "I can sketch a graph faster on paper, but my digital notes let me search last month's examples.",
+   "Paper and screens are two different things."
+  ],
+  "source": "editor:30"
+ },
+ {
+  "id": "WF1737",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "我的晚间时间去哪了｜现象分析\n根据自己一天的时间记录找出一个意外耗时的活动，并解释原因。哪一句最能完成这一步：用时间记录支持解释？",
+  "cn": "我的晚间时间去哪了",
+  "slots": [
+   [
+    "My diary showed twelve short phone checks that added up to forty minutes."
+   ]
+  ],
+  "why": "这一步需要用时间记录支持解释。所选句用具体内容回应了题目要求：My diary showed twelve short phone checks that added up to forty minutes.",
+  "point": "用时间记录支持解释",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "My diary showed twelve short phone checks that added up to forty minutes.",
+   "Time passes because the clock moves.",
+   "I must have wasted every minute of the day."
+  ],
+  "source": "editor:31"
+ },
+ {
+  "id": "WF1738",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "提前的截止日期｜电子邮件\n写给小组成员，说明交稿日期变化，分配两项急需完成的工作。哪一句最能完成这一步：给小组分配明确任务？",
+  "cn": "提前的截止日期",
+  "slots": [
+   [
+    "Mia, please check the figures by noon; Dan, could you revise the introduction by two?"
+   ]
+  ],
+  "why": "这一步需要给小组分配明确任务。所选句用具体内容回应了题目要求：Mia, please check the figures by noon; Dan, could you revise the introduction by two?",
+  "point": "给小组分配明确任务",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Somebody should do something soon.",
+   "The project has a title.",
+   "Mia, please check the figures by noon; Dan, could you revise the introduction by two?"
+  ],
+  "source": "editor:32"
+ },
+ {
+  "id": "WF1739",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "与列车司机对话｜人物介绍\n给校刊介绍一位司机，通过一次日常检查写出这个职业需要的品质。哪一句最能完成这一步：通过检查动作表现职业品质？",
+  "cn": "与列车司机对话",
+  "slots": [
+   [
+    "Before moving, he traced each item on the checklist with his finger, even on the familiar route."
+   ]
+  ],
+  "why": "这一步需要通过检查动作表现职业品质。所选句用具体内容回应了题目要求：Before moving, he traced each item on the checklist with his finger, even on the familiar route.",
+  "point": "通过检查动作表现职业品质",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "He drives trains, so he is a train driver.",
+   "Before moving, he traced each item on the checklist with his finger, even on the familiar route.",
+   "All drivers are exactly alike."
+  ],
+  "source": "editor:33"
+ },
+ {
+  "id": "WF1740",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "体验另一个职业｜申请信\n申请一天职业观察活动，说明最想观察的环节和准备好的一个问题。哪一句最能完成这一步：申请观察时提出与岗位有关的问题？",
+  "cn": "体验另一个职业",
+  "slots": [
+   [
+    "Could I observe the morning handover and ask how the team records unfinished repairs?"
+   ]
+  ],
+  "why": "这一步需要申请观察时提出与岗位有关的问题。所选句用具体内容回应了题目要求：Could I observe the morning handover and ask how the team records unfinished repairs?",
+  "point": "申请观察时提出与岗位有关的问题",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Every job in the world is fascinating.",
+   "Could I observe the morning handover and ask how the team records unfinished repairs?",
+   "Could I have the job without attending?"
+  ],
+  "source": "editor:34"
+ },
+ {
+  "id": "WF1741",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "墙上的目标｜日记\n回顾一个过大的目标，写清今天把它拆成了什么可以执行的小任务。哪一句最能完成这一步：把大目标拆成当天行动？",
+  "cn": "墙上的目标",
+  "slots": [
+   [
+    "Instead of promising to finish the whole book, I marked two pages to read before supper."
+   ]
+  ],
+  "why": "这一步需要把大目标拆成当天行动。所选句用具体内容回应了题目要求：Instead of promising to finish the whole book, I marked two pages to read before supper.",
+  "point": "把大目标拆成当天行动",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Instead of promising to finish the whole book, I marked two pages to read before supper.",
+   "I will become perfect immediately.",
+   "I have a goal about goals."
+  ],
+  "source": "editor:35"
+ },
+ {
+  "id": "WF1742",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "写给未来的自己｜书信\n给一年后的自己写信，记录眼下的困难，并留下一个能检查进步的问题。哪一句最能完成这一步：留下能检查进步的问题？",
+  "cn": "写给未来的自己",
+  "slots": [
+   [
+    "Can you now introduce yourself for one minute without looking at your notes?"
+   ]
+  ],
+  "why": "这一步需要留下能检查进步的问题。所选句用具体内容回应了题目要求：Can you now introduce yourself for one minute without looking at your notes?",
+  "point": "留下能检查进步的问题",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Will everything be wonderful forever?",
+   "What is the date on this letter?",
+   "Can you now introduce yourself for one minute without looking at your notes?"
+  ],
+  "source": "editor:36"
+ },
+ {
+  "id": "WF1743",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "课桌旁的水瓶｜问题与解决办法\n分析教室一次性瓶增多的一个原因，提出可检查成效的改进措施。哪一句最能完成这一步：让解决办法的效果可以检查？",
+  "cn": "课桌旁的水瓶",
+  "slots": [
+   [
+    "Count the empty bottles each Friday for a month after the refill station opens."
+   ]
+  ],
+  "why": "这一步需要让解决办法的效果可以检查。所选句用具体内容回应了题目要求：Count the empty bottles each Friday for a month after the refill station opens.",
+  "point": "让解决办法的效果可以检查",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Tell everyone to be better in every way.",
+   "Plastic is a word with seven letters.",
+   "Count the empty bottles each Friday for a month after the refill station opens."
+  ],
+  "source": "editor:37"
+ },
+ {
+  "id": "WF1744",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "门边的老树｜观点表达\n就校门改造是否保留老树表态，同时回应通行空间不足的顾虑。哪一句最能完成这一步：回应对通行空间的顾虑？",
+  "cn": "门边的老树",
+  "slots": [
+   [
+    "Keeping the tree need not block the gate if we curve the path around its trunk."
+   ]
+  ],
+  "why": "这一步需要回应对通行空间的顾虑。所选句用具体内容回应了题目要求：Keeping the tree need not block the gate if we curve the path around its trunk.",
+  "point": "回应对通行空间的顾虑",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Keeping the tree need not block the gate if we curve the path around its trunk.",
+   "The old tree is old.",
+   "Anyone who disagrees dislikes trees."
+  ],
+  "source": "editor:38"
+ },
+ {
+  "id": "WF1745",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "池边的标牌｜通知\n告知游客观鸟地点、保持距离的原因和看到受伤动物时的联系方式。哪一句最能完成这一步：告知游客遇到受伤动物时怎样联系工作人员？",
+  "cn": "池边的标牌",
+  "slots": [
+   [
+    "If you see an injured bird, tell the guide at the pond entrance where you saw it."
+   ]
+  ],
+  "why": "这一步需要告知游客遇到受伤动物时怎样联系工作人员。所选句用具体内容回应了题目要求：If you see an injured bird, tell the guide at the pond entrance where you saw it.",
+  "point": "告知游客遇到受伤动物时怎样联系工作人员",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "All visitors will certainly see a bird.",
+   "An injured bird is a bird with an injury.",
+   "If you see an injured bird, tell the guide at the pond entrance where you saw it."
+  ],
+  "source": "editor:39"
+ },
+ {
+  "id": "WF1746",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "给老狗找个家｜海报和活动介绍\n替领养活动介绍一只老狗的日常需求，写清适合它的家庭条件。哪一句最能完成这一步：说明适合老狗的领养条件？",
+  "cn": "给老狗找个家",
+  "slots": [
+   [
+    "A quiet home with few stairs would suit him because he tires on long climbs."
+   ]
+  ],
+  "why": "这一步需要说明适合老狗的领养条件。所选句用具体内容回应了题目要求：A quiet home with few stairs would suit him because he tires on long climbs.",
+  "point": "说明适合老狗的领养条件",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Dogs are common pets.",
+   "A quiet home with few stairs would suit him because he tires on long climbs.",
+   "This dog is perfect for absolutely everybody."
+  ],
+  "source": "editor:40"
+ },
+ {
+  "id": "WF1747",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "义卖摊的一班岗｜事件描述\n按开摊、突发情况、收摊的顺序报道一次售书活动，说明款项用途。哪一句最能完成这一步：报道义卖款项的用途？",
+  "cn": "义卖摊的一班岗",
+  "slots": [
+   [
+    "By closing time the stall had raised enough money to replace the reading room's broken lamp."
+   ]
+  ],
+  "why": "这一步需要报道义卖款项的用途。所选句用具体内容回应了题目要求：By closing time the stall had raised enough money to replace the reading room's broken lamp.",
+  "point": "报道义卖款项的用途",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "By closing time the stall had raised enough money to replace the reading room's broken lamp.",
+   "The stall was nice and the day was nice.",
+   "Money can be made of different materials."
+  ],
+  "source": "editor:41"
+ },
+ {
+  "id": "WF1748",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "来帮忙的那双手｜感谢信\n感谢帮你搬展板的人，用一个具体细节说明他的帮助为何及时。哪一句最能完成这一步：说明帮助为何及时？",
+  "cn": "来帮忙的那双手",
+  "slots": [
+   [
+    "You arrived just as the wind caught the display board and kept it from hitting the ground."
+   ]
+  ],
+  "why": "这一步需要说明帮助为何及时。所选句用具体内容回应了题目要求：You arrived just as the wind caught the display board and kept it from hitting the ground.",
+  "point": "说明帮助为何及时",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Display boards come in many colors.",
+   "You arrived just as the wind caught the display board and kept it from hitting the ground.",
+   "Thanks for everything everywhere."
+  ],
+  "source": "editor:42"
+ },
+ {
+  "id": "WF1749",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "怎样帮到点子上｜演讲稿\n讲一次好意没有帮上忙的经历，示范一句能先了解对方需要的问话。哪一句最能完成这一步：先问清对方想要的帮助？",
+  "cn": "怎样帮到点子上",
+  "slots": [
+   [
+    "Would you like me to carry the box, or would holding the door help more?"
+   ]
+  ],
+  "why": "这一步需要先问清对方想要的帮助。所选句用具体内容回应了题目要求：Would you like me to carry the box, or would holding the door help more?",
+  "point": "先问清对方想要的帮助",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Would you like me to carry the box, or would holding the door help more?",
+   "I have decided what you need without asking.",
+   "Helping means giving help."
+  ],
+  "source": "editor:43"
+ },
+ {
+  "id": "WF1750",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "陌生的登录提醒｜电子邮件\n给家人解释你收到的异常提醒，交代你怎样通过平时使用的入口核实。哪一句最能完成这一步：说明自己如何核实提醒？",
+  "cn": "陌生的登录提醒",
+  "slots": [
+   [
+    "I opened the account app from my usual home screen and checked its recent sign-in list."
+   ]
+  ],
+  "why": "这一步需要说明自己如何核实提醒。所选句用具体内容回应了题目要求：I opened the account app from my usual home screen and checked its recent sign-in list.",
+  "point": "说明自己如何核实提醒",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I assumed every unexpected message was genuine.",
+   "I opened the account app from my usual home screen and checked its recent sign-in list.",
+   "My phone has a bright screen."
+  ],
+  "source": "editor:44"
+ },
+ {
+  "id": "WF1751",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "转发合照之前｜个人建议\n给班级群制定发布合影前的两步确认办法，并举一个尊重同学选择的例子。哪一句最能完成这一步：说明怎样尊重不愿露脸的同学？",
+  "cn": "转发合照之前",
+  "slots": [
+   [
+    "If anyone prefers to stay out of the group photo, we can share a cropped copy."
+   ]
+  ],
+  "why": "这一步需要说明怎样尊重不愿露脸的同学。所选句用具体内容回应了题目要求：If anyone prefers to stay out of the group photo, we can share a cropped copy.",
+  "point": "说明怎样尊重不愿露脸的同学",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A picture usually shows something.",
+   "If anyone prefers to stay out of the group photo, we can share a cropped copy.",
+   "Everyone ought to accept every photo."
+  ],
+  "source": "editor:45"
+ },
+ {
+  "id": "WF1752",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "卡住的网课｜求助信\n向老师说明掉线时停在哪一步，列出已试过的办法并请求指定材料。哪一句最能完成这一步：求助时说明漏听的具体位置？",
+  "cn": "卡住的网课",
+  "slots": [
+   [
+    "The video froze just after you explained step two; could you send the worksheet for step three?"
+   ]
+  ],
+  "why": "这一步需要求助时说明漏听的具体位置。所选句用具体内容回应了题目要求：The video froze just after you explained step two; could you send the worksheet for step three?",
+  "point": "求助时说明漏听的具体位置",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The video froze just after you explained step two; could you send the worksheet for step three?",
+   "I missed something at some point.",
+   "The internet is large."
+  ],
+  "source": "editor:46"
+ },
+ {
+  "id": "WF1753",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "用录音复习｜利弊分析\n分析回放和现场提问各适合解决什么困难，给出学习者的选择条件。哪一句最能完成这一步：按学习困难比较回放和提问？",
+  "cn": "用录音复习",
+  "slots": [
+   [
+    "I replay a fast explanation to catch the words, but ask the teacher when the idea itself is unclear."
+   ]
+  ],
+  "why": "这一步需要按学习困难比较回放和提问。所选句用具体内容回应了题目要求：I replay a fast explanation to catch the words, but ask the teacher when the idea itself is unclear.",
+  "point": "按学习困难比较回放和提问",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I think all lessons should last exactly one hour.",
+   "I replay a fast explanation to catch the words, but ask the teacher when the idea itself is unclear.",
+   "Recordings and questions are both things."
+  ],
+  "source": "editor:47"
+ },
+ {
+  "id": "WF1754",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "机器也会看错｜个人经历\n描写一次语音识别误听小故事，说明你怎样根据上下文发现错误。哪一句最能完成这一步：用上下文发现语音识别错误？",
+  "cn": "机器也会看错",
+  "slots": [
+   [
+    "The screen showed flower, but the recipe asked for two cups, so I changed it to flour."
+   ]
+  ],
+  "why": "这一步需要用上下文发现语音识别错误。所选句用具体内容回应了题目要求：The screen showed flower, but the recipe asked for two cups, so I changed it to flour.",
+  "point": "用上下文发现语音识别错误",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The screen showed flower, but the recipe asked for two cups, so I changed it to flour.",
+   "A screen can show many letters.",
+   "The machine was wrong because machines are machines."
+  ],
+  "source": "editor:48"
+ },
+ {
+  "id": "WF1755",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "能帮忙的钟｜海报和活动介绍\n为校园科技节介绍一个自制提醒钟，解释它解决的问题和演示时间。哪一句最能完成这一步：为科技节说明演示时间和用途？",
+  "cn": "能帮忙的钟",
+  "slots": [
+   [
+    "Visit our desk at two to see a clock that flashes when a study break ends."
+   ]
+  ],
+  "why": "这一步需要为科技节说明演示时间和用途。所选句用具体内容回应了题目要求：Visit our desk at two to see a clock that flashes when a study break ends.",
+  "point": "为科技节说明演示时间和用途",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Visit our desk at two to see a clock that flashes when a study break ends.",
+   "Our project is the most amazing object in history.",
+   "Time has always passed."
+  ],
+  "source": "editor:49"
+ },
+ {
+  "id": "WF1756",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "同组两种想法｜事件描述\n重现组内一次分歧，交代双方理由和最后采用的决定办法。哪一句最能完成这一步：用可观察的办法解决意见分歧？",
+  "cn": "同组两种想法",
+  "slots": [
+   [
+    "We built both versions from scrap paper and timed how long each stood upright."
+   ]
+  ],
+  "why": "这一步需要用可观察的办法解决意见分歧。所选句用具体内容回应了题目要求：We built both versions from scrap paper and timed how long each stood upright.",
+  "point": "用可观察的办法解决意见分歧",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "We settled it because we settled it.",
+   "One teammate must always win.",
+   "We built both versions from scrap paper and timed how long each stood upright."
+  ],
+  "source": "editor:50"
+ },
+ {
+  "id": "WF1757",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "重新骑上自行车｜个人经历\n描写失败后重新练习的一个下午，用动作表现心态变化。哪一句最能完成这一步：用动作显示重新建立信心？",
+  "cn": "重新骑上自行车",
+  "slots": [
+   [
+    "On the third try I loosened my grip and pedaled past the mark where I had stopped before."
+   ]
+  ],
+  "why": "这一步需要用动作显示重新建立信心。所选句用具体内容回应了题目要求：On the third try I loosened my grip and pedaled past the mark where I had stopped before.",
+  "point": "用动作显示重新建立信心",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Bicycles can have different colors.",
+   "On the third try I loosened my grip and pedaled past the mark where I had stopped before.",
+   "I was brave because I had bravery."
+  ],
+  "source": "editor:51"
+ },
+ {
+  "id": "WF1758",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "第二次举手｜日记\n写一次第一次提问没听懂、再次追问才弄明白的经过。哪一句最能完成这一步：写清第二次追问的价值？",
+  "cn": "第二次举手",
+  "slots": [
+   [
+    "This time I asked which line had changed, and the missing step finally made sense."
+   ]
+  ],
+  "why": "这一步需要写清第二次追问的价值。所选句用具体内容回应了题目要求：This time I asked which line had changed, and the missing step finally made sense.",
+  "point": "写清第二次追问的价值",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Everyone in the room understood everything.",
+   "Questions are things we ask.",
+   "This time I asked which line had changed, and the missing step finally made sense."
+  ],
+  "source": "editor:52"
+ },
+ {
+  "id": "WF1759",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "训练后的过街路段｜建议信\n给教练说明放学后某处路口视线受阻的情况，提出可行集合点。哪一句最能完成这一步：为训练后集合提出具体地点？",
+  "cn": "训练后的过街路段",
+  "slots": [
+   [
+    "Could we meet outside the library, where the parked vans no longer block our view of the crossing?"
+   ]
+  ],
+  "why": "这一步需要为训练后集合提出具体地点。所选句用具体内容回应了题目要求：Could we meet outside the library, where the parked vans no longer block our view of the crossing?",
+  "point": "为训练后集合提出具体地点",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Many people go to libraries.",
+   "We should gather somewhere better someday.",
+   "Could we meet outside the library, where the parked vans no longer block our view of the crossing?"
+  ],
+  "source": "editor:53"
+ },
+ {
+  "id": "WF1760",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "又迟到了｜道歉信\n向排练伙伴说明迟到对他们的具体影响，并提出下次可验证的改进。哪一句最能完成这一步：道歉时承认给同伴带来的影响？",
+  "cn": "又迟到了",
+  "slots": [
+   [
+    "Because I arrived late, you had to repeat the entire first scene; I will set an earlier reminder tomorrow."
+   ]
+  ],
+  "why": "这一步需要道歉时承认给同伴带来的影响。所选句用具体内容回应了题目要求：Because I arrived late, you had to repeat the entire first scene; I will set an earlier reminder tomorrow.",
+  "point": "道歉时承认给同伴带来的影响",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Nobody should mind waiting for me.",
+   "Being late means arriving after the time.",
+   "Because I arrived late, you had to repeat the entire first scene; I will set an earlier reminder tomorrow."
+  ],
+  "source": "editor:54"
+ },
+ {
+  "id": "WF1761",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "值得修改的规则｜观点表达\n举例解释某条班规的原意及意外后果，提出保留原意的改法。哪一句最能完成这一步：说明改规则时如何保留原意？",
+  "cn": "值得修改的规则",
+  "slots": [
+   [
+    "Keep the quiet period, but let students with urgent questions write a note to the teacher."
+   ]
+  ],
+  "why": "这一步需要说明改规则时如何保留原意。所选句用具体内容回应了题目要求：Keep the quiet period, but let students with urgent questions write a note to the teacher.",
+  "point": "说明改规则时如何保留原意",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Rules have existed for a long time.",
+   "Remove all rules and everything will work.",
+   "Keep the quiet period, but let students with urgent questions write a note to the teacher."
+  ],
+  "source": "editor:55"
+ },
+ {
+  "id": "WF1762",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "交换生的午餐｜邀请信\n邀请交换生参加午餐交流，请对方带来一个家乡饮食故事并说明用餐安排。哪一句最能完成这一步：邀请对方分享家乡饮食故事？",
+  "cn": "交换生的午餐",
+  "slots": [
+   [
+    "Would you tell us about a dish your family makes on special days when we meet for lunch?"
+   ]
+  ],
+  "why": "这一步需要邀请对方分享家乡饮食故事。所选句用具体内容回应了题目要求：Would you tell us about a dish your family makes on special days when we meet for lunch?",
+  "point": "邀请对方分享家乡饮食故事",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Come and give a speech about absolutely everything.",
+   "Would you tell us about a dish your family makes on special days when we meet for lunch?",
+   "Lunch happens in the middle of the day."
+  ],
+  "source": "editor:56"
+ },
+ {
+  "id": "WF1763",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "听起来失礼的词｜书信\n向笔友复述一次文化误解，解释双方怎样澄清本意。哪一句最能完成这一步：用双方解释澄清误会？",
+  "cn": "听起来失礼的词",
+  "slots": [
+   [
+    "I thought the phrase sounded cold until Eva explained that her family uses it as a friendly joke."
+   ]
+  ],
+  "why": "这一步需要用双方解释澄清误会。所选句用具体内容回应了题目要求：I thought the phrase sounded cold until Eva explained that her family uses it as a friendly joke.",
+  "point": "用双方解释澄清误会",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "One of us had to be a terrible person.",
+   "I thought the phrase sounded cold until Eva explained that her family uses it as a friendly joke.",
+   "Words are made of letters."
+  ],
+  "source": "editor:57"
+ },
+ {
+  "id": "WF1764",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "午饭后的灯｜问题与解决办法\n分析教室空着却亮灯的原因，提出将责任分配到人的办法。哪一句最能完成这一步：把节能责任落实到人？",
+  "cn": "午饭后的灯",
+  "slots": [
+   [
+    "The last student on lunch duty can check the lights before closing the door."
+   ]
+  ],
+  "why": "这一步需要把节能责任落实到人。所选句用具体内容回应了题目要求：The last student on lunch duty can check the lights before closing the door.",
+  "point": "把节能责任落实到人",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The last student on lunch duty can check the lights before closing the door.",
+   "Someone somewhere should remember electricity.",
+   "Lights are sometimes bright."
+  ],
+  "source": "editor:58"
+ },
+ {
+  "id": "WF1765",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "纸张的另一面｜海报和活动介绍\n为草稿纸回收角设计海报，举例说明哪些纸可以放入、哪些应排除。哪一句最能完成这一步：说明哪些纸不能投入回收角？",
+  "cn": "纸张的另一面",
+  "slots": [
+   [
+    "Leave out sheets with names or phone numbers, even when one side is blank."
+   ]
+  ],
+  "why": "这一步需要说明哪些纸不能投入回收角。所选句用具体内容回应了题目要求：Leave out sheets with names or phone numbers, even when one side is blank.",
+  "point": "说明哪些纸不能投入回收角",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Every scrap must go in, whatever is written on it.",
+   "Paper is often white.",
+   "Leave out sheets with names or phone numbers, even when one side is blank."
+  ],
+  "source": "editor:59"
+ },
+ {
+  "id": "WF1766",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "不用手机的一顿饭｜利弊分析\n讨论家庭吃饭时集中收起手机的好处及紧急联系的例外情况。哪一句最能完成这一步：提出用餐时收起手机的合理例外？",
+  "cn": "不用手机的一顿饭",
+  "slots": [
+   [
+    "We could keep phones off the table while allowing the parent on call to hear urgent messages."
+   ]
+  ],
+  "why": "这一步需要提出用餐时收起手机的合理例外。所选句用具体内容回应了题目要求：We could keep phones off the table while allowing the parent on call to hear urgent messages.",
+  "point": "提出用餐时收起手机的合理例外",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "If one person needs a phone, conversation is impossible.",
+   "We could keep phones off the table while allowing the parent on call to hear urgent messages.",
+   "Many homes have tables."
+  ],
+  "source": "editor:60"
+ },
+ {
+  "id": "WF1767",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "选第一台平板｜事物比较\n从阅读和做笔记两种用途比较两款设想的设备，说明你的预算限制。哪一句最能完成这一步：按两种用途和预算比较设备？",
+  "cn": "选第一台平板",
+  "slots": [
+   [
+    "The lighter tablet suits reading on the bus, but the cheaper one leaves enough money for a writing pen."
+   ]
+  ],
+  "why": "这一步需要按两种用途和预算比较设备。所选句用具体内容回应了题目要求：The lighter tablet suits reading on the bus, but the cheaper one leaves enough money for a writing pen.",
+  "point": "按两种用途和预算比较设备",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The lighter tablet suits reading on the bus, but the cheaper one leaves enough money for a writing pen.",
+   "I like the one I like more.",
+   "Both products appeared in a store."
+  ],
+  "source": "editor:61"
+ },
+ {
+  "id": "WF1768",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "离开的社团｜个人经历\n解释退出社团的具体原因，写出你仍愿意保留的一项收获。哪一句最能完成这一步：交代退社后仍保留的收获？",
+  "cn": "离开的社团",
+  "slots": [
+   [
+    "I left when rehearsals clashed with my bus schedule, but I still use the breathing exercise before talks."
+   ]
+  ],
+  "why": "这一步需要交代退社后仍保留的收获。所选句用具体内容回应了题目要求：I left when rehearsals clashed with my bus schedule, but I still use the breathing exercise before talks.",
+  "point": "交代退社后仍保留的收获",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Leaving meant I learned nothing there.",
+   "I left when rehearsals clashed with my bus schedule, but I still use the breathing exercise before talks.",
+   "There are many clubs at school."
+  ],
+  "source": "editor:62"
+ },
+ {
+  "id": "WF1769",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "纸做的桥｜事件描述\n报道社团纸桥挑战，说明一次失败、一次调整以及观察到的结果。哪一句最能完成这一步：写出纸桥调整后的观察？",
+  "cn": "纸做的桥",
+  "slots": [
+   [
+    "After we folded the flat sheet into ridges, the bridge held three more coins before bending."
+   ]
+  ],
+  "why": "这一步需要写出纸桥调整后的观察。所选句用具体内容回应了题目要求：After we folded the flat sheet into ridges, the bridge held three more coins before bending.",
+  "point": "写出纸桥调整后的观察",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "After we folded the flat sheet into ridges, the bridge held three more coins before bending.",
+   "Our bridge was the best because we liked it.",
+   "Paper can sometimes be interesting."
+  ],
+  "source": "editor:63"
+ },
+ {
+  "id": "WF1770",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "没人坐的长椅｜现象分析\n根据一天中两次观察提出可能原因，并说明还需要了解什么。哪一句最能完成这一步：区分观察结果与待验证原因？",
+  "cn": "没人坐的长椅",
+  "slots": [
+   [
+    "The bench was empty at noon and full after four, so I want to check whether shade explains the change."
+   ]
+  ],
+  "why": "这一步需要区分观察结果与待验证原因。所选句用具体内容回应了题目要求：The bench was empty at noon and full after four, so I want to check whether shade explains the change.",
+  "point": "区分观察结果与待验证原因",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The bench was empty at noon and full after four, so I want to check whether shade explains the change.",
+   "Two visits prove that everyone dislikes sunlight.",
+   "Benches are usually made for sitting."
+  ],
+  "source": "editor:64"
+ },
+ {
+  "id": "WF1771",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "给新邻居的欢迎卡｜书信\n告诉新邻居附近两处实用设施的位置，并邀请对方参加一项活动。哪一句最能完成这一步：给新邻居实用的方向指引？",
+  "cn": "给新邻居的欢迎卡",
+  "slots": [
+   [
+    "The clinic is opposite the post office, and the Saturday market is one block beyond it."
+   ]
+  ],
+  "why": "这一步需要给新邻居实用的方向指引。所选句用具体内容回应了题目要求：The clinic is opposite the post office, and the Saturday market is one block beyond it.",
+  "point": "给新邻居实用的方向指引",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Our area has many things in many places.",
+   "The clinic is opposite the post office, and the Saturday market is one block beyond it.",
+   "Some neighborhoods have houses."
+  ],
+  "source": "editor:65"
+ },
+ {
+  "id": "WF1772",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "想象未来的厨房｜地点介绍\n从使用者视角介绍两项未来厨房设施，并指出一项仍适合人工完成的工作。哪一句最能完成这一步：指出未来厨房里保留的人工选择？",
+  "cn": "想象未来的厨房",
+  "slots": [
+   [
+    "A cooker could set the heat, but I would still taste the sauce before adding salt."
+   ]
+  ],
+  "why": "这一步需要指出未来厨房里保留的人工选择。所选句用具体内容回应了题目要求：A cooker could set the heat, but I would still taste the sauce before adding salt.",
+  "point": "指出未来厨房里保留的人工选择",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A cooker could set the heat, but I would still taste the sauce before adding salt.",
+   "Kitchens may contain things.",
+   "Every possible task will certainly disappear."
+  ],
+  "source": "editor:66"
+ },
+ {
+  "id": "WF1773",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "明天才送出的信｜故事续写\n以 The date on the envelope was tomorrow. 开头，用前文留下的线索解释日期。哪一句最能完成这一步：用线索解释信封上的未来日期？",
+  "cn": "明天才送出的信",
+  "slots": [
+   [
+    "Inside was a rehearsal schedule; the date on the envelope marked the performance, not the delivery."
+   ]
+  ],
+  "why": "这一步需要用线索解释信封上的未来日期。所选句用具体内容回应了题目要求：Inside was a rehearsal schedule; the date on the envelope marked the performance, not the delivery.",
+  "point": "用线索解释信封上的未来日期",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Inside was a rehearsal schedule; the date on the envelope marked the performance, not the delivery.",
+   "Future dates are always mysterious forever.",
+   "The envelope was an envelope."
+  ],
+  "source": "editor:67"
+ },
+ {
+  "id": "WF1774",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "雨伞架上的误会｜道歉信\n解释为什么错拿雨伞，用两处特征说明如何辨认并约定交换地点。哪一句最能完成这一步：用特征辨认错拿的雨伞？",
+  "cn": "雨伞架上的误会",
+  "slots": [
+   [
+    "Mine has a wooden handle and one bent spoke; yours has the same blue cloth but a silver handle."
+   ]
+  ],
+  "why": "这一步需要用特征辨认错拿的雨伞。所选句用具体内容回应了题目要求：Mine has a wooden handle and one bent spoke; yours has the same blue cloth but a silver handle.",
+  "point": "用特征辨认错拿的雨伞",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I definitely know what every umbrella looks like.",
+   "Both umbrellas are umbrellas.",
+   "Mine has a wooden handle and one bent spoke; yours has the same blue cloth but a silver handle."
+  ],
+  "source": "editor:68"
+ },
+ {
+  "id": "WF1775",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "合照中的空位｜图片描述\n选一张合照，描述人群站位，区分可见细节与对空位原因的猜测。哪一句最能完成这一步：谨慎描述合照中的空位？",
+  "cn": "合照中的空位",
+  "slots": [
+   [
+    "There is a gap beside the coach; perhaps the photographer plans to stand there for a second shot."
+   ]
+  ],
+  "why": "这一步需要谨慎描述合照中的空位。所选句用具体内容回应了题目要求：There is a gap beside the coach; perhaps the photographer plans to stand there for a second shot.",
+  "point": "谨慎描述合照中的空位",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The gap proves that two teammates had an argument.",
+   "Photographs are taken with cameras.",
+   "There is a gap beside the coach; perhaps the photographer plans to stand there for a second shot."
+  ],
+  "source": "editor:69"
+ },
+ {
+  "id": "WF1776",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "拥挤的练习室｜申请信\n向活动中心申请错峰使用练习室，解释时间选择和清理安排。哪一句最能完成这一步：申请排练室时提出错峰与清理安排？",
+  "cn": "拥挤的练习室",
+  "slots": [
+   [
+    "We could use the room after the choir leaves at five and stack the chairs before six."
+   ]
+  ],
+  "why": "这一步需要申请排练室时提出错峰与清理安排。所选句用具体内容回应了题目要求：We could use the room after the choir leaves at five and stack the chairs before six.",
+  "point": "申请排练室时提出错峰与清理安排",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "We need the room whenever anyone else wants it.",
+   "We could use the room after the choir leaves at five and stack the chairs before six.",
+   "Practice is a word we all know."
+  ],
+  "source": "editor:70"
+ },
+ {
+  "id": "WF1777",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "有限预算的早餐｜个人建议\n给同桌设计两种上学日早餐，按准备时间和携带是否方便作比较。哪一句最能完成这一步：比较早餐的携带便利性？",
+  "cn": "有限预算的早餐",
+  "slots": [
+   [
+    "The roll fits in a paper bag, while the soup would need a container with a tight lid."
+   ]
+  ],
+  "why": "这一步需要比较早餐的携带便利性。所选句用具体内容回应了题目要求：The roll fits in a paper bag, while the soup would need a container with a tight lid.",
+  "point": "比较早餐的携带便利性",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "I enjoy food because I like eating.",
+   "The roll fits in a paper bag, while the soup would need a container with a tight lid.",
+   "Every breakfast costs the same everywhere."
+  ],
+  "source": "editor:71"
+ },
+ {
+  "id": "WF1778",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "剧场里最安静的岗位｜人物介绍\n介绍一位幕后工作人员，用开演前后的两个动作说明其价值。哪一句最能完成这一步：用后台动作体现工作人员的作用？",
+  "cn": "剧场里最安静的岗位",
+  "slots": [
+   [
+    "She waited for the actor's last word before lowering the curtain so the audience could hear the ending."
+   ]
+  ],
+  "why": "这一步需要用后台动作体现工作人员的作用。所选句用具体内容回应了题目要求：She waited for the actor's last word before lowering the curtain so the audience could hear the ending.",
+  "point": "用后台动作体现工作人员的作用",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "It was a very theatrical theater.",
+   "She works at a theater that shows plays.",
+   "She waited for the actor's last word before lowering the curtain so the audience could hear the ending."
+  ],
+  "source": "editor:72"
+ },
+ {
+  "id": "WF1779",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "河流转弯处｜地点介绍\n为第一次散步的人写路线，描写一个地标并说明从哪里折返。哪一句最能完成这一步：用地标说明散步折返点？",
+  "cn": "河流转弯处",
+  "slots": [
+   [
+    "When the path reaches the red footbridge, turn back before the unmarked track begins."
+   ]
+  ],
+  "why": "这一步需要用地标说明散步折返点。所选句用具体内容回应了题目要求：When the path reaches the red footbridge, turn back before the unmarked track begins.",
+  "point": "用地标说明散步折返点",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Rivers often have water.",
+   "When the path reaches the red footbridge, turn back before the unmarked track begins.",
+   "Walk until you feel like walking elsewhere."
+  ],
+  "source": "editor:73"
+ },
+ {
+  "id": "WF1780",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "模拟面试｜求助信\n请英语老师安排一次模拟面试，说明申请的岗位和最需练习的环节。哪一句最能完成这一步：给模拟面试设定练习重点？",
+  "cn": "模拟面试",
+  "slots": [
+   [
+    "Could we practice explaining my repair project, especially when the interviewer asks what went wrong?"
+   ]
+  ],
+  "why": "这一步需要给模拟面试设定练习重点。所选句用具体内容回应了题目要求：Could we practice explaining my repair project, especially when the interviewer asks what went wrong?",
+  "point": "给模拟面试设定练习重点",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Please tell me everything about all careers.",
+   "Interviews involve people talking.",
+   "Could we practice explaining my repair project, especially when the interviewer asks what went wrong?"
+  ],
+  "source": "editor:74"
+ },
+ {
+  "id": "WF1781",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "缺少的页码｜问题与解决办法\n解释班级手册缺页码给新生造成的困难，提出可测试的修订办法。哪一句最能完成这一步：提出可测试的手册改进？",
+  "cn": "缺少的页码",
+  "slots": [
+   [
+    "Add page numbers to the contents list, then ask two new students to find the club rules without help."
+   ]
+  ],
+  "why": "这一步需要提出可测试的手册改进。所选句用具体内容回应了题目要求：Add page numbers to the contents list, then ask two new students to find the club rules without help.",
+  "point": "提出可测试的手册改进",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Add page numbers to the contents list, then ask two new students to find the club rules without help.",
+   "Make the handbook generally much better somehow.",
+   "A handbook is a kind of book."
+  ],
+  "source": "editor:75"
+ },
+ {
+  "id": "WF1782",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "用一周的袋子｜日记\n比较周初和周末携带物品的变化，写出一样意外常用的东西。哪一句最能完成这一步：通过前后比较写出背包用途变化？",
+  "cn": "用一周的袋子",
+  "slots": [
+   [
+    "On Monday I nearly unpacked the spare bag; by Friday I was using it daily for damp sports clothes."
+   ]
+  ],
+  "why": "这一步需要通过前后比较写出背包用途变化。所选句用具体内容回应了题目要求：On Monday I nearly unpacked the spare bag; by Friday I was using it daily for damp sports clothes.",
+  "point": "通过前后比较写出背包用途变化",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "On Monday I nearly unpacked the spare bag; by Friday I was using it daily for damp sports clothes.",
+   "My bag is a bag that I carry.",
+   "The week had several days."
+  ],
+  "source": "editor:76"
+ },
+ {
+  "id": "WF1783",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "队长当替补的那天｜事件描述\n从队友视角讲述队长无法上场后怎样帮助大家完成比赛。哪一句最能完成这一步：用具体行动写替补队长的贡献？",
+  "cn": "队长当替补的那天",
+  "slots": [
+   [
+    "From the bench he signaled the unguarded corner, and our next pass reached it."
+   ]
+  ],
+  "why": "这一步需要用具体行动写替补队长的贡献。所选句用具体内容回应了题目要求：From the bench he signaled the unguarded corner, and our next pass reached it.",
+  "point": "用具体行动写替补队长的贡献",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "From the bench he signaled the unguarded corner, and our next pass reached it.",
+   "The team played a team game.",
+   "A captain should always be important."
+  ],
+  "source": "editor:77"
+ },
+ {
+  "id": "WF1784",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "散场后的致谢｜感谢信\n感谢为演出做字幕的同学，用观众的一次反应说明字幕的作用。哪一句最能完成这一步：用观众反应说明字幕的作用？",
+  "cn": "散场后的致谢",
+  "slots": [
+   [
+    "When the caption showed the whispered joke, the back row laughed with everyone else."
+   ]
+  ],
+  "why": "这一步需要用观众反应说明字幕的作用。所选句用具体内容回应了题目要求：When the caption showed the whispered joke, the back row laughed with everyone else.",
+  "point": "用观众反应说明字幕的作用",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Shows usually have an audience.",
+   "Thank you for the thing that you did.",
+   "When the caption showed the whispered joke, the back row laughed with everyone else."
+  ],
+  "source": "editor:78"
+ },
+ {
+  "id": "WF1785",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "挑选班级吉祥物｜观点表达\n推荐一个动物或物品作吉祥物，用班级共同经历回应可能的反对意见。哪一句最能完成这一步：回应对吉祥物选择的异议？",
+  "cn": "挑选班级吉祥物",
+  "slots": [
+   [
+    "A snail may seem slow, but it fits the month our class spent patiently restoring the garden."
+   ]
+  ],
+  "why": "这一步需要回应对吉祥物选择的异议。所选句用具体内容回应了题目要求：A snail may seem slow, but it fits the month our class spent patiently restoring the garden.",
+  "point": "回应对吉祥物选择的异议",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "A snail may seem slow, but it fits the month our class spent patiently restoring the garden.",
+   "Everyone who dislikes snails is wrong.",
+   "Animals come in different sizes."
+  ],
+  "source": "editor:79"
+ },
+ {
+  "id": "WF1786",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "校园声音地图｜海报和活动介绍\n邀请同学收集三处校园声音，写明录制边界和作品提交方式。哪一句最能完成这一步：说明录音活动的边界？",
+  "cn": "校园声音地图",
+  "slots": [
+   [
+    "Record the bell and the gate, but ask permission before including anyone's conversation."
+   ]
+  ],
+  "why": "这一步需要说明录音活动的边界。所选句用具体内容回应了题目要求：Record the bell and the gate, but ask permission before including anyone's conversation.",
+  "point": "说明录音活动的边界",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Record everything people say without asking.",
+   "Record the bell and the gate, but ask permission before including anyone's conversation.",
+   "Sound can be loud or soft."
+  ],
+  "source": "editor:80"
+ },
+ {
+  "id": "WF1787",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "列车晚点通知｜通知\n替车站服务台写简短通知，说明受影响车次、新等候地点及后续更新渠道。哪一句最能完成这一步：为等候旅客给出明确更新渠道？",
+  "cn": "列车晚点通知",
+  "slots": [
+   [
+    "Passengers for train K18 should wait in Hall B; the next update will appear on its board at ten."
+   ]
+  ],
+  "why": "这一步需要为等候旅客给出明确更新渠道。所选句用具体内容回应了题目要求：Passengers for train K18 should wait in Hall B; the next update will appear on its board at ten.",
+  "point": "为等候旅客给出明确更新渠道",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Railways are important to many people.",
+   "Passengers for train K18 should wait in Hall B; the next update will appear on its board at ten.",
+   "Some trains might go somewhere later."
+  ],
+  "source": "editor:81"
+ },
+ {
+  "id": "WF1788",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "第一次远足前｜建议信\n给初次参加远足的朋友写信，根据预计天气和距离说明要带哪两件物品。哪一句最能完成这一步：根据天气解释远足装备选择？",
+  "cn": "第一次远足前",
+  "slots": [
+   [
+    "With showers expected and no shelter on the ridge, pack a light raincoat near the top of your bag."
+   ]
+  ],
+  "why": "这一步需要根据天气解释远足装备选择。所选句用具体内容回应了题目要求：With showers expected and no shelter on the ridge, pack a light raincoat near the top of your bag.",
+  "point": "根据天气解释远足装备选择",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Outdoor activities are outdoors.",
+   "With showers expected and no shelter on the ridge, pack a light raincoat near the top of your bag.",
+   "Bring every item you have ever owned."
+  ],
+  "source": "editor:82"
+ },
+ {
+  "id": "WF1789",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "小票上的画｜故事续写\n以 She turned the receipt over. 开头，让背面图案帮助主人公解决前一个场景中的困难。哪一句最能完成这一步：让小票背面的画解决具体困难？",
+  "cn": "小票上的画",
+  "slots": [
+   [
+    "The sketch matched the crooked arch ahead, showing her which of the two lanes led back to the shop."
+   ]
+  ],
+  "why": "这一步需要让小票背面的画解决具体困难。所选句用具体内容回应了题目要求：The sketch matched the crooked arch ahead, showing her which of the two lanes led back to the shop.",
+  "point": "让小票背面的画解决具体困难",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Receipts usually show a price.",
+   "The sketch matched the crooked arch ahead, showing her which of the two lanes led back to the shop.",
+   "She looked at the drawing and everything was nice."
+  ],
+  "source": "editor:83"
+ },
+ {
+  "id": "WF1790",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "愿意等待的辅导员｜感谢信\n描述一次对方没有直接给答案的辅导，指出哪个提问促成了你的发现。哪一句最能完成这一步：感谢引导思考的问题？",
+  "cn": "愿意等待的辅导员",
+  "slots": [
+   [
+    "When you asked what stayed the same in both examples, I saw the rule without being told the answer."
+   ]
+  ],
+  "why": "这一步需要感谢引导思考的问题。所选句用具体内容回应了题目要求：When you asked what stayed the same in both examples, I saw the rule without being told the answer.",
+  "point": "感谢引导思考的问题",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "When you asked what stayed the same in both examples, I saw the rule without being told the answer.",
+   "You are good because you are good.",
+   "It was an ordinary day of the week."
+  ],
+  "source": "editor:84"
+ },
+ {
+  "id": "WF1791",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "集市遇雨｜图片描述\n根据一张雨景照片描写摊位和人们的动作，再推测下一刻会发生什么。哪一句最能完成这一步：用画面细节支持对下一刻的推测？",
+  "cn": "集市遇雨",
+  "slots": [
+   [
+    "The seller is pulling a cover over the fruit, so the stall may close if the rain gets heavier."
+   ]
+  ],
+  "why": "这一步需要用画面细节支持对下一刻的推测。所选句用具体内容回应了题目要求：The seller is pulling a cover over the fruit, so the stall may close if the rain gets heavier.",
+  "point": "用画面细节支持对下一刻的推测",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Markets are places where people buy things.",
+   "The seller is pulling a cover over the fruit, so the stall may close if the rain gets heavier.",
+   "I know exactly what every shopper will do tomorrow."
+  ],
+  "source": "editor:85"
+ },
+ {
+  "id": "WF1792",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "没有标签的瓶子｜故事续写\n写科学展上错放的空样品瓶如何找到主人，用一个可观察的标记解决悬念。哪一句最能完成这一步：用可观察的标记找到瓶子的主人？",
+  "cn": "没有标签的瓶子",
+  "slots": [
+   [
+    "A crescent of blue paint on the base matched the ring on Ada's display stand."
+   ]
+  ],
+  "why": "这一步需要用可观察的标记找到瓶子的主人。所选句用具体内容回应了题目要求：A crescent of blue paint on the base matched the ring on Ada's display stand.",
+  "point": "用可观察的标记找到瓶子的主人",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Science is a very broad subject.",
+   "A crescent of blue paint on the base matched the ring on Ada's display stand.",
+   "The bottle belonged to someone because someone owned it."
+  ],
+  "source": "editor:86"
+ },
+ {
+  "id": "WF1793",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "窗边的图书｜通知\n向班级说明临时移动图书角的原因，注明借还地点及调整期限。哪一句最能完成这一步：通知中交代临时借书地点？",
+  "cn": "窗边的图书",
+  "slots": [
+   [
+    "Until the window is repaired on Friday, please borrow and return class books at the back desk."
+   ]
+  ],
+  "why": "这一步需要通知中交代临时借书地点。所选句用具体内容回应了题目要求：Until the window is repaired on Friday, please borrow and return class books at the back desk.",
+  "point": "通知中交代临时借书地点",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The class enjoys many books.",
+   "Books will be somewhere different for a while.",
+   "Until the window is repaired on Friday, please borrow and return class books at the back desk."
+  ],
+  "source": "editor:87"
+ },
+ {
+  "id": "WF1794",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "家人的语音留言｜电子邮件\n向远方亲友回复一则留言，回答一个问题并讲述家中一件小变化。哪一句最能完成这一步：既回答留言又介绍近况？",
+  "cn": "家人的语音留言",
+  "slots": [
+   [
+    "Yes, the lemon tree survived the cold; this morning we spotted its first white flower."
+   ]
+  ],
+  "why": "这一步需要既回答留言又介绍近况。所选句用具体内容回应了题目要求：Yes, the lemon tree survived the cold; this morning we spotted its first white flower.",
+  "point": "既回答留言又介绍近况",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Yes, the lemon tree survived the cold; this morning we spotted its first white flower.",
+   "All trees are plants.",
+   "I am writing a message to send you a message."
+  ],
+  "source": "editor:88"
+ },
+ {
+  "id": "WF1795",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "重新设计的游戏｜事件描述\n说明一位同学为何难以参加原游戏，描述修改的一条规则及实际效果。哪一句最能完成这一步：用实际效果说明游戏规则改动？",
+  "cn": "重新设计的游戏",
+  "slots": [
+   [
+    "Once we allowed passes from a seated position, Jia could join every round instead of keeping score."
+   ]
+  ],
+  "why": "这一步需要用实际效果说明游戏规则改动。所选句用具体内容回应了题目要求：Once we allowed passes from a seated position, Jia could join every round instead of keeping score.",
+  "point": "用实际效果说明游戏规则改动",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Our new rule was new and good.",
+   "Once we allowed passes from a seated position, Jia could join every round instead of keeping score.",
+   "Games are popular with students."
+  ],
+  "source": "editor:89"
+ },
+ {
+  "id": "WF1796",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "家的味道｜个人经历\n用一种气味引出回忆，用一道菜或一处地点把过去与现在联系起来。哪一句最能完成这一步：用气味把回忆接到眼前？",
+  "cn": "家的味道",
+  "slots": [
+   [
+    "The ginger rising from my cup brought back Grandma's kitchen, though I was sitting on a crowded train."
+   ]
+  ],
+  "why": "这一步需要用气味把回忆接到眼前。所选句用具体内容回应了题目要求：The ginger rising from my cup brought back Grandma's kitchen, though I was sitting on a crowded train.",
+  "point": "用气味把回忆接到眼前",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The ginger rising from my cup brought back Grandma's kitchen, though I was sitting on a crowded train.",
+   "Some journeys last longer than others.",
+   "Home is a place that feels like home."
+  ],
+  "source": "editor:90"
+ },
+ {
+  "id": "WF1797",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "提前一站下车｜日记\n记录提前下车步行的一次尝试，写出路上发现和时间上的代价。哪一句最能完成这一步：把步行观察与时间代价写在一起？",
+  "cn": "提前一站下车",
+  "slots": [
+   [
+    "The extra walk took twelve minutes, but I finally noticed the small garden behind the station."
+   ]
+  ],
+  "why": "这一步需要把步行观察与时间代价写在一起。所选句用具体内容回应了题目要求：The extra walk took twelve minutes, but I finally noticed the small garden behind the station.",
+  "point": "把步行观察与时间代价写在一起",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Walking is something people do with their feet.",
+   "Today was a day like a day.",
+   "The extra walk took twelve minutes, but I finally noticed the small garden behind the station."
+  ],
+  "source": "editor:91"
+ },
+ {
+  "id": "WF1798",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "失物认领桌｜海报和活动介绍\n设计认领日海报，说明地点、开放时段及证明物品属于自己的方式。哪一句最能完成这一步：说明失物认领的核对办法？",
+  "cn": "失物认领桌",
+  "slots": [
+   [
+    "Before collecting an item, describe one detail that we have left out of the notice."
+   ]
+  ],
+  "why": "这一步需要说明失物认领的核对办法。所选句用具体内容回应了题目要求：Before collecting an item, describe one detail that we have left out of the notice.",
+  "point": "说明失物认领的核对办法",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Before collecting an item, describe one detail that we have left out of the notice.",
+   "Take anything on the table that looks useful.",
+   "A lost item is an item that is lost."
+  ],
+  "source": "editor:92"
+ },
+ {
+  "id": "WF1799",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "学来的小习惯｜个人经历\n介绍从同学那里学到的一项习惯，给出开始前后可比较的变化。哪一句最能完成这一步：用可比较的结果说明习惯的影响？",
+  "cn": "学来的小习惯",
+  "slots": [
+   [
+    "After I copied Lin's habit of packing at night, I forgot my ruler only once in a month."
+   ]
+  ],
+  "why": "这一步需要用可比较的结果说明习惯的影响。所选句用具体内容回应了题目要求：After I copied Lin's habit of packing at night, I forgot my ruler only once in a month.",
+  "point": "用可比较的结果说明习惯的影响",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Good habits are very good habits.",
+   "My classmate owns a schoolbag.",
+   "After I copied Lin's habit of packing at night, I forgot my ruler only once in a month."
+  ],
+  "source": "editor:93"
+ },
+ {
+  "id": "WF1800",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "无人驻足的海报｜现象分析\n比较海报张贴位置和字号对阅读的影响，提出一次只改一个因素的尝试。哪一句最能完成这一步：设计只改变一个因素的尝试？",
+  "cn": "无人驻足的海报",
+  "slots": [
+   [
+    "Leave the poster in the same spot for a week and enlarge only the print before counting readers again."
+   ]
+  ],
+  "why": "这一步需要设计只改变一个因素的尝试。所选句用具体内容回应了题目要求：Leave the poster in the same spot for a week and enlarge only the print before counting readers again.",
+  "point": "设计只改变一个因素的尝试",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Leave the poster in the same spot for a week and enlarge only the print before counting readers again.",
+   "Move it, rewrite it and change its size all at once to test the font alone.",
+   "Posters often contain words."
+  ],
+  "source": "editor:94"
+ },
+ {
+  "id": "WF1801",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "只有一小时的访客｜建议信\n替外地同学安排一小时校园参观，说明舍弃哪个地点以及原因。哪一句最能完成这一步：说明一小时参观路线的取舍？",
+  "cn": "只有一小时的访客",
+  "slots": [
+   [
+    "Skip the distant field this time so we can see the workshop in action before the bell."
+   ]
+  ],
+  "why": "这一步需要说明一小时参观路线的取舍。所选句用具体内容回应了题目要求：Skip the distant field this time so we can see the workshop in action before the bell.",
+  "point": "说明一小时参观路线的取舍",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "The campus has quite a few places.",
+   "Skip the distant field this time so we can see the workshop in action before the bell.",
+   "Visit every building no matter how much time it takes."
+  ],
+  "source": "editor:95"
+ },
+ {
+  "id": "WF1802",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "更公平的分组｜问题与解决办法\n指出只按熟悉程度选队友可能遗漏谁，提出兼顾专长与参与度的办法。哪一句最能完成这一步：给不熟悉的同学留下参与机会？",
+  "cn": "更公平的分组",
+  "slots": [
+   [
+    "Let students list one skill they can offer before captains pick people by name."
+   ]
+  ],
+  "why": "这一步需要给不熟悉的同学留下参与机会。所选句用具体内容回应了题目要求：Let students list one skill they can offer before captains pick people by name.",
+  "point": "给不熟悉的同学留下参与机会",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Teams consist of several people.",
+   "Always choose the same group of friends.",
+   "Let students list one skill they can offer before captains pick people by name."
+  ],
+  "source": "editor:96"
+ },
+ {
+  "id": "WF1803",
+  "level": 2,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "致下一任班长｜书信\n给下一任班长留一封信，说明一个容易被忽视的日常任务及完成窍门。哪一句最能完成这一步：向下任班长传授可执行的窍门？",
+  "cn": "致下一任班长",
+  "slots": [
+   [
+    "Check the notice board before morning registration; a photo makes later reminders easier."
+   ]
+  ],
+  "why": "这一步需要向下任班长传授可执行的窍门。所选句用具体内容回应了题目要求：Check the notice board before morning registration; a photo makes later reminders easier.",
+  "point": "向下任班长传授可执行的窍门",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Our class has a board on the wall.",
+   "Check the notice board before morning registration; a photo makes later reminders easier.",
+   "Being a monitor means being a monitor."
+  ],
+  "source": "editor:97"
+ },
+ {
+  "id": "WF1804",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "同一天的两种结尾｜事物比较\n比较独处和与朋友见面两种放学安排，根据疲劳程度说明各自价值。哪一句最能完成这一步：根据疲劳程度比较两种放学安排？",
+  "cn": "同一天的两种结尾",
+  "slots": [
+   [
+    "After a noisy day I prefer a quiet walk, but when I feel isolated a short visit helps more."
+   ]
+  ],
+  "why": "这一步需要根据疲劳程度比较两种放学安排。所选句用具体内容回应了题目要求：After a noisy day I prefer a quiet walk, but when I feel isolated a short visit helps more.",
+  "point": "根据疲劳程度比较两种放学安排",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "Friends are people we know.",
+   "After a noisy day I prefer a quiet walk, but when I feel isolated a short visit helps more.",
+   "Both endings are equally different in the same way."
+  ],
+  "source": "editor:98"
+ },
+ {
+  "id": "WF1805",
+  "level": 3,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "能兑现的承诺｜演讲稿\n在班会上提出一项持续两周的承诺，说明怎样记录、怎样让同学核对。哪一句最能完成这一步：让承诺可由同学核对？",
+  "cn": "能兑现的承诺",
+  "slots": [
+   [
+    "For the next two weeks I will date each entry and show the reading log to my partner on Fridays."
+   ]
+  ],
+  "why": "这一步需要让承诺可由同学核对。所选句用具体内容回应了题目要求：For the next two weeks I will date each entry and show the reading log to my partner on Fridays.",
+  "point": "让承诺可由同学核对",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "For the next two weeks I will date each entry and show the reading log to my partner on Fridays.",
+   "I promise to become absolutely perfect immediately.",
+   "Promises should always be promises."
+  ],
+  "source": "editor:99"
+ },
+ {
+  "id": "WF1806",
+  "level": 4,
+  "cat": "写作表达",
+  "kind": "表达选择",
+  "text": "给未来小镇的一个问题｜观点表达\n选择一项未来社区设施，解释它服务的人群、使用方式和一项取舍。哪一句最能完成这一步：说明设施的取舍？",
+  "cn": "给未来小镇的一个问题",
+  "slots": [
+   [
+    "A free repair room would use space that could hold another shop, but residents could fix items they now throw away."
+   ]
+  ],
+  "why": "这一步需要说明设施的取舍。所选句用具体内容回应了题目要求：A free repair room would use space that could hold another shop, but residents could fix items they now throw away.",
+  "point": "说明设施的取舍",
+  "hint": "比较候选句是否回应指定的读者、情境和写作目的。",
+  "tip": "复核自己的答案，再回到原句找依据。",
+  "options": [
+   "My favorite facility is best in every possible way.",
+   "Future towns will exist in the future.",
+   "A free repair room would use space that could hold another shop, but residents could fix items they now throw away."
+  ],
+  "source": "editor:100"
+ }
+]

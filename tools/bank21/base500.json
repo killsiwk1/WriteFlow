@@ -1,0 +1,10574 @@
+[
+ {
+  "id": "WF001",
+  "cat": "单词",
+  "level": 1,
+  "text": "I keep my bus ____ in my pocket.",
+  "slots": [
+   [
+    "ticket"
+   ]
+  ],
+  "cn": "我把公交车票放在口袋里。",
+  "point": "语境选词与拼写",
+  "why": "ticket 在这里表示“车票”。完整句子是 I keep my bus ticket in my pocket.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "helmet",
+   "courtyard",
+   "border",
+   "ticket"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF002",
+  "cat": "时态",
+  "level": 1,
+  "text": "I ____ my bus ticket in my pocket.",
+  "slots": [
+   [
+    "keep"
+   ]
+  ],
+  "cn": "我把公交车票放在口袋里。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 keep。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "to keep",
+   "keep",
+   "will keep",
+   "must keep"
+  ],
+  "hint": "用 keep 的一般现在时形式"
+ },
+ {
+  "id": "WF003",
+  "cat": "单词",
+  "level": 1,
+  "text": "Mia checks the ____ before every trip.",
+  "slots": [
+   [
+    "map"
+   ]
+  ],
+  "cn": "米娅每次出行前都查看地图。",
+  "point": "语境选词与拼写",
+  "why": "map 在这里表示“地图”。完整句子是 Mia checks the map before every trip.",
+  "tip": "留意词形与拼写，目标词共 3 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：a · m · p"
+ },
+ {
+  "id": "WF004",
+  "cat": "时态",
+  "level": 1,
+  "text": "Mia ____ the map before every trip.",
+  "slots": [
+   [
+    "checks"
+   ]
+  ],
+  "cn": "米娅每次出行前都查看地图。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 checks。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 check 的一般现在时形式"
+ },
+ {
+  "id": "WF005",
+  "cat": "单词",
+  "level": 1,
+  "text": "We carry our lunch in a ____.",
+  "slots": [
+   [
+    "basket"
+   ]
+  ],
+  "cn": "我们用篮子装午饭。",
+  "point": "语境选词与拼写",
+  "why": "basket 在这里表示“篮子”。完整句子是 We carry our lunch in a basket.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "salt",
+   "factory",
+   "newspaper",
+   "basket"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF006",
+  "cat": "时态",
+  "level": 1,
+  "text": "We ____ our lunch in a basket.",
+  "slots": [
+   [
+    "carry"
+   ]
+  ],
+  "cn": "我们用篮子装午饭。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 carry。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 carry 的一般现在时形式"
+ },
+ {
+  "id": "WF007",
+  "cat": "单词",
+  "level": 1,
+  "text": "My brother wears a ____ on every bike ride.",
+  "slots": [
+   [
+    "helmet"
+   ]
+  ],
+  "cn": "我哥哥每次骑车都戴头盔。",
+  "point": "语境选词与拼写",
+  "why": "helmet 在这里表示“头盔”。完整句子是 My brother wears a helmet on every bike ride.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · m · e · h · t · l"
+ },
+ {
+  "id": "WF008",
+  "cat": "时态",
+  "level": 1,
+  "text": "My brother ____ a helmet on every bike ride.",
+  "slots": [
+   [
+    "wears"
+   ]
+  ],
+  "cn": "我哥哥每次骑车都戴头盔。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 wears。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 wear 的一般现在时形式"
+ },
+ {
+  "id": "WF009",
+  "cat": "单词",
+  "level": 1,
+  "text": "The shop opens its ____ at nine every morning.",
+  "slots": [
+   [
+    "doors"
+   ]
+  ],
+  "cn": "这家店每天早上九点开门。",
+  "point": "语境选词与拼写",
+  "why": "doors 在这里表示“门”。完整句子是 The shop opens its doors at nine every morning.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "选择",
+  "options": [
+   "map",
+   "doors",
+   "routine",
+   "salt"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF010",
+  "cat": "时态",
+  "level": 1,
+  "text": "The shop ____ its doors at nine every morning.",
+  "slots": [
+   [
+    "opens"
+   ]
+  ],
+  "cn": "这家店每天早上九点开门。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 opens。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "to open",
+   "opens",
+   "will open",
+   "must open"
+  ],
+  "hint": "用 open 的一般现在时形式"
+ },
+ {
+  "id": "WF011",
+  "cat": "单词",
+  "level": 1,
+  "text": "I write new words in my ____.",
+  "slots": [
+   [
+    "notebook"
+   ]
+  ],
+  "cn": "我把生词写在笔记本上。",
+  "point": "语境选词与拼写",
+  "why": "notebook 在这里表示“笔记本”。完整句子是 I write new words in my notebook.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：k · o · t · o · e · b · o · n"
+ },
+ {
+  "id": "WF012",
+  "cat": "时态",
+  "level": 1,
+  "text": "I ____ new words in my notebook.",
+  "slots": [
+   [
+    "write"
+   ]
+  ],
+  "cn": "我把生词写在笔记本上。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 write。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 write 的一般现在时形式"
+ },
+ {
+  "id": "WF013",
+  "cat": "单词",
+  "level": 1,
+  "text": "Grandpa reads the ____ after breakfast.",
+  "slots": [
+   [
+    "newspaper"
+   ]
+  ],
+  "cn": "爷爷早饭后看报纸。",
+  "point": "语境选词与拼写",
+  "why": "newspaper 在这里表示“报纸”。完整句子是 Grandpa reads the newspaper after breakfast.",
+  "tip": "留意词形与拼写，目标词共 9 个字母。",
+  "kind": "选择",
+  "options": [
+   "newspaper",
+   "diary",
+   "winner",
+   "train"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF014",
+  "cat": "时态",
+  "level": 1,
+  "text": "Grandpa ____ the newspaper after breakfast.",
+  "slots": [
+   [
+    "reads"
+   ]
+  ],
+  "cn": "爷爷早饭后看报纸。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 reads。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 read 的一般现在时形式"
+ },
+ {
+  "id": "WF015",
+  "cat": "单词",
+  "level": 1,
+  "text": "Our teacher draws a ____ on the board every Monday.",
+  "slots": [
+   [
+    "circle"
+   ]
+  ],
+  "cn": "老师每周一在黑板上画一个圆。",
+  "point": "语境选词与拼写",
+  "why": "circle 在这里表示“圆”。完整句子是 Our teacher draws a circle on the board every Monday.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · c · c · r · l · i"
+ },
+ {
+  "id": "WF016",
+  "cat": "时态",
+  "level": 1,
+  "text": "Our teacher ____ a circle on the board every Monday.",
+  "slots": [
+   [
+    "draws"
+   ]
+  ],
+  "cn": "老师每周一在黑板上画一个圆。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 draws。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 draw 的一般现在时形式"
+ },
+ {
+  "id": "WF017",
+  "cat": "单词",
+  "level": 1,
+  "text": "The bus stops outside the ____ every day.",
+  "slots": [
+   [
+    "museum"
+   ]
+  ],
+  "cn": "公交车每天在博物馆外停靠。",
+  "point": "语境选词与拼写",
+  "why": "museum 在这里表示“博物馆”。完整句子是 The bus stops outside the museum every day.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "portrait",
+   "worksheet",
+   "strategy",
+   "museum"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF018",
+  "cat": "时态",
+  "level": 1,
+  "text": "The bus ____ outside the museum every day.",
+  "slots": [
+   [
+    "stops"
+   ]
+  ],
+  "cn": "公交车每天在博物馆外停靠。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 stops。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "will stop",
+   "must stop",
+   "stop",
+   "stops"
+  ],
+  "hint": "用 stop 的一般现在时形式"
+ },
+ {
+  "id": "WF019",
+  "cat": "单词",
+  "level": 1,
+  "text": "Sam takes the ____ to class every day.",
+  "slots": [
+   [
+    "stairs"
+   ]
+  ],
+  "cn": "山姆每天走楼梯去上课。",
+  "point": "语境选词与拼写",
+  "why": "stairs 在这里表示“楼梯”。完整句子是 Sam takes the stairs to class every day.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：s · s · i · r · a · t"
+ },
+ {
+  "id": "WF020",
+  "cat": "时态",
+  "level": 1,
+  "text": "Sam ____ the stairs to class every day.",
+  "slots": [
+   [
+    "takes"
+   ]
+  ],
+  "cn": "山姆每天走楼梯去上课。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 takes。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 take 的一般现在时形式"
+ },
+ {
+  "id": "WF021",
+  "cat": "单词",
+  "level": 1,
+  "text": "The kitchen clock loses a ____ each day.",
+  "slots": [
+   [
+    "minute"
+   ]
+  ],
+  "cn": "厨房的钟每天慢一分钟。",
+  "point": "语境选词与拼写",
+  "why": "minute 在这里表示“分钟”。完整句子是 The kitchen clock loses a minute each day.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "plumber",
+   "committee",
+   "debates",
+   "minute"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF022",
+  "cat": "时态",
+  "level": 1,
+  "text": "The kitchen clock ____ a minute each day.",
+  "slots": [
+   [
+    "loses"
+   ]
+  ],
+  "cn": "厨房的钟每天慢一分钟。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 loses。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 lose 的一般现在时形式"
+ },
+ {
+  "id": "WF023",
+  "cat": "单词",
+  "level": 1,
+  "text": "Emma washes her ____ on Fridays.",
+  "slots": [
+   [
+    "uniform"
+   ]
+  ],
+  "cn": "艾玛每周五洗制服。",
+  "point": "语境选词与拼写",
+  "why": "uniform 在这里表示“制服”。完整句子是 Emma washes her uniform on Fridays.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：i · r · o · u · f · m · n"
+ },
+ {
+  "id": "WF024",
+  "cat": "时态",
+  "level": 1,
+  "text": "Emma ____ her uniform on Fridays.",
+  "slots": [
+   [
+    "washes"
+   ]
+  ],
+  "cn": "艾玛每周五洗制服。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 washes。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 wash 的一般现在时形式"
+ },
+ {
+  "id": "WF025",
+  "cat": "单词",
+  "level": 1,
+  "text": "The cook adds a little ____ to the soup.",
+  "slots": [
+   [
+    "salt"
+   ]
+  ],
+  "cn": "厨师在汤里加一点盐。",
+  "point": "语境选词与拼写",
+  "why": "salt 在这里表示“盐”。完整句子是 The cook adds a little salt to the soup.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "选择",
+  "options": [
+   "map",
+   "street",
+   "salt",
+   "bridge"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF026",
+  "cat": "时态",
+  "level": 1,
+  "text": "The cook ____ a little salt to the soup.",
+  "slots": [
+   [
+    "adds"
+   ]
+  ],
+  "cn": "厨师在汤里加一点盐。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 adds。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "adds",
+   "will add",
+   "add",
+   "to add"
+  ],
+  "hint": "用 add 的一般现在时形式"
+ },
+ {
+  "id": "WF027",
+  "cat": "单词",
+  "level": 1,
+  "text": "I borrow books from the school ____.",
+  "slots": [
+   [
+    "library"
+   ]
+  ],
+  "cn": "我从学校图书馆借书。",
+  "point": "语境选词与拼写",
+  "why": "library 在这里表示“图书馆”。完整句子是 I borrow books from the school library.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：r · b · y · i · a · r · l"
+ },
+ {
+  "id": "WF028",
+  "cat": "时态",
+  "level": 1,
+  "text": "I ____ books from the school library.",
+  "slots": [
+   [
+    "borrow"
+   ]
+  ],
+  "cn": "我从学校图书馆借书。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 borrow。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 borrow 的一般现在时形式"
+ },
+ {
+  "id": "WF029",
+  "cat": "单词",
+  "level": 1,
+  "text": "Dad packs a ____ for each picnic.",
+  "slots": [
+   [
+    "blanket"
+   ]
+  ],
+  "cn": "爸爸每次野餐都带一条毯子。",
+  "point": "语境选词与拼写",
+  "why": "blanket 在这里表示“毯子”。完整句子是 Dad packs a blanket for each picnic.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "bridge",
+   "library",
+   "rabbits",
+   "blanket"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF030",
+  "cat": "时态",
+  "level": 1,
+  "text": "Dad ____ a blanket for each picnic.",
+  "slots": [
+   [
+    "packs"
+   ]
+  ],
+  "cn": "爸爸每次野餐都带一条毯子。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 packs。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 pack 的一般现在时形式"
+ },
+ {
+  "id": "WF031",
+  "cat": "单词",
+  "level": 1,
+  "text": "My sister teaches a ____ class on Sundays.",
+  "slots": [
+   [
+    "dance"
+   ]
+  ],
+  "cn": "姐姐每周日教舞蹈课。",
+  "point": "语境选词与拼写",
+  "why": "dance 在这里表示“舞蹈”。完整句子是 My sister teaches a dance class on Sundays.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：a · c · d · n · e"
+ },
+ {
+  "id": "WF032",
+  "cat": "时态",
+  "level": 1,
+  "text": "My sister ____ a dance class on Sundays.",
+  "slots": [
+   [
+    "teaches"
+   ]
+  ],
+  "cn": "姐姐每周日教舞蹈课。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 teaches。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 teach 的一般现在时形式"
+ },
+ {
+  "id": "WF033",
+  "cat": "单词",
+  "level": 1,
+  "text": "The driver knows every ____ in town.",
+  "slots": [
+   [
+    "street"
+   ]
+  ],
+  "cn": "司机熟悉镇上的每条街。",
+  "point": "语境选词与拼写",
+  "why": "street 在这里表示“街道”。完整句子是 The driver knows every street in town.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "pillow",
+   "street",
+   "strategy",
+   "traffic"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF034",
+  "cat": "时态",
+  "level": 1,
+  "text": "The driver ____ every street in town.",
+  "slots": [
+   [
+    "knows"
+   ]
+  ],
+  "cn": "司机熟悉镇上的每条街。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 knows。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "know",
+   "will know",
+   "knows",
+   "must know"
+  ],
+  "hint": "用 know 的一般现在时形式"
+ },
+ {
+  "id": "WF035",
+  "cat": "单词",
+  "level": 1,
+  "text": "Our dog sleeps beside the ____ at night.",
+  "slots": [
+   [
+    "sofa"
+   ]
+  ],
+  "cn": "我们的狗晚上睡在沙发旁。",
+  "point": "语境选词与拼写",
+  "why": "sofa 在这里表示“沙发”。完整句子是 Our dog sleeps beside the sofa at night.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：o · f · s · a"
+ },
+ {
+  "id": "WF036",
+  "cat": "时态",
+  "level": 1,
+  "text": "Our dog ____ beside the sofa at night.",
+  "slots": [
+   [
+    "sleeps"
+   ]
+  ],
+  "cn": "我们的狗晚上睡在沙发旁。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 sleeps。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 sleep 的一般现在时形式"
+ },
+ {
+  "id": "WF037",
+  "cat": "单词",
+  "level": 1,
+  "text": "Leo studies the ____ before he orders.",
+  "slots": [
+   [
+    "menu"
+   ]
+  ],
+  "cn": "利奥点餐前仔细看菜单。",
+  "point": "语境选词与拼写",
+  "why": "menu 在这里表示“菜单”。完整句子是 Leo studies the menu before he orders.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "选择",
+  "options": [
+   "plumber",
+   "menu",
+   "scarf",
+   "pillow"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF038",
+  "cat": "时态",
+  "level": 1,
+  "text": "Leo ____ the menu before he orders.",
+  "slots": [
+   [
+    "studies"
+   ]
+  ],
+  "cn": "利奥点餐前仔细看菜单。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 studies。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 study 的一般现在时形式"
+ },
+ {
+  "id": "WF039",
+  "cat": "单词",
+  "level": 1,
+  "text": "My cousin feeds the ____ before school.",
+  "slots": [
+   [
+    "rabbits"
+   ]
+  ],
+  "cn": "我表妹上学前喂兔子。",
+  "point": "语境选词与拼写",
+  "why": "rabbits 在这里表示“兔子”。完整句子是 My cousin feeds the rabbits before school.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：b · a · i · t · b · r · s"
+ },
+ {
+  "id": "WF040",
+  "cat": "时态",
+  "level": 1,
+  "text": "My cousin ____ the rabbits before school.",
+  "slots": [
+   [
+    "feeds"
+   ]
+  ],
+  "cn": "我表妹上学前喂兔子。",
+  "point": "一般现在时",
+  "why": "习惯性动作要核对主语人称和单复数，这里应填 feeds。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 feed 的一般现在时形式"
+ },
+ {
+  "id": "WF041",
+  "cat": "单词",
+  "level": 2,
+  "text": "Yesterday the wind broke a ____ outside our house.",
+  "slots": [
+   [
+    "branch"
+   ]
+  ],
+  "cn": "昨天风吹断了屋外的一根树枝。",
+  "point": "语境选词与拼写",
+  "why": "branch 在这里表示“树枝”。完整句子是 Yesterday the wind broke a branch outside our house.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "match",
+   "branch",
+   "documentary",
+   "issue"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF042",
+  "cat": "时态",
+  "level": 2,
+  "text": "Yesterday the wind ____ a branch outside our house.",
+  "slots": [
+   [
+    "broke"
+   ]
+  ],
+  "cn": "昨天风吹断了屋外的一根树枝。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 broke。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "must break",
+   "break",
+   "broke",
+   "will break"
+  ],
+  "hint": "用 break 的一般过去时形式"
+ },
+ {
+  "id": "WF043",
+  "cat": "单词",
+  "level": 2,
+  "text": "Last night Anna left her ____ on the train.",
+  "slots": [
+   [
+    "scarf"
+   ]
+  ],
+  "cn": "昨晚安娜把围巾落在火车上了。",
+  "point": "语境选词与拼写",
+  "why": "scarf 在这里表示“围巾”。完整句子是 Last night Anna left her scarf on the train.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：s · r · c · f · a"
+ },
+ {
+  "id": "WF044",
+  "cat": "时态",
+  "level": 2,
+  "text": "Last night Anna ____ her scarf on the train.",
+  "slots": [
+   [
+    "left"
+   ]
+  ],
+  "cn": "昨晚安娜把围巾落在火车上了。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 left。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 leave 的一般过去时形式"
+ },
+ {
+  "id": "WF045",
+  "cat": "单词",
+  "level": 2,
+  "text": "We found an old ____ in the garden yesterday.",
+  "slots": [
+   [
+    "coin"
+   ]
+  ],
+  "cn": "昨天我们在花园里发现了一枚旧硬币。",
+  "point": "语境选词与拼写",
+  "why": "coin 在这里表示“硬币”。完整句子是 We found an old coin in the garden yesterday.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "选择",
+  "options": [
+   "window",
+   "border",
+   "blanket",
+   "coin"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF046",
+  "cat": "时态",
+  "level": 2,
+  "text": "We ____ an old coin in the garden yesterday.",
+  "slots": [
+   [
+    "found"
+   ]
+  ],
+  "cn": "昨天我们在花园里发现了一枚旧硬币。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 found。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 find 的一般过去时形式"
+ },
+ {
+  "id": "WF047",
+  "cat": "单词",
+  "level": 2,
+  "text": "Yesterday I sent the ____ to my aunt.",
+  "slots": [
+   [
+    "parcel"
+   ]
+  ],
+  "cn": "昨天我把包裹寄给了姨妈。",
+  "point": "语境选词与拼写",
+  "why": "parcel 在这里表示“包裹”。完整句子是 Yesterday I sent the parcel to my aunt.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：p · c · e · a · r · l"
+ },
+ {
+  "id": "WF048",
+  "cat": "时态",
+  "level": 2,
+  "text": "Yesterday I ____ the parcel to my aunt.",
+  "slots": [
+   [
+    "sent"
+   ]
+  ],
+  "cn": "昨天我把包裹寄给了姨妈。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 sent。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 send 的一般过去时形式"
+ },
+ {
+  "id": "WF049",
+  "cat": "单词",
+  "level": 2,
+  "text": "On Monday Jack forgot his ____ and had to reset it.",
+  "slots": [
+   [
+    "password"
+   ]
+  ],
+  "cn": "周一杰克忘了密码，只好重设。",
+  "point": "语境选词与拼写",
+  "why": "password 在这里表示“密码”。完整句子是 On Monday Jack forgot his password and had to reset it.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "选择",
+  "options": [
+   "neighbor",
+   "routine",
+   "route",
+   "password"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF050",
+  "cat": "时态",
+  "level": 2,
+  "text": "On Monday Jack ____ his password and had to reset it.",
+  "slots": [
+   [
+    "forgot"
+   ]
+  ],
+  "cn": "周一杰克忘了密码，只好重设。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 forgot。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "forget",
+   "forgot",
+   "must forget",
+   "will forget"
+  ],
+  "hint": "用 forget 的一般过去时形式"
+ },
+ {
+  "id": "WF051",
+  "cat": "单词",
+  "level": 2,
+  "text": "Last week our class visited a ____ near the river.",
+  "slots": [
+   [
+    "factory"
+   ]
+  ],
+  "cn": "上周我们班参观了河边的一家工厂。",
+  "point": "语境选词与拼写",
+  "why": "factory 在这里表示“工厂”。完整句子是 Last week our class visited a factory near the river.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：a · f · o · c · y · r · t"
+ },
+ {
+  "id": "WF052",
+  "cat": "时态",
+  "level": 2,
+  "text": "Last week our class ____ a factory near the river.",
+  "slots": [
+   [
+    "visited"
+   ]
+  ],
+  "cn": "上周我们班参观了河边的一家工厂。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 visited。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 visit 的一般过去时形式"
+ },
+ {
+  "id": "WF053",
+  "cat": "单词",
+  "level": 2,
+  "text": "She chose the blue ____ yesterday.",
+  "slots": [
+   [
+    "curtain"
+   ]
+  ],
+  "cn": "她昨天选了蓝色窗帘。",
+  "point": "语境选词与拼写",
+  "why": "curtain 在这里表示“窗帘”。完整句子是 She chose the blue curtain yesterday.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "curtain",
+   "debates",
+   "winner",
+   "seats"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF054",
+  "cat": "时态",
+  "level": 2,
+  "text": "She ____ the blue curtain yesterday.",
+  "slots": [
+   [
+    "chose"
+   ]
+  ],
+  "cn": "她昨天选了蓝色窗帘。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 chose。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 choose 的一般过去时形式"
+ },
+ {
+  "id": "WF055",
+  "cat": "单词",
+  "level": 2,
+  "text": "I heard a strange ____ last night.",
+  "slots": [
+   [
+    "noise"
+   ]
+  ],
+  "cn": "我昨晚听到一种奇怪的响声。",
+  "point": "语境选词与拼写",
+  "why": "noise 在这里表示“响声”。完整句子是 I heard a strange noise last night.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：o · i · s · e · n"
+ },
+ {
+  "id": "WF056",
+  "cat": "时态",
+  "level": 2,
+  "text": "I ____ a strange noise last night.",
+  "slots": [
+   [
+    "heard"
+   ]
+  ],
+  "cn": "我昨晚听到一种奇怪的响声。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 heard。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 hear 的一般过去时形式"
+ },
+ {
+  "id": "WF057",
+  "cat": "单词",
+  "level": 2,
+  "text": "The guard closed the ____ at ten last night.",
+  "slots": [
+   [
+    "gate"
+   ]
+  ],
+  "cn": "昨晚十点，门卫关上了大门。",
+  "point": "语境选词与拼写",
+  "why": "gate 在这里表示“大门”。完整句子是 The guard closed the gate at ten last night.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "选择",
+  "options": [
+   "train",
+   "gate",
+   "microphone",
+   "pillow"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF058",
+  "cat": "时态",
+  "level": 2,
+  "text": "The guard ____ the gate at ten last night.",
+  "slots": [
+   [
+    "closed"
+   ]
+  ],
+  "cn": "昨晚十点，门卫关上了大门。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 closed。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "must close",
+   "close",
+   "closed",
+   "will close"
+  ],
+  "hint": "用 close 的一般过去时形式"
+ },
+ {
+  "id": "WF059",
+  "cat": "单词",
+  "level": 2,
+  "text": "The team won the ____ last Saturday.",
+  "slots": [
+   [
+    "match"
+   ]
+  ],
+  "cn": "球队上周六赢了比赛。",
+  "point": "语境选词与拼写",
+  "why": "match 在这里表示“比赛”。完整句子是 The team won the match last Saturday.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：t · a · m · h · c"
+ },
+ {
+  "id": "WF060",
+  "cat": "时态",
+  "level": 2,
+  "text": "The team ____ the match last Saturday.",
+  "slots": [
+   [
+    "won"
+   ]
+  ],
+  "cn": "球队上周六赢了比赛。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 won。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 win 的一般过去时形式"
+ },
+ {
+  "id": "WF061",
+  "cat": "单词",
+  "level": 2,
+  "text": "Yesterday we built a small ____ with sticks.",
+  "slots": [
+   [
+    "bridge"
+   ]
+  ],
+  "cn": "昨天我们用木棍搭了一座小桥。",
+  "point": "语境选词与拼写",
+  "why": "bridge 在这里表示“小桥”。完整句子是 Yesterday we built a small bridge with sticks.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "pillow",
+   "bridge",
+   "portrait",
+   "poster"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF062",
+  "cat": "时态",
+  "level": 2,
+  "text": "Yesterday we ____ a small bridge with sticks.",
+  "slots": [
+   [
+    "built"
+   ]
+  ],
+  "cn": "昨天我们用木棍搭了一座小桥。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 built。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 build 的一般过去时形式"
+ },
+ {
+  "id": "WF063",
+  "cat": "单词",
+  "level": 2,
+  "text": "On her last trip Maya bought a silver ____.",
+  "slots": [
+   [
+    "ring"
+   ]
+  ],
+  "cn": "玛雅上次旅行时买了一枚银戒指。",
+  "point": "语境选词与拼写",
+  "why": "ring 在这里表示“戒指”。完整句子是 On her last trip Maya bought a silver ring.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：g · i · n · r"
+ },
+ {
+  "id": "WF064",
+  "cat": "时态",
+  "level": 2,
+  "text": "On her last trip Maya ____ a silver ring.",
+  "slots": [
+   [
+    "bought"
+   ]
+  ],
+  "cn": "玛雅上次旅行时买了一枚银戒指。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 bought。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 buy 的一般过去时形式"
+ },
+ {
+  "id": "WF065",
+  "cat": "单词",
+  "level": 2,
+  "text": "Yesterday Tim caught the last ____ home.",
+  "slots": [
+   [
+    "train"
+   ]
+  ],
+  "cn": "昨天蒂姆赶上了回家的末班火车。",
+  "point": "语境选词与拼写",
+  "why": "train 在这里表示“火车”。完整句子是 Yesterday Tim caught the last train home.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "选择",
+  "options": [
+   "ferry",
+   "roof",
+   "train",
+   "scarf"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF066",
+  "cat": "时态",
+  "level": 2,
+  "text": "Yesterday Tim ____ the last train home.",
+  "slots": [
+   [
+    "caught"
+   ]
+  ],
+  "cn": "昨天蒂姆赶上了回家的末班火车。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 caught。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "catch",
+   "will catch",
+   "caught",
+   "must catch"
+  ],
+  "hint": "用 catch 的一般过去时形式"
+ },
+ {
+  "id": "WF067",
+  "cat": "单词",
+  "level": 2,
+  "text": "Last winter a storm damaged the ____.",
+  "slots": [
+   [
+    "roof"
+   ]
+  ],
+  "cn": "去年冬天一场风暴损坏了屋顶。",
+  "point": "语境选词与拼写",
+  "why": "roof 在这里表示“屋顶”。完整句子是 Last winter a storm damaged the roof.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：r · f · o · o"
+ },
+ {
+  "id": "WF068",
+  "cat": "时态",
+  "level": 2,
+  "text": "Last winter a storm ____ the roof.",
+  "slots": [
+   [
+    "damaged"
+   ]
+  ],
+  "cn": "去年冬天一场风暴损坏了屋顶。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 damaged。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 damage 的一般过去时形式"
+ },
+ {
+  "id": "WF069",
+  "cat": "单词",
+  "level": 2,
+  "text": "Mom paid the electricity ____ yesterday.",
+  "slots": [
+   [
+    "bill"
+   ]
+  ],
+  "cn": "妈妈昨天交了电费。",
+  "point": "语境选词与拼写",
+  "why": "bill 在这里表示“账单”。完整句子是 Mom paid the electricity bill yesterday.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "选择",
+  "options": [
+   "rabbits",
+   "bill",
+   "puppy",
+   "strategy"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF070",
+  "cat": "时态",
+  "level": 2,
+  "text": "Mom ____ the electricity bill yesterday.",
+  "slots": [
+   [
+    "paid"
+   ]
+  ],
+  "cn": "妈妈昨天交了电费。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 paid。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 pay 的一般过去时形式"
+ },
+ {
+  "id": "WF071",
+  "cat": "单词",
+  "level": 2,
+  "text": "At the concert last night Eva played the ____.",
+  "slots": [
+   [
+    "violin"
+   ]
+  ],
+  "cn": "昨晚的音乐会上，伊娃拉了小提琴。",
+  "point": "语境选词与拼写",
+  "why": "violin 在这里表示“小提琴”。完整句子是 At the concert last night Eva played the violin.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：n · l · o · v · i · i"
+ },
+ {
+  "id": "WF072",
+  "cat": "时态",
+  "level": 2,
+  "text": "At the concert last night Eva ____ the violin.",
+  "slots": [
+   [
+    "played"
+   ]
+  ],
+  "cn": "昨晚的音乐会上，伊娃拉了小提琴。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 played。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 play 的一般过去时形式"
+ },
+ {
+  "id": "WF073",
+  "cat": "单词",
+  "level": 2,
+  "text": "I lost my ____ on the walk home yesterday.",
+  "slots": [
+   [
+    "gloves"
+   ]
+  ],
+  "cn": "昨天走路回家时我弄丢了手套。",
+  "point": "语境选词与拼写",
+  "why": "gloves 在这里表示“手套”。完整句子是 I lost my gloves on the walk home yesterday.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "seats",
+   "gloves",
+   "dance",
+   "puzzle"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF074",
+  "cat": "时态",
+  "level": 2,
+  "text": "I ____ my gloves on the walk home yesterday.",
+  "slots": [
+   [
+    "lost"
+   ]
+  ],
+  "cn": "昨天走路回家时我弄丢了手套。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 lost。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "lose",
+   "lost",
+   "must lose",
+   "to lose"
+  ],
+  "hint": "用 lose 的一般过去时形式"
+ },
+ {
+  "id": "WF075",
+  "cat": "单词",
+  "level": 2,
+  "text": "Last summer the twins shared a ____.",
+  "slots": [
+   [
+    "tent"
+   ]
+  ],
+  "cn": "去年夏天双胞胎共用了一顶帐篷。",
+  "point": "语境选词与拼写",
+  "why": "tent 在这里表示“帐篷”。完整句子是 Last summer the twins shared a tent.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · n · t · t"
+ },
+ {
+  "id": "WF076",
+  "cat": "时态",
+  "level": 2,
+  "text": "Last summer the twins ____ a tent.",
+  "slots": [
+   [
+    "shared"
+   ]
+  ],
+  "cn": "去年夏天双胞胎共用了一顶帐篷。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 shared。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 share 的一般过去时形式"
+ },
+ {
+  "id": "WF077",
+  "cat": "单词",
+  "level": 2,
+  "text": "Yesterday the nurse took my ____.",
+  "slots": [
+   [
+    "temperature"
+   ]
+  ],
+  "cn": "昨天护士给我量了体温。",
+  "point": "语境选词与拼写",
+  "why": "temperature 在这里表示“体温”。完整句子是 Yesterday the nurse took my temperature.",
+  "tip": "留意词形与拼写，目标词共 11 个字母。",
+  "kind": "选择",
+  "options": [
+   "temperature",
+   "route",
+   "portrait",
+   "coin"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF078",
+  "cat": "时态",
+  "level": 2,
+  "text": "Yesterday the nurse ____ my temperature.",
+  "slots": [
+   [
+    "took"
+   ]
+  ],
+  "cn": "昨天护士给我量了体温。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 took。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 take 的一般过去时形式"
+ },
+ {
+  "id": "WF079",
+  "cat": "单词",
+  "level": 2,
+  "text": "We crossed the ____ by bus last July.",
+  "slots": [
+   [
+    "border"
+   ]
+  ],
+  "cn": "去年七月我们乘公交车越过了边境。",
+  "point": "语境选词与拼写",
+  "why": "border 在这里表示“边境”。完整句子是 We crossed the border by bus last July.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · r · d · b · o · r"
+ },
+ {
+  "id": "WF080",
+  "cat": "时态",
+  "level": 2,
+  "text": "We ____ the border by bus last July.",
+  "slots": [
+   [
+    "crossed"
+   ]
+  ],
+  "cn": "去年七月我们乘公交车越过了边境。",
+  "point": "一般过去时",
+  "why": "事情发生在过去，使用动词过去式，这里应填 crossed。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 cross 的一般过去时形式"
+ },
+ {
+  "id": "WF081",
+  "cat": "单词",
+  "level": 3,
+  "text": "Look! The kitten is hiding behind the ____.",
+  "slots": [
+   [
+    "pillow"
+   ]
+  ],
+  "cn": "看！小猫正躲在枕头后面。",
+  "point": "语境选词与拼写",
+  "why": "pillow 在这里表示“枕头”。完整句子是 Look! The kitten is hiding behind the pillow.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "library",
+   "neighbor",
+   "habitat",
+   "pillow"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF082",
+  "cat": "时态",
+  "level": 3,
+  "text": "Look! The kitten ____ behind the pillow.",
+  "slots": [
+   [
+    "is hiding"
+   ]
+  ],
+  "cn": "看！小猫正躲在枕头后面。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 is hiding。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "hide",
+   "will hide",
+   "to hide",
+   "is hiding"
+  ],
+  "hint": "用 hide 的现在进行时形式"
+ },
+ {
+  "id": "WF083",
+  "cat": "单词",
+  "level": 3,
+  "text": "Listen! Someone is ringing the ____ downstairs.",
+  "slots": [
+   [
+    "bell"
+   ]
+  ],
+  "cn": "听！有人正在楼下按铃。",
+  "point": "语境选词与拼写",
+  "why": "bell 在这里表示“铃”。完整句子是 Listen! Someone is ringing the bell downstairs.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：l · b · e · l"
+ },
+ {
+  "id": "WF084",
+  "cat": "时态",
+  "level": 3,
+  "text": "Listen! Someone ____ the bell downstairs.",
+  "slots": [
+   [
+    "is ringing"
+   ]
+  ],
+  "cn": "听！有人正在楼下按铃。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 is ringing。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 ring 的现在进行时形式"
+ },
+ {
+  "id": "WF085",
+  "cat": "单词",
+  "level": 3,
+  "text": "Right now the workers are painting the ____.",
+  "slots": [
+   [
+    "fence"
+   ]
+  ],
+  "cn": "工人们此刻正在给栅栏刷漆。",
+  "point": "语境选词与拼写",
+  "why": "fence 在这里表示“栅栏”。完整句子是 Right now the workers are painting the fence.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "选择",
+  "options": [
+   "notebook",
+   "route",
+   "sofa",
+   "fence"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF086",
+  "cat": "时态",
+  "level": 3,
+  "text": "Right now the workers ____ the fence.",
+  "slots": [
+   [
+    "are painting"
+   ]
+  ],
+  "cn": "工人们此刻正在给栅栏刷漆。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 are painting。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 paint 的现在进行时形式"
+ },
+ {
+  "id": "WF087",
+  "cat": "单词",
+  "level": 3,
+  "text": "I am counting the ____ now, so please wait.",
+  "slots": [
+   [
+    "seats"
+   ]
+  ],
+  "cn": "我正在数座位，请稍等。",
+  "point": "语境选词与拼写",
+  "why": "seats 在这里表示“座位”。完整句子是 I am counting the seats now, so please wait.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：s · a · t · e · s"
+ },
+ {
+  "id": "WF088",
+  "cat": "时态",
+  "level": 3,
+  "text": "I ____ the seats now, so please wait.",
+  "slots": [
+   [
+    "am counting"
+   ]
+  ],
+  "cn": "我正在数座位，请稍等。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 am counting。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 count 的现在进行时形式"
+ },
+ {
+  "id": "WF089",
+  "cat": "单词",
+  "level": 3,
+  "text": "Look! The children are planting a ____ in each pot.",
+  "slots": [
+   [
+    "seed"
+   ]
+  ],
+  "cn": "看！孩子们正在每个花盆里种一粒种子。",
+  "point": "语境选词与拼写",
+  "why": "seed 在这里表示“种子”。完整句子是 Look! The children are planting a seed in each pot.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "选择",
+  "options": [
+   "album",
+   "address",
+   "badge",
+   "seed"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF090",
+  "cat": "时态",
+  "level": 3,
+  "text": "Look! The children ____ a seed in each pot.",
+  "slots": [
+   [
+    "are planting"
+   ]
+  ],
+  "cn": "看！孩子们正在每个花盆里种一粒种子。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 are planting。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "must plant",
+   "are planting",
+   "will plant",
+   "plant"
+  ],
+  "hint": "用 plant 的现在进行时形式"
+ },
+ {
+  "id": "WF091",
+  "cat": "单词",
+  "level": 3,
+  "text": "The mechanic is fixing my bicycle ____ right now.",
+  "slots": [
+   [
+    "chain"
+   ]
+  ],
+  "cn": "修理工正在修我的自行车链条。",
+  "point": "语境选词与拼写",
+  "why": "chain 在这里表示“链条”。完整句子是 The mechanic is fixing my bicycle chain right now.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：i · h · a · c · n"
+ },
+ {
+  "id": "WF092",
+  "cat": "时态",
+  "level": 3,
+  "text": "The mechanic ____ my bicycle chain right now.",
+  "slots": [
+   [
+    "is fixing"
+   ]
+  ],
+  "cn": "修理工正在修我的自行车链条。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 is fixing。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 fix 的现在进行时形式"
+ },
+ {
+  "id": "WF093",
+  "cat": "单词",
+  "level": 3,
+  "text": "At this moment two fans are holding a ____.",
+  "slots": [
+   [
+    "banner"
+   ]
+  ],
+  "cn": "此刻两名球迷正举着一面横幅。",
+  "point": "语境选词与拼写",
+  "why": "banner 在这里表示“横幅”。完整句子是 At this moment two fans are holding a banner.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "banner",
+   "bridge",
+   "ladder",
+   "newspaper"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF094",
+  "cat": "时态",
+  "level": 3,
+  "text": "At this moment two fans ____ a banner.",
+  "slots": [
+   [
+    "are holding"
+   ]
+  ],
+  "cn": "此刻两名球迷正举着一面横幅。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 are holding。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 hold 的现在进行时形式"
+ },
+ {
+  "id": "WF095",
+  "cat": "单词",
+  "level": 3,
+  "text": "Please be quiet. Ben is recording a ____ now.",
+  "slots": [
+   [
+    "message"
+   ]
+  ],
+  "cn": "请安静，本正在录一段留言。",
+  "point": "语境选词与拼写",
+  "why": "message 在这里表示“留言”。完整句子是 Please be quiet. Ben is recording a message now.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · s · g · e · a · s · m"
+ },
+ {
+  "id": "WF096",
+  "cat": "时态",
+  "level": 3,
+  "text": "Please be quiet. Ben ____ a message now.",
+  "slots": [
+   [
+    "is recording"
+   ]
+  ],
+  "cn": "请安静，本正在录一段留言。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 is recording。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 record 的现在进行时形式"
+ },
+ {
+  "id": "WF097",
+  "cat": "单词",
+  "level": 3,
+  "text": "I am copying the ____ into my phone right now.",
+  "slots": [
+   [
+    "address"
+   ]
+  ],
+  "cn": "我正把地址抄进手机。",
+  "point": "语境选词与拼写",
+  "why": "address 在这里表示“地址”。完整句子是 I am copying the address into my phone right now.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "address",
+   "street",
+   "surveys",
+   "neighbor"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF098",
+  "cat": "时态",
+  "level": 3,
+  "text": "I ____ the address into my phone right now.",
+  "slots": [
+   [
+    "am copying"
+   ]
+  ],
+  "cn": "我正把地址抄进手机。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 am copying。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "will copy",
+   "am copying",
+   "must copy",
+   "copy"
+  ],
+  "hint": "用 copy 的现在进行时形式"
+ },
+ {
+  "id": "WF099",
+  "cat": "单词",
+  "level": 3,
+  "text": "Look outside. A bird is building a ____ above the door.",
+  "slots": [
+   [
+    "nest"
+   ]
+  ],
+  "cn": "看看外面，一只鸟正在门上方筑巢。",
+  "point": "语境选词与拼写",
+  "why": "nest 在这里表示“鸟巢”。完整句子是 Look outside. A bird is building a nest above the door.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · s · t · n"
+ },
+ {
+  "id": "WF100",
+  "cat": "时态",
+  "level": 3,
+  "text": "Look outside. A bird ____ a nest above the door.",
+  "slots": [
+   [
+    "is building"
+   ]
+  ],
+  "cn": "看看外面，一只鸟正在门上方筑巢。",
+  "point": "现在进行时",
+  "why": "当下进行的动作，用 am/is/are + -ing，这里应填 is building。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 build 的现在进行时形式"
+ },
+ {
+  "id": "WF101",
+  "cat": "单词",
+  "level": 3,
+  "text": "At eight last night we were watching a ____.",
+  "slots": [
+   [
+    "documentary"
+   ]
+  ],
+  "cn": "昨晚八点我们正在看一部纪录片。",
+  "point": "语境选词与拼写",
+  "why": "documentary 在这里表示“纪录片”。完整句子是 At eight last night we were watching a documentary.",
+  "tip": "留意词形与拼写，目标词共 11 个字母。",
+  "kind": "选择",
+  "options": [
+   "ferry",
+   "password",
+   "documentary",
+   "traffic"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF102",
+  "cat": "时态",
+  "level": 3,
+  "text": "At eight last night we ____ a documentary.",
+  "slots": [
+   [
+    "were watching"
+   ]
+  ],
+  "cn": "昨晚八点我们正在看一部纪录片。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 were watching。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 watch 的过去进行时形式"
+ },
+ {
+  "id": "WF103",
+  "cat": "单词",
+  "level": 3,
+  "text": "When the lights went out, I was drawing a ____.",
+  "slots": [
+   [
+    "portrait"
+   ]
+  ],
+  "cn": "灯灭时我正在画肖像。",
+  "point": "语境选词与拼写",
+  "why": "portrait 在这里表示“肖像”。完整句子是 When the lights went out, I was drawing a portrait.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：t · r · a · r · o · t · p · i"
+ },
+ {
+  "id": "WF104",
+  "cat": "时态",
+  "level": 3,
+  "text": "When the lights went out, I ____ a portrait.",
+  "slots": [
+   [
+    "was drawing"
+   ]
+  ],
+  "cn": "灯灭时我正在画肖像。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 was drawing。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 draw 的过去进行时形式"
+ },
+ {
+  "id": "WF105",
+  "cat": "单词",
+  "level": 3,
+  "text": "At noon yesterday the chef was slicing a ____.",
+  "slots": [
+   [
+    "lemon"
+   ]
+  ],
+  "cn": "昨天中午厨师正在切柠檬片。",
+  "point": "语境选词与拼写",
+  "why": "lemon 在这里表示“柠檬”。完整句子是 At noon yesterday the chef was slicing a lemon.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "选择",
+  "options": [
+   "lemon",
+   "issue",
+   "doorstep",
+   "surveys"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF106",
+  "cat": "时态",
+  "level": 3,
+  "text": "At noon yesterday the chef ____ a lemon.",
+  "slots": [
+   [
+    "was slicing"
+   ]
+  ],
+  "cn": "昨天中午厨师正在切柠檬片。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 was slicing。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "to slice",
+   "will slice",
+   "must slice",
+   "was slicing"
+  ],
+  "hint": "用 slice 的过去进行时形式"
+ },
+ {
+  "id": "WF107",
+  "cat": "单词",
+  "level": 3,
+  "text": "When I called, the twins were carrying a ____.",
+  "slots": [
+   [
+    "ladder"
+   ]
+  ],
+  "cn": "我打电话时，双胞胎正抬着梯子。",
+  "point": "语境选词与拼写",
+  "why": "ladder 在这里表示“梯子”。完整句子是 When I called, the twins were carrying a ladder.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：l · e · d · d · a · r"
+ },
+ {
+  "id": "WF108",
+  "cat": "时态",
+  "level": 3,
+  "text": "When I called, the twins ____ a ladder.",
+  "slots": [
+   [
+    "were carrying"
+   ]
+  ],
+  "cn": "我打电话时，双胞胎正抬着梯子。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 were carrying。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 carry 的过去进行时形式"
+ },
+ {
+  "id": "WF109",
+  "cat": "单词",
+  "level": 3,
+  "text": "This time yesterday I was testing the ____.",
+  "slots": [
+   [
+    "microphone"
+   ]
+  ],
+  "cn": "昨天这个时候我正在测试麦克风。",
+  "point": "语境选词与拼写",
+  "why": "microphone 在这里表示“麦克风”。完整句子是 This time yesterday I was testing the microphone.",
+  "tip": "留意词形与拼写，目标词共 10 个字母。",
+  "kind": "选择",
+  "options": [
+   "neighbor",
+   "winner",
+   "microphone",
+   "documentary"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF110",
+  "cat": "时态",
+  "level": 3,
+  "text": "This time yesterday I ____ the microphone.",
+  "slots": [
+   [
+    "was testing"
+   ]
+  ],
+  "cn": "昨天这个时候我正在测试麦克风。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 was testing。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 test 的过去进行时形式"
+ },
+ {
+  "id": "WF111",
+  "cat": "单词",
+  "level": 3,
+  "text": "At nine last night Ella was feeding the ____.",
+  "slots": [
+   [
+    "puppy"
+   ]
+  ],
+  "cn": "昨晚九点埃拉正在喂小狗。",
+  "point": "语境选词与拼写",
+  "why": "puppy 在这里表示“小狗”。完整句子是 At nine last night Ella was feeding the puppy.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：p · u · y · p · p"
+ },
+ {
+  "id": "WF112",
+  "cat": "时态",
+  "level": 3,
+  "text": "At nine last night Ella ____ the puppy.",
+  "slots": [
+   [
+    "was feeding"
+   ]
+  ],
+  "cn": "昨晚九点埃拉正在喂小狗。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 was feeding。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 feed 的过去进行时形式"
+ },
+ {
+  "id": "WF113",
+  "cat": "单词",
+  "level": 3,
+  "text": "When the bus arrived, we were folding the ____.",
+  "slots": [
+   [
+    "poster"
+   ]
+  ],
+  "cn": "公交车到站时，我们正在折海报。",
+  "point": "语境选词与拼写",
+  "why": "poster 在这里表示“海报”。完整句子是 When the bus arrived, we were folding the poster.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "poster",
+   "badge",
+   "circle",
+   "pillow"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF114",
+  "cat": "时态",
+  "level": 3,
+  "text": "When the bus arrived, we ____ the poster.",
+  "slots": [
+   [
+    "were folding"
+   ]
+  ],
+  "cn": "公交车到站时，我们正在折海报。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 were folding。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "must fold",
+   "fold",
+   "to fold",
+   "were folding"
+  ],
+  "hint": "用 fold 的过去进行时形式"
+ },
+ {
+  "id": "WF115",
+  "cat": "单词",
+  "level": 3,
+  "text": "When the phone rang, Dad was measuring the ____.",
+  "slots": [
+   [
+    "window"
+   ]
+  ],
+  "cn": "电话响时，爸爸正在量窗户的尺寸。",
+  "point": "语境选词与拼写",
+  "why": "window 在这里表示“窗户”。完整句子是 When the phone rang, Dad was measuring the window.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：w · i · d · n · w · o"
+ },
+ {
+  "id": "WF116",
+  "cat": "时态",
+  "level": 3,
+  "text": "When the phone rang, Dad ____ the window.",
+  "slots": [
+   [
+    "was measuring"
+   ]
+  ],
+  "cn": "电话响时，爸爸正在量窗户的尺寸。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 was measuring。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 measure 的过去进行时形式"
+ },
+ {
+  "id": "WF117",
+  "cat": "单词",
+  "level": 3,
+  "text": "At four yesterday the dancers were practicing their ____.",
+  "slots": [
+   [
+    "routine"
+   ]
+  ],
+  "cn": "昨天四点，舞者们正在练习成套动作。",
+  "point": "语境选词与拼写",
+  "why": "routine 在这里表示“成套动作”。完整句子是 At four yesterday the dancers were practicing their routine.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "surveys",
+   "rabbits",
+   "lighting",
+   "routine"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF118",
+  "cat": "时态",
+  "level": 3,
+  "text": "At four yesterday the dancers ____ their routine.",
+  "slots": [
+   [
+    "were practicing"
+   ]
+  ],
+  "cn": "昨天四点，舞者们正在练习成套动作。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 were practicing。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 practice 的过去进行时形式"
+ },
+ {
+  "id": "WF119",
+  "cat": "单词",
+  "level": 3,
+  "text": "When the rain started, I was sketching a ____.",
+  "slots": [
+   [
+    "tower"
+   ]
+  ],
+  "cn": "开始下雨时，我正在画一座塔的速写。",
+  "point": "语境选词与拼写",
+  "why": "tower 在这里表示“塔”。完整句子是 When the rain started, I was sketching a tower.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：r · e · o · w · t"
+ },
+ {
+  "id": "WF120",
+  "cat": "时态",
+  "level": 3,
+  "text": "When the rain started, I ____ a tower.",
+  "slots": [
+   [
+    "was sketching"
+   ]
+  ],
+  "cn": "开始下雨时，我正在画一座塔的速写。",
+  "point": "过去进行时",
+  "why": "过去某一时刻正在进行，用 was/were + -ing，这里应填 was sketching。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 sketch 的过去进行时形式"
+ },
+ {
+  "id": "WF121",
+  "cat": "单词",
+  "level": 4,
+  "text": "So far we have collected twenty ____.",
+  "slots": [
+   [
+    "signatures"
+   ]
+  ],
+  "cn": "到目前为止我们已经收集了二十个签名。",
+  "point": "语境选词与拼写",
+  "why": "signatures 在这里表示“签名”。完整句子是 So far we have collected twenty signatures.",
+  "tip": "留意词形与拼写，目标词共 10 个字母。",
+  "kind": "选择",
+  "options": [
+   "ring",
+   "camera",
+   "violin",
+   "signatures"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF122",
+  "cat": "时态",
+  "level": 4,
+  "text": "So far we ____ twenty signatures.",
+  "slots": [
+   [
+    "have collected"
+   ]
+  ],
+  "cn": "到目前为止我们已经收集了二十个签名。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 have collected。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "will collect",
+   "must collect",
+   "have collected",
+   "to collect"
+  ],
+  "hint": "用 collect 的现在完成时形式"
+ },
+ {
+  "id": "WF123",
+  "cat": "单词",
+  "level": 4,
+  "text": "Lucy has kept this ____ since January.",
+  "slots": [
+   [
+    "diary"
+   ]
+  ],
+  "cn": "露西从一月起一直在写这本日记。",
+  "point": "语境选词与拼写",
+  "why": "diary 在这里表示“日记”。完整句子是 Lucy has kept this diary since January.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：d · i · y · r · a"
+ },
+ {
+  "id": "WF124",
+  "cat": "时态",
+  "level": 4,
+  "text": "Lucy ____ this diary since January.",
+  "slots": [
+   [
+    "has kept"
+   ]
+  ],
+  "cn": "露西从一月起一直在写这本日记。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 has kept。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 keep 的现在完成时形式"
+ },
+ {
+  "id": "WF125",
+  "cat": "单词",
+  "level": 4,
+  "text": "So far this term our club has held three ____.",
+  "slots": [
+   [
+    "debates"
+   ]
+  ],
+  "cn": "本学期到目前为止，我们社团已经举办了三场辩论。",
+  "point": "语境选词与拼写",
+  "why": "debates 在这里表示“辩论”。完整句子是 So far this term our club has held three debates.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "debates",
+   "dance",
+   "album",
+   "rabbits"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF126",
+  "cat": "时态",
+  "level": 4,
+  "text": "So far this term our club ____ three debates.",
+  "slots": [
+   [
+    "has held"
+   ]
+  ],
+  "cn": "本学期到目前为止，我们社团已经举办了三场辩论。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 has held。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 hold 的现在完成时形式"
+ },
+ {
+  "id": "WF127",
+  "cat": "单词",
+  "level": 4,
+  "text": "I have known our ____ since I was six.",
+  "slots": [
+   [
+    "neighbor"
+   ]
+  ],
+  "cn": "我从六岁起就认识我们的邻居。",
+  "point": "语境选词与拼写",
+  "why": "neighbor 在这里表示“邻居”。完整句子是 I have known our neighbor since I was six.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：o · g · b · e · i · r · h · n"
+ },
+ {
+  "id": "WF128",
+  "cat": "时态",
+  "level": 4,
+  "text": "I ____ our neighbor since I was six.",
+  "slots": [
+   [
+    "have known"
+   ]
+  ],
+  "cn": "我从六岁起就认识我们的邻居。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 have known。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 know 的现在完成时形式"
+ },
+ {
+  "id": "WF129",
+  "cat": "单词",
+  "level": 4,
+  "text": "The students have completed two ____ so far.",
+  "slots": [
+   [
+    "surveys"
+   ]
+  ],
+  "cn": "学生们到目前为止已完成两项调查。",
+  "point": "语境选词与拼写",
+  "why": "surveys 在这里表示“调查”。完整句子是 The students have completed two surveys so far.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "engine",
+   "helmet",
+   "surveys",
+   "parcel"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF130",
+  "cat": "时态",
+  "level": 4,
+  "text": "The students ____ two surveys so far.",
+  "slots": [
+   [
+    "have completed"
+   ]
+  ],
+  "cn": "学生们到目前为止已完成两项调查。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 have completed。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "have completed",
+   "to complete",
+   "will complete",
+   "complete"
+  ],
+  "hint": "用 complete 的现在完成时形式"
+ },
+ {
+  "id": "WF131",
+  "cat": "单词",
+  "level": 4,
+  "text": "Sam has worn the same ____ every day since June.",
+  "slots": [
+   [
+    "badge"
+   ]
+  ],
+  "cn": "从六月起，山姆每天都戴同一枚徽章。",
+  "point": "语境选词与拼写",
+  "why": "badge 在这里表示“徽章”。完整句子是 Sam has worn the same badge every day since June.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：d · e · g · b · a"
+ },
+ {
+  "id": "WF132",
+  "cat": "时态",
+  "level": 4,
+  "text": "Sam ____ the same badge every day since June.",
+  "slots": [
+   [
+    "has worn"
+   ]
+  ],
+  "cn": "从六月起，山姆每天都戴同一枚徽章。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 has worn。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 wear 的现在完成时形式"
+ },
+ {
+  "id": "WF133",
+  "cat": "单词",
+  "level": 4,
+  "text": "So far the team has solved every ____.",
+  "slots": [
+   [
+    "puzzle"
+   ]
+  ],
+  "cn": "到目前为止，这个团队解开了每一道谜题。",
+  "point": "语境选词与拼写",
+  "why": "puzzle 在这里表示“谜题”。完整句子是 So far the team has solved every puzzle.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "puzzle",
+   "neighbor",
+   "lecture",
+   "receipts"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF134",
+  "cat": "时态",
+  "level": 4,
+  "text": "So far the team ____ every puzzle.",
+  "slots": [
+   [
+    "has solved"
+   ]
+  ],
+  "cn": "到目前为止，这个团队解开了每一道谜题。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 has solved。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 solve 的现在完成时形式"
+ },
+ {
+  "id": "WF135",
+  "cat": "单词",
+  "level": 4,
+  "text": "We have visited the island twice since the ____ opened.",
+  "slots": [
+   [
+    "ferry"
+   ]
+  ],
+  "cn": "自渡轮开通以来，我们去过那座岛两次。",
+  "point": "语境选词与拼写",
+  "why": "ferry 在这里表示“渡轮”。完整句子是 We have visited the island twice since the ferry opened.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：r · e · f · y · r"
+ },
+ {
+  "id": "WF136",
+  "cat": "时态",
+  "level": 4,
+  "text": "We ____ the island twice since the ferry opened.",
+  "slots": [
+   [
+    "have visited"
+   ]
+  ],
+  "cn": "自渡轮开通以来，我们去过那座岛两次。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 have visited。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 visit 的现在完成时形式"
+ },
+ {
+  "id": "WF137",
+  "cat": "单词",
+  "level": 4,
+  "text": "Nora has owned this ____ for ten years and still uses it.",
+  "slots": [
+   [
+    "camera"
+   ]
+  ],
+  "cn": "诺拉拥有这台相机已经十年了，现在还在用。",
+  "point": "语境选词与拼写",
+  "why": "camera 在这里表示“相机”。完整句子是 Nora has owned this camera for ten years and still uses it.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "noise",
+   "gate",
+   "bell",
+   "camera"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF138",
+  "cat": "时态",
+  "level": 4,
+  "text": "Nora ____ this camera for ten years and still uses it.",
+  "slots": [
+   [
+    "has owned"
+   ]
+  ],
+  "cn": "诺拉拥有这台相机已经十年了，现在还在用。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 has owned。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "has owned",
+   "will own",
+   "own",
+   "to own"
+  ],
+  "hint": "用 own 的现在完成时形式"
+ },
+ {
+  "id": "WF139",
+  "cat": "单词",
+  "level": 4,
+  "text": "This is the first time I have baked a ____ of bread.",
+  "slots": [
+   [
+    "loaf"
+   ]
+  ],
+  "cn": "这是我第一次烤一整条面包。",
+  "point": "语境选词与拼写",
+  "why": "loaf 在这里表示“一条面包”。完整句子是 This is the first time I have baked a loaf of bread.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：a · f · o · l"
+ },
+ {
+  "id": "WF140",
+  "cat": "时态",
+  "level": 4,
+  "text": "This is the first time I ____ a loaf of bread.",
+  "slots": [
+   [
+    "have baked"
+   ]
+  ],
+  "cn": "这是我第一次烤一整条面包。",
+  "point": "现在完成时",
+  "why": "用 have/has 加过去分词，注意主语，这里应填 have baked。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 bake 的现在完成时形式"
+ },
+ {
+  "id": "WF141",
+  "cat": "单词",
+  "level": 4,
+  "text": "By the time I arrived, the guests had eaten the ____.",
+  "slots": [
+   [
+    "dessert"
+   ]
+  ],
+  "cn": "我到时，客人们已经吃完甜点了。",
+  "point": "语境选词与拼写",
+  "why": "dessert 在这里表示“甜点”。完整句子是 By the time I arrived, the guests had eaten the dessert.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "lighting",
+   "dessert",
+   "bell",
+   "strategy"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF142",
+  "cat": "时态",
+  "level": 4,
+  "text": "By the time I arrived, the guests ____ the dessert.",
+  "slots": [
+   [
+    "had eaten"
+   ]
+  ],
+  "cn": "我到时，客人们已经吃完甜点了。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had eaten。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 eat 的过去完成时形式"
+ },
+ {
+  "id": "WF143",
+  "cat": "单词",
+  "level": 4,
+  "text": "Before the shop reopened, the owner had replaced the ____.",
+  "slots": [
+   [
+    "counter"
+   ]
+  ],
+  "cn": "商店重新开业前，店主已更换了柜台。",
+  "point": "语境选词与拼写",
+  "why": "counter 在这里表示“柜台”。完整句子是 Before the shop reopened, the owner had replaced the counter.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：u · c · o · r · e · t · n"
+ },
+ {
+  "id": "WF144",
+  "cat": "时态",
+  "level": 4,
+  "text": "Before the shop reopened, the owner ____ the counter.",
+  "slots": [
+   [
+    "had replaced"
+   ]
+  ],
+  "cn": "商店重新开业前，店主已更换了柜台。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had replaced。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 replace 的过去完成时形式"
+ },
+ {
+  "id": "WF145",
+  "cat": "单词",
+  "level": 4,
+  "text": "By midnight our guide had marked every ____ on the map.",
+  "slots": [
+   [
+    "route"
+   ]
+  ],
+  "cn": "到当晚十二点，导游已在地图上标出了每条路线。",
+  "point": "语境选词与拼写",
+  "why": "route 在这里表示“路线”。完整句子是 By midnight our guide had marked every route on the map.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "选择",
+  "options": [
+   "route",
+   "basket",
+   "locker",
+   "suitcase"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF146",
+  "cat": "时态",
+  "level": 4,
+  "text": "By midnight our guide ____ every route on the map.",
+  "slots": [
+   [
+    "had marked"
+   ]
+  ],
+  "cn": "到当晚十二点，导游已在地图上标出了每条路线。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had marked。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "mark",
+   "had marked",
+   "will mark",
+   "must mark"
+  ],
+  "hint": "用 mark 的过去完成时形式"
+ },
+ {
+  "id": "WF147",
+  "cat": "单词",
+  "level": 4,
+  "text": "By the time the bus came, the snow had covered the ____.",
+  "slots": [
+   [
+    "pavement"
+   ]
+  ],
+  "cn": "公交车到来时，雪已经盖住了路面。",
+  "point": "语境选词与拼写",
+  "why": "pavement 在这里表示“路面”。完整句子是 By the time the bus came, the snow had covered the pavement.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · e · a · n · p · m · t · v"
+ },
+ {
+  "id": "WF148",
+  "cat": "时态",
+  "level": 4,
+  "text": "By the time the bus came, the snow ____ the pavement.",
+  "slots": [
+   [
+    "had covered"
+   ]
+  ],
+  "cn": "公交车到来时，雪已经盖住了路面。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had covered。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 cover 的过去完成时形式"
+ },
+ {
+  "id": "WF149",
+  "cat": "单词",
+  "level": 4,
+  "text": "Before he moved here, Max had managed a ____ for years.",
+  "slots": [
+   [
+    "bakery"
+   ]
+  ],
+  "cn": "马克斯搬来之前已经经营一家面包店多年了。",
+  "point": "语境选词与拼写",
+  "why": "bakery 在这里表示“面包店”。完整句子是 Before he moved here, Max had managed a bakery for years.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "seats",
+   "bakery",
+   "worksheet",
+   "pillow"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF150",
+  "cat": "时态",
+  "level": 4,
+  "text": "Before he moved here, Max ____ a bakery for years.",
+  "slots": [
+   [
+    "had managed"
+   ]
+  ],
+  "cn": "马克斯搬来之前已经经营一家面包店多年了。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had managed。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 manage 的过去完成时形式"
+ },
+ {
+  "id": "WF151",
+  "cat": "单词",
+  "level": 4,
+  "text": "By the time the doors opened, I had checked every ____.",
+  "slots": [
+   [
+    "locker"
+   ]
+  ],
+  "cn": "门打开时，我已经检查了每个储物柜。",
+  "point": "语境选词与拼写",
+  "why": "locker 在这里表示“储物柜”。完整句子是 By the time the doors opened, I had checked every locker.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：l · c · r · e · o · k"
+ },
+ {
+  "id": "WF152",
+  "cat": "时态",
+  "level": 4,
+  "text": "By the time the doors opened, I ____ every locker.",
+  "slots": [
+   [
+    "had checked"
+   ]
+  ],
+  "cn": "门打开时，我已经检查了每个储物柜。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had checked。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 check 的过去完成时形式"
+ },
+ {
+  "id": "WF153",
+  "cat": "单词",
+  "level": 4,
+  "text": "Before the lesson began, Sara had printed the ____.",
+  "slots": [
+   [
+    "worksheet"
+   ]
+  ],
+  "cn": "上课前，萨拉已经打印好了练习单。",
+  "point": "语境选词与拼写",
+  "why": "worksheet 在这里表示“练习单”。完整句子是 Before the lesson began, Sara had printed the worksheet.",
+  "tip": "留意词形与拼写，目标词共 9 个字母。",
+  "kind": "选择",
+  "options": [
+   "winner",
+   "worksheet",
+   "doorstep",
+   "dance"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF154",
+  "cat": "时态",
+  "level": 4,
+  "text": "Before the lesson began, Sara ____ the worksheet.",
+  "slots": [
+   [
+    "had printed"
+   ]
+  ],
+  "cn": "上课前，萨拉已经打印好了练习单。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had printed。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "print",
+   "had printed",
+   "must print",
+   "to print"
+  ],
+  "hint": "用 print 的过去完成时形式"
+ },
+ {
+  "id": "WF155",
+  "cat": "单词",
+  "level": 4,
+  "text": "When I got back, a gust of wind had scattered the ____.",
+  "slots": [
+   [
+    "receipts"
+   ]
+  ],
+  "cn": "我回来时，一阵风已经吹散了收据。",
+  "point": "语境选词与拼写",
+  "why": "receipts 在这里表示“收据”。完整句子是 When I got back, a gust of wind had scattered the receipts.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：s · i · e · p · r · e · t · c"
+ },
+ {
+  "id": "WF156",
+  "cat": "时态",
+  "level": 4,
+  "text": "When I got back, a gust of wind ____ the receipts.",
+  "slots": [
+   [
+    "had scattered"
+   ]
+  ],
+  "cn": "我回来时，一阵风已经吹散了收据。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had scattered。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 scatter 的过去完成时形式"
+ },
+ {
+  "id": "WF157",
+  "cat": "单词",
+  "level": 4,
+  "text": "By Friday the team had repaired the ____.",
+  "slots": [
+   [
+    "engine"
+   ]
+  ],
+  "cn": "到那个星期五，团队已经修好了发动机。",
+  "point": "语境选词与拼写",
+  "why": "engine 在这里表示“发动机”。完整句子是 By Friday the team had repaired the engine.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "选择",
+  "options": [
+   "poster",
+   "match",
+   "engine",
+   "parcel"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF158",
+  "cat": "时态",
+  "level": 4,
+  "text": "By Friday the team ____ the engine.",
+  "slots": [
+   [
+    "had repaired"
+   ]
+  ],
+  "cn": "到那个星期五，团队已经修好了发动机。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had repaired。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 repair 的过去完成时形式"
+ },
+ {
+  "id": "WF159",
+  "cat": "单词",
+  "level": 4,
+  "text": "By the end of the tour we had filled our ____ with photos.",
+  "slots": [
+   [
+    "album"
+   ]
+  ],
+  "cn": "旅行结束时，我们已经把相册装满了照片。",
+  "point": "语境选词与拼写",
+  "why": "album 在这里表示“相册”。完整句子是 By the end of the tour we had filled our album with photos.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：u · m · b · l · a"
+ },
+ {
+  "id": "WF160",
+  "cat": "时态",
+  "level": 4,
+  "text": "By the end of the tour we ____ our album with photos.",
+  "slots": [
+   [
+    "had filled"
+   ]
+  ],
+  "cn": "旅行结束时，我们已经把相册装满了照片。",
+  "point": "过去完成时",
+  "why": "在过去的参照事件之前已经发生，用 had 加过去分词，这里应填 had filled。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 fill 的过去完成时形式"
+ },
+ {
+  "id": "WF161",
+  "cat": "单词",
+  "level": 5,
+  "text": "I promise I will return your ____ tomorrow.",
+  "slots": [
+   [
+    "compass"
+   ]
+  ],
+  "cn": "我保证明天归还你的指南针。",
+  "point": "语境选词与拼写",
+  "why": "compass 在这里表示“指南针”。完整句子是 I promise I will return your compass tomorrow.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "lemon",
+   "compass",
+   "habitat",
+   "basket"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF162",
+  "cat": "时态",
+  "level": 5,
+  "text": "I promise I ____ your compass tomorrow.",
+  "slots": [
+   [
+    "will return"
+   ]
+  ],
+  "cn": "我保证明天归还你的指南针。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will return。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "must return",
+   "return",
+   "will return",
+   "to return"
+  ],
+  "hint": "用 return 的will 一般将来时形式"
+ },
+ {
+  "id": "WF163",
+  "cat": "单词",
+  "level": 5,
+  "text": "The notice says the club will announce the ____ tomorrow.",
+  "slots": [
+   [
+    "winner"
+   ]
+  ],
+  "cn": "通知上说社团明天会公布获胜者。",
+  "point": "语境选词与拼写",
+  "why": "winner 在这里表示“获胜者”。完整句子是 The notice says the club will announce the winner tomorrow.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：n · w · i · e · r · n"
+ },
+ {
+  "id": "WF164",
+  "cat": "时态",
+  "level": 5,
+  "text": "The notice says the club ____ the winner tomorrow.",
+  "slots": [
+   [
+    "will announce"
+   ]
+  ],
+  "cn": "通知上说社团明天会公布获胜者。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will announce。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 announce 的will 一般将来时形式"
+ },
+ {
+  "id": "WF165",
+  "cat": "单词",
+  "level": 5,
+  "text": "I think the rain will delay our ____.",
+  "slots": [
+   [
+    "departure"
+   ]
+  ],
+  "cn": "我想这场雨会推迟我们的出发时间。",
+  "point": "语境选词与拼写",
+  "why": "departure 在这里表示“出发”。完整句子是 I think the rain will delay our departure.",
+  "tip": "留意词形与拼写，目标词共 9 个字母。",
+  "kind": "选择",
+  "options": [
+   "routine",
+   "loaf",
+   "departure",
+   "map"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF166",
+  "cat": "时态",
+  "level": 5,
+  "text": "I think the rain ____ our departure.",
+  "slots": [
+   [
+    "will delay"
+   ]
+  ],
+  "cn": "我想这场雨会推迟我们的出发时间。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will delay。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 delay 的will 一般将来时形式"
+ },
+ {
+  "id": "WF167",
+  "cat": "单词",
+  "level": 5,
+  "text": "Don't worry. I will carry the heavy ____ for you.",
+  "slots": [
+   [
+    "suitcase"
+   ]
+  ],
+  "cn": "别担心，我来帮你提这个重行李箱。",
+  "point": "语境选词与拼写",
+  "why": "suitcase 在这里表示“行李箱”。完整句子是 Don't worry. I will carry the heavy suitcase for you.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：u · c · a · s · t · i · e · s"
+ },
+ {
+  "id": "WF168",
+  "cat": "时态",
+  "level": 5,
+  "text": "Don't worry. I ____ the heavy suitcase for you.",
+  "slots": [
+   [
+    "will carry"
+   ]
+  ],
+  "cn": "别担心，我来帮你提这个重行李箱。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will carry。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 carry 的will 一般将来时形式"
+ },
+ {
+  "id": "WF169",
+  "cat": "单词",
+  "level": 5,
+  "text": "Next month we will publish the first ____ of our magazine.",
+  "slots": [
+   [
+    "issue"
+   ]
+  ],
+  "cn": "下个月我们将出版杂志的第一期。",
+  "point": "语境选词与拼写",
+  "why": "issue 在这里表示“一期刊物”。完整句子是 Next month we will publish the first issue of our magazine.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "选择",
+  "options": [
+   "tent",
+   "compass",
+   "owner",
+   "issue"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF170",
+  "cat": "时态",
+  "level": 5,
+  "text": "Next month we ____ the first issue of our magazine.",
+  "slots": [
+   [
+    "will publish"
+   ]
+  ],
+  "cn": "下个月我们将出版杂志的第一期。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will publish。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "will publish",
+   "to publish",
+   "must publish",
+   "publish"
+  ],
+  "hint": "用 publish 的will 一般将来时形式"
+ },
+ {
+  "id": "WF171",
+  "cat": "单词",
+  "level": 5,
+  "text": "I expect the new bus line will reduce the ____ here.",
+  "slots": [
+   [
+    "traffic"
+   ]
+  ],
+  "cn": "我预计新公交线路将减少这里的车流量。",
+  "point": "语境选词与拼写",
+  "why": "traffic 在这里表示“车流量”。完整句子是 I expect the new bus line will reduce the traffic here.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：r · a · f · c · f · i · t"
+ },
+ {
+  "id": "WF172",
+  "cat": "时态",
+  "level": 5,
+  "text": "I expect the new bus line ____ the traffic here.",
+  "slots": [
+   [
+    "will reduce"
+   ]
+  ],
+  "cn": "我预计新公交线路将减少这里的车流量。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will reduce。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 reduce 的will 一般将来时形式"
+ },
+ {
+  "id": "WF173",
+  "cat": "单词",
+  "level": 5,
+  "text": "I promise we will protect the birds' ____.",
+  "slots": [
+   [
+    "habitat"
+   ]
+  ],
+  "cn": "我保证我们会保护鸟类的栖息地。",
+  "point": "语境选词与拼写",
+  "why": "habitat 在这里表示“栖息地”。完整句子是 I promise we will protect the birds' habitat.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "courtyard",
+   "diary",
+   "habitat",
+   "documentary"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF174",
+  "cat": "时态",
+  "level": 5,
+  "text": "I promise we ____ the birds' habitat.",
+  "slots": [
+   [
+    "will protect"
+   ]
+  ],
+  "cn": "我保证我们会保护鸟类的栖息地。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will protect。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 protect 的will 一般将来时形式"
+ },
+ {
+  "id": "WF175",
+  "cat": "单词",
+  "level": 5,
+  "text": "The speaker says she will answer questions after the ____.",
+  "slots": [
+   [
+    "lecture"
+   ]
+  ],
+  "cn": "演讲者说她会在讲座后回答问题。",
+  "point": "语境选词与拼写",
+  "why": "lecture 在这里表示“讲座”。完整句子是 The speaker says she will answer questions after the lecture.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · t · l · e · c · u · r"
+ },
+ {
+  "id": "WF176",
+  "cat": "时态",
+  "level": 5,
+  "text": "The speaker says she ____ questions after the lecture.",
+  "slots": [
+   [
+    "will answer"
+   ]
+  ],
+  "cn": "演讲者说她会在讲座后回答问题。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will answer。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 answer 的will 一般将来时形式"
+ },
+ {
+  "id": "WF177",
+  "cat": "单词",
+  "level": 5,
+  "text": "Tomorrow our coach will explain the new ____.",
+  "slots": [
+   [
+    "strategy"
+   ]
+  ],
+  "cn": "明天教练会解释新策略。",
+  "point": "语境选词与拼写",
+  "why": "strategy 在这里表示“策略”。完整句子是 Tomorrow our coach will explain the new strategy.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "选择",
+  "options": [
+   "fence",
+   "strategy",
+   "lemon",
+   "message"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF178",
+  "cat": "时态",
+  "level": 5,
+  "text": "Tomorrow our coach ____ the new strategy.",
+  "slots": [
+   [
+    "will explain"
+   ]
+  ],
+  "cn": "明天教练会解释新策略。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will explain。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "will explain",
+   "must explain",
+   "to explain",
+   "explain"
+  ],
+  "hint": "用 explain 的will 一般将来时形式"
+ },
+ {
+  "id": "WF179",
+  "cat": "单词",
+  "level": 5,
+  "text": "I suppose the new lamp will improve the ____ in the hall.",
+  "slots": [
+   [
+    "lighting"
+   ]
+  ],
+  "cn": "我想新灯会改善大厅的照明。",
+  "point": "语境选词与拼写",
+  "why": "lighting 在这里表示“照明”。完整句子是 I suppose the new lamp will improve the lighting in the hall.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：h · g · i · i · n · g · t · l"
+ },
+ {
+  "id": "WF180",
+  "cat": "时态",
+  "level": 5,
+  "text": "I suppose the new lamp ____ the lighting in the hall.",
+  "slots": [
+   [
+    "will improve"
+   ]
+  ],
+  "cn": "我想新灯会改善大厅的照明。",
+  "point": "will 一般将来时",
+  "why": "will 后接动词原形，这里应填 will improve。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 improve 的will 一般将来时形式"
+ },
+ {
+  "id": "WF181",
+  "cat": "单词",
+  "level": 5,
+  "text": "Every morning the milk is delivered to our ____.",
+  "slots": [
+   [
+    "doorstep"
+   ]
+  ],
+  "cn": "每天早晨牛奶都会被送到我家门阶前。",
+  "point": "语境选词与拼写",
+  "why": "doorstep 在这里表示“门阶”。完整句子是 Every morning the milk is delivered to our doorstep.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "选择",
+  "options": [
+   "corridor",
+   "scarf",
+   "ladder",
+   "doorstep"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF182",
+  "cat": "时态",
+  "level": 5,
+  "text": "Every morning the milk ____ to our doorstep.",
+  "slots": [
+   [
+    "is delivered"
+   ]
+  ],
+  "cn": "每天早晨牛奶都会被送到我家门阶前。",
+  "point": "一般现在时被动语态",
+  "why": "主语承受动作，用 is/are 加过去分词，这里应填 is delivered。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 deliver 的一般现在时被动语态形式"
+ },
+ {
+  "id": "WF183",
+  "cat": "单词",
+  "level": 5,
+  "text": "In this workshop all the bowls are shaped by hand from ____.",
+  "slots": [
+   [
+    "clay"
+   ]
+  ],
+  "cn": "在这个工坊，所有的碗都用黏土手工塑形。",
+  "point": "语境选词与拼写",
+  "why": "clay 在这里表示“黏土”。完整句子是 In this workshop all the bowls are shaped by hand from clay.",
+  "tip": "留意词形与拼写，目标词共 4 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：a · c · y · l"
+ },
+ {
+  "id": "WF184",
+  "cat": "时态",
+  "level": 5,
+  "text": "In this workshop all the bowls ____ by hand from clay.",
+  "slots": [
+   [
+    "are shaped"
+   ]
+  ],
+  "cn": "在这个工坊，所有的碗都用黏土手工塑形。",
+  "point": "一般现在时被动语态",
+  "why": "主语承受动作，用 is/are 加过去分词，这里应填 are shaped。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 shape 的一般现在时被动语态形式"
+ },
+ {
+  "id": "WF185",
+  "cat": "单词",
+  "level": 5,
+  "text": "Last month a bench was placed in the ____.",
+  "slots": [
+   [
+    "courtyard"
+   ]
+  ],
+  "cn": "上个月院子里安放了一条长椅。",
+  "point": "语境选词与拼写",
+  "why": "courtyard 在这里表示“院子”。完整句子是 Last month a bench was placed in the courtyard.",
+  "tip": "留意词形与拼写，目标词共 9 个字母。",
+  "kind": "选择",
+  "options": [
+   "recycling",
+   "seats",
+   "puppy",
+   "courtyard"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF186",
+  "cat": "时态",
+  "level": 5,
+  "text": "Last month a bench ____ in the courtyard.",
+  "slots": [
+   [
+    "was placed"
+   ]
+  ],
+  "cn": "上个月院子里安放了一条长椅。",
+  "point": "一般过去时被动语态",
+  "why": "过去的被动动作用 was/were 加过去分词，这里应填 was placed。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "was placed",
+   "place",
+   "to place",
+   "must place"
+  ],
+  "hint": "用 place 的一般过去时被动语态形式"
+ },
+ {
+  "id": "WF187",
+  "cat": "单词",
+  "level": 5,
+  "text": "Yesterday the letters were sorted by ____.",
+  "slots": [
+   [
+    "postcode"
+   ]
+  ],
+  "cn": "昨天这些信按邮政编码分好了。",
+  "point": "语境选词与拼写",
+  "why": "postcode 在这里表示“邮政编码”。完整句子是 Yesterday the letters were sorted by postcode.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：e · d · t · o · o · s · c · p"
+ },
+ {
+  "id": "WF188",
+  "cat": "时态",
+  "level": 5,
+  "text": "Yesterday the letters ____ by postcode.",
+  "slots": [
+   [
+    "were sorted"
+   ]
+  ],
+  "cn": "昨天这些信按邮政编码分好了。",
+  "point": "一般过去时被动语态",
+  "why": "过去的被动动作用 was/were 加过去分词，这里应填 were sorted。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 sort 的一般过去时被动语态形式"
+ },
+ {
+  "id": "WF189",
+  "cat": "单词",
+  "level": 5,
+  "text": "The final drawing was selected by a ____ last night.",
+  "slots": [
+   [
+    "committee"
+   ]
+  ],
+  "cn": "昨晚一个委员会选定了最终图样。",
+  "point": "语境选词与拼写",
+  "why": "committee 在这里表示“委员会”。完整句子是 The final drawing was selected by a committee last night.",
+  "tip": "留意词形与拼写，目标词共 9 个字母。",
+  "kind": "选择",
+  "options": [
+   "roof",
+   "committee",
+   "traffic",
+   "salt"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF190",
+  "cat": "时态",
+  "level": 5,
+  "text": "The final drawing ____ by a committee last night.",
+  "slots": [
+   [
+    "was selected"
+   ]
+  ],
+  "cn": "昨晚一个委员会选定了最终图样。",
+  "point": "一般过去时被动语态",
+  "why": "过去的被动动作用 was/were 加过去分词，这里应填 was selected。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 select 的一般过去时被动语态形式"
+ },
+ {
+  "id": "WF191",
+  "cat": "单词",
+  "level": 5,
+  "text": "Each year the winning poems are displayed in the ____.",
+  "slots": [
+   [
+    "corridor"
+   ]
+  ],
+  "cn": "每年获奖诗作都会在走廊展出。",
+  "point": "语境选词与拼写",
+  "why": "corridor 在这里表示“走廊”。完整句子是 Each year the winning poems are displayed in the corridor.",
+  "tip": "留意词形与拼写，目标词共 8 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：c · i · r · r · r · o · d · o"
+ },
+ {
+  "id": "WF192",
+  "cat": "时态",
+  "level": 5,
+  "text": "Each year the winning poems ____ in the corridor.",
+  "slots": [
+   [
+    "are displayed"
+   ]
+  ],
+  "cn": "每年获奖诗作都会在走廊展出。",
+  "point": "一般现在时被动语态",
+  "why": "主语承受动作，用 is/are 加过去分词，这里应填 are displayed。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 display 的一般现在时被动语态形式"
+ },
+ {
+  "id": "WF193",
+  "cat": "单词",
+  "level": 5,
+  "text": "Last night the broken pipe was replaced by a ____.",
+  "slots": [
+   [
+    "plumber"
+   ]
+  ],
+  "cn": "昨晚一名管道工更换了破裂的管子。",
+  "point": "语境选词与拼写",
+  "why": "plumber 在这里表示“管道工”。完整句子是 Last night the broken pipe was replaced by a plumber.",
+  "tip": "留意词形与拼写，目标词共 7 个字母。",
+  "kind": "选择",
+  "options": [
+   "surveys",
+   "bridge",
+   "plumber",
+   "portrait"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF194",
+  "cat": "时态",
+  "level": 5,
+  "text": "Last night the broken pipe ____ by a plumber.",
+  "slots": [
+   [
+    "was replaced"
+   ]
+  ],
+  "cn": "昨晚一名管道工更换了破裂的管子。",
+  "point": "一般过去时被动语态",
+  "why": "过去的被动动作用 was/were 加过去分词，这里应填 was replaced。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "选择",
+  "options": [
+   "was replaced",
+   "must replace",
+   "to replace",
+   "will replace"
+  ],
+  "hint": "用 replace 的一般过去时被动语态形式"
+ },
+ {
+  "id": "WF195",
+  "cat": "单词",
+  "level": 5,
+  "text": "In our town paper and glass are gathered for ____ every week.",
+  "slots": [
+   [
+    "recycling"
+   ]
+  ],
+  "cn": "在我们镇，纸和玻璃每周都被收集起来回收利用。",
+  "point": "语境选词与拼写",
+  "why": "recycling 在这里表示“回收利用”。完整句子是 In our town paper and glass are gathered for recycling every week.",
+  "tip": "留意词形与拼写，目标词共 9 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：c · y · n · r · e · l · i · g · c"
+ },
+ {
+  "id": "WF196",
+  "cat": "时态",
+  "level": 5,
+  "text": "In our town paper and glass ____ for recycling every week.",
+  "slots": [
+   [
+    "are gathered"
+   ]
+  ],
+  "cn": "在我们镇，纸和玻璃每周都被收集起来回收利用。",
+  "point": "一般现在时被动语态",
+  "why": "主语承受动作，用 is/are 加过去分词，这里应填 are gathered。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 gather 的一般现在时被动语态形式"
+ },
+ {
+  "id": "WF197",
+  "cat": "单词",
+  "level": 5,
+  "text": "Yesterday the missing bag was returned to its ____.",
+  "slots": [
+   [
+    "owner"
+   ]
+  ],
+  "cn": "昨天丢失的包被送还给了失主。",
+  "point": "语境选词与拼写",
+  "why": "owner 在这里表示“失主”。完整句子是 Yesterday the missing bag was returned to its owner.",
+  "tip": "留意词形与拼写，目标词共 5 个字母。",
+  "kind": "选择",
+  "options": [
+   "banner",
+   "seats",
+   "owner",
+   "library"
+  ],
+  "hint": "按译文选词"
+ },
+ {
+  "id": "WF198",
+  "cat": "时态",
+  "level": 5,
+  "text": "Yesterday the missing bag ____ to its owner.",
+  "slots": [
+   [
+    "was returned"
+   ]
+  ],
+  "cn": "昨天丢失的包被送还给了失主。",
+  "point": "一般过去时被动语态",
+  "why": "过去的被动动作用 was/were 加过去分词，这里应填 was returned。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 return 的一般过去时被动语态形式"
+ },
+ {
+  "id": "WF199",
+  "cat": "单词",
+  "level": 5,
+  "text": "Every spring these paths are inspected for signs of ____.",
+  "slots": [
+   [
+    "damage"
+   ]
+  ],
+  "cn": "每年春天都有人检查这些小路有无损坏的迹象。",
+  "point": "语境选词与拼写",
+  "why": "damage 在这里表示“损坏”。完整句子是 Every spring these paths are inspected for signs of damage.",
+  "tip": "留意词形与拼写，目标词共 6 个字母。",
+  "kind": "输入",
+  "options": [],
+  "hint": "按译文重排字母：g · a · d · a · m · e"
+ },
+ {
+  "id": "WF200",
+  "cat": "时态",
+  "level": 5,
+  "text": "Every spring these paths ____ for signs of damage.",
+  "slots": [
+   [
+    "are inspected"
+   ]
+  ],
+  "cn": "每年春天都有人检查这些小路有无损坏的迹象。",
+  "point": "一般现在时被动语态",
+  "why": "主语承受动作，用 is/are 加过去分词，这里应填 are inspected。",
+  "tip": "先找时间线索，再检查助动词和动词形式。",
+  "kind": "词形",
+  "options": [],
+  "hint": "用 inspect 的一般现在时被动语态形式"
+ },
+ {
+  "id": "WF201",
+  "cat": "代词",
+  "level": 1,
+  "text": "Mia loves music. ____ plays the piano.",
+  "slots": [
+   [
+    "She"
+   ]
+  ],
+  "cn": "米娅喜欢音乐。她弹钢琴。",
+  "point": "主格作主语",
+  "why": "主格作主语。这句话应选用「She」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "myself",
+   "She",
+   "ourselves"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF202",
+  "cat": "代词",
+  "level": 1,
+  "text": "Dan is my cousin. I see ____ every week.",
+  "slots": [
+   [
+    "him"
+   ]
+  ],
+  "cn": "丹是我的表弟。我每周都见他。",
+  "point": "动词后用宾格",
+  "why": "动词后用宾格。这句话应选用「him」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "myself",
+   "hers",
+   "ourselves",
+   "him"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF203",
+  "cat": "代词",
+  "level": 1,
+  "text": "This pen belongs to me. It is ____.",
+  "slots": [
+   [
+    "mine"
+   ]
+  ],
+  "cn": "这支笔属于我，是我的。",
+  "point": "名词性物主代词独立使用",
+  "why": "名词性物主代词独立使用。这句话应选用「mine」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "ourselves",
+   "whom",
+   "its",
+   "mine"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF204",
+  "cat": "代词",
+  "level": 1,
+  "text": "These are Ben's shoes. ____ feet are quite big.",
+  "slots": [
+   [
+    "His"
+   ]
+  ],
+  "cn": "这是本的鞋。他的脚很大。",
+  "point": "名词前用形容词性物主代词",
+  "why": "名词前用形容词性物主代词。这句话应选用「His」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "His",
+   "its",
+   "hers",
+   "ourselves"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF205",
+  "cat": "代词",
+  "level": 1,
+  "text": "My sister and I ride together. ____ take the same bus.",
+  "slots": [
+   [
+    "We"
+   ]
+  ],
+  "cn": "我和姐姐一起坐车。我们坐同一班车。",
+  "point": "多人包括自己用 we",
+  "why": "多人包括自己用 we。这句话应选用「We」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "ourselves",
+   "We",
+   "hers"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF206",
+  "cat": "代词",
+  "level": 1,
+  "text": "Our neighbors are kind. We like ____.",
+  "slots": [
+   [
+    "them"
+   ]
+  ],
+  "cn": "邻居们很友善。我们喜欢他们。",
+  "point": "复数宾格",
+  "why": "复数宾格。这句话应选用「them」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "them",
+   "myself",
+   "whom",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF207",
+  "cat": "代词",
+  "level": 1,
+  "text": "The cat is hungry. ____ bowl is empty.",
+  "slots": [
+   [
+    "Its"
+   ]
+  ],
+  "cn": "猫饿了。它的碗是空的。",
+  "point": "its 表示所属",
+  "why": "its 表示所属。这句话应选用「Its」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "myself",
+   "ourselves",
+   "Its",
+   "hers"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF208",
+  "cat": "代词",
+  "level": 1,
+  "text": "I cannot reach the shelf. Please help ____.",
+  "slots": [
+   [
+    "me"
+   ]
+  ],
+  "cn": "我够不着架子，请帮帮我。",
+  "point": "help 后用宾格",
+  "why": "help 后用宾格。这句话应选用「me」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "me",
+   "whom",
+   "hers",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF209",
+  "cat": "代词",
+  "level": 1,
+  "text": "The girls have tickets. ____ seats are in front.",
+  "slots": [
+   [
+    "Their"
+   ]
+  ],
+  "cn": "女孩们有票。她们的座位在前面。",
+  "point": "名词前表示所属",
+  "why": "名词前表示所属。这句话应选用「Their」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "Their",
+   "ourselves",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF210",
+  "cat": "代词",
+  "level": 1,
+  "text": "You paid for the bag. It is ____.",
+  "slots": [
+   [
+    "yours"
+   ]
+  ],
+  "cn": "你付钱买了这个包。它是你的。",
+  "point": "名词性物主代词",
+  "why": "名词性物主代词。这句话应选用「yours」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "ourselves",
+   "hers",
+   "yours",
+   "whom"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF211",
+  "cat": "代词",
+  "level": 1,
+  "text": "That scarf belongs to Liz. It is ____.",
+  "slots": [
+   [
+    "hers"
+   ]
+  ],
+  "cn": "那条围巾属于莉兹，是她的。",
+  "point": "hers 相当于 her scarf",
+  "why": "hers 相当于 her scarf。这句话应选用「hers」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "its",
+   "whom",
+   "ourselves"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF212",
+  "cat": "代词",
+  "level": 1,
+  "text": "We missed the train. The driver saw ____ running.",
+  "slots": [
+   [
+    "us"
+   ]
+  ],
+  "cn": "我们没赶上火车。司机看到我们在跑。",
+  "point": "see 后用宾格",
+  "why": "see 后用宾格。这句话应选用「us」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "us",
+   "myself",
+   "whom",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF213",
+  "cat": "代词",
+  "level": 2,
+  "text": "Sue brought ____ brother to school.",
+  "slots": [
+   [
+    "her"
+   ]
+  ],
+  "cn": "苏把她自己的弟弟带到了学校。",
+  "point": "名词前用形容词性物主代词",
+  "why": "名词前用形容词性物主代词。这句话应选用「her」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "her",
+   "hers",
+   "whom",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF214",
+  "cat": "代词",
+  "level": 2,
+  "text": "I hurt ____ while skating alone.",
+  "slots": [
+   [
+    "myself"
+   ]
+  ],
+  "cn": "我独自滑冰时弄伤了自己。",
+  "point": "动作回到主语",
+  "why": "动作回到主语。这句话应选用「myself」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "whom",
+   "hers",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF215",
+  "cat": "代词",
+  "level": 2,
+  "text": "Ben looked at ____ in the mirror.",
+  "slots": [
+   [
+    "himself"
+   ]
+  ],
+  "cn": "本照镜子看自己。",
+  "point": "单数男性反身代词",
+  "why": "单数男性反身代词。这句话应选用「himself」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "ourselves",
+   "its",
+   "himself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF216",
+  "cat": "代词",
+  "level": 2,
+  "text": "The sisters introduced ____ to the class.",
+  "slots": [
+   [
+    "themselves"
+   ]
+  ],
+  "cn": "姐妹俩向全班作了自我介绍。",
+  "point": "复数反身代词",
+  "why": "复数反身代词。这句话应选用「themselves」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "themselves",
+   "ourselves",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF217",
+  "cat": "代词",
+  "level": 2,
+  "text": "Did you make this cake ____, Tom?",
+  "slots": [
+   [
+    "yourself"
+   ]
+  ],
+  "cn": "汤姆，这块蛋糕是你亲手做的吗？",
+  "point": "单数强调亲自",
+  "why": "单数强调亲自。这句话应选用「yourself」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "yourself",
+   "its",
+   "myself",
+   "whom"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF218",
+  "cat": "代词",
+  "level": 2,
+  "text": "We taught ____ to play chess.",
+  "slots": [
+   [
+    "ourselves"
+   ]
+  ],
+  "cn": "我们自学了下棋。",
+  "point": "teach oneself",
+  "why": "teach oneself。这句话应选用「ourselves」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "ourselves",
+   "myself",
+   "whom"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF219",
+  "cat": "代词",
+  "level": 2,
+  "text": "The machine turns ____ off at night.",
+  "slots": [
+   [
+    "itself"
+   ]
+  ],
+  "cn": "这台机器晚上会自行关闭。",
+  "point": "单数事物反身代词",
+  "why": "单数事物反身代词。这句话应选用「itself」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "ourselves",
+   "myself",
+   "itself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF220",
+  "cat": "代词",
+  "level": 2,
+  "text": "Sara dried ____ with a towel.",
+  "slots": [
+   [
+    "herself"
+   ]
+  ],
+  "cn": "萨拉用毛巾擦干自己。",
+  "point": "单数女性反身代词",
+  "why": "单数女性反身代词。这句话应选用「herself」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "herself",
+   "hers",
+   "ourselves",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF221",
+  "cat": "代词",
+  "level": 2,
+  "text": "Boys, please help ____ to some fruit.",
+  "slots": [
+   [
+    "yourselves"
+   ]
+  ],
+  "cn": "孩子们，请随便吃点水果。",
+  "point": "复数听者",
+  "why": "复数听者。这句话应选用「yourselves」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "ourselves",
+   "hers",
+   "myself",
+   "yourselves"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF222",
+  "cat": "代词",
+  "level": 2,
+  "text": "I know your name. Do you know ____?",
+  "slots": [
+   [
+    "mine"
+   ]
+  ],
+  "cn": "我知道你的名字。你知道我的吗？",
+  "point": "mine 代替 my name",
+  "why": "mine 代替 my name。这句话应选用「mine」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "hers",
+   "mine",
+   "ourselves"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF223",
+  "cat": "代词",
+  "level": 2,
+  "text": "Their car is red. ____ is green.",
+  "slots": [
+   [
+    "Ours"
+   ]
+  ],
+  "cn": "他们的车是红色的，我们的是绿色的。",
+  "point": "ours 代替 our car",
+  "why": "ours 代替 our car。这句话应选用「Ours」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "myself",
+   "whom",
+   "ourselves",
+   "Ours"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF224",
+  "cat": "代词",
+  "level": 2,
+  "text": "Our tickets are cheap. ____ cost twice as much.",
+  "slots": [
+   [
+    "Theirs"
+   ]
+  ],
+  "cn": "我们的票便宜，他们的贵一倍。",
+  "point": "theirs 代替 their tickets",
+  "why": "theirs 代替 their tickets。这句话应选用「Theirs」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "Theirs",
+   "ourselves",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF225",
+  "cat": "代词",
+  "level": 3,
+  "text": "Please give the envelope to ____.",
+  "slots": [
+   [
+    "her"
+   ]
+  ],
+  "cn": "请把信封交给她。",
+  "point": "介词后用宾格",
+  "why": "介词后用宾格。这句话应选用「her」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "whom",
+   "hers",
+   "her"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF226",
+  "cat": "代词",
+  "level": 3,
+  "text": "____ are my gloves here in my hand.",
+  "slots": [
+   [
+    "These"
+   ]
+  ],
+  "cn": "我手里的这几只是我的手套。",
+  "point": "近指复数",
+  "why": "近指复数。这句话应选用「These」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "These",
+   "hers",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF227",
+  "cat": "代词",
+  "level": 3,
+  "text": "Look across the river. ____ are our tents over there.",
+  "slots": [
+   [
+    "Those"
+   ]
+  ],
+  "cn": "看河对岸。那边那些是我们的帐篷。",
+  "point": "远指复数",
+  "why": "远指复数。这句话应选用「Those」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "Those",
+   "myself",
+   "whom"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF228",
+  "cat": "代词",
+  "level": 3,
+  "text": "____ is the key in my hand right here.",
+  "slots": [
+   [
+    "This"
+   ]
+  ],
+  "cn": "我手里这把就是钥匙。",
+  "point": "近指单数",
+  "why": "近指单数。这句话应选用「This」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "whom",
+   "ourselves",
+   "This"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF229",
+  "cat": "代词",
+  "level": 3,
+  "text": "____ is my bike over there by the gate.",
+  "slots": [
+   [
+    "That"
+   ]
+  ],
+  "cn": "大门旁远处那辆是我的自行车。",
+  "point": "远指单数",
+  "why": "远指单数。这句话应选用「That」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "That",
+   "myself",
+   "whom"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF230",
+  "cat": "代词",
+  "level": 3,
+  "text": "There are two seats. ____ are empty.",
+  "slots": [
+   [
+    "Both"
+   ]
+  ],
+  "cn": "有两个座位，两个都空着。",
+  "point": "两者都",
+  "why": "两者都。这句话应选用「Both」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "hers",
+   "whom",
+   "Both"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF231",
+  "cat": "代词",
+  "level": 3,
+  "text": "There are two keys. ____ opens the door.",
+  "slots": [
+   [
+    "Neither"
+   ]
+  ],
+  "cn": "有两把钥匙，两把都打不开门。",
+  "point": "两者都不",
+  "why": "两者都不。这句话应选用「Neither」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "ourselves",
+   "hers",
+   "its",
+   "Neither"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF232",
+  "cat": "代词",
+  "level": 3,
+  "text": "I have two pens. One is blue; the ____ is red.",
+  "slots": [
+   [
+    "other"
+   ]
+  ],
+  "cn": "我有两支笔，一支蓝色，另一支红色。",
+  "point": "两者中的另一个",
+  "why": "两者中的另一个。这句话应选用「other」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "its",
+   "other",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF233",
+  "cat": "代词",
+  "level": 3,
+  "text": "This cup is cracked. May I have ____?",
+  "slots": [
+   [
+    "another"
+   ]
+  ],
+  "cn": "这只杯子裂了，可以再给我一只吗？",
+  "point": "不定数量中的另一个",
+  "why": "不定数量中的另一个。这句话应选用「another」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "hers",
+   "another",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF234",
+  "cat": "代词",
+  "level": 3,
+  "text": "The old battery is dead. I need a new ____.",
+  "slots": [
+   [
+    "one"
+   ]
+  ],
+  "cn": "旧电池没电了，我需要一节新的。",
+  "point": "one 代替前述可数单数名词",
+  "why": "one 代替前述可数单数名词。这句话应选用「one」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "ourselves",
+   "one",
+   "its",
+   "whom"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF235",
+  "cat": "代词",
+  "level": 3,
+  "text": "The red socks are wet. Wear the dry ____.",
+  "slots": [
+   [
+    "ones"
+   ]
+  ],
+  "cn": "红袜子湿了，穿干的吧。",
+  "point": "ones 代替复数名词",
+  "why": "ones 代替复数名词。这句话应选用「ones」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "ones",
+   "whom",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF236",
+  "cat": "代词",
+  "level": 3,
+  "text": "I have three bags and ____ has a label.",
+  "slots": [
+   [
+    "each"
+   ]
+  ],
+  "cn": "我有三个包，每个都有标签。",
+  "point": "逐个考虑用 each",
+  "why": "逐个考虑用 each。这句话应选用「each」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "myself",
+   "each",
+   "whom",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF237",
+  "cat": "代词",
+  "level": 4,
+  "text": "Did ____ call me while I was out?",
+  "slots": [
+   [
+    "anyone",
+    "anybody"
+   ]
+  ],
+  "cn": "我出去时有人给我打电话吗？",
+  "point": "疑问句中泛指某人",
+  "why": "疑问句中泛指某人。这句话应选用「anyone / anybody」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "myself",
+   "ourselves",
+   "anyone"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF238",
+  "cat": "代词",
+  "level": 4,
+  "text": "The room was empty. ____ answered.",
+  "slots": [
+   [
+    "Nobody",
+    "No one"
+   ]
+  ],
+  "cn": "房间是空的，没有人应答。",
+  "point": "否定意义的不定代词",
+  "why": "否定意义的不定代词。这句话应选用「Nobody / No one」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "Nobody",
+   "whom",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF239",
+  "cat": "代词",
+  "level": 4,
+  "text": "All the guests agreed. ____ signed the card.",
+  "slots": [
+   [
+    "Everyone",
+    "Everybody"
+   ]
+  ],
+  "cn": "所有客人都同意了，每个人都签了卡片。",
+  "point": "指所有的人",
+  "why": "指所有的人。这句话应选用「Everyone / Everybody」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "Everyone",
+   "its",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF240",
+  "cat": "代词",
+  "level": 4,
+  "text": "The box is empty. There is ____ inside.",
+  "slots": [
+   [
+    "nothing"
+   ]
+  ],
+  "cn": "盒子空了，里面什么也没有。",
+  "point": "否定意义指事物",
+  "why": "否定意义指事物。这句话应选用「nothing」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nothing",
+   "myself",
+   "whom",
+   "ourselves"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF241",
+  "cat": "代词",
+  "level": 4,
+  "text": "She whispered ____ in my ear, but I couldn't hear what.",
+  "slots": [
+   [
+    "something"
+   ]
+  ],
+  "cn": "她在我耳边低声说了些什么，但我没听清。",
+  "point": "肯定句中指某事",
+  "why": "肯定句中指某事。这句话应选用「something」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "its",
+   "whom",
+   "something"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF242",
+  "cat": "代词",
+  "level": 4,
+  "text": "I don't need ____ else today.",
+  "slots": [
+   [
+    "anything"
+   ]
+  ],
+  "cn": "今天我不需要别的任何东西了。",
+  "point": "否定句中的 anything",
+  "why": "否定句中的 anything。这句话应选用「anything」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "ourselves",
+   "whom",
+   "anything"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF243",
+  "cat": "代词",
+  "level": 4,
+  "text": "____ is knocking at the door?",
+  "slots": [
+   [
+    "Who"
+   ]
+  ],
+  "cn": "谁在敲门？",
+  "point": "询问人的身份",
+  "why": "询问人的身份。这句话应选用「Who」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "ourselves",
+   "whom",
+   "Who",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF244",
+  "cat": "代词",
+  "level": 4,
+  "text": "____ coat is hanging on the chair?",
+  "slots": [
+   [
+    "Whose"
+   ]
+  ],
+  "cn": "椅子上挂着谁的外套？",
+  "point": "询问所属",
+  "why": "询问所属。这句话应选用「Whose」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "Whose",
+   "myself",
+   "ourselves"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF245",
+  "cat": "代词",
+  "level": 4,
+  "text": "____ of the two routes is shorter?",
+  "slots": [
+   [
+    "Which"
+   ]
+  ],
+  "cn": "这两条路线中哪条更短？",
+  "point": "限定范围内选择",
+  "why": "限定范围内选择。这句话应选用「Which」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "myself",
+   "Which",
+   "ourselves",
+   "hers"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF246",
+  "cat": "代词",
+  "level": 4,
+  "text": "____ is your sister's name?",
+  "slots": [
+   [
+    "What"
+   ]
+  ],
+  "cn": "你妹妹叫什么名字？",
+  "point": "询问名字",
+  "why": "询问名字。这句话应选用「What」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "ourselves",
+   "hers",
+   "What"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF247",
+  "cat": "代词",
+  "level": 4,
+  "text": "The woman ____ teaches us math rides a bike.",
+  "slots": [
+   [
+    "who",
+    "that"
+   ]
+  ],
+  "cn": "教我们数学的女士骑自行车。",
+  "point": "指人且在从句中作主语",
+  "why": "指人且在从句中作主语。这句话应选用「who / that」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "ourselves",
+   "whom",
+   "who"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF248",
+  "cat": "代词",
+  "level": 4,
+  "text": "This is a tool ____ cuts glass.",
+  "slots": [
+   [
+    "which",
+    "that"
+   ]
+  ],
+  "cn": "这是一件能切割玻璃的工具。",
+  "point": "指物且在从句中作主语",
+  "why": "指物且在从句中作主语。这句话应选用「which / that」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "which",
+   "myself",
+   "ourselves",
+   "whom"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF249",
+  "cat": "代词",
+  "level": 5,
+  "text": "The boy ____ bike broke down walked home.",
+  "slots": [
+   [
+    "whose"
+   ]
+  ],
+  "cn": "自行车坏了的男孩步行回家了。",
+  "point": "关系代词修饰名词",
+  "why": "关系代词修饰名词。这句话应选用「whose」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "whose",
+   "myself",
+   "whom"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF250",
+  "cat": "代词",
+  "level": 5,
+  "text": "My uncle, ____ lives in Leeds, paints boats.",
+  "slots": [
+   [
+    "who"
+   ]
+  ],
+  "cn": "我叔叔住在利兹，他给船刷漆。",
+  "point": "非限制性定语从句指人",
+  "why": "非限制性定语从句指人。这句话应选用「who」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "who",
+   "ourselves",
+   "whom",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF251",
+  "cat": "代词",
+  "level": 5,
+  "text": "The bridge, ____ opened in May, is busy.",
+  "slots": [
+   [
+    "which"
+   ]
+  ],
+  "cn": "这座桥五月开放，交通繁忙。",
+  "point": "非限制性定语从句指物",
+  "why": "非限制性定语从句指物。这句话应选用「which」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "which",
+   "whom",
+   "ourselves",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF252",
+  "cat": "代词",
+  "level": 5,
+  "text": "The twins wrote to each ____ all summer.",
+  "slots": [
+   [
+    "other"
+   ]
+  ],
+  "cn": "整个夏天双胞胎都互相写信。",
+  "point": "each other",
+  "why": "each other。这句话应选用「other」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "myself",
+   "ourselves",
+   "its",
+   "other"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF253",
+  "cat": "代词",
+  "level": 5,
+  "text": "The hikers helped one ____ across the stream.",
+  "slots": [
+   [
+    "another"
+   ]
+  ],
+  "cn": "徒步者互相帮助渡过小溪。",
+  "point": "one another",
+  "why": "one another。这句话应选用「another」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "ourselves",
+   "hers",
+   "myself",
+   "another"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF254",
+  "cat": "代词",
+  "level": 5,
+  "text": "____ is hard to read in the dark.",
+  "slots": [
+   [
+    "It"
+   ]
+  ],
+  "cn": "在黑暗中看书很难。",
+  "point": "it 作形式主语",
+  "why": "it 作形式主语。这句话应选用「It」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whom",
+   "myself",
+   "its",
+   "It"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF255",
+  "cat": "代词",
+  "level": 5,
+  "text": "I find ____ helpful to keep a diary.",
+  "slots": [
+   [
+    "it"
+   ]
+  ],
+  "cn": "我觉得写日记很有帮助。",
+  "point": "it 作形式宾语",
+  "why": "it 作形式宾语。这句话应选用「it」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "hers",
+   "whom",
+   "it",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF256",
+  "cat": "代词",
+  "level": 5,
+  "text": "The population of this town is smaller than ____ of York.",
+  "slots": [
+   [
+    "that"
+   ]
+  ],
+  "cn": "这个镇的人口比约克少。",
+  "point": "that 代替 population",
+  "why": "that 代替 population。这句话应选用「that」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "ourselves",
+   "whom",
+   "that"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF257",
+  "cat": "代词",
+  "level": 5,
+  "text": "Our prices are lower than ____ of nearby shops.",
+  "slots": [
+   [
+    "those"
+   ]
+  ],
+  "cn": "我们的价格低于附近商店的价格。",
+  "point": "those 代替复数 prices",
+  "why": "those 代替复数 prices。这句话应选用「those」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "those",
+   "ourselves",
+   "whom",
+   "its"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF258",
+  "cat": "代词",
+  "level": 5,
+  "text": "Between you and ____, the plan needs work.",
+  "slots": [
+   [
+    "me"
+   ]
+  ],
+  "cn": "私下跟你说，这个计划还得改。",
+  "point": "between 后用宾格",
+  "why": "between 后用宾格。这句话应选用「me」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "whom",
+   "hers",
+   "me"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF259",
+  "cat": "代词",
+  "level": 5,
+  "text": "Our team made the costumes by ____.",
+  "slots": [
+   [
+    "itself"
+   ]
+  ],
+  "cn": "我们队作为一个整体，独立完成了服装制作。",
+  "point": "按单数整体 team 回指",
+  "why": "按单数整体 team 回指。这句话应选用「itself」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "ourselves",
+   "whom",
+   "itself",
+   "myself"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF260",
+  "cat": "代词",
+  "level": 5,
+  "text": "You and I must each bring ____ own lunch.",
+  "slots": [
+   [
+    "our"
+   ]
+  ],
+  "cn": "你和我必须各自带好午餐。",
+  "point": "并列主语含第一人称",
+  "why": "并列主语含第一人称。这句话应选用「our」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "its",
+   "whom",
+   "hers",
+   "our"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF261",
+  "cat": "介词",
+  "level": 1,
+  "text": "We meet ____ six every Friday.",
+  "slots": [
+   [
+    "at"
+   ]
+  ],
+  "cn": "我们每周五六点见面。",
+  "point": "具体时刻",
+  "why": "具体时刻。这句话应选用「at」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "at",
+   "onto",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF262",
+  "cat": "介词",
+  "level": 1,
+  "text": "School starts ____ September.",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "cn": "学校九月开学。",
+  "point": "月份",
+  "why": "月份。这句话应选用「in」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "in",
+   "onto",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF263",
+  "cat": "介词",
+  "level": 1,
+  "text": "The trip is ____ Monday.",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "cn": "旅行安排在星期一。",
+  "point": "星期",
+  "why": "星期。这句话应选用「on」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "within",
+   "onto",
+   "on"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF264",
+  "cat": "介词",
+  "level": 1,
+  "text": "My birthday is ____ July 8.",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "cn": "我的生日是七月八日。",
+  "point": "具体日期",
+  "why": "具体日期。这句话应选用「on」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "beside",
+   "onto",
+   "on"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF265",
+  "cat": "介词",
+  "level": 1,
+  "text": "It often snows here ____ winter.",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "cn": "这里冬天常下雪。",
+  "point": "季节",
+  "why": "季节。这句话应选用「in」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "in",
+   "within",
+   "during",
+   "toward"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF266",
+  "cat": "介词",
+  "level": 1,
+  "text": "We rest ____ noon.",
+  "slots": [
+   [
+    "at"
+   ]
+  ],
+  "cn": "我们中午休息。",
+  "point": "固定时间 at noon",
+  "why": "固定时间 at noon。这句话应选用「at」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "within",
+   "at",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF267",
+  "cat": "介词",
+  "level": 1,
+  "text": "The stars shine ____ night.",
+  "slots": [
+   [
+    "at"
+   ]
+  ],
+  "cn": "星星在夜里闪耀。",
+  "point": "at night",
+  "why": "at night。这句话应选用「at」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "beside",
+   "at",
+   "toward",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF268",
+  "cat": "介词",
+  "level": 1,
+  "text": "I read ____ the morning.",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "cn": "我早上读书。",
+  "point": "泛指上午",
+  "why": "泛指上午。这句话应选用「in」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "in",
+   "within",
+   "toward",
+   "during"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF269",
+  "cat": "介词",
+  "level": 1,
+  "text": "We left ____ a cold morning in May.",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "cn": "我们在五月一个寒冷的早晨离开。",
+  "point": "特指某天的早晨",
+  "why": "特指某天的早晨。这句话应选用「on」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "toward",
+   "onto",
+   "on"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF270",
+  "cat": "介词",
+  "level": 1,
+  "text": "She was born ____ 2010.",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "cn": "她出生于2010年。",
+  "point": "年份",
+  "why": "年份。这句话应选用「in」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "in",
+   "onto",
+   "toward"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF271",
+  "cat": "介词",
+  "level": 1,
+  "text": "This bus goes ____ the station.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "这辆公交车开往车站。",
+  "point": "方向、目的地",
+  "why": "方向、目的地。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "to",
+   "toward",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF272",
+  "cat": "介词",
+  "level": 1,
+  "text": "The letter came ____ my cousin.",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "cn": "这封信来自我的表姐。",
+  "point": "来源",
+  "why": "来源。这句话应选用「from」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "from",
+   "toward",
+   "during",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF273",
+  "cat": "介词",
+  "level": 2,
+  "text": "We travel ____ train.",
+  "slots": [
+   [
+    "by"
+   ]
+  ],
+  "cn": "我们乘火车旅行。",
+  "point": "by 加交通方式",
+  "why": "by 加交通方式。这句话应选用「by」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "onto",
+   "beside",
+   "by"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF274",
+  "cat": "介词",
+  "level": 2,
+  "text": "He goes to work ____ foot.",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "cn": "他步行上班。",
+  "point": "on foot",
+  "why": "on foot。这句话应选用「on」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "on",
+   "toward",
+   "during",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF275",
+  "cat": "介词",
+  "level": 2,
+  "text": "Cut the paper ____ scissors.",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "cn": "用剪刀剪纸。",
+  "point": "具体工具",
+  "why": "具体工具。这句话应选用「with」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "during",
+   "with",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF276",
+  "cat": "介词",
+  "level": 2,
+  "text": "Write your answer ____ ink.",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "cn": "用墨水写下答案。",
+  "point": "书写材料",
+  "why": "书写材料。这句话应选用「in」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "in",
+   "within",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF277",
+  "cat": "介词",
+  "level": 2,
+  "text": "The photo is ____ the wall.",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "cn": "照片挂在墙面上。",
+  "point": "接触表面",
+  "why": "接触表面。这句话应选用「on」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "beside",
+   "onto",
+   "on",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF278",
+  "cat": "介词",
+  "level": 2,
+  "text": "The keys are ____ my pocket.",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "cn": "钥匙在我的口袋里。",
+  "point": "在内部",
+  "why": "在内部。这句话应选用「in」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "in",
+   "during",
+   "onto",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF279",
+  "cat": "介词",
+  "level": 2,
+  "text": "The bag is ____ the bed.",
+  "slots": [
+   [
+    "under",
+    "beneath",
+    "underneath"
+   ]
+  ],
+  "cn": "包在床下。",
+  "point": "正下方",
+  "why": "正下方。这句话应选用「under / beneath / underneath」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "onto",
+   "under",
+   "within",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF280",
+  "cat": "介词",
+  "level": 2,
+  "text": "Divide the cake ____ six pieces.",
+  "slots": [
+   [
+    "into"
+   ]
+  ],
+  "cn": "把蛋糕分成六块。",
+  "point": "divide into",
+  "why": "divide into。这句话应选用「into」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "into",
+   "beside",
+   "within",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF281",
+  "cat": "介词",
+  "level": 2,
+  "text": "She sat ____ her two cousins.",
+  "slots": [
+   [
+    "between"
+   ]
+  ],
+  "cn": "她坐在两个表亲中间。",
+  "point": "两者之间",
+  "why": "两者之间。这句话应选用「between」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "between",
+   "during",
+   "onto",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF282",
+  "cat": "介词",
+  "level": 2,
+  "text": "The secret spread ____ the villagers.",
+  "slots": [
+   [
+    "among"
+   ]
+  ],
+  "cn": "这个秘密在村民之间传开了。",
+  "point": "群体之中",
+  "why": "群体之中。这句话应选用「among」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "among",
+   "during",
+   "onto",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF283",
+  "cat": "介词",
+  "level": 2,
+  "text": "The train went ____ a tunnel.",
+  "slots": [
+   [
+    "through"
+   ]
+  ],
+  "cn": "火车穿过了一条隧道。",
+  "point": "穿过封闭空间",
+  "why": "穿过封闭空间。这句话应选用「through」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "toward",
+   "beside",
+   "through"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF284",
+  "cat": "介词",
+  "level": 2,
+  "text": "We swam ____ the lake from one shore to the other.",
+  "slots": [
+   [
+    "across"
+   ]
+  ],
+  "cn": "我们从一岸游到另一岸，横穿了湖。",
+  "point": "从一边到另一边",
+  "why": "从一边到另一边。这句话应选用「across」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "onto",
+   "across",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF285",
+  "cat": "介词",
+  "level": 3,
+  "text": "The path runs ____ the river bank.",
+  "slots": [
+   [
+    "along"
+   ]
+  ],
+  "cn": "小路沿着河岸延伸。",
+  "point": "沿着",
+  "why": "沿着。这句话应选用「along」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "along",
+   "beside",
+   "within",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF286",
+  "cat": "介词",
+  "level": 3,
+  "text": "The match lasted ____ ninety minutes.",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "cn": "比赛持续了九十分钟。",
+  "point": "时长",
+  "why": "时长。这句话应选用「for」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "for",
+   "onto",
+   "beside",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF287",
+  "cat": "介词",
+  "level": 3,
+  "text": "I've lived here ____ May.",
+  "slots": [
+   [
+    "since"
+   ]
+  ],
+  "cn": "我从五月起就住在这里。",
+  "point": "起点",
+  "why": "起点。这句话应选用「since」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "onto",
+   "toward",
+   "during",
+   "since"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF288",
+  "cat": "介词",
+  "level": 3,
+  "text": "The office is open ____ nine to five.",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "cn": "办公室九点到五点开放。",
+  "point": "from…to…",
+  "why": "from…to…。这句话应选用「from」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "onto",
+   "from",
+   "within",
+   "toward"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF289",
+  "cat": "介词",
+  "level": 3,
+  "text": "Please finish this ____ Friday at the latest.",
+  "slots": [
+   [
+    "by"
+   ]
+  ],
+  "cn": "请最迟在周五完成。",
+  "point": "截止时间",
+  "why": "截止时间。这句话应选用「by」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "by",
+   "beside",
+   "during"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF290",
+  "cat": "介词",
+  "level": 3,
+  "text": "We stayed awake ____ midnight.",
+  "slots": [
+   [
+    "until",
+    "till"
+   ]
+  ],
+  "cn": "我们一直醒到午夜。",
+  "point": "动作持续到某时",
+  "why": "动作持续到某时。这句话应选用「until / till」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "until",
+   "toward",
+   "within",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF291",
+  "cat": "介词",
+  "level": 3,
+  "text": "I am interested ____ astronomy.",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "cn": "我对天文学感兴趣。",
+  "point": "interested in",
+  "why": "interested in。这句话应选用「in」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "within",
+   "in",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF292",
+  "cat": "介词",
+  "level": 3,
+  "text": "She is good ____ drawing.",
+  "slots": [
+   [
+    "at"
+   ]
+  ],
+  "cn": "她擅长画画。",
+  "point": "good at",
+  "why": "good at。这句话应选用「at」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "onto",
+   "within",
+   "at"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF293",
+  "cat": "介词",
+  "level": 3,
+  "text": "We are proud ____ our team.",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "cn": "我们为团队感到自豪。",
+  "point": "proud of",
+  "why": "proud of。这句话应选用「of」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "of",
+   "beside",
+   "onto",
+   "during"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF294",
+  "cat": "介词",
+  "level": 3,
+  "text": "I am afraid ____ spiders.",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "cn": "我怕蜘蛛。",
+  "point": "afraid of",
+  "why": "afraid of。这句话应选用「of」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "of",
+   "beside",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF295",
+  "cat": "介词",
+  "level": 3,
+  "text": "Be kind ____ new students.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "对新同学友善。",
+  "point": "kind to",
+  "why": "kind to。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "to",
+   "during",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF296",
+  "cat": "介词",
+  "level": 3,
+  "text": "I was late ____ class.",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "cn": "我上课迟到了。",
+  "point": "late for",
+  "why": "late for。这句话应选用「for」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "beside",
+   "for",
+   "toward",
+   "during"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF297",
+  "cat": "介词",
+  "level": 4,
+  "text": "Your coat is similar ____ mine.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "你的外套和我的相似。",
+  "point": "similar to",
+  "why": "similar to。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "to",
+   "during",
+   "toward",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF298",
+  "cat": "介词",
+  "level": 4,
+  "text": "The basket is full ____ apples.",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "cn": "篮子里装满了苹果。",
+  "point": "full of",
+  "why": "full of。这句话应选用「of」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "beside",
+   "within",
+   "of"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF299",
+  "cat": "介词",
+  "level": 4,
+  "text": "She is famous ____ her paintings.",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "cn": "她以画作闻名。",
+  "point": "famous for 成名原因",
+  "why": "famous for 成名原因。这句话应选用「for」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "toward",
+   "for",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF300",
+  "cat": "介词",
+  "level": 4,
+  "text": "He is worried ____ his dog.",
+  "slots": [
+   [
+    "about"
+   ]
+  ],
+  "cn": "他很担心自己的狗。",
+  "point": "worried about",
+  "why": "worried about。这句话应选用「about」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "beside",
+   "onto",
+   "about"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF301",
+  "cat": "介词",
+  "level": 4,
+  "text": "Listen ____ this recording.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "听听这段录音。",
+  "point": "listen to",
+  "why": "listen to。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "toward",
+   "to",
+   "during"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF302",
+  "cat": "介词",
+  "level": 4,
+  "text": "We waited ____ the bus outside.",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "cn": "我们在外面等公交车。",
+  "point": "wait for",
+  "why": "wait for。这句话应选用「for」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "beside",
+   "for",
+   "toward",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF303",
+  "cat": "介词",
+  "level": 4,
+  "text": "The book belongs ____ Sara.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "这本书属于萨拉。",
+  "point": "belong to",
+  "why": "belong to。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "to",
+   "within",
+   "toward",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF304",
+  "cat": "介词",
+  "level": 4,
+  "text": "I agree ____ you on this point.",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "cn": "在这一点上我同意你。",
+  "point": "agree with someone",
+  "why": "agree with someone。这句话应选用「with」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "beside",
+   "with",
+   "during"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF305",
+  "cat": "介词",
+  "level": 4,
+  "text": "Ask your teacher ____ advice.",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "cn": "向你的老师征求建议。",
+  "point": "ask for",
+  "why": "ask for。这句话应选用「for」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "for",
+   "toward",
+   "beside",
+   "within"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF306",
+  "cat": "介词",
+  "level": 4,
+  "text": "We depend ____ clean water.",
+  "slots": [
+   [
+    "on",
+    "upon"
+   ]
+  ],
+  "cn": "我们依赖干净的水。",
+  "point": "depend on",
+  "why": "depend on。这句话应选用「on / upon」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "beside",
+   "on",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF307",
+  "cat": "介词",
+  "level": 4,
+  "text": "Thank you ____ the ride.",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "cn": "谢谢你开车送我。",
+  "point": "thank someone for",
+  "why": "thank someone for。这句话应选用「for」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "for",
+   "toward",
+   "during",
+   "beside"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF308",
+  "cat": "介词",
+  "level": 4,
+  "text": "She paid ____ the meal.",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "cn": "她付了饭钱。",
+  "point": "pay for",
+  "why": "pay for。这句话应选用「for」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "during",
+   "onto",
+   "for"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF309",
+  "cat": "介词",
+  "level": 5,
+  "text": "He apologized ____ his sister for shouting.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "他因大喊向妹妹道歉。",
+  "point": "apologize to someone",
+  "why": "apologize to someone。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "during",
+   "beside",
+   "onto",
+   "to"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF310",
+  "cat": "介词",
+  "level": 5,
+  "text": "Please remind me ____ his name.",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "cn": "请提醒我他叫什么名字。",
+  "point": "remind someone of",
+  "why": "remind someone of。这句话应选用「of」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "toward",
+   "during",
+   "of"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF311",
+  "cat": "介词",
+  "level": 5,
+  "text": "The meeting was canceled because ____ the snow.",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "cn": "会议因下雪而取消了。",
+  "point": "because of 加名词",
+  "why": "because of 加名词。这句话应选用「of」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "of",
+   "beside",
+   "toward"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF312",
+  "cat": "介词",
+  "level": 5,
+  "text": "We walked instead ____ taking a taxi.",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "cn": "我们步行，没有打车。",
+  "point": "instead of",
+  "why": "instead of。这句话应选用「of」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "during",
+   "onto",
+   "of"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF313",
+  "cat": "介词",
+  "level": 5,
+  "text": "According ____ the notice, the library opens at eight.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "根据通知，图书馆八点开门。",
+  "point": "according to",
+  "why": "according to。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "to",
+   "beside",
+   "toward",
+   "during"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF314",
+  "cat": "介词",
+  "level": 5,
+  "text": "The boat arrived ahead ____ schedule.",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "cn": "船提前抵达。",
+  "point": "ahead of",
+  "why": "ahead of。这句话应选用「of」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "toward",
+   "beside",
+   "within",
+   "of"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF315",
+  "cat": "介词",
+  "level": 5,
+  "text": "The result depends ____ the weather.",
+  "slots": [
+   [
+    "on",
+    "upon"
+   ]
+  ],
+  "cn": "结果取决于天气。",
+  "point": "depend on/upon",
+  "why": "depend on/upon。这句话应选用「on / upon」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "onto",
+   "beside",
+   "within",
+   "on"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF316",
+  "cat": "介词",
+  "level": 5,
+  "text": "He succeeded ____ solving the puzzle.",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "cn": "他成功解开了谜题。",
+  "point": "succeed in doing",
+  "why": "succeed in doing。这句话应选用「in」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "within",
+   "beside",
+   "toward",
+   "in"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF317",
+  "cat": "介词",
+  "level": 5,
+  "text": "They prevented the water ____ entering the house.",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "cn": "他们阻止水进入屋内。",
+  "point": "prevent…from doing",
+  "why": "prevent…from doing。这句话应选用「from」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "onto",
+   "beside",
+   "from",
+   "toward"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF318",
+  "cat": "介词",
+  "level": 5,
+  "text": "I prefer walking ____ driving.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "与开车相比，我更喜欢步行。",
+  "point": "prefer A to B",
+  "why": "prefer A to B。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "to",
+   "beside",
+   "onto",
+   "toward"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF319",
+  "cat": "介词",
+  "level": 5,
+  "text": "This box differs ____ the others in size.",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "cn": "这个盒子的大小与其他盒子不同。",
+  "point": "differ from",
+  "why": "differ from。这句话应选用「from」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "beside",
+   "from",
+   "within",
+   "during"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF320",
+  "cat": "介词",
+  "level": 5,
+  "text": "The machine is capable ____ lifting a car.",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "cn": "这台机器能够举起一辆汽车。",
+  "point": "capable of doing",
+  "why": "capable of doing。这句话应选用「of」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "of",
+   "beside",
+   "during",
+   "onto"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF321",
+  "cat": "冠词",
+  "level": 1,
+  "text": "I found ____ button on the floor.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "我在地上发现了一颗纽扣。",
+  "point": "首次提及单数可数名词",
+  "why": "首次提及单数可数名词。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF322",
+  "cat": "冠词",
+  "level": 1,
+  "text": "She needs ____ umbrella for the walk.",
+  "slots": [
+   [
+    "an"
+   ]
+  ],
+  "cn": "步行时她需要一把雨伞。",
+  "point": "umbrella 以元音音素开头",
+  "why": "umbrella 以元音音素开头。这句话应选用「an」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF323",
+  "cat": "冠词",
+  "level": 1,
+  "text": "Ben ate ____ orange after lunch.",
+  "slots": [
+   [
+    "an"
+   ]
+  ],
+  "cn": "本午饭后吃了一个橙子。",
+  "point": "orange 以元音音素开头",
+  "why": "orange 以元音音素开头。这句话应选用「an」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF324",
+  "cat": "冠词",
+  "level": 1,
+  "text": "I bought ____ useful guide yesterday.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "昨天我买了一本有用的指南。",
+  "point": "useful 的首音是 /j/",
+  "why": "useful 的首音是 /j/。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF325",
+  "cat": "冠词",
+  "level": 1,
+  "text": "Tom works at ____ university near here.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "汤姆在这附近的一所大学工作。",
+  "point": "university 的首音是 /j/",
+  "why": "university 的首音是 /j/。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF326",
+  "cat": "冠词",
+  "level": 1,
+  "text": "We waited for ____ hour outside.",
+  "slots": [
+   [
+    "an"
+   ]
+  ],
+  "cn": "我们在外面等了一小时。",
+  "point": "hour 的 h 不发音",
+  "why": "hour 的 h 不发音。这句话应选用「an」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF327",
+  "cat": "冠词",
+  "level": 1,
+  "text": "She is ____ honest person.",
+  "slots": [
+   [
+    "an"
+   ]
+  ],
+  "cn": "她是个诚实的人。",
+  "point": "honest 的 h 不发音",
+  "why": "honest 的 h 不发音。这句话应选用「an」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF328",
+  "cat": "冠词",
+  "level": 1,
+  "text": "This is ____ one-way street.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "这是一条单行道。",
+  "point": "one 的首音是 /w/",
+  "why": "one 的首音是 /w/。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF329",
+  "cat": "冠词",
+  "level": 2,
+  "text": "My sister wants to be ____ engineer.",
+  "slots": [
+   [
+    "an"
+   ]
+  ],
+  "cn": "我姐姐想成为一名工程师。",
+  "point": "职业单数名词",
+  "why": "职业单数名词。这句话应选用「an」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF330",
+  "cat": "冠词",
+  "level": 2,
+  "text": "He is ____ nurse at our clinic.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "他是我们诊所的一名护士。",
+  "point": "职业单数名词",
+  "why": "职业单数名词。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF331",
+  "cat": "冠词",
+  "level": 2,
+  "text": "We saw a fox. ____ fox ran away.",
+  "slots": [
+   [
+    "The"
+   ]
+  ],
+  "cn": "我们看到一只狐狸，那只狐狸跑走了。",
+  "point": "再次提及",
+  "why": "再次提及。这句话应选用「The」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF332",
+  "cat": "冠词",
+  "level": 2,
+  "text": "I opened a box. ____ lid was broken.",
+  "slots": [
+   [
+    "The"
+   ]
+  ],
+  "cn": "我打开一个盒子，它的盖子坏了。",
+  "point": "由前文确定对象",
+  "why": "由前文确定对象。这句话应选用「The」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF333",
+  "cat": "冠词",
+  "level": 2,
+  "text": "Look at ____ moon above the roof.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "看屋顶上方的月亮。",
+  "point": "熟悉语境中独一无二",
+  "why": "熟悉语境中独一无二。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF334",
+  "cat": "冠词",
+  "level": 2,
+  "text": "She won ____ first race of the day.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "她赢了当天的第一场比赛。",
+  "point": "序数词限定名词",
+  "why": "序数词限定名词。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF335",
+  "cat": "冠词",
+  "level": 2,
+  "text": "This is ____ smallest room in the house.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "这是屋里最小的房间。",
+  "point": "最高级",
+  "why": "最高级。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF336",
+  "cat": "冠词",
+  "level": 2,
+  "text": "Turn to ____ left at the gate.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "在大门口向左转。",
+  "point": "to the left",
+  "why": "to the left。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF337",
+  "cat": "冠词",
+  "level": 3,
+  "text": "We eat ____ breakfast at seven.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "我们七点吃早饭。",
+  "point": "泛指三餐",
+  "why": "泛指三餐。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF338",
+  "cat": "冠词",
+  "level": 3,
+  "text": "My brother plays ____ soccer on Saturdays.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "我弟弟每周六踢足球。",
+  "point": "球类运动",
+  "why": "球类运动。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF339",
+  "cat": "冠词",
+  "level": 3,
+  "text": "They speak ____ English at home.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "他们在家说英语。",
+  "point": "语言名称",
+  "why": "语言名称。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF340",
+  "cat": "冠词",
+  "level": 3,
+  "text": "Our next lesson is ____ history.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "我们下节课是历史。",
+  "point": "学科名称",
+  "why": "学科名称。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF341",
+  "cat": "冠词",
+  "level": 3,
+  "text": "We traveled by ____ bus.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "我们乘公交车出行。",
+  "point": "by 加交通工具",
+  "why": "by 加交通工具。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF342",
+  "cat": "冠词",
+  "level": 3,
+  "text": "She walks to ____ school to study every day.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "她每天步行上学。",
+  "point": "go to school 表示上学",
+  "why": "go to school 表示上学。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF343",
+  "cat": "冠词",
+  "level": 3,
+  "text": "Dad has gone to ____ bed for the night.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "爸爸已经上床睡觉了。",
+  "point": "go to bed",
+  "why": "go to bed。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF344",
+  "cat": "冠词",
+  "level": 3,
+  "text": "I like ____ apples in general.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "一般来说，我喜欢苹果。",
+  "point": "复数名词泛指",
+  "why": "复数名词泛指。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF345",
+  "cat": "冠词",
+  "level": 4,
+  "text": "Plants need ____ water to grow.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "植物生长需要水。",
+  "point": "物质名词泛指",
+  "why": "物质名词泛指。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF346",
+  "cat": "冠词",
+  "level": 4,
+  "text": "He gave me ____ piece of advice.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "他给了我一条建议。",
+  "point": "piece 是可数名词",
+  "why": "piece 是可数名词。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF347",
+  "cat": "冠词",
+  "level": 4,
+  "text": "We have lessons twice ____ week.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "我们每周上两次课。",
+  "point": "表频率，每一",
+  "why": "表频率，每一。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF348",
+  "cat": "冠词",
+  "level": 4,
+  "text": "They are of ____ same age.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "他们年龄相同。",
+  "point": "the same",
+  "why": "the same。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF349",
+  "cat": "冠词",
+  "level": 4,
+  "text": "We had ____ good time at the fair.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "我们在集市玩得很开心。",
+  "point": "have a good time",
+  "why": "have a good time。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF350",
+  "cat": "冠词",
+  "level": 4,
+  "text": "Take ____ look at this photo.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "看看这张照片。",
+  "point": "take a look",
+  "why": "take a look。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF351",
+  "cat": "冠词",
+  "level": 4,
+  "text": "In ____ end, we chose the shorter route.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "最后我们选了较短的路线。",
+  "point": "in the end",
+  "why": "in the end。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF352",
+  "cat": "冠词",
+  "level": 4,
+  "text": "She is in ____ hurry to catch the train.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "她正急着赶火车。",
+  "point": "in a hurry",
+  "why": "in a hurry。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF353",
+  "cat": "冠词",
+  "level": 5,
+  "text": "For ____ first time, I cooked alone.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "我第一次独自做饭。",
+  "point": "for the first time",
+  "why": "for the first time。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF354",
+  "cat": "冠词",
+  "level": 5,
+  "text": "He plays ____ violin in our school orchestra.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "他在校管弦乐团拉小提琴。",
+  "point": "传统教材中乐器前用 the",
+  "why": "传统教材中乐器前用 the。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF355",
+  "cat": "冠词",
+  "level": 5,
+  "text": "We crossed ____ Atlantic on a ship.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "我们乘船横渡大西洋。",
+  "point": "大洋名称",
+  "why": "大洋名称。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF356",
+  "cat": "冠词",
+  "level": 5,
+  "text": "They climbed ____ Mount Fuji in summer.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "他们夏天攀登了富士山。",
+  "point": "Mount 加专名",
+  "why": "Mount 加专名。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF357",
+  "cat": "冠词",
+  "level": 5,
+  "text": "He moved to ____ United States last year.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "他去年搬到了美国。",
+  "point": "国家全称的固定冠词",
+  "why": "国家全称的固定冠词。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF358",
+  "cat": "冠词",
+  "level": 5,
+  "text": "We visited ____ France in June.",
+  "slots": [
+   [
+    "Ø"
+   ]
+  ],
+  "cn": "我们六月去了法国。",
+  "point": "多数国家单名",
+  "why": "多数国家单名。这句话应选用「Ø」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF359",
+  "cat": "冠词",
+  "level": 5,
+  "text": "This is such ____ unusual stone.",
+  "slots": [
+   [
+    "an"
+   ]
+  ],
+  "cn": "这是一块如此不寻常的石头。",
+  "point": "such 加冠词加形容词",
+  "why": "such 加冠词加形容词。这句话应选用「an」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF360",
+  "cat": "冠词",
+  "level": 5,
+  "text": "She has ____ little patience left, enough to try again.",
+  "slots": [
+   [
+    "a"
+   ]
+  ],
+  "cn": "她还有一点耐心，足够再试一次。",
+  "point": "a little 表示还有一些",
+  "why": "a little 表示还有一些。这句话应选用「a」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "a",
+   "an",
+   "the",
+   "Ø"
+  ],
+  "hint": "选择冠词，Ø 表示不填"
+ },
+ {
+  "id": "WF361",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "The soup is too ____ for me.",
+  "slots": [
+   [
+    "salty"
+   ]
+  ],
+  "cn": "这汤对我来说太咸了。",
+  "point": "形容词作表语",
+  "why": "形容词作表语。这句话应选用「salty」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 salt 的适当形式填空"
+ },
+ {
+  "id": "WF362",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "Be ____ on the ice.",
+  "slots": [
+   [
+    "careful"
+   ]
+  ],
+  "cn": "在冰面上要小心。",
+  "point": "be 后用形容词",
+  "why": "be 后用形容词。这句话应选用「careful」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 care 的适当形式填空"
+ },
+ {
+  "id": "WF363",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "The kitten slept ____ by the fire.",
+  "slots": [
+   [
+    "quietly"
+   ]
+  ],
+  "cn": "小猫在火旁安静地睡着。",
+  "point": "副词修饰 slept",
+  "why": "副词修饰 slept。这句话应选用「quietly」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 quiet 的适当形式填空"
+ },
+ {
+  "id": "WF364",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "We need two ____ for the books.",
+  "slots": [
+   [
+    "boxes"
+   ]
+  ],
+  "cn": "这些书需要两个盒子。",
+  "point": "x 结尾的复数",
+  "why": "x 结尾的复数。这句话应选用「boxes」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 box 的适当形式填空"
+ },
+ {
+  "id": "WF365",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "Three ____ waited outside.",
+  "slots": [
+   [
+    "children"
+   ]
+  ],
+  "cn": "三个孩子在外面等。",
+  "point": "不规则复数",
+  "why": "不规则复数。这句话应选用「children」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 child 的适当形式填空"
+ },
+ {
+  "id": "WF366",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "I washed the dirty ____ after dinner.",
+  "slots": [
+   [
+    "dishes"
+   ]
+  ],
+  "cn": "晚饭后我洗了那些脏盘子。",
+  "point": "sh 结尾的复数",
+  "why": "sh 结尾的复数。这句话应选用「dishes」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 dish 的适当形式填空"
+ },
+ {
+  "id": "WF367",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "Both ____ were wet.",
+  "slots": [
+   [
+    "feet"
+   ]
+  ],
+  "cn": "两只脚都是湿的。",
+  "point": "不规则复数",
+  "why": "不规则复数。这句话应选用「feet」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 foot 的适当形式填空"
+ },
+ {
+  "id": "WF368",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "She brushed her ____ before bed.",
+  "slots": [
+   [
+    "teeth"
+   ]
+  ],
+  "cn": "她睡前刷了牙。",
+  "point": "不规则复数",
+  "why": "不规则复数。这句话应选用「teeth」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 tooth 的适当形式填空"
+ },
+ {
+  "id": "WF369",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "My bag is ____ than yours.",
+  "slots": [
+   [
+    "heavier"
+   ]
+  ],
+  "cn": "我的包比你的重。",
+  "point": "辅音加 y 的比较级",
+  "why": "辅音加 y 的比较级。这句话应选用「heavier」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 heavy 的适当形式填空"
+ },
+ {
+  "id": "WF370",
+  "cat": "词形变化",
+  "level": 1,
+  "text": "This road is ____ than that one.",
+  "slots": [
+   [
+    "wider"
+   ]
+  ],
+  "cn": "这条路比那条宽。",
+  "point": "以 e 结尾加 r",
+  "why": "以 e 结尾加 r。这句话应选用「wider」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 wide 的适当形式填空"
+ },
+ {
+  "id": "WF371",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "Today is the ____ day this week.",
+  "slots": [
+   [
+    "hottest"
+   ]
+  ],
+  "cn": "今天是本周最热的一天。",
+  "point": "重读闭音节最高级",
+  "why": "重读闭音节最高级。这句话应选用「hottest」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 hot 的适当形式填空"
+ },
+ {
+  "id": "WF372",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "He ran ____ than I did.",
+  "slots": [
+   [
+    "faster"
+   ]
+  ],
+  "cn": "他比我跑得快。",
+  "point": "比较级修饰动词",
+  "why": "比较级修饰动词。这句话应选用「faster」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 fast 的适当形式填空"
+ },
+ {
+  "id": "WF373",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "This is the ____ meal I've had here.",
+  "slots": [
+   [
+    "best"
+   ]
+  ],
+  "cn": "这是我在这里吃过的最好的一餐。",
+  "point": "good 的最高级",
+  "why": "good 的最高级。这句话应选用「best」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 good 的适当形式填空"
+ },
+ {
+  "id": "WF374",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "Please speak ____ enough for me to follow.",
+  "slots": [
+   [
+    "slowly"
+   ]
+  ],
+  "cn": "请讲得慢一点，让我跟得上。",
+  "point": "副词修饰 speak",
+  "why": "副词修饰 speak。这句话应选用「slowly」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 slow 的适当形式填空"
+ },
+ {
+  "id": "WF375",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "The door opened ____.",
+  "slots": [
+   [
+    "suddenly"
+   ]
+  ],
+  "cn": "门突然开了。",
+  "point": "副词表方式",
+  "why": "副词表方式。这句话应选用「suddenly」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 sudden 的适当形式填空"
+ },
+ {
+  "id": "WF376",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "I can hear you ____ now.",
+  "slots": [
+   [
+    "clearly"
+   ]
+  ],
+  "cn": "现在我能清楚地听见你。",
+  "point": "副词修饰 hear",
+  "why": "副词修饰 hear。这句话应选用「clearly」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 clear 的适当形式填空"
+ },
+ {
+  "id": "WF377",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "Our new teacher is very ____.",
+  "slots": [
+   [
+    "friendly"
+   ]
+  ],
+  "cn": "我们的新老师很友好。",
+  "point": "friendly 是形容词",
+  "why": "friendly 是形容词。这句话应选用「friendly」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 friend 的适当形式填空"
+ },
+ {
+  "id": "WF378",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "The room felt ____ after the guests left.",
+  "slots": [
+   [
+    "peaceful"
+   ]
+  ],
+  "cn": "客人走后房间很宁静。",
+  "point": "感官系动词后用形容词",
+  "why": "感官系动词后用形容词。这句话应选用「peaceful」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 peace 的适当形式填空"
+ },
+ {
+  "id": "WF379",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "The streets are ____ at noon.",
+  "slots": [
+   [
+    "noisy"
+   ]
+  ],
+  "cn": "中午街道很吵。",
+  "point": "名词变形容词",
+  "why": "名词变形容词。这句话应选用「noisy」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 noise 的适当形式填空"
+ },
+ {
+  "id": "WF380",
+  "cat": "词形变化",
+  "level": 2,
+  "text": "The puppy is ____ and loves games.",
+  "slots": [
+   [
+    "playful"
+   ]
+  ],
+  "cn": "小狗活泼爱玩。",
+  "point": "形容词作表语",
+  "why": "形容词作表语。这句话应选用「playful」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 play 的适当形式填空"
+ },
+ {
+  "id": "WF381",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "Her ____ helped us feel welcome.",
+  "slots": [
+   [
+    "kindness"
+   ]
+  ],
+  "cn": "她的善意让我们感到受欢迎。",
+  "point": "物主限定词后用名词",
+  "why": "物主限定词后用名词。这句话应选用「kindness」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 kind 的适当形式填空"
+ },
+ {
+  "id": "WF382",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "Your ____ changed my plan.",
+  "slots": [
+   [
+    "suggestion"
+   ]
+  ],
+  "cn": "你的建议改变了我的计划。",
+  "point": "动词变名词",
+  "why": "动词变名词。这句话应选用「suggestion」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 suggest 的适当形式填空"
+ },
+ {
+  "id": "WF383",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "The ____ of the train woke him.",
+  "slots": [
+   [
+    "arrival"
+   ]
+  ],
+  "cn": "火车到站把他吵醒了。",
+  "point": "the 与 of 之间用名词",
+  "why": "the 与 of 之间用名词。这句话应选用「arrival」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 arrive 的适当形式填空"
+ },
+ {
+  "id": "WF384",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "The ____ was difficult.",
+  "slots": [
+   [
+    "decision"
+   ]
+  ],
+  "cn": "这个决定很难做。",
+  "point": "动词变名词",
+  "why": "动词变名词。这句话应选用「decision」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 decide 的适当形式填空"
+ },
+ {
+  "id": "WF385",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "The story has a happy ____.",
+  "slots": [
+   [
+    "ending",
+    "end"
+   ]
+  ],
+  "cn": "这个故事有个快乐的结局。",
+  "point": "故事的结局",
+  "why": "故事的结局。这句话应选用「ending / end」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 end 的适当形式填空"
+ },
+ {
+  "id": "WF386",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "Thanks for the ____ to dinner.",
+  "slots": [
+   [
+    "invitation"
+   ]
+  ],
+  "cn": "谢谢你邀请我共进晚餐。",
+  "point": "名词作介词宾语",
+  "why": "名词作介词宾语。这句话应选用「invitation」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 invite 的适当形式填空"
+ },
+ {
+  "id": "WF387",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "We need your ____ to enter.",
+  "slots": [
+   [
+    "permission"
+   ]
+  ],
+  "cn": "我们需要得到你的许可才能进入。",
+  "point": "不可数名词",
+  "why": "不可数名词。这句话应选用「permission」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 permit 的适当形式填空"
+ },
+ {
+  "id": "WF388",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "The ____ included the color and size.",
+  "slots": [
+   [
+    "description"
+   ]
+  ],
+  "cn": "描述中包括颜色和大小。",
+  "point": "动词变名词",
+  "why": "动词变名词。这句话应选用「description」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 describe 的适当形式填空"
+ },
+ {
+  "id": "WF389",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "The ____ of the table is perfect.",
+  "slots": [
+   [
+    "height"
+   ]
+  ],
+  "cn": "桌子的高度正合适。",
+  "point": "形容词变名词",
+  "why": "形容词变名词。这句话应选用「height」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 high 的适当形式填空"
+ },
+ {
+  "id": "WF390",
+  "cat": "词形变化",
+  "level": 3,
+  "text": "They measured the ____ of the bridge.",
+  "slots": [
+   [
+    "length"
+   ]
+  ],
+  "cn": "他们测量了桥的长度。",
+  "point": "形容词变名词",
+  "why": "形容词变名词。这句话应选用「length」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 long 的适当形式填空"
+ },
+ {
+  "id": "WF391",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "The film was ____ from start to finish.",
+  "slots": [
+   [
+    "exciting"
+   ]
+  ],
+  "cn": "这部影片从头到尾都激动人心。",
+  "point": "事物引发感受用 -ing",
+  "why": "事物引发感受用 -ing。这句话应选用「exciting」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 excite 的适当形式填空"
+ },
+ {
+  "id": "WF392",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "I was ____ by the news.",
+  "slots": [
+   [
+    "surprised"
+   ]
+  ],
+  "cn": "这个消息让我惊讶。",
+  "point": "人的感受用 -ed",
+  "why": "人的感受用 -ed。这句话应选用「surprised」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 surprise 的适当形式填空"
+ },
+ {
+  "id": "WF393",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "We felt ____ after the walk.",
+  "slots": [
+   [
+    "tired"
+   ]
+  ],
+  "cn": "走完后我们感到疲惫。",
+  "point": "人的状态",
+  "why": "人的状态。这句话应选用「tired」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 tire 的适当形式填空"
+ },
+ {
+  "id": "WF394",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "The instructions were ____ to beginners.",
+  "slots": [
+   [
+    "confusing"
+   ]
+  ],
+  "cn": "这些说明让初学者困惑。",
+  "point": "引发感受的事物",
+  "why": "引发感受的事物。这句话应选用「confusing」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 confuse 的适当形式填空"
+ },
+ {
+  "id": "WF395",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "The children were ____ in the experiment.",
+  "slots": [
+   [
+    "interested"
+   ]
+  ],
+  "cn": "孩子们对实验感兴趣。",
+  "point": "be interested in",
+  "why": "be interested in。这句话应选用「interested」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 interest 的适当形式填空"
+ },
+ {
+  "id": "WF396",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "This chair is ____; my back hurts.",
+  "slots": [
+   [
+    "uncomfortable"
+   ]
+  ],
+  "cn": "这把椅子不舒服，我背疼。",
+  "point": "根据句义添加否定前缀",
+  "why": "根据句义添加否定前缀。这句话应选用「uncomfortable」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 comfortable 的适当形式填空"
+ },
+ {
+  "id": "WF397",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "The answer is ____; try again.",
+  "slots": [
+   [
+    "incorrect"
+   ]
+  ],
+  "cn": "答案有误，再试一次。",
+  "point": "否定前缀 in-",
+  "why": "否定前缀 in-。这句话应选用「incorrect」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 correct 的适当形式填空"
+ },
+ {
+  "id": "WF398",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "Crossing now is ____; the light is red.",
+  "slots": [
+   [
+    "unsafe"
+   ]
+  ],
+  "cn": "现在过街不安全，是红灯。",
+  "point": "否定前缀 un-",
+  "why": "否定前缀 un-。这句话应选用「unsafe」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 safe 的适当形式填空"
+ },
+ {
+  "id": "WF399",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "Without a key the lock was ____ to us.",
+  "slots": [
+   [
+    "useless"
+   ]
+  ],
+  "cn": "没有钥匙，这把锁对我们没用。",
+  "point": "后缀 -less",
+  "why": "后缀 -less。这句话应选用「useless」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 use 的适当形式填空"
+ },
+ {
+  "id": "WF400",
+  "cat": "词形变化",
+  "level": 4,
+  "text": "She finished the race ____.",
+  "slots": [
+   [
+    "successfully"
+   ]
+  ],
+  "cn": "她成功跑完了比赛。",
+  "point": "形容词变副词",
+  "why": "形容词变副词。这句话应选用「successfully」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 successful 的适当形式填空"
+ },
+ {
+  "id": "WF401",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "The two routes are ____ long.",
+  "slots": [
+   [
+    "equally"
+   ]
+  ],
+  "cn": "两条路线一样长。",
+  "point": "副词修饰形容词",
+  "why": "副词修饰形容词。这句话应选用「equally」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 equal 的适当形式填空"
+ },
+ {
+  "id": "WF402",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "He explained the rule ____.",
+  "slots": [
+   [
+    "patiently"
+   ]
+  ],
+  "cn": "他耐心地解释了规则。",
+  "point": "副词修饰 explained",
+  "why": "副词修饰 explained。这句话应选用「patiently」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 patient 的适当形式填空"
+ },
+ {
+  "id": "WF403",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "Their ____ about the date delayed the trip.",
+  "slots": [
+   [
+    "disagreement"
+   ]
+  ],
+  "cn": "他们对日期的分歧耽误了行程。",
+  "point": "名词作主语",
+  "why": "名词作主语。这句话应选用「disagreement」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 disagree 的适当形式填空"
+ },
+ {
+  "id": "WF404",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "The museum protects ____ documents from the town.",
+  "slots": [
+   [
+    "historical",
+    "historic"
+   ]
+  ],
+  "cn": "博物馆保护这个镇的历史文献。",
+  "point": "形容词修饰 documents",
+  "why": "形容词修饰 documents。这句话应选用「historical / historic」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 history 的适当形式填空"
+ },
+ {
+  "id": "WF405",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "The project requires close ____.",
+  "slots": [
+   [
+    "cooperation"
+   ]
+  ],
+  "cn": "这个项目需要密切合作。",
+  "point": "名词作宾语",
+  "why": "名词作宾语。这句话应选用「cooperation」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 cooperate 的适当形式填空"
+ },
+ {
+  "id": "WF406",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "The water level rose ____ overnight.",
+  "slots": [
+   [
+    "gradually"
+   ]
+  ],
+  "cn": "水位在夜间逐渐上升。",
+  "point": "副词修饰 rose",
+  "why": "副词修饰 rose。这句话应选用「gradually」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 gradual 的适当形式填空"
+ },
+ {
+  "id": "WF407",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "There is a clear ____ between the samples.",
+  "slots": [
+   [
+    "difference"
+   ]
+  ],
+  "cn": "样本之间有明显差别。",
+  "point": "可数名词",
+  "why": "可数名词。这句话应选用「difference」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 different 的适当形式填空"
+ },
+ {
+  "id": "WF408",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "Her ____ made the result easy to understand.",
+  "slots": [
+   [
+    "explanation"
+   ]
+  ],
+  "cn": "她的解释让结果容易理解。",
+  "point": "动词变名词",
+  "why": "动词变名词。这句话应选用「explanation」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 explain 的适当形式填空"
+ },
+ {
+  "id": "WF409",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "Good ____ made the move easier.",
+  "slots": [
+   [
+    "preparation"
+   ]
+  ],
+  "cn": "充分的准备让搬家更容易。",
+  "point": "名词作主语",
+  "why": "名词作主语。这句话应选用「preparation」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 prepare 的适当形式填空"
+ },
+ {
+  "id": "WF410",
+  "cat": "词形变化",
+  "level": 5,
+  "text": "The team celebrated its ____ together.",
+  "slots": [
+   [
+    "achievement"
+   ]
+  ],
+  "cn": "团队一起庆祝取得的成就。",
+  "point": "动词变名词",
+  "why": "动词变名词。这句话应选用「achievement」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "词形",
+  "options": [],
+  "hint": "根据译文，用 achieve 的适当形式填空"
+ },
+ {
+  "id": "WF411",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "There ____ a lamp on the desk.",
+  "slots": [
+   [
+    "is"
+   ]
+  ],
+  "cn": "桌上有一盏灯。",
+  "point": "there be 与单数名词一致",
+  "why": "there be 与单数名词一致。这句话应选用「is」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whose",
+   "has",
+   "is",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF412",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "There ____ three chairs by the window.",
+  "slots": [
+   [
+    "are"
+   ]
+  ],
+  "cn": "窗边有三把椅子。",
+  "point": "there be 与复数一致",
+  "why": "there be 与复数一致。这句话应选用「are」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "are",
+   "has",
+   "whose"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF413",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "____ your sister walk to school every day?",
+  "slots": [
+   [
+    "Does"
+   ]
+  ],
+  "cn": "你妹妹每天步行上学吗？",
+  "point": "一般现在时第三人称单数疑问句",
+  "why": "一般现在时第三人称单数疑问句。这句话应选用「Does」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "has",
+   "nor",
+   "Does",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF414",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "____ they live near the station?",
+  "slots": [
+   [
+    "Do"
+   ]
+  ],
+  "cn": "他们住在车站附近吗？",
+  "point": "复数主语的一般疑问句",
+  "why": "复数主语的一般疑问句。这句话应选用「Do」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "Do",
+   "nor",
+   "being",
+   "has"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF415",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "____ you see the rainbow yesterday?",
+  "slots": [
+   [
+    "Did"
+   ]
+  ],
+  "cn": "你昨天看到彩虹了吗？",
+  "point": "一般过去时疑问句",
+  "why": "一般过去时疑问句。这句话应选用「Did」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "theirs",
+   "nor",
+   "whose",
+   "Did"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF416",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "Please ____ quiet during the test.",
+  "slots": [
+   [
+    "be"
+   ]
+  ],
+  "cn": "考试期间请保持安静。",
+  "point": "祈使句动词原形",
+  "why": "祈使句动词原形。这句话应选用「be」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "be",
+   "has",
+   "nor",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF417",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "Let's ____ to the park after lunch.",
+  "slots": [
+   [
+    "go"
+   ]
+  ],
+  "cn": "我们午饭后去公园吧。",
+  "point": "let 加宾语加动词原形",
+  "why": "let 加宾语加动词原形。这句话应选用「go」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "go",
+   "nor",
+   "whose",
+   "has"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF418",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "She wants ____ learn to swim.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "她想学游泳。",
+  "point": "want to do",
+  "why": "want to do。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "to",
+   "nor",
+   "whose",
+   "has"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF419",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "They enjoy ____ chess after school.",
+  "slots": [
+   [
+    "playing"
+   ]
+  ],
+  "cn": "他们喜欢放学后下棋。",
+  "point": "enjoy doing，play chess",
+  "why": "enjoy doing，play chess。这句话应选用「playing」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "playing",
+   "has",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF420",
+  "cat": "句子结构",
+  "level": 1,
+  "text": "We finished ____ the dishes together.",
+  "slots": [
+   [
+    "washing"
+   ]
+  ],
+  "cn": "我们一起洗完了盘子。",
+  "point": "finish doing，wash the dishes",
+  "why": "finish doing，wash the dishes。这句话应选用「washing」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "washing",
+   "has",
+   "whose",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF421",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "It takes ten minutes ____ get there.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "到那里需要十分钟。",
+  "point": "It takes time to do",
+  "why": "It takes time to do。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "to",
+   "whose",
+   "being",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF422",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "He is old ____ to cook alone.",
+  "slots": [
+   [
+    "enough"
+   ]
+  ],
+  "cn": "他年龄够大，可以自己做饭了。",
+  "point": "形容词加 enough",
+  "why": "形容词加 enough。这句话应选用「enough」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "theirs",
+   "enough",
+   "whose",
+   "has"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF423",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "The bag is ____ heavy for me to lift.",
+  "slots": [
+   [
+    "too"
+   ]
+  ],
+  "cn": "包太重，我提不动。",
+  "point": "too…to…",
+  "why": "too…to…。这句话应选用「too」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "theirs",
+   "whose",
+   "being",
+   "too"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF424",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "____ tall is your brother?",
+  "slots": [
+   [
+    "How"
+   ]
+  ],
+  "cn": "你哥哥有多高？",
+  "point": "How 加形容词询问程度",
+  "why": "How 加形容词询问程度。这句话应选用「How」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "How",
+   "whose",
+   "being",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF425",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "____ a beautiful shell this is!",
+  "slots": [
+   [
+    "What"
+   ]
+  ],
+  "cn": "多漂亮的一枚贝壳啊！",
+  "point": "What 加名词短语",
+  "why": "What 加名词短语。这句话应选用「What」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "whose",
+   "has",
+   "What",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF426",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "____ quickly she runs!",
+  "slots": [
+   [
+    "How"
+   ]
+  ],
+  "cn": "她跑得真快！",
+  "point": "How 加副词的感叹句",
+  "why": "How 加副词的感叹句。这句话应选用「How」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "How",
+   "has",
+   "theirs",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF427",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "My bike is as light ____ yours.",
+  "slots": [
+   [
+    "as"
+   ]
+  ],
+  "cn": "我的自行车和你的一样轻。",
+  "point": "as…as…",
+  "why": "as…as…。这句话应选用「as」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "being",
+   "as",
+   "theirs",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF428",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "This coat is warmer ____ my jacket.",
+  "slots": [
+   [
+    "than"
+   ]
+  ],
+  "cn": "这件大衣比我的夹克暖和。",
+  "point": "比较级加 than",
+  "why": "比较级加 than。这句话应选用「than」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "has",
+   "than",
+   "nor",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF429",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "Would you like tea ____ milk? Choose one.",
+  "slots": [
+   [
+    "or"
+   ]
+  ],
+  "cn": "你想要茶还是牛奶？选一样。",
+  "point": "选择疑问句",
+  "why": "选择疑问句。这句话应选用「or」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "or",
+   "theirs",
+   "has"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF430",
+  "cat": "句子结构",
+  "level": 2,
+  "text": "Hurry up, ____ you'll miss the bus.",
+  "slots": [
+   [
+    "or"
+   ]
+  ],
+  "cn": "快点，否则会赶不上车。",
+  "point": "祈使句加 or 表示后果",
+  "why": "祈使句加 or 表示后果。这句话应选用「or」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "has",
+   "nor",
+   "whose",
+   "or"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF431",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "She was tired, ____ she kept walking.",
+  "slots": [
+   [
+    "but",
+    "yet"
+   ]
+  ],
+  "cn": "她很累，但仍继续走。",
+  "point": "转折连接词",
+  "why": "转折连接词。这句话应选用「but / yet」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "being",
+   "whose",
+   "but",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF432",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "It was raining, ____ we stayed inside.",
+  "slots": [
+   [
+    "so"
+   ]
+  ],
+  "cn": "当时正在下雨，因此我们待在室内。",
+  "point": "结果连接词",
+  "why": "结果连接词。这句话应选用「so」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "so",
+   "has",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF433",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "I'll call you as soon ____ I arrive.",
+  "slots": [
+   [
+    "as"
+   ]
+  ],
+  "cn": "我一到就给你打电话。",
+  "point": "as soon as",
+  "why": "as soon as。这句话应选用「as」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "theirs",
+   "as",
+   "has",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF434",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "Wait here ____ I return.",
+  "slots": [
+   [
+    "until",
+    "till"
+   ]
+  ],
+  "cn": "在这里等到我回来。",
+  "point": "持续到某时",
+  "why": "持续到某时。这句话应选用「until / till」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "has",
+   "until",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF435",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "We will go outside ____ it stops raining.",
+  "slots": [
+   [
+    "if"
+   ]
+  ],
+  "cn": "如果雨停，我们就出去。",
+  "point": "表示条件",
+  "why": "表示条件。这句话应选用「if」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "if",
+   "nor",
+   "whose",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF436",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "You cannot enter ____ you have a ticket.",
+  "slots": [
+   [
+    "unless"
+   ]
+  ],
+  "cn": "除非有票，否则不能进入。",
+  "point": "unless 表示否定条件",
+  "why": "unless 表示否定条件。这句话应选用「unless」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "has",
+   "nor",
+   "unless",
+   "whose"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF437",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "____ it was late, Mei kept reading.",
+  "slots": [
+   [
+    "Although",
+    "Though"
+   ]
+  ],
+  "cn": "尽管时间晚了，梅仍在读书。",
+  "point": "让步从句",
+  "why": "让步从句。这句话应选用「Although / Though」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "Although",
+   "theirs",
+   "nor",
+   "whose"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF438",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "I stayed home ____ I had a fever.",
+  "slots": [
+   [
+    "because"
+   ]
+  ],
+  "cn": "我因为发烧留在家里。",
+  "point": "原因从句",
+  "why": "原因从句。这句话应选用「because」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "because",
+   "being",
+   "has",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF439",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "She spoke slowly so ____ everyone could follow.",
+  "slots": [
+   [
+    "that"
+   ]
+  ],
+  "cn": "她说得慢，以便大家能听懂。",
+  "point": "so that 表目的",
+  "why": "so that 表目的。这句话应选用「that」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "that",
+   "nor",
+   "theirs",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF440",
+  "cat": "句子结构",
+  "level": 3,
+  "text": "The bag was so heavy ____ I dropped it.",
+  "slots": [
+   [
+    "that"
+   ]
+  ],
+  "cn": "包太重了，我没拿住。",
+  "point": "so…that…表结果",
+  "why": "so…that…表结果。这句话应选用「that」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "theirs",
+   "being",
+   "has",
+   "that"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF441",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "Neither Ben ____ Mia had the key.",
+  "slots": [
+   [
+    "nor"
+   ]
+  ],
+  "cn": "本和米娅都没有钥匙。",
+  "point": "neither…nor…",
+  "why": "neither…nor…。这句话应选用「nor」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "has",
+   "being",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF442",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "Either walk ____ take the bus.",
+  "slots": [
+   [
+    "or"
+   ]
+  ],
+  "cn": "要么步行，要么坐公交车。",
+  "point": "either…or…",
+  "why": "either…or…。这句话应选用「or」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "or",
+   "nor",
+   "theirs",
+   "whose"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF443",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "Both the driver ____ the guide knew the road.",
+  "slots": [
+   [
+    "and"
+   ]
+  ],
+  "cn": "司机和导游都认识路。",
+  "point": "both…and…",
+  "why": "both…and…。这句话应选用「and」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "theirs",
+   "being",
+   "and",
+   "has"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF444",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "Not only Sue ____ also Eva joined the choir.",
+  "slots": [
+   [
+    "but"
+   ]
+  ],
+  "cn": "苏和埃娃都加入了合唱团。",
+  "point": "not only…but also…",
+  "why": "not only…but also…。这句话应选用「but」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "but",
+   "nor",
+   "has",
+   "whose"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF445",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "I'd rather walk ____ wait here.",
+  "slots": [
+   [
+    "than"
+   ]
+  ],
+  "cn": "我宁愿走路也不愿在这儿等。",
+  "point": "would rather…than…",
+  "why": "would rather…than…。这句话应选用「than」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "being",
+   "than",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF446",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "The teacher made us ____ the poem aloud.",
+  "slots": [
+   [
+    "read"
+   ]
+  ],
+  "cn": "老师让我们朗读这首诗。",
+  "point": "make 加宾语加动词原形",
+  "why": "make 加宾语加动词原形。这句话应选用「read」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "being",
+   "has",
+   "read",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF447",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "She was asked ____ read the notice aloud.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "她被请去朗读通知。",
+  "point": "be asked to do",
+  "why": "be asked to do。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "to",
+   "whose",
+   "being",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF448",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "We look forward to ____ you again.",
+  "slots": [
+   [
+    "seeing"
+   ]
+  ],
+  "cn": "我们期待再见到你。",
+  "point": "look forward to doing",
+  "why": "look forward to doing。这句话应选用「seeing」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "has",
+   "theirs",
+   "seeing",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF449",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "She used ____ live near the sea.",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "cn": "她过去住在海边。",
+  "point": "used to do",
+  "why": "used to do。这句话应选用「to」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "being",
+   "has",
+   "to",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF450",
+  "cat": "句子结构",
+  "level": 4,
+  "text": "He is used to ____ up early.",
+  "slots": [
+   [
+    "getting"
+   ]
+  ],
+  "cn": "他习惯了早起。",
+  "point": "be used to doing",
+  "why": "be used to doing。这句话应选用「getting」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "being",
+   "theirs",
+   "getting"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF451",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "The earlier we leave, ____ sooner we'll arrive.",
+  "slots": [
+   [
+    "the"
+   ]
+  ],
+  "cn": "我们走得越早，就到得越早。",
+  "point": "the 比较级…the 比较级",
+  "why": "the 比较级…the 比较级。这句话应选用「the」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "the",
+   "being",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF452",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "This is the room ____ we first met.",
+  "slots": [
+   [
+    "where"
+   ]
+  ],
+  "cn": "这是我们初次见面的房间。",
+  "point": "关系副词指地点",
+  "why": "关系副词指地点。这句话应选用「where」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "where",
+   "has",
+   "being",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF453",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "That was the day ____ we first met.",
+  "slots": [
+   [
+    "when"
+   ]
+  ],
+  "cn": "那是我们初次见面的日子。",
+  "point": "关系副词指时间",
+  "why": "关系副词指时间。这句话应选用「when」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "when",
+   "being",
+   "theirs"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF454",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "Could you tell me ____ the shop is open or closed?",
+  "slots": [
+   [
+    "whether",
+    "if"
+   ]
+  ],
+  "cn": "你能告诉我商店是开着还是关着吗？",
+  "point": "宾语从句表示是否",
+  "why": "宾语从句表示是否。这句话应选用「whether / if」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "has",
+   "whose",
+   "being",
+   "whether"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF455",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "She asked where I ____ from.",
+  "slots": [
+   [
+    "was"
+   ]
+  ],
+  "cn": "她问我来自哪里。",
+  "point": "从句用陈述语序，叙述过去",
+  "why": "从句用陈述语序，叙述过去。这句话应选用「was」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "nor",
+   "theirs",
+   "was",
+   "whose"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF456",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "This is such a good book ____ I read it twice.",
+  "slots": [
+   [
+    "that"
+   ]
+  ],
+  "cn": "这是一本如此好的书，我读了两遍。",
+  "point": "such…that…",
+  "why": "such…that…。这句话应选用「that」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "that",
+   "nor",
+   "theirs",
+   "whose"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF457",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "No sooner had we sat down ____ the bell rang.",
+  "slots": [
+   [
+    "than"
+   ]
+  ],
+  "cn": "我们刚坐下铃就响了。",
+  "point": "no sooner…than…",
+  "why": "no sooner…than…。这句话应选用「than」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "theirs",
+   "than",
+   "has",
+   "nor"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF458",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "It was Maya ____ found the missing key.",
+  "slots": [
+   [
+    "who",
+    "that"
+   ]
+  ],
+  "cn": "正是玛雅找到了丢失的钥匙。",
+  "point": "强调句指人",
+  "why": "强调句指人。这句话应选用「who / that」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "who",
+   "theirs",
+   "has",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF459",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "Hardly had I closed the door ____ the phone rang.",
+  "slots": [
+   [
+    "when",
+    "before"
+   ]
+  ],
+  "cn": "我刚关上门电话就响了。",
+  "point": "hardly…when…",
+  "why": "hardly…when…。这句话应选用「when / before」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "when",
+   "whose",
+   "theirs",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF460",
+  "cat": "句子结构",
+  "level": 5,
+  "text": "If I ____ you, I would ask for help.",
+  "slots": [
+   [
+    "were"
+   ]
+  ],
+  "cn": "如果我是你，我会求助。",
+  "point": "正式书面语虚拟语气",
+  "why": "正式书面语虚拟语气。这句话应选用「were」。",
+  "tip": "核对空格前后的搭配与译文中的指代或语义。",
+  "kind": "选择",
+  "options": [
+   "were",
+   "has",
+   "nor",
+   "being"
+  ],
+  "hint": "按中文意思选择"
+ },
+ {
+  "id": "WF461",
+  "cat": "短文完形",
+  "level": 1,
+  "text": "On Monday I found a little dog. ____ dog followed ____ home.",
+  "slots": [
+   [
+    "The"
+   ],
+   [
+    "me"
+   ]
+  ],
+  "cn": "周一我发现一只小狗。那只狗跟着我回了家。",
+  "point": "上下文综合运用",
+  "why": "再次提及用 the，follow 后接宾格。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：me / The / were"
+ },
+ {
+  "id": "WF462",
+  "cat": "短文完形",
+  "level": 1,
+  "text": "Anna has two bags. One is red and the ____ is blue. She takes ____ to school.",
+  "slots": [
+   [
+    "other"
+   ],
+   [
+    "both"
+   ]
+  ],
+  "cn": "安娜有两个包，一个红，一个蓝。她把两个都带去学校。",
+  "point": "上下文综合运用",
+  "why": "two 和 one 提示 the other，两个都用 both。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：both / other / were"
+ },
+ {
+  "id": "WF463",
+  "cat": "短文完形",
+  "level": 1,
+  "text": "I wake up ____ seven. ____ breakfast, I walk to school with Dad.",
+  "slots": [
+   [
+    "at"
+   ],
+   [
+    "After"
+   ]
+  ],
+  "cn": "我七点醒来，吃完早饭后和爸爸走去学校。",
+  "point": "上下文综合运用",
+  "why": "具体时刻用 at，早饭后用 after。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：After / at / were"
+ },
+ {
+  "id": "WF464",
+  "cat": "短文完形",
+  "level": 1,
+  "text": "It's raining. Leo takes ____ umbrella and puts ____ his boots.",
+  "slots": [
+   [
+    "an"
+   ],
+   [
+    "on"
+   ]
+  ],
+  "cn": "下雨了。利奥拿了一把伞，穿上了靴子。",
+  "point": "上下文综合运用",
+  "why": "umbrella 以元音音素开头，穿上用 put on。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：an / on / were"
+ },
+ {
+  "id": "WF465",
+  "cat": "短文完形",
+  "level": 1,
+  "text": "This is my sister. ____ name is Lily. Our neighbors often invite ____ to play.",
+  "slots": [
+   [
+    "Her"
+   ],
+   [
+    "her"
+   ]
+  ],
+  "cn": "这是我妹妹，她叫莉莉。邻居经常邀请她一起玩。",
+  "point": "上下文综合运用",
+  "why": "修饰 name 用物主限定词，invite 后用宾格。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：Her / her / were"
+ },
+ {
+  "id": "WF466",
+  "cat": "短文完形",
+  "level": 1,
+  "text": "We have three ____ of apples. Each box ____ a red label.",
+  "slots": [
+   [
+    "boxes"
+   ],
+   [
+    "has"
+   ]
+  ],
+  "cn": "我们有三箱苹果。每箱都有一张红色标签。",
+  "point": "上下文综合运用",
+  "why": "three 后用 box 的复数，each box 是单数。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：boxes / has / were"
+ },
+ {
+  "id": "WF467",
+  "cat": "短文完形",
+  "level": 1,
+  "text": "Mia likes music. Every Friday she ____ the piano while her brothers ____.",
+  "slots": [
+   [
+    "plays"
+   ],
+   [
+    "sing"
+   ]
+  ],
+  "cn": "米娅喜欢音乐。每周五她弹钢琴，兄弟们唱歌。",
+  "point": "上下文综合运用",
+  "why": "一般现在时注意 she 和 brothers 的单复数。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：plays / sing / were"
+ },
+ {
+  "id": "WF468",
+  "cat": "短文完形",
+  "level": 1,
+  "text": "Tom needs a pencil. I lend ____ one, and he thanks ____.",
+  "slots": [
+   [
+    "him"
+   ],
+   [
+    "me"
+   ]
+  ],
+  "cn": "汤姆需要一支铅笔。我借给他一支，他向我道谢。",
+  "point": "上下文综合运用",
+  "why": "lend 和 thank 后面都用宾格。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：him / me / were"
+ },
+ {
+  "id": "WF469",
+  "cat": "短文完形",
+  "level": 2,
+  "text": "Last Sunday we ____ to the lake. We ____ a white bird on the water.",
+  "slots": [
+   [
+    "went"
+   ],
+   [
+    "saw"
+   ]
+  ],
+  "cn": "上周日我们去了湖边，看到水上有一只白鸟。",
+  "point": "上下文综合运用",
+  "why": "go 和 see 的过去式都不规则。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：saw / went / were"
+ },
+ {
+  "id": "WF470",
+  "cat": "短文完形",
+  "level": 2,
+  "text": "The sign says the store opens ____ nine. We arrived ____ it opened, so we waited outside.",
+  "slots": [
+   [
+    "at"
+   ],
+   [
+    "before"
+   ]
+  ],
+  "cn": "牌子上写着商店九点开门。我们在开门前到了，所以在外等。",
+  "point": "上下文综合运用",
+  "why": "具体时间用 at，根据等候的结果选 before。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：at / before / were"
+ },
+ {
+  "id": "WF471",
+  "cat": "短文完形",
+  "level": 2,
+  "text": "It was sunny in the morning, ____ rain came at noon. We stayed under a tree ____ it stopped.",
+  "slots": [
+   [
+    "but",
+    "yet"
+   ],
+   [
+    "until",
+    "till"
+   ]
+  ],
+  "cn": "早上晴朗，中午却下雨了。我们在树下待到雨停。",
+  "point": "上下文综合运用",
+  "why": "天气转折，待在树下的动作持续到雨停。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：but / until / were"
+ },
+ {
+  "id": "WF472",
+  "cat": "短文完形",
+  "level": 2,
+  "text": "I have two cousins. ____ enjoy swimming, but ____ likes cold water.",
+  "slots": [
+   [
+    "Both"
+   ],
+   [
+    "neither"
+   ]
+  ],
+  "cn": "我有两个表亲，两人都爱游泳，但都不喜欢冷水。",
+  "point": "上下文综合运用",
+  "why": "两者都用 both，两者都不用 neither。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：Both / neither / were"
+ },
+ {
+  "id": "WF473",
+  "cat": "短文完形",
+  "level": 2,
+  "text": "A leaf fell ____ a tree. It landed ____ my open book.",
+  "slots": [
+   [
+    "from"
+   ],
+   [
+    "on"
+   ]
+  ],
+  "cn": "一片叶子从树上落下，落在我摊开的书上。",
+  "point": "上下文综合运用",
+  "why": "出发点用 from，接触表面用 on。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：from / on / were"
+ },
+ {
+  "id": "WF474",
+  "cat": "短文完形",
+  "level": 2,
+  "text": "Mum bought a loaf ____ bread. She cut it ____ eight slices.",
+  "slots": [
+   [
+    "of"
+   ],
+   [
+    "into"
+   ]
+  ],
+  "cn": "妈妈买了一条面包，把它切成八片。",
+  "point": "上下文综合运用",
+  "why": "a loaf of 和 cut into 是固定搭配。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：into / of / were"
+ },
+ {
+  "id": "WF475",
+  "cat": "短文完形",
+  "level": 2,
+  "text": "The bus was full, ____ we walked. It took half ____ hour to get home.",
+  "slots": [
+   [
+    "so"
+   ],
+   [
+    "an"
+   ]
+  ],
+  "cn": "车满了，所以我们步行。到家用了半小时。",
+  "point": "上下文综合运用",
+  "why": "so 连接结果，hour 的 h 不发音。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：an / so / were"
+ },
+ {
+  "id": "WF476",
+  "cat": "短文完形",
+  "level": 2,
+  "text": "The twins made the kite ____. It flew ____ than the roof.",
+  "slots": [
+   [
+    "themselves"
+   ],
+   [
+    "higher"
+   ]
+  ],
+  "cn": "双胞胎亲手做了风筝。它飞得比屋顶还高。",
+  "point": "上下文综合运用",
+  "why": "复数主语用 themselves，than 提示 high 的比较级。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：higher / themselves / were"
+ },
+ {
+  "id": "WF477",
+  "cat": "短文完形",
+  "level": 3,
+  "text": "I was ____ when the lights went out. Dad ____ a flashlight in a drawer.",
+  "slots": [
+   [
+    "reading"
+   ],
+   [
+    "found"
+   ]
+  ],
+  "cn": "灯灭的时候我正在读书。爸爸在抽屉里找到了一支手电筒。",
+  "point": "上下文综合运用",
+  "why": "背景动作用 was reading，随后发生的事用 found。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：found / reading / were"
+ },
+ {
+  "id": "WF478",
+  "cat": "短文完形",
+  "level": 3,
+  "text": "On our way home we ____ a cry. A kitten was ____ behind a bin.",
+  "slots": [
+   [
+    "heard"
+   ],
+   [
+    "hiding"
+   ]
+  ],
+  "cn": "回家路上我们听到一声叫唤。一只小猫正躲在垃圾桶后。",
+  "point": "上下文综合运用",
+  "why": "hear 的过去式是 heard，进行时用 hiding。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：heard / hiding / were"
+ },
+ {
+  "id": "WF479",
+  "cat": "短文完形",
+  "level": 3,
+  "text": "I forgot ____ pack a spoon. Luckily, Jo had ____ extra one.",
+  "slots": [
+   [
+    "to"
+   ],
+   [
+    "an"
+   ]
+  ],
+  "cn": "我忘了装勺子。好在乔多带了一把。",
+  "point": "上下文综合运用",
+  "why": "forget to do，extra 的首音是元音。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：an / to / were"
+ },
+ {
+  "id": "WF480",
+  "cat": "短文完形",
+  "level": 3,
+  "text": "Ella was late ____ the train. She decided ____ take a bus instead.",
+  "slots": [
+   [
+    "for"
+   ],
+   [
+    "to"
+   ]
+  ],
+  "cn": "埃拉没赶上火车。她决定改坐公交车。",
+  "point": "上下文综合运用",
+  "why": "late for，decide to do。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：for / to / were"
+ },
+ {
+  "id": "WF481",
+  "cat": "短文完形",
+  "level": 3,
+  "text": "There ____ no seats left last night. We stood ____ the end of the show.",
+  "slots": [
+   [
+    "were"
+   ],
+   [
+    "until",
+    "till"
+   ]
+  ],
+  "cn": "昨晚一个座位也没剩。我们站到了演出结束。",
+  "point": "上下文综合运用",
+  "why": "过去时复数用 were，持续到结束用 until。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：until / were / will"
+ },
+ {
+  "id": "WF482",
+  "cat": "短文完形",
+  "level": 3,
+  "text": "Pete is good ____ drawing. Yesterday he ____ a picture of our school.",
+  "slots": [
+   [
+    "at"
+   ],
+   [
+    "drew"
+   ]
+  ],
+  "cn": "皮特擅长画画。昨天他画了一幅学校的图。",
+  "point": "上下文综合运用",
+  "why": "good at，draw 的过去式是 drew。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：at / drew / were"
+ },
+ {
+  "id": "WF483",
+  "cat": "短文完形",
+  "level": 3,
+  "text": "Our team practiced ____ all week. We played ____ than we did last month.",
+  "slots": [
+   [
+    "hard"
+   ],
+   [
+    "better"
+   ]
+  ],
+  "cn": "我们队整周都刻苦训练，比上个月打得更好了。",
+  "point": "上下文综合运用",
+  "why": "hard 可作副词，well 的比较级是 better。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：better / hard / were"
+ },
+ {
+  "id": "WF484",
+  "cat": "短文完形",
+  "level": 3,
+  "text": "I saw a girl ____ bag was torn. I offered ____ carry her books.",
+  "slots": [
+   [
+    "whose"
+   ],
+   [
+    "to"
+   ]
+  ],
+  "cn": "我看到一个书包破了的女孩。我主动提出帮她拿书。",
+  "point": "上下文综合运用",
+  "why": "whose 表示所属，offer to do 表示主动提出。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：to / were / whose"
+ },
+ {
+  "id": "WF485",
+  "cat": "短文完形",
+  "level": 4,
+  "text": "Since May, Leo has ____ a diary. He writes in it ____ going to bed each night.",
+  "slots": [
+   [
+    "kept"
+   ],
+   [
+    "before"
+   ]
+  ],
+  "cn": "从五月起利奥就一直写日记。他每晚睡前都写。",
+  "point": "上下文综合运用",
+  "why": "keep 的过去分词是 kept，睡前用 before。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：before / kept / were"
+ },
+ {
+  "id": "WF486",
+  "cat": "短文完形",
+  "level": 4,
+  "text": "The letter was ____ in pencil. It was hard ____ read in the dim light.",
+  "slots": [
+   [
+    "written"
+   ],
+   [
+    "to"
+   ]
+  ],
+  "cn": "这封信是用铅笔写的。昏暗的光线下很难看清。",
+  "point": "上下文综合运用",
+  "why": "被动语态用 written，hard to read 是形容词加不定式。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：to / were / written"
+ },
+ {
+  "id": "WF487",
+  "cat": "短文完形",
+  "level": 4,
+  "text": "We need someone ____ knows the way. Ask Mina; she has ____ here before.",
+  "slots": [
+   [
+    "who",
+    "that"
+   ],
+   [
+    "been"
+   ]
+  ],
+  "cn": "我们需要认识路的人。问米娜吧，她以前来过这里。",
+  "point": "上下文综合运用",
+  "why": "指人的主语关系代词，have been here 表示来过。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：been / were / who"
+ },
+ {
+  "id": "WF488",
+  "cat": "短文完形",
+  "level": 4,
+  "text": "The jar was too tight ____ open by hand. We used a cloth ____ get a better grip.",
+  "slots": [
+   [
+    "to"
+   ],
+   [
+    "to"
+   ]
+  ],
+  "cn": "罐子太紧，徒手打不开。我们用布来抓得更牢。",
+  "point": "上下文综合运用",
+  "why": "too…to 和表示目的的不定式。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：to / were"
+ },
+ {
+  "id": "WF489",
+  "cat": "短文完形",
+  "level": 4,
+  "text": "I have lived here ____ July. My cousin has lived here ____ three years.",
+  "slots": [
+   [
+    "since"
+   ],
+   [
+    "for"
+   ]
+  ],
+  "cn": "我从七月起就住在这里。我表亲在这里住了三年。",
+  "point": "上下文综合运用",
+  "why": "since 接时间点，for 接时长。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：for / since / were"
+ },
+ {
+  "id": "WF490",
+  "cat": "短文完形",
+  "level": 4,
+  "text": "The chair ____ broke yesterday is gone. A new one has ____ ordered.",
+  "slots": [
+   [
+    "which",
+    "that"
+   ],
+   [
+    "been"
+   ]
+  ],
+  "cn": "昨天坏掉的椅子已搬走。已经订了一把新的。",
+  "point": "上下文综合运用",
+  "why": "which 或 that 指物，现在完成时被动为 has been ordered。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：been / were / which"
+ },
+ {
+  "id": "WF491",
+  "cat": "短文完形",
+  "level": 4,
+  "text": "The path was wet because it ____ rained. We walked ____ to avoid slipping.",
+  "slots": [
+   [
+    "had"
+   ],
+   [
+    "carefully"
+   ]
+  ],
+  "cn": "下过雨，小路很湿。我们小心地走，以免滑倒。",
+  "point": "上下文综合运用",
+  "why": "过去之前用 had rained，修饰 walked 用副词 carefully。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：carefully / had / were"
+ },
+ {
+  "id": "WF492",
+  "cat": "短文完形",
+  "level": 4,
+  "text": "Please check ____ the box is empty. If it ____, fold it flat.",
+  "slots": [
+   [
+    "whether",
+    "if"
+   ],
+   [
+    "is"
+   ]
+  ],
+  "cn": "请检查盒子是否空了。如果空了，就把它折平。",
+  "point": "上下文综合运用",
+  "why": "whether 或 if 引导宾语从句，it 后用 is。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：is / were / whether"
+ },
+ {
+  "id": "WF493",
+  "cat": "短文完形",
+  "level": 5,
+  "text": "Nora prefers tea ____ coffee. She would rather make her own ____ buy a cup.",
+  "slots": [
+   [
+    "to"
+   ],
+   [
+    "than"
+   ]
+  ],
+  "cn": "比起咖啡诺拉更喜欢茶。她宁愿自己泡，也不愿买一杯。",
+  "point": "上下文综合运用",
+  "why": "prefer A to B，would rather A than B。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：than / to / were"
+ },
+ {
+  "id": "WF494",
+  "cat": "短文完形",
+  "level": 5,
+  "text": "The lamp, ____ was a gift, stopped working. We had it ____ at a local shop.",
+  "slots": [
+   [
+    "which"
+   ],
+   [
+    "repaired"
+   ]
+  ],
+  "cn": "这盏作为礼物收到的灯坏了。我们请本地店铺把它修好了。",
+  "point": "上下文综合运用",
+  "why": "非限制性从句指物用 which，have something repaired 表示请人修。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：repaired / were / which"
+ },
+ {
+  "id": "WF495",
+  "cat": "短文完形",
+  "level": 5,
+  "text": "____ I had a map, I got lost. A cyclist showed ____ the way back.",
+  "slots": [
+   [
+    "Although",
+    "Though"
+   ],
+   [
+    "me"
+   ]
+  ],
+  "cn": "尽管我有地图，还是迷了路。一名骑车人给我指了回去的路。",
+  "point": "上下文综合运用",
+  "why": "让步从句加完整主句，show 后用宾格。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：Although / me / were"
+ },
+ {
+  "id": "WF496",
+  "cat": "短文完形",
+  "level": 5,
+  "text": "By the time we arrived, the concert ____ started. We waited ____ the break to enter.",
+  "slots": [
+   [
+    "had"
+   ],
+   [
+    "until",
+    "till"
+   ]
+  ],
+  "cn": "我们到的时候音乐会已经开始。我们等到中场休息才进去。",
+  "point": "上下文综合运用",
+  "why": "过去完成时标记先发生的动作，until 引出等待终点。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：had / until / were"
+ },
+ {
+  "id": "WF497",
+  "cat": "短文完形",
+  "level": 5,
+  "text": "The sooner we book, ____ less we pay. Let's decide ____ or not to go tonight.",
+  "slots": [
+   [
+    "the"
+   ],
+   [
+    "whether"
+   ]
+  ],
+  "cn": "订得越早，花费越少。今晚决定到底去不去吧。",
+  "point": "上下文综合运用",
+  "why": "the…the 比较结构，紧接 or not 用 whether。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：the / were / whether"
+ },
+ {
+  "id": "WF498",
+  "cat": "短文完形",
+  "level": 5,
+  "text": "The results were ____ by email. Each runner received ____ own time.",
+  "slots": [
+   [
+    "sent"
+   ],
+   [
+    "their",
+    "his or her"
+   ]
+  ],
+  "cn": "结果通过邮件发出。每个跑者都收到了自己的用时。",
+  "point": "上下文综合运用",
+  "why": "send 的过去分词是 sent，泛指单个跑者可用 their。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：sent / their / were"
+ },
+ {
+  "id": "WF499",
+  "cat": "短文完形",
+  "level": 5,
+  "text": "If I ____ you, I'd keep the note. It might remind you ____ this trip later.",
+  "slots": [
+   [
+    "were"
+   ],
+   [
+    "of"
+   ]
+  ],
+  "cn": "如果我是你，我会把纸条留下。以后它或许会让你想起这次旅行。",
+  "point": "上下文综合运用",
+  "why": "正式书面语的假设用 were，remind someone of something。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：of / were / will"
+ },
+ {
+  "id": "WF500",
+  "cat": "短文完形",
+  "level": 5,
+  "text": "No sooner had the door opened ____ the puppy ran out. Luckily, it came back by ____.",
+  "slots": [
+   [
+    "than"
+   ],
+   [
+    "itself"
+   ]
+  ],
+  "cn": "门刚打开，小狗就跑了出去。幸好它自己回来了。",
+  "point": "上下文综合运用",
+  "why": "no sooner…than，by itself 表示独自。",
+  "tip": "两个空分别核对，注意前后句的时间与指代。",
+  "kind": "短文",
+  "options": [],
+  "hint": "根据译文，从词组中选词并依次填入两空：itself / than / were"
+ }
+]

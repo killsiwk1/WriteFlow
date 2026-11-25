@@ -1,0 +1,2202 @@
+[
+ {
+  "id": "WF2301",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Her aunt ____ a camera to the club yesterday.",
+  "cn": "她姨妈昨天把相机借给社团。",
+  "why": "借出是 lend，其过去式 lent。完整句：Her aunt lent a camera to the club yesterday.",
+  "point": "借出是 lend，其过去式 lent",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "lent"
+   ]
+  ],
+  "options": [
+   "borrowed",
+   "lent"
+  ],
+  "source": "grammar3000:53",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2302",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Her aunt lent a camera ____ the club yesterday.",
+  "cn": "她姨妈昨天把相机借给社团。",
+  "why": "lend something to someone。完整句：Her aunt lent a camera to the club yesterday.",
+  "point": "lend something to someone",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [
+   "to",
+   "from"
+  ],
+  "source": "grammar3000:53",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2303",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The dress ____ less than the shoes did.",
+  "cn": "裙子比鞋便宜。",
+  "why": "cost 表花费的过去式仍为 cost。完整句：The dress cost less than the shoes did.",
+  "point": "cost 表花费的过去式仍为 cost",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "cost"
+   ]
+  ],
+  "options": [
+   "costed",
+   "cost"
+  ],
+  "source": "grammar3000:54",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2304",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The dress cost less ____ the shoes did.",
+  "cn": "裙子比鞋便宜。",
+  "why": "比较用 than。完整句：The dress cost less than the shoes did.",
+  "point": "比较用 than",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "than"
+   ]
+  ],
+  "options": [
+   "then",
+   "than"
+  ],
+  "source": "grammar3000:54",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2305",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "This route is ____ quiet as the garden path.",
+  "cn": "这条路和花园小径一样安静。",
+  "why": "原级同等比较第一个 as。完整句：This route is as quiet as the garden path.",
+  "point": "原级同等比较第一个 as",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "as"
+   ]
+  ],
+  "options": [
+   "so much",
+   "as"
+  ],
+  "source": "grammar3000:55",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2306",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "This route is as quiet ____ the garden path.",
+  "cn": "这条路和花园小径一样安静。",
+  "why": "同等比较第二个 as。完整句：This route is as quiet as the garden path.",
+  "point": "同等比较第二个 as",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "as"
+   ]
+  ],
+  "options": [
+   "as",
+   "than"
+  ],
+  "source": "grammar3000:55",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2307",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "He ____ his wet umbrella indoors to dry.",
+  "cn": "他把湿伞带到室内晾干。",
+  "why": "带来用 brought。完整句：He brought his wet umbrella indoors to dry.",
+  "point": "带来用 brought",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "brought"
+   ]
+  ],
+  "options": [
+   "brought",
+   "borrowed"
+  ],
+  "source": "grammar3000:56",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2308",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "He brought his wet umbrella ____ to dry.",
+  "cn": "他把湿伞带到室内晾干。",
+  "why": "地点副词 indoors。完整句：He brought his wet umbrella indoors to dry.",
+  "point": "地点副词 indoors",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "indoors"
+   ]
+  ],
+  "options": [
+   "indoors",
+   "indoor"
+  ],
+  "source": "grammar3000:56",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2309",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The old dog kept ____ him along the path.",
+  "cn": "老狗沿着小径一直跟着他。",
+  "why": "keep doing 表持续。完整句：The old dog kept following him along the path.",
+  "point": "keep doing 表持续",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "following"
+   ]
+  ],
+  "options": [
+   "follow",
+   "following"
+  ],
+  "source": "grammar3000:57",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2310",
+  "cat": "代词",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The old dog kept following ____ along the path.",
+  "cn": "老狗沿着小径一直跟着他。",
+  "why": "动词后用宾格。完整句：The old dog kept following him along the path.",
+  "point": "动词后用宾格",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "him"
+   ]
+  ],
+  "options": [
+   "he",
+   "him"
+  ],
+  "source": "grammar3000:57",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2311",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "We agreed ____ at a quieter entrance.",
+  "cn": "我们约在一处较安静的入口见。",
+  "why": "agree to do。完整句：We agreed to meet at a quieter entrance.",
+  "point": "agree to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to meet"
+   ]
+  ],
+  "options": [
+   "to meet",
+   "meeting"
+  ],
+  "source": "grammar3000:58",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2312",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "We agreed to meet at a ____ entrance.",
+  "cn": "我们约在一处较安静的入口见。",
+  "why": "名词前用形容词比较级。完整句：We agreed to meet at a quieter entrance.",
+  "point": "名词前用形容词比较级",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "quieter"
+   ]
+  ],
+  "options": [
+   "quieter",
+   "quietly"
+  ],
+  "source": "grammar3000:58",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2313",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The room ____ crowded after lunch.",
+  "cn": "午饭后房间变得拥挤。",
+  "why": "become 的过去式。完整句：The room became crowded after lunch.",
+  "point": "become 的过去式",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "became"
+   ]
+  ],
+  "options": [
+   "becomed",
+   "became"
+  ],
+  "source": "grammar3000:59",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2314",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The room became ____ after lunch.",
+  "cn": "午饭后房间变得拥挤。",
+  "why": "crowded 描述房间状态。完整句：The room became crowded after lunch.",
+  "point": "crowded 描述房间状态",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "crowded"
+   ]
+  ],
+  "options": [
+   "crowd",
+   "crowded"
+  ],
+  "source": "grammar3000:59",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2315",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "No one ____ late for the first rehearsal.",
+  "cn": "第一次排练没有人迟到。",
+  "why": "no one 为单数。完整句：No one was late for the first rehearsal.",
+  "point": "no one 为单数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "was"
+   ]
+  ],
+  "options": [
+   "were",
+   "was"
+  ],
+  "source": "grammar3000:60",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2316",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "No one was late ____ the first rehearsal.",
+  "cn": "第一次排练没有人迟到。",
+  "why": "be late for。完整句：No one was late for the first rehearsal.",
+  "point": "be late for",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [
+   "with",
+   "for"
+  ],
+  "source": "grammar3000:60",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2317",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "____ you please move this box a little?",
+  "cn": "能请你把盒子稍微移一下吗？",
+  "why": "Could you please 表示请求。完整句：Could you please move this box a little?",
+  "point": "Could you please 表示请求",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "Could"
+   ]
+  ],
+  "options": [
+   "Could",
+   "Did"
+  ],
+  "source": "grammar3000:61",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2318",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Could you please ____ this box a little?",
+  "cn": "能请你把盒子稍微移一下吗？",
+  "why": "情态动词后用原形。完整句：Could you please move this box a little?",
+  "point": "情态动词后用原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "move"
+   ]
+  ],
+  "options": [
+   "move",
+   "moved"
+  ],
+  "source": "grammar3000:61",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2319",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The guide ____ us how to fold the map.",
+  "cn": "向导教我们怎样折地图。",
+  "why": "过去时用 showed。完整句：The guide showed us how to fold the map.",
+  "point": "过去时用 showed",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "showed"
+   ]
+  ],
+  "options": [
+   "shown",
+   "showed"
+  ],
+  "source": "grammar3000:62",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2320",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The guide showed us ____ to fold the map.",
+  "cn": "向导教我们怎样折地图。",
+  "why": "how to do 表方式。完整句：The guide showed us how to fold the map.",
+  "point": "how to do 表方式",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "how"
+   ]
+  ],
+  "options": [
+   "how",
+   "whose"
+  ],
+  "source": "grammar3000:62",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2321",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "There were ____ apples than we had ordered.",
+  "cn": "苹果比我们订的少。",
+  "why": "复数可数名词用 fewer。完整句：There were fewer apples than we had ordered.",
+  "point": "复数可数名词用 fewer",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "fewer"
+   ]
+  ],
+  "options": [
+   "less",
+   "fewer"
+  ],
+  "source": "grammar3000:63",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2322",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "There were fewer apples ____ we had ordered.",
+  "cn": "苹果比我们订的少。",
+  "why": "比较连接词 than。完整句：There were fewer apples than we had ordered.",
+  "point": "比较连接词 than",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "than"
+   ]
+  ],
+  "options": [
+   "than",
+   "then"
+  ],
+  "source": "grammar3000:63",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2323",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The team ____ to carry its own tools yesterday.",
+  "cn": "队员们昨天不得不自己搬工具。",
+  "why": "have to 过去式为 had to。完整句：The team had to carry its own tools yesterday.",
+  "point": "have to 过去式为 had to",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "had"
+   ]
+  ],
+  "options": [
+   "have",
+   "had"
+  ],
+  "source": "grammar3000:64",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2324",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The team had to ____ its own tools yesterday.",
+  "cn": "队员们昨天不得不自己搬工具。",
+  "why": "to 后用原形。完整句：The team had to carry its own tools yesterday.",
+  "point": "to 后用原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "carry"
+   ]
+  ],
+  "options": [
+   "carried",
+   "carry"
+  ],
+  "source": "grammar3000:64",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2325",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "I ____ up early because the dogs were barking.",
+  "cn": "因为狗在叫，我早早醒了。",
+  "why": "wake 的过去式 woke。完整句：I woke up early because the dogs were barking.",
+  "point": "wake 的过去式 woke",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "woke"
+   ]
+  ],
+  "options": [
+   "woke",
+   "waken"
+  ],
+  "source": "grammar3000:65",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2326",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "I woke up early ____ the dogs were barking.",
+  "cn": "因为狗在叫，我早早醒了。",
+  "why": "完整分句前用 because。完整句：I woke up early because the dogs were barking.",
+  "point": "完整分句前用 because",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "because"
+   ]
+  ],
+  "options": [
+   "because",
+   "because of"
+  ],
+  "source": "grammar3000:65",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2327",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The soup smells ____, but it needs salt.",
+  "cn": "汤闻起来很香，但需要加盐。",
+  "why": "感官系动词后接形容词。完整句：The soup smells good, but it needs salt.",
+  "point": "感官系动词后接形容词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "good"
+   ]
+  ],
+  "options": [
+   "good",
+   "goodness"
+  ],
+  "source": "grammar3000:66",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2328",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The soup smells good, but it ____ salt.",
+  "cn": "汤闻起来很香，但需要加盐。",
+  "why": "it 作主语用 needs。完整句：The soup smells good, but it needs salt.",
+  "point": "it 作主语用 needs",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "needs"
+   ]
+  ],
+  "options": [
+   "need",
+   "needs"
+  ],
+  "source": "grammar3000:66",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2329",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Mia ____ asleep during the film.",
+  "cn": "米娅看电影时睡着了。",
+  "why": "fall asleep 的过去式 fell asleep。完整句：Mia fell asleep during the film.",
+  "point": "fall asleep 的过去式 fell asleep",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "fell"
+   ]
+  ],
+  "options": [
+   "fell",
+   "fallen"
+  ],
+  "source": "grammar3000:67",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2330",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Mia fell asleep ____ the film.",
+  "cn": "米娅看电影时睡着了。",
+  "why": "名词短语前用 during。完整句：Mia fell asleep during the film.",
+  "point": "名词短语前用 during",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "during"
+   ]
+  ],
+  "options": [
+   "while",
+   "during"
+  ],
+  "source": "grammar3000:67",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2331",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The wooden box was ____, so we carried it together.",
+  "cn": "木箱很重，因此我们一起搬。",
+  "why": "was 后为形容词。完整句：The wooden box was heavy, so we carried it together.",
+  "point": "was 后为形容词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "heavy"
+   ]
+  ],
+  "options": [
+   "heavily",
+   "heavy"
+  ],
+  "source": "grammar3000:68",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2332",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The wooden box was heavy, ____ we carried it together.",
+  "cn": "木箱很重，因此我们一起搬。",
+  "why": "so 引出结果。完整句：The wooden box was heavy, so we carried it together.",
+  "point": "so 引出结果",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "so"
+   ]
+  ],
+  "options": [
+   "or else",
+   "so"
+  ],
+  "source": "grammar3000:68",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2333",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Would you like ____ us for a walk?",
+  "cn": "你想加入我们一起散步吗？",
+  "why": "would like to do。完整句：Would you like to join us for a walk?",
+  "point": "would like to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to join"
+   ]
+  ],
+  "options": [
+   "joined",
+   "to join"
+  ],
+  "source": "grammar3000:69",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2334",
+  "cat": "代词",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Would you like to join ____ for a walk?",
+  "cn": "你想加入我们一起散步吗？",
+  "why": "join 后接宾格。完整句：Would you like to join us for a walk?",
+  "point": "join 后接宾格",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "us"
+   ]
+  ],
+  "options": [
+   "ours",
+   "us"
+  ],
+  "source": "grammar3000:69",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2335",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "When the doors ____, people stood in line.",
+  "cn": "门开时，人们排好了队。",
+  "why": "when 分句有过去时谓语。完整句：When the doors opened, people stood in line.",
+  "point": "when 分句有过去时谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "opened"
+   ]
+  ],
+  "options": [
+   "opening",
+   "opened"
+  ],
+  "source": "grammar3000:70",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2336",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "When the doors opened, people ____ in line.",
+  "cn": "门开时，人们排好了队。",
+  "why": "stand 的过去式 stood。完整句：When the doors opened, people stood in line.",
+  "point": "stand 的过去式 stood",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "stood"
+   ]
+  ],
+  "options": [
+   "standed",
+   "stood"
+  ],
+  "source": "grammar3000:70",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2337",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "My sister ____ two stars from the same sheet.",
+  "cn": "姐姐用同一张纸剪了两颗星。",
+  "why": "cut 过去式不变。完整句：My sister cut two stars from the same sheet.",
+  "point": "cut 过去式不变",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "cut"
+   ]
+  ],
+  "options": [
+   "cutted",
+   "cut"
+  ],
+  "source": "grammar3000:71",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2338",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "My sister cut two stars ____ the same sheet.",
+  "cn": "姐姐用同一张纸剪了两颗星。",
+  "why": "cut from 指材料来源。完整句：My sister cut two stars from the same sheet.",
+  "point": "cut from 指材料来源",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [
+   "from",
+   "inside of"
+  ],
+  "source": "grammar3000:71",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2339",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The runner ____ his knee while turning the corner.",
+  "cn": "跑者拐弯时伤了膝盖。",
+  "why": "hurt 过去式不变。完整句：The runner hurt his knee while turning the corner.",
+  "point": "hurt 过去式不变",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "hurt"
+   ]
+  ],
+  "options": [
+   "hurt",
+   "hurted"
+  ],
+  "source": "grammar3000:72",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2340",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The runner hurt his knee ____ turning the corner.",
+  "cn": "跑者拐弯时伤了膝盖。",
+  "why": "while doing 表同时发生。完整句：The runner hurt his knee while turning the corner.",
+  "point": "while doing 表同时发生",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "while"
+   ]
+  ],
+  "options": [
+   "while",
+   "until after"
+  ],
+  "source": "grammar3000:72",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2341",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "I left ____ to catch the first ferry.",
+  "cn": "我很早就出发，为了赶第一班渡船。",
+  "why": "early 可独立作副词。完整句：I left early to catch the first ferry.",
+  "point": "early 可独立作副词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "early"
+   ]
+  ],
+  "options": [
+   "early",
+   "earlier than"
+  ],
+  "source": "grammar3000:73",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2342",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "I left early ____ the first ferry.",
+  "cn": "我很早就出发，为了赶第一班渡船。",
+  "why": "目的用不定式。完整句：I left early to catch the first ferry.",
+  "point": "目的用不定式",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to catch"
+   ]
+  ],
+  "options": [
+   "to catch",
+   "caught"
+  ],
+  "source": "grammar3000:73",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2343",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "It ____ the class two weeks to finish the wall map.",
+  "cn": "全班花两周完成这张墙图。",
+  "why": "it takes someone time。完整句：It took the class two weeks to finish the wall map.",
+  "point": "it takes someone time",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "took"
+   ]
+  ],
+  "options": [
+   "took",
+   "spent"
+  ],
+  "source": "grammar3000:74",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2344",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "It took the class two weeks ____ the wall map.",
+  "cn": "全班花两周完成这张墙图。",
+  "why": "to finish 是真正的动作内容。完整句：It took the class two weeks to finish the wall map.",
+  "point": "to finish 是真正的动作内容",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to finish"
+   ]
+  ],
+  "options": [
+   "to finish",
+   "finished"
+  ],
+  "source": "grammar3000:74",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2345",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Only ____ of those seats faces the screen directly.",
+  "cn": "那些座位中只有一张正对屏幕。",
+  "why": "one of 表其中一个。完整句：Only one of those seats faces the screen directly.",
+  "point": "one of 表其中一个",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "one"
+   ]
+  ],
+  "options": [
+   "once",
+   "one"
+  ],
+  "source": "grammar3000:75",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2346",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Only one of those seats ____ the screen directly.",
+  "cn": "那些座位中只有一张正对屏幕。",
+  "why": "中心词 one 决定单数谓语。完整句：Only one of those seats faces the screen directly.",
+  "point": "中心词 one 决定单数谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "faces"
+   ]
+  ],
+  "options": [
+   "faces",
+   "face"
+  ],
+  "source": "grammar3000:75",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2347",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The window ____ open in the middle of the night.",
+  "cn": "窗户半夜被风吹开了。",
+  "why": "blow 的过去式 blew。完整句：The window blew open in the middle of the night.",
+  "point": "blow 的过去式 blew",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "blew"
+   ]
+  ],
+  "options": [
+   "blew",
+   "blowed"
+  ],
+  "source": "grammar3000:76",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2348",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The window blew open ____ the middle of the night.",
+  "cn": "窗户半夜被风吹开了。",
+  "why": "in the middle of。完整句：The window blew open in the middle of the night.",
+  "point": "in the middle of",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [
+   "at",
+   "in"
+  ],
+  "source": "grammar3000:76",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2349",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The pencil is short ____ to fit in this tin.",
+  "cn": "铅笔够短，能装进这个小盒。",
+  "why": "enough 后置修饰形容词。完整句：The pencil is short enough to fit in this tin.",
+  "point": "enough 后置修饰形容词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "enough"
+   ]
+  ],
+  "options": [
+   "enough",
+   "too"
+  ],
+  "source": "grammar3000:77",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2350",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The pencil is short enough ____ in this tin.",
+  "cn": "铅笔够短，能装进这个小盒。",
+  "why": "enough to do 表足以。完整句：The pencil is short enough to fit in this tin.",
+  "point": "enough to do 表足以",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to fit"
+   ]
+  ],
+  "options": [
+   "to fit",
+   "for fitting it"
+  ],
+  "source": "grammar3000:77",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2351",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Mum ____ me choose the cover color.",
+  "cn": "妈妈让我选封面的颜色。",
+  "why": "let 的过去式不变。完整句：Mum let me choose the cover color.",
+  "point": "let 的过去式不变",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "let"
+   ]
+  ],
+  "options": [
+   "let",
+   "letted"
+  ],
+  "source": "grammar3000:78",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2352",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "Mum let me ____ the cover color.",
+  "cn": "妈妈让我选封面的颜色。",
+  "why": "let someone do。完整句：Mum let me choose the cover color.",
+  "point": "let someone do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "choose"
+   ]
+  ],
+  "options": [
+   "choose",
+   "chose"
+  ],
+  "source": "grammar3000:78",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2353",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "We ____ a fox on our way to the lake.",
+  "cn": "我们去湖边的路上看见了狐狸。",
+  "why": "see 过去式 saw。完整句：We saw a fox on our way to the lake.",
+  "point": "see 过去式 saw",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "saw"
+   ]
+  ],
+  "options": [
+   "saw",
+   "seen"
+  ],
+  "source": "grammar3000:79",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2354",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "We saw a fox ____ our way to the lake.",
+  "cn": "我们去湖边的路上看见了狐狸。",
+  "why": "on one's way。完整句：We saw a fox on our way to the lake.",
+  "point": "on one's way",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [
+   "on",
+   "at"
+  ],
+  "source": "grammar3000:79",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2355",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "It may ____ later, so take an umbrella.",
+  "cn": "稍后可能下雨，带把伞。",
+  "why": "may 后用原形。完整句：It may rain later, so take an umbrella.",
+  "point": "may 后用原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "rain"
+   ]
+  ],
+  "options": [
+   "rain",
+   "rains"
+  ],
+  "source": "grammar3000:80",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2356",
+  "cat": "冠词",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "It may rain later, so take ____ umbrella.",
+  "cn": "稍后可能下雨，带把伞。",
+  "why": "umbrella 以元音音素起首。完整句：It may rain later, so take an umbrella.",
+  "point": "umbrella 以元音音素起首",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "an"
+   ]
+  ],
+  "options": [
+   "an",
+   "a"
+  ],
+  "source": "grammar3000:80",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2357",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "How ____ is it from the hall to the gate?",
+  "cn": "从礼堂到校门有多远？",
+  "why": "how far 问距离。完整句：How far is it from the hall to the gate?",
+  "point": "how far 问距离",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "far"
+   ]
+  ],
+  "options": [
+   "many",
+   "far"
+  ],
+  "source": "grammar3000:81",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2358",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "How far is it ____ the hall to the gate?",
+  "cn": "从礼堂到校门有多远？",
+  "why": "from A to B。完整句：How far is it from the hall to the gate?",
+  "point": "from A to B",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [
+   "from",
+   "of"
+  ],
+  "source": "grammar3000:81",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2359",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The students ____ Emma as their captain.",
+  "cn": "学生们选埃玛当队长。",
+  "why": "choose 的过去式 chose。完整句：The students chose Emma as their captain.",
+  "point": "choose 的过去式 chose",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "chose"
+   ]
+  ],
+  "options": [
+   "chose",
+   "choosed"
+  ],
+  "source": "grammar3000:82",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2360",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 2,
+  "text": "The students chose Emma ____ their captain.",
+  "cn": "学生们选埃玛当队长。",
+  "why": "as 表身份。完整句：The students chose Emma as their captain.",
+  "point": "as 表身份",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "as"
+   ]
+  ],
+  "options": [
+   "as",
+   "for being"
+  ],
+  "source": "grammar3000:82",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2361",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The last train ____ left by the time we reached the platform.",
+  "cn": "我们到站台时末班车已经开走了。",
+  "why": "过去的过去。完整句：The last train had left by the time we reached the platform.",
+  "point": "过去的过去",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "had"
+   ]
+  ],
+  "options": [
+   "had",
+   "has"
+  ],
+  "source": "grammar3000:84",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2362",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The last train had left by the time we ____ the platform.",
+  "cn": "我们到站台时末班车已经开走了。",
+  "why": "reach 直接接地点。完整句：The last train had left by the time we reached the platform.",
+  "point": "reach 直接接地点",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "reached"
+   ]
+  ],
+  "options": [
+   "reached",
+   "reached to"
+  ],
+  "source": "grammar3000:84",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2363",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Please tell me ____ the drawer locks automatically.",
+  "cn": "请告诉我抽屉能否自动上锁。",
+  "why": "间接一般疑问句。完整句：Please tell me whether the drawer locks automatically.",
+  "point": "间接一般疑问句",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "whether"
+   ]
+  ],
+  "options": [
+   "whether",
+   "unless"
+  ],
+  "source": "grammar3000:85",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2364",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Please tell me whether the drawer ____ automatically.",
+  "cn": "请告诉我抽屉能否自动上锁。",
+  "why": "单数主语。完整句：Please tell me whether the drawer locks automatically.",
+  "point": "单数主语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "locks"
+   ]
+  ],
+  "options": [
+   "locks",
+   "lock"
+  ],
+  "source": "grammar3000:85",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2365",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The ____ who lent us the ladders lives upstairs.",
+  "cn": "借给我们梯子的女士住楼上。",
+  "why": "谓语 lives 对应单数。完整句：The woman who lent us the ladders lives upstairs.",
+  "point": "谓语 lives 对应单数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "woman"
+   ]
+  ],
+  "options": [
+   "woman",
+   "women"
+  ],
+  "source": "grammar3000:86",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2366",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The woman who lent us the ladders ____ upstairs.",
+  "cn": "借给我们梯子的女士住楼上。",
+  "why": "关系从句与主句共用同一指称。完整句：The woman who lent us the ladders lives upstairs.",
+  "point": "关系从句与主句共用同一指称",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "lives"
+   ]
+  ],
+  "options": [
+   "live",
+   "lives"
+  ],
+  "source": "grammar3000:86",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2367",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Both the fee and the deadline ____ listed on the form.",
+  "cn": "表格上列着费用和截止日。",
+  "why": "both…and 作复数主语。完整句：Both the fee and the deadline are listed on the form.",
+  "point": "both…and 作复数主语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "are"
+   ]
+  ],
+  "options": [
+   "are",
+   "is"
+  ],
+  "source": "grammar3000:87",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2368",
+  "cat": "介词",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Both the fee and the deadline are listed ____ the form.",
+  "cn": "表格上列着费用和截止日。",
+  "why": "on the form。完整句：Both the fee and the deadline are listed on the form.",
+  "point": "on the form",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [
+   "on",
+   "into"
+  ],
+  "source": "grammar3000:87",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2369",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "We ____ cooking when a plate fell off the shelf last night.",
+  "cn": "昨晚盘子从架子上掉下来时我们正在做饭。",
+  "why": "过去进行时。完整句：We were cooking when a plate fell off the shelf last night.",
+  "point": "过去进行时",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "were"
+   ]
+  ],
+  "options": [
+   "are",
+   "were"
+  ],
+  "source": "grammar3000:88",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2370",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "We were cooking when a plate ____ off the shelf last night.",
+  "cn": "昨晚盘子从架子上掉下来时我们正在做饭。",
+  "why": "fall 的过去式。完整句：We were cooking when a plate fell off the shelf last night.",
+  "point": "fall 的过去式",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "fell"
+   ]
+  ],
+  "options": [
+   "fell",
+   "fallen"
+  ],
+  "source": "grammar3000:88",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2371",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The cloth is soft enough ____ wrap around the jar.",
+  "cn": "布够软，可以裹在罐子外面。",
+  "why": "enough to do。完整句：The cloth is soft enough to wrap around the jar.",
+  "point": "enough to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [
+   "to",
+   "for to"
+  ],
+  "source": "grammar3000:89",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2372",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The cloth is soft enough to wrap ____ the jar.",
+  "cn": "布够软，可以裹在罐子外面。",
+  "why": "wrap around 包裹四周。完整句：The cloth is soft enough to wrap around the jar.",
+  "point": "wrap around 包裹四周",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "around"
+   ]
+  ],
+  "options": [
+   "around",
+   "between"
+  ],
+  "source": "grammar3000:89",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2373",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Each of the ____ contains a spare wheel.",
+  "cn": "每个箱子里都有一只备用轮子。",
+  "why": "each of 后用复数。完整句：Each of the boxes contains a spare wheel.",
+  "point": "each of 后用复数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "boxes"
+   ]
+  ],
+  "options": [
+   "boxes",
+   "box"
+  ],
+  "source": "grammar3000:90",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2374",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Each of the boxes ____ a spare wheel.",
+  "cn": "每个箱子里都有一只备用轮子。",
+  "why": "中心词 each。完整句：Each of the boxes contains a spare wheel.",
+  "point": "中心词 each",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "contains"
+   ]
+  ],
+  "options": [
+   "contain",
+   "contains"
+  ],
+  "source": "grammar3000:90",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2375",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "____ the hall was full, nobody stood outside.",
+  "cn": "虽然大厅坐满了，外面却没有人站着。",
+  "why": "although 接从句。完整句：Although the hall was full, nobody stood outside.",
+  "point": "although 接从句",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "Although"
+   ]
+  ],
+  "options": [
+   "Although",
+   "Because of"
+  ],
+  "source": "grammar3000:91",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2376",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Although the hall was full, nobody ____ outside.",
+  "cn": "虽然大厅坐满了，外面却没有人站着。",
+  "why": "过去时谓语。完整句：Although the hall was full, nobody stood outside.",
+  "point": "过去时谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "stood"
+   ]
+  ],
+  "options": [
+   "stood",
+   "standing"
+  ],
+  "source": "grammar3000:91",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2377",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "I prefer ____ to waiting for a bus.",
+  "cn": "比起等公交车我更喜欢走路。",
+  "why": "prefer doing。完整句：I prefer walking to waiting for a bus.",
+  "point": "prefer doing",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "walking"
+   ]
+  ],
+  "options": [
+   "walking",
+   "walks"
+  ],
+  "source": "grammar3000:92",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2378",
+  "cat": "介词",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "I prefer walking to ____ for a bus.",
+  "cn": "比起等公交车我更喜欢走路。",
+  "why": "此处 to 是介词。完整句：I prefer walking to waiting for a bus.",
+  "point": "此处 to 是介词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "waiting"
+   ]
+  ],
+  "options": [
+   "waited",
+   "waiting"
+  ],
+  "source": "grammar3000:92",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2379",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The card ____ you sent is still in my wallet.",
+  "cn": "你寄的卡片还在我钱包里。",
+  "why": "先行词指物。完整句：The card which you sent is still in my wallet.",
+  "point": "先行词指物",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "which"
+   ]
+  ],
+  "options": [
+   "which",
+   "who"
+  ],
+  "source": "grammar3000:93",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2380",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The card which you sent is still ____ my wallet.",
+  "cn": "你寄的卡片还在我钱包里。",
+  "why": "静态位置。完整句：The card which you sent is still in my wallet.",
+  "point": "静态位置",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [
+   "in",
+   "into"
+  ],
+  "source": "grammar3000:93",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2381",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "She asked where the spare batteries ____ and took two.",
+  "cn": "她问备用电池在哪里，拿走了两节。",
+  "why": "间接问句用陈述语序。完整句：She asked where the spare batteries were and took two.",
+  "point": "间接问句用陈述语序",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "were"
+   ]
+  ],
+  "options": [
+   "were",
+   "were they"
+  ],
+  "source": "grammar3000:94",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2382",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "She asked where the spare batteries were and ____ two.",
+  "cn": "她问备用电池在哪里，拿走了两节。",
+  "why": "与 asked 并列。完整句：She asked where the spare batteries were and took two.",
+  "point": "与 asked 并列",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "took"
+   ]
+  ],
+  "options": [
+   "taken",
+   "took"
+  ],
+  "source": "grammar3000:94",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2383",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The juice ____ too sour for the children to drink.",
+  "cn": "果汁太酸，孩子们喝不下。",
+  "why": "juice 不可数。完整句：The juice was too sour for the children to drink.",
+  "point": "juice 不可数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "was"
+   ]
+  ],
+  "options": [
+   "were",
+   "was"
+  ],
+  "source": "grammar3000:95",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2384",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The juice was too sour for the children ____.",
+  "cn": "果汁太酸，孩子们喝不下。",
+  "why": "too…for someone to do。完整句：The juice was too sour for the children to drink.",
+  "point": "too…for someone to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to drink"
+   ]
+  ],
+  "options": [
+   "to drink",
+   "drinking it"
+  ],
+  "source": "grammar3000:95",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2385",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "You can cross ____ the light turns green.",
+  "cn": "灯一变绿你就能通过。",
+  "why": "as soon as 引导时间从句。完整句：You can cross as soon as the light turns green.",
+  "point": "as soon as 引导时间从句",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "as soon as"
+   ]
+  ],
+  "options": [
+   "as soon as",
+   "despite"
+  ],
+  "source": "grammar3000:96",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2386",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "You can cross as soon as the light ____ green.",
+  "cn": "灯一变绿你就能通过。",
+  "why": "从句用一般现在时。完整句：You can cross as soon as the light turns green.",
+  "point": "从句用一般现在时",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "turns"
+   ]
+  ],
+  "options": [
+   "turned",
+   "turns"
+  ],
+  "source": "grammar3000:96",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2387",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The bags ____ to a boy whose name is on the tag.",
+  "cn": "包属于标签上写着名字的男孩。",
+  "why": "复数主语。完整句：The bags belong to a boy whose name is on the tag.",
+  "point": "复数主语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "belong"
+   ]
+  ],
+  "options": [
+   "belongs",
+   "belong"
+  ],
+  "source": "grammar3000:97",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2388",
+  "cat": "代词",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The bags belong to a boy ____ name is on the tag.",
+  "cn": "包属于标签上写着名字的男孩。",
+  "why": "whose 表所属。完整句：The bags belong to a boy whose name is on the tag.",
+  "point": "whose 表所属",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "whose"
+   ]
+  ],
+  "options": [
+   "whose",
+   "whom"
+  ],
+  "source": "grammar3000:97",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2389",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Our coach had us ____ the exercise twice.",
+  "cn": "教练让我们把练习重复两遍。",
+  "why": "have someone do。完整句：Our coach had us repeat the exercise twice.",
+  "point": "have someone do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "repeat"
+   ]
+  ],
+  "options": [
+   "repeat",
+   "repeated"
+  ],
+  "source": "grammar3000:98",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2390",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Our coach had us repeat the exercise ____.",
+  "cn": "教练让我们把练习重复两遍。",
+  "why": "twice 表两次。完整句：Our coach had us repeat the exercise twice.",
+  "point": "twice 表两次",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "twice"
+   ]
+  ],
+  "options": [
+   "two time",
+   "twice"
+  ],
+  "source": "grammar3000:98",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2391",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The number of empty ____ has fallen since May.",
+  "cn": "从五月起空座数减少了。",
+  "why": "可数名词复数。完整句：The number of empty seats has fallen since May.",
+  "point": "可数名词复数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "seats"
+   ]
+  ],
+  "options": [
+   "seat",
+   "seats"
+  ],
+  "source": "grammar3000:99",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2392",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "The number of empty seats ____ fallen since May.",
+  "cn": "从五月起空座数减少了。",
+  "why": "the number 作单数主语。完整句：The number of empty seats has fallen since May.",
+  "point": "the number 作单数主语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "has"
+   ]
+  ],
+  "options": [
+   "has",
+   "have"
+  ],
+  "source": "grammar3000:99",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2393",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "I have ____ Jo since we shared a desk.",
+  "cn": "从我们同桌时起我就认识乔。",
+  "why": "have 后用过去分词。完整句：I have known Jo since we shared a desk.",
+  "point": "have 后用过去分词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "known"
+   ]
+  ],
+  "options": [
+   "knew",
+   "known"
+  ],
+  "source": "grammar3000:100",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2394",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "I have known Jo ____ we shared a desk.",
+  "cn": "从我们同桌时起我就认识乔。",
+  "why": "since 引导起点从句。完整句：I have known Jo since we shared a desk.",
+  "point": "since 引导起点从句",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "since"
+   ]
+  ],
+  "options": [
+   "since",
+   "for"
+  ],
+  "source": "grammar3000:100",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2395",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "There is ____ water left, is there?",
+  "cn": "剩的水很少了，是吗？",
+  "why": "water 不可数。完整句：There is little water left, is there?",
+  "point": "water 不可数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "little"
+   ]
+  ],
+  "options": [
+   "little",
+   "few"
+  ],
+  "source": "grammar3000:101",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2396",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "There is little water left, ____ there?",
+  "cn": "剩的水很少了，是吗？",
+  "why": "little 含否定意义。完整句：There is little water left, is there?",
+  "point": "little 含否定意义",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "is"
+   ]
+  ],
+  "options": [
+   "is",
+   "isn't"
+  ],
+  "source": "grammar3000:101",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2397",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "They thanked us ____ keeping the passage clear.",
+  "cn": "他们感谢我们让通道保持畅通。",
+  "why": "thank someone for。完整句：They thanked us for keeping the passage clear.",
+  "point": "thank someone for",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [
+   "for",
+   "of"
+  ],
+  "source": "grammar3000:102",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2398",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "They thanked us for ____ the passage clear.",
+  "cn": "他们感谢我们让通道保持畅通。",
+  "why": "介词后动名词。完整句：They thanked us for keeping the passage clear.",
+  "point": "介词后动名词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "keeping"
+   ]
+  ],
+  "options": [
+   "keeping",
+   "keep"
+  ],
+  "source": "grammar3000:102",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2399",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Neither answer ____ the diagram shown below.",
+  "cn": "两个答案都不符合下图。",
+  "why": "neither answer 是单数。完整句：Neither answer fits the diagram shown below.",
+  "point": "neither answer 是单数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "fits"
+   ]
+  ],
+  "options": [
+   "fit",
+   "fits"
+  ],
+  "source": "grammar3000:103",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2400",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 3,
+  "text": "Neither answer fits the diagram ____ below.",
+  "cn": "两个答案都不符合下图。",
+  "why": "图被展示。完整句：Neither answer fits the diagram shown below.",
+  "point": "图被展示",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "shown"
+   ]
+  ],
+  "options": [
+   "shown",
+   "showing it"
+  ],
+  "source": "grammar3000:103",
+  "tip": "核对上下文，再读一遍完整表达。"
+ }
+]

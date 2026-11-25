@@ -1,0 +1,143 @@
+#冠词
+I found [a] button on the floor.|我在地上发现了一颗纽扣。|首次提及单数可数名词
+She needs [an] umbrella for the walk.|步行时她需要一把雨伞。|umbrella 以元音音素开头
+Ben ate [an] orange after lunch.|本午饭后吃了一个橙子。|orange 以元音音素开头
+I bought [a] useful guide yesterday.|昨天我买了一本有用的指南。|useful 的首音是 /j/
+Tom works at [a] university near here.|汤姆在这附近的一所大学工作。|university 的首音是 /j/
+We waited for [an] hour outside.|我们在外面等了一小时。|hour 的 h 不发音
+She is [an] honest person.|她是个诚实的人。|honest 的 h 不发音
+This is [a] one-way street.|这是一条单行道。|one 的首音是 /w/
+My sister wants to be [an] engineer.|我姐姐想成为一名工程师。|职业单数名词
+He is [a] nurse at our clinic.|他是我们诊所的一名护士。|职业单数名词
+We saw a fox. [The] fox ran away.|我们看到一只狐狸，那只狐狸跑走了。|再次提及
+I opened a box. [The] lid was broken.|我打开一个盒子，它的盖子坏了。|由前文确定对象
+Look at [the] moon above the roof.|看屋顶上方的月亮。|熟悉语境中独一无二
+She won [the] first race of the day.|她赢了当天的第一场比赛。|序数词限定名词
+This is [the] smallest room in the house.|这是屋里最小的房间。|最高级
+Turn to [the] left at the gate.|在大门口向左转。|to the left
+We eat [Ø] breakfast at seven.|我们七点吃早饭。|泛指三餐
+My brother plays [Ø] soccer on Saturdays.|我弟弟每周六踢足球。|球类运动
+They speak [Ø] English at home.|他们在家说英语。|语言名称
+Our next lesson is [Ø] history.|我们下节课是历史。|学科名称
+We traveled by [Ø] bus.|我们乘公交车出行。|by 加交通工具
+She walks to [Ø] school to study every day.|她每天步行上学。|go to school 表示上学
+Dad has gone to [Ø] bed for the night.|爸爸已经上床睡觉了。|go to bed
+I like [Ø] apples in general.|一般来说，我喜欢苹果。|复数名词泛指
+Plants need [Ø] water to grow.|植物生长需要水。|物质名词泛指
+He gave me [a] piece of advice.|他给了我一条建议。|piece 是可数名词
+We have lessons twice [a] week.|我们每周上两次课。|表频率，每一
+They are of [the] same age.|他们年龄相同。|the same
+We had [a] good time at the fair.|我们在集市玩得很开心。|have a good time
+Take [a] look at this photo.|看看这张照片。|take a look
+In [the] end, we chose the shorter route.|最后我们选了较短的路线。|in the end
+She is in [a] hurry to catch the train.|她正急着赶火车。|in a hurry
+For [the] first time, I cooked alone.|我第一次独自做饭。|for the first time
+He plays [the] violin in our school orchestra.|他在校管弦乐团拉小提琴。|传统教材中乐器前用 the
+We crossed [the] Atlantic on a ship.|我们乘船横渡大西洋。|大洋名称
+They climbed [Ø] Mount Fuji in summer.|他们夏天攀登了富士山。|Mount 加专名
+He moved to [the] United States last year.|他去年搬到了美国。|国家全称的固定冠词
+We visited [Ø] France in June.|我们六月去了法国。|多数国家单名
+This is such [an] unusual stone.|这是一块如此不寻常的石头。|such 加冠词加形容词
+She has [a] little patience left, enough to try again.|她还有一点耐心，足够再试一次。|a little 表示还有一些
+#词形变化
+The soup is too [salty/salt] for me.|这汤对我来说太咸了。|形容词作表语
+Be [careful/care] on the ice.|在冰面上要小心。|be 后用形容词
+The kitten slept [quietly/quiet] by the fire.|小猫在火旁安静地睡着。|副词修饰 slept
+We need two [boxes/box] for the books.|这些书需要两个盒子。|x 结尾的复数
+Three [children/child] waited outside.|三个孩子在外面等。|不规则复数
+I washed the dirty [dishes/dish] after dinner.|晚饭后我洗了那些脏盘子。|sh 结尾的复数
+Both [feet/foot] were wet.|两只脚都是湿的。|不规则复数
+She brushed her [teeth/tooth] before bed.|她睡前刷了牙。|不规则复数
+My bag is [heavier/heavy] than yours.|我的包比你的重。|辅音加 y 的比较级
+This road is [wider/wide] than that one.|这条路比那条宽。|以 e 结尾加 r
+Today is the [hottest/hot] day this week.|今天是本周最热的一天。|重读闭音节最高级
+He ran [faster/fast] than I did.|他比我跑得快。|比较级修饰动词
+This is the [best/good] meal I've had here.|这是我在这里吃过的最好的一餐。|good 的最高级
+Please speak [slowly/slow] enough for me to follow.|请讲得慢一点，让我跟得上。|副词修饰 speak
+The door opened [suddenly/sudden].|门突然开了。|副词表方式
+I can hear you [clearly/clear] now.|现在我能清楚地听见你。|副词修饰 hear
+Our new teacher is very [friendly/friend].|我们的新老师很友好。|friendly 是形容词
+The room felt [peaceful/peace] after the guests left.|客人走后房间很宁静。|感官系动词后用形容词
+The streets are [noisy/noise] at noon.|中午街道很吵。|名词变形容词
+The puppy is [playful/play] and loves games.|小狗活泼爱玩。|形容词作表语
+Her [kindness/kind] helped us feel welcome.|她的善意让我们感到受欢迎。|物主限定词后用名词
+Your [suggestion/suggest] changed my plan.|你的建议改变了我的计划。|动词变名词
+The [arrival/arrive] of the train woke him.|火车到站把他吵醒了。|the 与 of 之间用名词
+The [decision/decide] was difficult.|这个决定很难做。|动词变名词
+The story has a happy [ending/end].|这个故事有个快乐的结局。|故事的结局
+Thanks for the [invitation/invite] to dinner.|谢谢你邀请我共进晚餐。|名词作介词宾语
+We need your [permission/permit] to enter.|我们需要得到你的许可才能进入。|不可数名词
+The [description/describe] included the color and size.|描述中包括颜色和大小。|动词变名词
+The [height/high] of the table is perfect.|桌子的高度正合适。|形容词变名词
+They measured the [length/long] of the bridge.|他们测量了桥的长度。|形容词变名词
+The film was [exciting/excite] from start to finish.|这部影片从头到尾都激动人心。|事物引发感受用 -ing
+I was [surprised/surprise] by the news.|这个消息让我惊讶。|人的感受用 -ed
+We felt [tired/tire] after the walk.|走完后我们感到疲惫。|人的状态
+The instructions were [confusing/confuse] to beginners.|这些说明让初学者困惑。|引发感受的事物
+The children were [interested/interest] in the experiment.|孩子们对实验感兴趣。|be interested in
+This chair is [uncomfortable/comfortable]; my back hurts.|这把椅子不舒服，我背疼。|根据句义添加否定前缀
+The answer is [incorrect/correct]; try again.|答案有误，再试一次。|否定前缀 in-
+Crossing now is [unsafe/safe]; the light is red.|现在过街不安全，是红灯。|否定前缀 un-
+Without a key the lock was [useless/use] to us.|没有钥匙，这把锁对我们没用。|后缀 -less
+She finished the race [successfully/successful].|她成功跑完了比赛。|形容词变副词
+The two routes are [equally/equal] long.|两条路线一样长。|副词修饰形容词
+He explained the rule [patiently/patient].|他耐心地解释了规则。|副词修饰 explained
+Their [disagreement/disagree] about the date delayed the trip.|他们对日期的分歧耽误了行程。|名词作主语
+The museum protects [historical/history] documents from the town.|博物馆保护这个镇的历史文献。|形容词修饰 documents
+The project requires close [cooperation/cooperate].|这个项目需要密切合作。|名词作宾语
+The water level rose [gradually/gradual] overnight.|水位在夜间逐渐上升。|副词修饰 rose
+There is a clear [difference/different] between the samples.|样本之间有明显差别。|可数名词
+Her [explanation/explain] made the result easy to understand.|她的解释让结果容易理解。|动词变名词
+Good [preparation/prepare] made the move easier.|充分的准备让搬家更容易。|名词作主语
+The team celebrated its [achievement/achieve] together.|团队一起庆祝取得的成就。|动词变名词
+#句子结构
+There [is] a lamp on the desk.|桌上有一盏灯。|there be 与单数名词一致
+There [are] three chairs by the window.|窗边有三把椅子。|there be 与复数一致
+[Does] your sister walk to school every day?|你妹妹每天步行上学吗？|一般现在时第三人称单数疑问句
+[Do] they live near the station?|他们住在车站附近吗？|复数主语的一般疑问句
+[Did] you see the rainbow yesterday?|你昨天看到彩虹了吗？|一般过去时疑问句
+Please [be] quiet during the test.|考试期间请保持安静。|祈使句动词原形
+Let's [go] to the park after lunch.|我们午饭后去公园吧。|let 加宾语加动词原形
+She wants [to] learn to swim.|她想学游泳。|want to do
+They enjoy [playing] chess after school.|他们喜欢放学后下棋。|enjoy doing，play chess
+We finished [washing] the dishes together.|我们一起洗完了盘子。|finish doing，wash the dishes
+It takes ten minutes [to] get there.|到那里需要十分钟。|It takes time to do
+He is old [enough] to cook alone.|他年龄够大，可以自己做饭了。|形容词加 enough
+The bag is [too] heavy for me to lift.|包太重，我提不动。|too…to…
+[How] tall is your brother?|你哥哥有多高？|How 加形容词询问程度
+[What] a beautiful shell this is!|多漂亮的一枚贝壳啊！|What 加名词短语
+[How] quickly she runs!|她跑得真快！|How 加副词的感叹句
+My bike is as light [as] yours.|我的自行车和你的一样轻。|as…as…
+This coat is warmer [than] my jacket.|这件大衣比我的夹克暖和。|比较级加 than
+Would you like tea [or] milk? Choose one.|你想要茶还是牛奶？选一样。|选择疑问句
+Hurry up, [or] you'll miss the bus.|快点，否则会赶不上车。|祈使句加 or 表示后果
+She was tired, [but/yet] she kept walking.|她很累，但仍继续走。|转折连接词
+It was raining, [so] we stayed inside.|当时正在下雨，因此我们待在室内。|结果连接词
+I'll call you as soon [as] I arrive.|我一到就给你打电话。|as soon as
+Wait here [until/till] I return.|在这里等到我回来。|持续到某时
+We will go outside [if] it stops raining.|如果雨停，我们就出去。|表示条件
+You cannot enter [unless] you have a ticket.|除非有票，否则不能进入。|unless 表示否定条件
+[Although/Though] it was late, Mei kept reading.|尽管时间晚了，梅仍在读书。|让步从句
+I stayed home [because] I had a fever.|我因为发烧留在家里。|原因从句
+She spoke slowly so [that] everyone could follow.|她说得慢，以便大家能听懂。|so that 表目的
+The bag was so heavy [that] I dropped it.|包太重了，我没拿住。|so…that…表结果
+Neither Ben [nor] Mia had the key.|本和米娅都没有钥匙。|neither…nor…
+Either walk [or] take the bus.|要么步行，要么坐公交车。|either…or…
+Both the driver [and] the guide knew the road.|司机和导游都认识路。|both…and…
+Not only Sue [but] also Eva joined the choir.|苏和埃娃都加入了合唱团。|not only…but also…
+I'd rather walk [than] wait here.|我宁愿走路也不愿在这儿等。|would rather…than…
+The teacher made us [read] the poem aloud.|老师让我们朗读这首诗。|make 加宾语加动词原形
+She was asked [to] read the notice aloud.|她被请去朗读通知。|be asked to do
+We look forward to [seeing] you again.|我们期待再见到你。|look forward to doing
+She used [to] live near the sea.|她过去住在海边。|used to do
+He is used to [getting] up early.|他习惯了早起。|be used to doing
+The earlier we leave, [the] sooner we'll arrive.|我们走得越早，就到得越早。|the 比较级…the 比较级
+This is the room [where] we first met.|这是我们初次见面的房间。|关系副词指地点
+That was the day [when] we first met.|那是我们初次见面的日子。|关系副词指时间
+Could you tell me [whether/if] the shop is open or closed?|你能告诉我商店是开着还是关着吗？|宾语从句表示是否
+She asked where I [was] from.|她问我来自哪里。|从句用陈述语序，叙述过去
+This is such a good book [that] I read it twice.|这是一本如此好的书，我读了两遍。|such…that…
+No sooner had we sat down [than] the bell rang.|我们刚坐下铃就响了。|no sooner…than…
+It was Maya [who/that] found the missing key.|正是玛雅找到了丢失的钥匙。|强调句指人
+Hardly had I closed the door [when/before] the phone rang.|我刚关上门电话就响了。|hardly…when…
+If I [were] you, I would ask for help.|如果我是你，我会求助。|正式书面语虚拟语气

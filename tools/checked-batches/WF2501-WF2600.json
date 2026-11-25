@@ -1,0 +1,2202 @@
+[
+ {
+  "id": "WF2501",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "By next June the club will ____ completed its first season.",
+  "cn": "到明年六月俱乐部将完成首个赛季。",
+  "why": "将来完成时 will have。完整句：By next June the club will have completed its first season.",
+  "point": "将来完成时 will have",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "have"
+   ]
+  ],
+  "options": [
+   "has",
+   "have"
+  ],
+  "source": "grammar3000:155",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2502",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "By next June the club will have ____ its first season.",
+  "cn": "到明年六月俱乐部将完成首个赛季。",
+  "why": "完成式用过去分词。完整句：By next June the club will have completed its first season.",
+  "point": "完成式用过去分词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "completed"
+   ]
+  ],
+  "options": [
+   "completed",
+   "completing"
+  ],
+  "source": "grammar3000:155",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2503",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "I regret ____ her that the event had been cancelled.",
+  "cn": "我后悔告诉她活动已取消。",
+  "why": "regret doing 指后悔做过的事。完整句：I regret telling her that the event had been cancelled.",
+  "point": "regret doing 指后悔做过的事",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "telling"
+   ]
+  ],
+  "options": [
+   "told",
+   "telling"
+  ],
+  "source": "grammar3000:156",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2504",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "I regret telling her that the event had been ____.",
+  "cn": "我后悔告诉她活动已取消。",
+  "why": "过去完成时被动语态。完整句：I regret telling her that the event had been cancelled.",
+  "point": "过去完成时被动语态",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "cancelled"
+   ]
+  ],
+  "options": [
+   "cancelling",
+   "cancelled"
+  ],
+  "source": "grammar3000:156",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2505",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "The box was ____ heavy that neither of us could move it.",
+  "cn": "箱子太重，我们两个都搬不动。",
+  "why": "so 修饰形容词。完整句：The box was so heavy that neither of us could move it.",
+  "point": "so 修饰形容词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "so"
+   ]
+  ],
+  "options": [
+   "so",
+   "such"
+  ],
+  "source": "grammar3000:157",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2506",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "The box was so heavy that neither of us could ____ it.",
+  "cn": "箱子太重，我们两个都搬不动。",
+  "why": "could 后原形。完整句：The box was so heavy that neither of us could move it.",
+  "point": "could 后原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "move"
+   ]
+  ],
+  "options": [
+   "moved",
+   "move"
+  ],
+  "source": "grammar3000:157",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2507",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "Hardly ____ the curtain risen when a phone rang.",
+  "cn": "幕布刚升起电话就响了。",
+  "why": "hardly had…倒装。完整句：Hardly had the curtain risen when a phone rang.",
+  "point": "hardly had…倒装",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "had"
+   ]
+  ],
+  "options": [
+   "had",
+   "was"
+  ],
+  "source": "grammar3000:158",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2508",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "Hardly had the curtain risen ____ a phone rang.",
+  "cn": "幕布刚升起电话就响了。",
+  "why": "hardly…when。完整句：Hardly had the curtain risen when a phone rang.",
+  "point": "hardly…when",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "when"
+   ]
+  ],
+  "options": [
+   "than",
+   "when"
+  ],
+  "source": "grammar3000:158",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2509",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "The spare bulbs are intended ____ lamps made before 1990.",
+  "cn": "备用灯泡适用于1990年前制造的灯具。",
+  "why": "be intended for。完整句：The spare bulbs are intended for lamps made before 1990.",
+  "point": "be intended for",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [
+   "of",
+   "for"
+  ],
+  "source": "grammar3000:159",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2510",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "The spare bulbs are intended for lamps ____ before 1990.",
+  "cn": "备用灯泡适用于1990年前制造的灯具。",
+  "why": "灯具被制造。完整句：The spare bulbs are intended for lamps made before 1990.",
+  "point": "灯具被制造",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "made"
+   ]
+  ],
+  "options": [
+   "made",
+   "making them"
+  ],
+  "source": "grammar3000:159",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2511",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "She suggested ____ the corners so that guests could find the path.",
+  "cn": "她建议标明拐角，以便客人找到小路。",
+  "why": "suggest doing。完整句：She suggested marking the corners so that guests could find the path.",
+  "point": "suggest doing",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "marking"
+   ]
+  ],
+  "options": [
+   "marking",
+   "mark to"
+  ],
+  "source": "grammar3000:160",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2512",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "She suggested marking the corners so that guests could ____ the path.",
+  "cn": "她建议标明拐角，以便客人找到小路。",
+  "why": "could 后接原形。完整句：She suggested marking the corners so that guests could find the path.",
+  "point": "could 后接原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "find"
+   ]
+  ],
+  "options": [
+   "find",
+   "found"
+  ],
+  "source": "grammar3000:160",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2513",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "This is the first time he ____ flown without a companion.",
+  "cn": "这是他第一次独自乘飞机。",
+  "why": "This is the first time 后接现在完成时。完整句：This is the first time he has flown without a companion.",
+  "point": "This is the first time 后接现在完成时",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "has"
+   ]
+  ],
+  "options": [
+   "has",
+   "is"
+  ],
+  "source": "grammar3000:161",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2514",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "This is the first time he has ____ without a companion.",
+  "cn": "这是他第一次独自乘飞机。",
+  "why": "fly 的过去分词。完整句：This is the first time he has flown without a companion.",
+  "point": "fly 的过去分词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "flown"
+   ]
+  ],
+  "options": [
+   "flew",
+   "flown"
+  ],
+  "source": "grammar3000:161",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2515",
+  "cat": "介词",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "There are two exits, both of ____ lead to the yard.",
+  "cn": "有两个出口，都通往院子。",
+  "why": "介词加关系代词。完整句：There are two exits, both of which lead to the yard.",
+  "point": "介词加关系代词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "which"
+   ]
+  ],
+  "options": [
+   "which",
+   "them that"
+  ],
+  "source": "grammar3000:162",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2516",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "There are two exits, both of which ____ to the yard.",
+  "cn": "有两个出口，都通往院子。",
+  "why": "both 表复数。完整句：There are two exits, both of which lead to the yard.",
+  "point": "both 表复数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "lead"
+   ]
+  ],
+  "options": [
+   "leads",
+   "lead"
+  ],
+  "source": "grammar3000:162",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2517",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "The new cover prevents sand ____ entering the camera.",
+  "cn": "新盖子可以防止沙子进入相机。",
+  "why": "prevent…from。完整句：The new cover prevents sand from entering the camera.",
+  "point": "prevent…from",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [
+   "from",
+   "of"
+  ],
+  "source": "grammar3000:163",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2518",
+  "cat": "介词",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "The new cover prevents sand from ____ the camera.",
+  "cn": "新盖子可以防止沙子进入相机。",
+  "why": "介词后用动名词。完整句：The new cover prevents sand from entering the camera.",
+  "point": "介词后用动名词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "entering"
+   ]
+  ],
+  "options": [
+   "enter",
+   "entering"
+  ],
+  "source": "grammar3000:163",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2519",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "The letter ____ to the clerk has no stamp.",
+  "cn": "给职员的信没贴邮票。",
+  "why": "be addressed to。完整句：The letter addressed to the clerk has no stamp.",
+  "point": "be addressed to",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "addressed"
+   ]
+  ],
+  "options": [
+   "addressed",
+   "addressing it"
+  ],
+  "source": "grammar3000:164",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2520",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 4,
+  "text": "The letter addressed to the clerk ____ no stamp.",
+  "cn": "给职员的信没贴邮票。",
+  "why": "letter 是单数。完整句：The letter addressed to the clerk has no stamp.",
+  "point": "letter 是单数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "has"
+   ]
+  ],
+  "options": [
+   "has",
+   "have"
+  ],
+  "source": "grammar3000:164",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2521",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Were the reservoir ____, the lower fields would flood.",
+  "cn": "如果水库溢出，低处的田地就会被淹。",
+  "why": "were…to 表假设。完整句：Were the reservoir to overflow, the lower fields would flood.",
+  "point": "were…to 表假设",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to overflow"
+   ]
+  ],
+  "options": [
+   "overflowed",
+   "to overflow"
+  ],
+  "source": "grammar3000:166",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2522",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Were the reservoir to overflow, the lower fields would ____.",
+  "cn": "如果水库溢出，低处的田地就会被淹。",
+  "why": "would 后动词原形。完整句：Were the reservoir to overflow, the lower fields would flood.",
+  "point": "would 后动词原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "flood"
+   ]
+  ],
+  "options": [
+   "flood",
+   "flooded"
+  ],
+  "source": "grammar3000:166",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2523",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The fewer assumptions we ____, the easier it is to trace an error.",
+  "cn": "我们作的假设越少，追查错误就越容易。",
+  "why": "从句需要谓语。完整句：The fewer assumptions we make, the easier it is to trace an error.",
+  "point": "从句需要谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "make"
+   ]
+  ],
+  "options": [
+   "make",
+   "making"
+  ],
+  "source": "grammar3000:167",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2524",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The fewer assumptions we make, the easier it is ____ an error.",
+  "cn": "我们作的假设越少，追查错误就越容易。",
+  "why": "it 作形式主语，后接不定式。完整句：The fewer assumptions we make, the easier it is to trace an error.",
+  "point": "it 作形式主语，后接不定式",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to trace"
+   ]
+  ],
+  "options": [
+   "to trace",
+   "traced"
+  ],
+  "source": "grammar3000:167",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2525",
+  "cat": "代词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Only those ____ applications are complete will be interviewed.",
+  "cn": "只有交齐申请材料的人才会被面试。",
+  "why": "applications 与 those 为所属关系。完整句：Only those whose applications are complete will be interviewed.",
+  "point": "applications 与 those 为所属关系",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "whose"
+   ]
+  ],
+  "options": [
+   "whose",
+   "whom"
+  ],
+  "source": "grammar3000:168",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2526",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Only those whose applications are complete will ____ interviewed.",
+  "cn": "只有交齐申请材料的人才会被面试。",
+  "why": "will be interviewed 表被动。完整句：Only those whose applications are complete will be interviewed.",
+  "point": "will be interviewed 表被动",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "be"
+   ]
+  ],
+  "options": [
+   "been",
+   "be"
+  ],
+  "source": "grammar3000:168",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2527",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Judging ____ the tracks, someone must have dragged a cart through here.",
+  "cn": "从车辙看，一定有人拖着车经过这里。",
+  "why": "judging from 固定用法。完整句：Judging from the tracks, someone must have dragged a cart through here.",
+  "point": "judging from 固定用法",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [
+   "of",
+   "from"
+  ],
+  "source": "grammar3000:169",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2528",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Judging from the tracks, someone must have ____ a cart through here.",
+  "cn": "从车辙看，一定有人拖着车经过这里。",
+  "why": "must have done 推测过去。完整句：Judging from the tracks, someone must have dragged a cart through here.",
+  "point": "must have done 推测过去",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "dragged"
+   ]
+  ],
+  "options": [
+   "drag",
+   "dragged"
+  ],
+  "source": "grammar3000:169",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2529",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The question is not how quickly we can print the guide ____ how many copies we can afford to distribute.",
+  "cn": "问题在于我们能负担分发多少份，而非印得多快。",
+  "why": "not…but 连接并列成分。完整句：The question is not how quickly we can print the guide but how many copies we can afford to distribute.",
+  "point": "not…but 连接并列成分",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "but"
+   ]
+  ],
+  "options": [
+   "than",
+   "but"
+  ],
+  "source": "grammar3000:170",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2530",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The question is not how quickly we can print the guide but how many copies we can afford ____.",
+  "cn": "问题在于我们能负担分发多少份，而非印得多快。",
+  "why": "afford to do。完整句：The question is not how quickly we can print the guide but how many copies we can afford to distribute.",
+  "point": "afford to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to distribute"
+   ]
+  ],
+  "options": [
+   "to distribute",
+   "distributed"
+  ],
+  "source": "grammar3000:170",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2531",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "One of the reasons the new shutters ____ is that a hinge has come loose.",
+  "cn": "新百叶窗作响的原因之一是铰链松了。",
+  "why": "shutters 为复数。完整句：One of the reasons the new shutters rattle is that a hinge has come loose.",
+  "point": "shutters 为复数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "rattle"
+   ]
+  ],
+  "options": [
+   "rattle",
+   "rattles"
+  ],
+  "source": "grammar3000:171",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2532",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "One of the reasons the new shutters rattle is that a hinge ____ come loose.",
+  "cn": "新百叶窗作响的原因之一是铰链松了。",
+  "why": "a hinge 为单数。完整句：One of the reasons the new shutters rattle is that a hinge has come loose.",
+  "point": "a hinge 为单数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "has"
+   ]
+  ],
+  "options": [
+   "has",
+   "have"
+  ],
+  "source": "grammar3000:171",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2533",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "____ with last year's estimates, today's figures appear considerably lower.",
+  "cn": "和去年的估计相比，如今的数据显得低得多。",
+  "why": "figures 被比较。完整句：Compared with last year's estimates, today's figures appear considerably lower.",
+  "point": "figures 被比较",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "Compared"
+   ]
+  ],
+  "options": [
+   "Compared",
+   "Comparing them"
+  ],
+  "source": "grammar3000:172",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2534",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Compared with last year's estimates, today's figures appear ____ lower.",
+  "cn": "和去年的估计相比，如今的数据显得低得多。",
+  "why": "用副词修饰比较级。完整句：Compared with last year's estimates, today's figures appear considerably lower.",
+  "point": "用副词修饰比较级",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "considerably"
+   ]
+  ],
+  "options": [
+   "considerable",
+   "considerably"
+  ],
+  "source": "grammar3000:172",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2535",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The team ____ missed the tide if a local fisher had not warned them.",
+  "cn": "要不是当地渔民提醒，队员们当时会错过潮水。",
+  "why": "过去反事实主句。完整句：The team would have missed the tide if a local fisher had not warned them.",
+  "point": "过去反事实主句",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "would have"
+   ]
+  ],
+  "options": [
+   "will have",
+   "would have"
+  ],
+  "source": "grammar3000:173",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2536",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The team would have missed the tide if a local fisher had not ____ them.",
+  "cn": "要不是当地渔民提醒，队员们当时会错过潮水。",
+  "why": "had not 后过去分词。完整句：The team would have missed the tide if a local fisher had not warned them.",
+  "point": "had not 后过去分词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "warned"
+   ]
+  ],
+  "options": [
+   "warning",
+   "warned"
+  ],
+  "source": "grammar3000:173",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2537",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "It remains ____ seen whether the coating will withstand frost.",
+  "cn": "这种涂层能否耐霜冻还有待观察。",
+  "why": "remain to be seen。完整句：It remains to be seen whether the coating will withstand frost.",
+  "point": "remain to be seen",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to be"
+   ]
+  ],
+  "options": [
+   "to be",
+   "being to"
+  ],
+  "source": "grammar3000:174",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2538",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "It remains to be seen whether the coating will ____ frost.",
+  "cn": "这种涂层能否耐霜冻还有待观察。",
+  "why": "will 后接原形。完整句：It remains to be seen whether the coating will withstand frost.",
+  "point": "will 后接原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "withstand"
+   ]
+  ],
+  "options": [
+   "withstood",
+   "withstand"
+  ],
+  "source": "grammar3000:174",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2539",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Not only ____ the fence block the view, but it also traps leaves.",
+  "cn": "栅栏既挡住视线，也积住落叶。",
+  "why": "not only 前置引起部分倒装。完整句：Not only does the fence block the view, but it also traps leaves.",
+  "point": "not only 前置引起部分倒装",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "does"
+   ]
+  ],
+  "options": [
+   "does",
+   "is"
+  ],
+  "source": "grammar3000:175",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2540",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Not only does the fence block the view, but it also ____ leaves.",
+  "cn": "栅栏既挡住视线，也积住落叶。",
+  "why": "it 后用单数形式。完整句：Not only does the fence block the view, but it also traps leaves.",
+  "point": "it 后用单数形式",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "traps"
+   ]
+  ],
+  "options": [
+   "traps",
+   "trap"
+  ],
+  "source": "grammar3000:175",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2541",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "So little evidence ____ available that the claim could neither be confirmed nor dismissed.",
+  "cn": "证据太少，既无法证实也无法排除这一说法。",
+  "why": "evidence 不可数。完整句：So little evidence was available that the claim could neither be confirmed nor dismissed.",
+  "point": "evidence 不可数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "was"
+   ]
+  ],
+  "options": [
+   "was",
+   "were"
+  ],
+  "source": "grammar3000:176",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2542",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "So little evidence was available that the claim could neither be confirmed ____ dismissed.",
+  "cn": "证据太少，既无法证实也无法排除这一说法。",
+  "why": "neither…nor 并列。完整句：So little evidence was available that the claim could neither be confirmed nor dismissed.",
+  "point": "neither…nor 并列",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "nor"
+   ]
+  ],
+  "options": [
+   "or",
+   "nor"
+  ],
+  "source": "grammar3000:176",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2543",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The creek, ____ thought to be dry all year, feeds two ponds each spring.",
+  "cn": "这条溪一度被认为终年干涸，其实每年春天给两口池塘供水。",
+  "why": "once thought 为过去分词短语。完整句：The creek, once thought to be dry all year, feeds two ponds each spring.",
+  "point": "once thought 为过去分词短语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "once"
+   ]
+  ],
+  "options": [
+   "once",
+   "which it"
+  ],
+  "source": "grammar3000:177",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2544",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The creek, once thought to be dry all year, ____ two ponds each spring.",
+  "cn": "这条溪一度被认为终年干涸，其实每年春天给两口池塘供水。",
+  "why": "主语 creek。完整句：The creek, once thought to be dry all year, feeds two ponds each spring.",
+  "point": "主语 creek",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "feeds"
+   ]
+  ],
+  "options": [
+   "feed",
+   "feeds"
+  ],
+  "source": "grammar3000:177",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2545",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "She asked to ____ informed of any change affecting the route.",
+  "cn": "她要求随时获知影响路线的变化。",
+  "why": "她是接收消息的人。完整句：She asked to be kept informed of any change affecting the route.",
+  "point": "她是接收消息的人",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "be kept"
+   ]
+  ],
+  "options": [
+   "be kept",
+   "keep her"
+  ],
+  "source": "grammar3000:178",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2546",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "She asked to be kept informed of any change ____ the route.",
+  "cn": "她要求随时获知影响路线的变化。",
+  "why": "分词短语修饰 change。完整句：She asked to be kept informed of any change affecting the route.",
+  "point": "分词短语修饰 change",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "affecting"
+   ]
+  ],
+  "options": [
+   "affecting",
+   "affects"
+  ],
+  "source": "grammar3000:178",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2547",
+  "cat": "时态",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "By the time the second team arrives tomorrow, we will have ____ waiting here for six hours.",
+  "cn": "明天第二队到达时，我们将在这里等了六小时。",
+  "why": "将来完成进行时用 have been。完整句：By the time the second team arrives tomorrow, we will have been waiting here for six hours.",
+  "point": "将来完成进行时用 have been",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "been"
+   ]
+  ],
+  "options": [
+   "been",
+   "being"
+  ],
+  "source": "grammar3000:179",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2548",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "By the time the second team arrives tomorrow, we will have been ____ here for six hours.",
+  "cn": "明天第二队到达时，我们将在这里等了六小时。",
+  "why": "been 后接现在分词表示持续。完整句：By the time the second team arrives tomorrow, we will have been waiting here for six hours.",
+  "point": "been 后接现在分词表示持续",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "waiting"
+   ]
+  ],
+  "options": [
+   "waiting",
+   "wait"
+  ],
+  "source": "grammar3000:179",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2549",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "We counted the trays twice for fear that a missing one might ____ unnoticed.",
+  "cn": "我们数了两遍托盘，担心少一个也察觉不了。",
+  "why": "might 后接原形。完整句：We counted the trays twice for fear that a missing one might go unnoticed.",
+  "point": "might 后接原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "go"
+   ]
+  ],
+  "options": [
+   "go",
+   "went"
+  ],
+  "source": "grammar3000:180",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2550",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "We counted the trays twice for fear that a missing one might go ____.",
+  "cn": "我们数了两遍托盘，担心少一个也察觉不了。",
+  "why": "go unnoticed 表未被察觉。完整句：We counted the trays twice for fear that a missing one might go unnoticed.",
+  "point": "go unnoticed 表未被察觉",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "unnoticed"
+   ]
+  ],
+  "options": [
+   "unnotice",
+   "unnoticed"
+  ],
+  "source": "grammar3000:180",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2551",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The reference sample, together with the two controls, ____ replacing.",
+  "cn": "参考样品以及两个对照样品需要更换。",
+  "why": "together with 不改变主语的数。完整句：The reference sample, together with the two controls, needs replacing.",
+  "point": "together with 不改变主语的数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "needs"
+   ]
+  ],
+  "options": [
+   "needs",
+   "need"
+  ],
+  "source": "grammar3000:181",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2552",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The reference sample, together with the two controls, needs ____.",
+  "cn": "参考样品以及两个对照样品需要更换。",
+  "why": "need doing 含被动意义。完整句：The reference sample, together with the two controls, needs replacing.",
+  "point": "need doing 含被动意义",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "replacing"
+   ]
+  ],
+  "options": [
+   "replacing",
+   "replaced it"
+  ],
+  "source": "grammar3000:181",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2553",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "What struck me ____ how patiently the keeper handled each injured bird.",
+  "cn": "令我印象深刻的是管理员对每只伤鸟都那么耐心。",
+  "why": "主语从句整体作单数。完整句：What struck me was how patiently the keeper handled each injured bird.",
+  "point": "主语从句整体作单数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "was"
+   ]
+  ],
+  "options": [
+   "was",
+   "being"
+  ],
+  "source": "grammar3000:182",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2554",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "What struck me was how patiently the keeper ____ each injured bird.",
+  "cn": "令我印象深刻的是管理员对每只伤鸟都那么耐心。",
+  "why": "how 引出的从句需有谓语。完整句：What struck me was how patiently the keeper handled each injured bird.",
+  "point": "how 引出的从句需有谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "handled"
+   ]
+  ],
+  "options": [
+   "handled",
+   "handling"
+  ],
+  "source": "grammar3000:182",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2555",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "However ____ the sheets are stored, their edges tend to curl.",
+  "cn": "无论这些纸张保管得多么仔细，边缘还是容易卷起。",
+  "why": "修饰 are stored 用副词。完整句：However carefully the sheets are stored, their edges tend to curl.",
+  "point": "修饰 are stored 用副词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "carefully"
+   ]
+  ],
+  "options": [
+   "careful",
+   "carefully"
+  ],
+  "source": "grammar3000:183",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2556",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "However carefully the sheets are stored, their edges tend ____.",
+  "cn": "无论这些纸张保管得多么仔细，边缘还是容易卷起。",
+  "why": "tend to do。完整句：However carefully the sheets are stored, their edges tend to curl.",
+  "point": "tend to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to curl"
+   ]
+  ],
+  "options": [
+   "curling them",
+   "to curl"
+  ],
+  "source": "grammar3000:183",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2557",
+  "cat": "介词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The speakers disagreed about ____ the charge should apply to students.",
+  "cn": "发言者对学生是否适用这项收费意见不一。",
+  "why": "介词后用 whether。完整句：The speakers disagreed about whether the charge should apply to students.",
+  "point": "介词后用 whether",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "whether"
+   ]
+  ],
+  "options": [
+   "whether",
+   "which"
+  ],
+  "source": "grammar3000:184",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2558",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The speakers disagreed about whether the charge should ____ to students.",
+  "cn": "发言者对学生是否适用这项收费意见不一。",
+  "why": "should 后接原形。完整句：The speakers disagreed about whether the charge should apply to students.",
+  "point": "should 后接原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "apply"
+   ]
+  ],
+  "options": [
+   "applied",
+   "apply"
+  ],
+  "source": "grammar3000:184",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2559",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Trees planted close together compete ____ the little light reaching the forest floor.",
+  "cn": "树栽得密，会争夺照到林地的少量光。",
+  "why": "compete for 争夺。完整句：Trees planted close together compete for the little light reaching the forest floor.",
+  "point": "compete for 争夺",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [
+   "for",
+   "of"
+  ],
+  "source": "grammar3000:185",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2560",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Trees planted close together compete for the little light ____ the forest floor.",
+  "cn": "树栽得密，会争夺照到林地的少量光。",
+  "why": "reaching 作后置定语。完整句：Trees planted close together compete for the little light reaching the forest floor.",
+  "point": "reaching 作后置定语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "reaching"
+   ]
+  ],
+  "options": [
+   "reaching",
+   "reaches it"
+  ],
+  "source": "grammar3000:185",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2561",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Their explanation would be convincing if it ____ for the second reading as well.",
+  "cn": "如果他们的解释也能说明第二次读数，就有说服力了。",
+  "why": "与现在情况相反的假设。完整句：Their explanation would be convincing if it accounted for the second reading as well.",
+  "point": "与现在情况相反的假设",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "accounted"
+   ]
+  ],
+  "options": [
+   "accounted",
+   "account"
+  ],
+  "source": "grammar3000:186",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2562",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Their explanation would be convincing if it accounted ____ the second reading as well.",
+  "cn": "如果他们的解释也能说明第二次读数，就有说服力了。",
+  "why": "account for 解释。完整句：Their explanation would be convincing if it accounted for the second reading as well.",
+  "point": "account for 解释",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [
+   "with",
+   "for"
+  ],
+  "source": "grammar3000:186",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2563",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Rarely ____ a change in lighting alone produce such a sharp contrast.",
+  "cn": "单靠照明变化很少会形成如此鲜明的对比。",
+  "why": "rarely 前置用倒装。完整句：Rarely does a change in lighting alone produce such a sharp contrast.",
+  "point": "rarely 前置用倒装",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "does"
+   ]
+  ],
+  "options": [
+   "has been",
+   "does"
+  ],
+  "source": "grammar3000:187",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2564",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Rarely does a change in lighting alone ____ such a sharp contrast.",
+  "cn": "单靠照明变化很少会形成如此鲜明的对比。",
+  "why": "does 后用原形。完整句：Rarely does a change in lighting alone produce such a sharp contrast.",
+  "point": "does 后用原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "produce"
+   ]
+  ],
+  "options": [
+   "produces",
+   "produce"
+  ],
+  "source": "grammar3000:187",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2565",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The original plan was abandoned, ____ the committee with no choice but to delay the opening.",
+  "cn": "原计划被放弃，委员会只好推迟开放。",
+  "why": "现在分词引出结果。完整句：The original plan was abandoned, leaving the committee with no choice but to delay the opening.",
+  "point": "现在分词引出结果",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "leaving"
+   ]
+  ],
+  "options": [
+   "leaving",
+   "left it"
+  ],
+  "source": "grammar3000:188",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2566",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The original plan was abandoned, leaving the committee with no choice but ____ the opening.",
+  "cn": "原计划被放弃，委员会只好推迟开放。",
+  "why": "have no choice but to do。完整句：The original plan was abandoned, leaving the committee with no choice but to delay the opening.",
+  "point": "have no choice but to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to delay"
+   ]
+  ],
+  "options": [
+   "to delay",
+   "delayed"
+  ],
+  "source": "grammar3000:188",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2567",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Visitors who would otherwise ____ are encouraged to cycle on market days.",
+  "cn": "集市日鼓励原本会开车的访客骑车前往。",
+  "why": "would 后接原形。完整句：Visitors who would otherwise drive are encouraged to cycle on market days.",
+  "point": "would 后接原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "drive"
+   ]
+  ],
+  "options": [
+   "drove",
+   "drive"
+  ],
+  "source": "grammar3000:189",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2568",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Visitors who would otherwise drive are encouraged ____ on market days.",
+  "cn": "集市日鼓励原本会开车的访客骑车前往。",
+  "why": "be encouraged to do。完整句：Visitors who would otherwise drive are encouraged to cycle on market days.",
+  "point": "be encouraged to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to cycle"
+   ]
+  ],
+  "options": [
+   "cycling them",
+   "to cycle"
+  ],
+  "source": "grammar3000:189",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2569",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The council requested that the estimate ____ revised before Friday.",
+  "cn": "委员会要求在周五前修订估价。",
+  "why": "request 后接虚拟语气。完整句：The council requested that the estimate be revised before Friday.",
+  "point": "request 后接虚拟语气",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "be"
+   ]
+  ],
+  "options": [
+   "has",
+   "be"
+  ],
+  "source": "grammar3000:190",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2570",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The council requested that the estimate be ____ before Friday.",
+  "cn": "委员会要求在周五前修订估价。",
+  "why": "估价被修订。完整句：The council requested that the estimate be revised before Friday.",
+  "point": "估价被修订",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "revised"
+   ]
+  ],
+  "options": [
+   "revising",
+   "revised"
+  ],
+  "source": "grammar3000:190",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2571",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Much as I ____ the design, I doubt whether the frame can support the load.",
+  "cn": "我虽欣赏这个设计，却不确定支架能否承重。",
+  "why": "让步从句需谓语。完整句：Much as I admire the design, I doubt whether the frame can support the load.",
+  "point": "让步从句需谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "admire"
+   ]
+  ],
+  "options": [
+   "admiring",
+   "admire"
+  ],
+  "source": "grammar3000:191",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2572",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Much as I admire the design, I doubt ____ the frame can support the load.",
+  "cn": "我虽欣赏这个设计，却不确定支架能否承重。",
+  "why": "whether 引出疑问。完整句：Much as I admire the design, I doubt whether the frame can support the load.",
+  "point": "whether 引出疑问",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "whether"
+   ]
+  ],
+  "options": [
+   "whether",
+   "what"
+  ],
+  "source": "grammar3000:191",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2573",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Her notes distinguish what she ____ from what she was told.",
+  "cn": "她的笔记区分了亲眼所见与听来的内容。",
+  "why": "第一个 what 作 observed 的宾语。完整句：Her notes distinguish what she observed from what she was told.",
+  "point": "第一个 what 作 observed 的宾语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "observed"
+   ]
+  ],
+  "options": [
+   "observed",
+   "observing"
+  ],
+  "source": "grammar3000:192",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2574",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Her notes distinguish what she observed from what she was ____.",
+  "cn": "她的笔记区分了亲眼所见与听来的内容。",
+  "why": "她是被告知者。完整句：Her notes distinguish what she observed from what she was told.",
+  "point": "她是被告知者",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "told"
+   ]
+  ],
+  "options": [
+   "telling her",
+   "told"
+  ],
+  "source": "grammar3000:192",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2575",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "It was not until the ice ____ that the cause became clear.",
+  "cn": "直到冰融化，原因才明朗。",
+  "why": "until 后从句需谓语。完整句：It was not until the ice melted that the cause became clear.",
+  "point": "until 后从句需谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "melted"
+   ]
+  ],
+  "options": [
+   "melting",
+   "melted"
+  ],
+  "source": "grammar3000:193",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2576",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "It was not until the ice melted that the cause ____ clear.",
+  "cn": "直到冰融化，原因才明朗。",
+  "why": "强调句内的主句动作也需谓语。完整句：It was not until the ice melted that the cause became clear.",
+  "point": "强调句内的主句动作也需谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "became"
+   ]
+  ],
+  "options": [
+   "became",
+   "becoming"
+  ],
+  "source": "grammar3000:193",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2577",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Had the group simply ____ the scores, the unusual pattern would have disappeared.",
+  "cn": "如果小组当时仅仅把分数取平均值，这种异常规律就会消失。",
+  "why": "倒装虚拟条件用 had done。完整句：Had the group simply averaged the scores, the unusual pattern would have disappeared.",
+  "point": "倒装虚拟条件用 had done",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "averaged"
+   ]
+  ],
+  "options": [
+   "averaging",
+   "averaged"
+  ],
+  "source": "grammar3000:194",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2578",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Had the group simply averaged the scores, the unusual pattern would have ____.",
+  "cn": "如果小组当时仅仅把分数取平均值，这种异常规律就会消失。",
+  "why": "would have done。完整句：Had the group simply averaged the scores, the unusual pattern would have disappeared.",
+  "point": "would have done",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "disappeared"
+   ]
+  ],
+  "options": [
+   "disappearing",
+   "disappeared"
+  ],
+  "source": "grammar3000:194",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2579",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The amount of space ____ up by empty crates exceeds our estimate.",
+  "cn": "空板条箱占的空间超过了我们的估计。",
+  "why": "space 被占用。完整句：The amount of space taken up by empty crates exceeds our estimate.",
+  "point": "space 被占用",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "taken"
+   ]
+  ],
+  "options": [
+   "taking it",
+   "taken"
+  ],
+  "source": "grammar3000:195",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2580",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The amount of space taken up by empty crates ____ our estimate.",
+  "cn": "空板条箱占的空间超过了我们的估计。",
+  "why": "主语中心 amount。完整句：The amount of space taken up by empty crates exceeds our estimate.",
+  "point": "主语中心 amount",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "exceeds"
+   ]
+  ],
+  "options": [
+   "exceed",
+   "exceeds"
+  ],
+  "source": "grammar3000:195",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2581",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "What we need ____ a scale sensitive enough to detect tiny changes.",
+  "cn": "我们需要的是一台足够灵敏、能测出微小变化的秤。",
+  "why": "主语从句整体指一种需要的工具。完整句：What we need is a scale sensitive enough to detect tiny changes.",
+  "point": "主语从句整体指一种需要的工具",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "is"
+   ]
+  ],
+  "options": [
+   "has",
+   "is"
+  ],
+  "source": "grammar3000:196",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2582",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "What we need is a scale sensitive enough ____ tiny changes.",
+  "cn": "我们需要的是一台足够灵敏、能测出微小变化的秤。",
+  "why": "enough to do。完整句：What we need is a scale sensitive enough to detect tiny changes.",
+  "point": "enough to do",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to detect"
+   ]
+  ],
+  "options": [
+   "to detect",
+   "detecting it"
+  ],
+  "source": "grammar3000:196",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2583",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The board postponed ____ until everyone had read the revised figures.",
+  "cn": "委员会把投票推迟到大家读完修订后的数据再进行。",
+  "why": "postpone doing。完整句：The board postponed voting until everyone had read the revised figures.",
+  "point": "postpone doing",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "voting"
+   ]
+  ],
+  "options": [
+   "vote to",
+   "voting"
+  ],
+  "source": "grammar3000:197",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2584",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The board postponed voting until everyone had ____ the revised figures.",
+  "cn": "委员会把投票推迟到大家读完修订后的数据再进行。",
+  "why": "had 后用过去分词。完整句：The board postponed voting until everyone had read the revised figures.",
+  "point": "had 后用过去分词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "read"
+   ]
+  ],
+  "options": [
+   "reading",
+   "read"
+  ],
+  "source": "grammar3000:197",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2585",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Suppose the label ____ missing: how would you identify the sample?",
+  "cn": "假设标签不见了，你会如何识别样品？",
+  "why": "假设情形用 were。完整句：Suppose the label were missing: how would you identify the sample?",
+  "point": "假设情形用 were",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "were"
+   ]
+  ],
+  "options": [
+   "is being",
+   "were"
+  ],
+  "source": "grammar3000:198",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2586",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Suppose the label were missing: how would you ____ the sample?",
+  "cn": "假设标签不见了，你会如何识别样品？",
+  "why": "would 后原形。完整句：Suppose the label were missing: how would you identify the sample?",
+  "point": "would 后原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "identify"
+   ]
+  ],
+  "options": [
+   "identified",
+   "identify"
+  ],
+  "source": "grammar3000:198",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2587",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The leak appears ____ started long before the wall was painted.",
+  "cn": "渗漏似乎早在墙壁粉刷前就开始了。",
+  "why": "appear 接完成不定式。完整句：The leak appears to have started long before the wall was painted.",
+  "point": "appear 接完成不定式",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to have"
+   ]
+  ],
+  "options": [
+   "to have",
+   "having to"
+  ],
+  "source": "grammar3000:199",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2588",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The leak appears to have ____ long before the wall was painted.",
+  "cn": "渗漏似乎早在墙壁粉刷前就开始了。",
+  "why": "have 后过去分词。完整句：The leak appears to have started long before the wall was painted.",
+  "point": "have 后过去分词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "started"
+   ]
+  ],
+  "options": [
+   "start",
+   "started"
+  ],
+  "source": "grammar3000:199",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2589",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "In no case ____ the exit be blocked by delivery carts.",
+  "cn": "送货车在任何情况下都不得堵住出口。",
+  "why": "否定短语前置后的情态动词倒装。完整句：In no case should the exit be blocked by delivery carts.",
+  "point": "否定短语前置后的情态动词倒装",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "should"
+   ]
+  ],
+  "options": [
+   "is",
+   "should"
+  ],
+  "source": "grammar3000:200",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2590",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "In no case should the exit ____ by delivery carts.",
+  "cn": "送货车在任何情况下都不得堵住出口。",
+  "why": "出口承受堵塞动作用被动。完整句：In no case should the exit be blocked by delivery carts.",
+  "point": "出口承受堵塞动作用被动",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "be blocked"
+   ]
+  ],
+  "options": [
+   "blocking it",
+   "be blocked"
+  ],
+  "source": "grammar3000:200",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2591",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "I found the two accounts surprisingly ____ despite their having been written years apart.",
+  "cn": "尽管两份记述相隔多年写成，内容却出奇一致。",
+  "why": "形容词作宾补。完整句：I found the two accounts surprisingly consistent despite their having been written years apart.",
+  "point": "形容词作宾补",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "consistent"
+   ]
+  ],
+  "options": [
+   "consistently",
+   "consistent"
+  ],
+  "source": "grammar3000:201",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2592",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "I found the two accounts surprisingly consistent despite their ____ been written years apart.",
+  "cn": "尽管两份记述相隔多年写成，内容却出奇一致。",
+  "why": "despite 后接动名词完成式。完整句：I found the two accounts surprisingly consistent despite their having been written years apart.",
+  "point": "despite 后接动名词完成式",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "having"
+   ]
+  ],
+  "options": [
+   "have",
+   "having"
+  ],
+  "source": "grammar3000:201",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2593",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The warmer the surface ____, the faster the droplets evaporate.",
+  "cn": "表面越暖，水滴蒸发越快。",
+  "why": "从句要有谓语。完整句：The warmer the surface becomes, the faster the droplets evaporate.",
+  "point": "从句要有谓语",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "becomes"
+   ]
+  ],
+  "options": [
+   "becomes",
+   "becoming"
+  ],
+  "source": "grammar3000:202",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2594",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The warmer the surface becomes, the ____ the droplets evaporate.",
+  "cn": "表面越暖，水滴蒸发越快。",
+  "why": "成对比较级。完整句：The warmer the surface becomes, the faster the droplets evaporate.",
+  "point": "成对比较级",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "faster"
+   ]
+  ],
+  "options": [
+   "faster",
+   "fastest"
+  ],
+  "source": "grammar3000:202",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2595",
+  "cat": "情态被动与非谓语",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Our conclusion depends on the readings ____ accurate and the clock running steadily.",
+  "cn": "我们的结论取决于读数准确、时钟走时稳定。",
+  "why": "介词后动名词结构。完整句：Our conclusion depends on the readings being accurate and the clock running steadily.",
+  "point": "介词后动名词结构",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "being"
+   ]
+  ],
+  "options": [
+   "been",
+   "being"
+  ],
+  "source": "grammar3000:203",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2596",
+  "cat": "从句与连接词",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Our conclusion depends on the readings being accurate and the clock ____ steadily.",
+  "cn": "我们的结论取决于读数准确、时钟走时稳定。",
+  "why": "and 后并列动名词结构。完整句：Our conclusion depends on the readings being accurate and the clock running steadily.",
+  "point": "and 后并列动名词结构",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "running"
+   ]
+  ],
+  "options": [
+   "running",
+   "runs it"
+  ],
+  "source": "grammar3000:203",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2597",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The editor asked for the passage ____ shortened without losing its final example.",
+  "cn": "编辑要求缩短文章，同时保留最后一个例子。",
+  "why": "ask for something to be done。完整句：The editor asked for the passage to be shortened without losing its final example.",
+  "point": "ask for something to be done",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "to be"
+   ]
+  ],
+  "options": [
+   "to being",
+   "to be"
+  ],
+  "source": "grammar3000:204",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2598",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "The editor asked for the passage to be shortened without ____ its final example.",
+  "cn": "编辑要求缩短文章，同时保留最后一个例子。",
+  "why": "without 后用动名词。完整句：The editor asked for the passage to be shortened without losing its final example.",
+  "point": "without 后用动名词",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "losing"
+   ]
+  ],
+  "options": [
+   "lose",
+   "losing"
+  ],
+  "source": "grammar3000:204",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2599",
+  "cat": "名词量词与主谓一致",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Whatever the final figures ____, the raw data must remain available.",
+  "cn": "无论最终数据表明什么，都必须保留可供查阅的原始数据。",
+  "why": "figures 为复数。完整句：Whatever the final figures show, the raw data must remain available.",
+  "point": "figures 为复数",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "show"
+   ]
+  ],
+  "options": [
+   "shows",
+   "show"
+  ],
+  "source": "grammar3000:205",
+  "tip": "核对上下文，再读一遍完整表达。"
+ },
+ {
+  "id": "WF2600",
+  "cat": "动词与句法",
+  "kind": "单项选择",
+  "level": 5,
+  "text": "Whatever the final figures show, the raw data must ____ available.",
+  "cn": "无论最终数据表明什么，都必须保留可供查阅的原始数据。",
+  "why": "must 后用原形。完整句：Whatever the final figures show, the raw data must remain available.",
+  "point": "must 后用原形",
+  "hint": "选择符合句意和语法的表达。",
+  "slots": [
+   [
+    "remain"
+   ]
+  ],
+  "options": [
+   "remained",
+   "remain"
+  ],
+  "source": "grammar3000:205",
+  "tip": "核对上下文，再读一遍完整表达。"
+ }
+]

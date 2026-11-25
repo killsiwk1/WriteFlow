@@ -1,0 +1,1931 @@
+[
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The cat crawled ____ the sofa, out of sight.",
+  "cn": "小猫爬到沙发底下，看不见了。",
+  "slots": [
+   [
+    "under",
+    "underneath"
+   ]
+  ],
+  "options": [],
+  "point": "向下方移动",
+  "why": "向下方移动。原句为 The cat crawled under the sofa, out of sight.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:2",
+  "id": "WF1307"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Please write your name ____ the back of the card.",
+  "cn": "请把名字写在卡片背面。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [],
+  "point": "表面位置",
+  "why": "表面位置。原句为 Please write your name on the back of the card.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:3",
+  "id": "WF1308"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Our lesson starts ____ half past eight.",
+  "cn": "我们的课八点半开始。",
+  "slots": [
+   [
+    "at"
+   ]
+  ],
+  "options": [],
+  "point": "具体时刻",
+  "why": "具体时刻。原句为 Our lesson starts at half past eight.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:4",
+  "id": "WF1309"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "I left my coat ____ my locker and closed the door.",
+  "cn": "我把外套放在储物柜里，关上了门。",
+  "slots": [
+   [
+    "in",
+    "inside"
+   ]
+  ],
+  "options": [],
+  "point": "封闭空间",
+  "why": "封闭空间。原句为 I left my coat in my locker and closed the door.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:5",
+  "id": "WF1310"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The bus stop is ____ the bank and the bakery.",
+  "cn": "车站在银行和面包店之间。",
+  "slots": [
+   [
+    "between"
+   ]
+  ],
+  "options": [],
+  "point": "两者之间",
+  "why": "两者之间。原句为 The bus stop is between the bank and the bakery.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:6",
+  "id": "WF1311"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We walked ____ the bridge to the other bank.",
+  "cn": "我们过桥走到了对岸。",
+  "slots": [
+   [
+    "across",
+    "over"
+   ]
+  ],
+  "options": [],
+  "point": "从一侧到另一侧",
+  "why": "从一侧到另一侧。原句为 We walked across the bridge to the other bank.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:7",
+  "id": "WF1312"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Ben paid ____ the sandwiches before we left.",
+  "cn": "离开前本付了三明治的钱。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "pay for 所购买的物品",
+  "why": "pay for 所购买的物品。原句为 Ben paid for the sandwiches before we left.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:8",
+  "id": "WF1313"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "I borrowed this ruler ____ my desk mate.",
+  "cn": "我从同桌那里借来了这把尺。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [],
+  "point": "borrow from 来源",
+  "why": "borrow from 来源。原句为 I borrowed this ruler from my desk mate.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:9",
+  "id": "WF1314"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Our club meets ____ Thursday afternoons.",
+  "cn": "我们社团每周四下午碰面。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [],
+  "point": "具体星期与时段",
+  "why": "具体星期与时段。原句为 Our club meets on Thursday afternoons.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:10",
+  "id": "WF1315"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "You can cut the paper ____ these scissors.",
+  "cn": "你可以用这把剪刀剪纸。",
+  "slots": [
+   [
+    "with",
+    "using"
+   ]
+  ],
+  "options": [],
+  "point": "用具体工具",
+  "why": "用具体工具。原句为 You can cut the paper with these scissors.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:11",
+  "id": "WF1316"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The path goes ____ a tunnel under the station.",
+  "cn": "这条路穿过车站下面的隧道。",
+  "slots": [
+   [
+    "through"
+   ]
+  ],
+  "options": [],
+  "point": "穿过内部",
+  "why": "穿过内部。原句为 The path goes through a tunnel under the station.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:12",
+  "id": "WF1317"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The boy ____ the green coat is my cousin.",
+  "cn": "穿绿色外套的男孩是我表弟。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "in 加衣着",
+  "why": "in 加衣着。原句为 The boy in the green coat is my cousin.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:13",
+  "id": "WF1318"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "She handed the parcel ____ the driver.",
+  "cn": "她把包裹递给司机。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "hand something to someone",
+  "why": "hand something to someone。原句为 She handed the parcel to the driver.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:14",
+  "id": "WF1319"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "There are seven days ____ a week.",
+  "cn": "一周有七天。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "时间范围",
+  "why": "时间范围。原句为 There are seven days in a week.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:15",
+  "id": "WF1320"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Meet me ____ the corner of Park Road and Green Street.",
+  "cn": "在公园路和绿街的拐角处等我。",
+  "slots": [
+   [
+    "at",
+    "on"
+   ]
+  ],
+  "options": [],
+  "point": "街角位置",
+  "why": "街角位置。原句为 Meet me at the corner of Park Road and Green Street.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:16",
+  "id": "WF1321"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The box is full ____ clean towels.",
+  "cn": "箱子里装满了干净毛巾。",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "options": [],
+  "point": "full of",
+  "why": "full of。原句为 The box is full of clean towels.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:17",
+  "id": "WF1322"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The clock hangs ____ the door, much too high to reach.",
+  "cn": "钟挂在门上方，高得够不着。",
+  "slots": [
+   [
+    "above",
+    "over"
+   ]
+  ],
+  "options": [],
+  "point": "高于某物",
+  "why": "高于某物。原句为 The clock hangs above the door, much too high to reach.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:18",
+  "id": "WF1323"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We travel ____ train every winter.",
+  "cn": "每年冬天我们都乘火车出行。",
+  "slots": [
+   [
+    "by"
+   ]
+  ],
+  "options": [],
+  "point": "by 加交通工具",
+  "why": "by 加交通工具。原句为 We travel by train every winter.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:19",
+  "id": "WF1324"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Is there any milk ____ the bottle?",
+  "cn": "瓶子里还有牛奶吗？",
+  "slots": [
+   [
+    "in",
+    "inside"
+   ]
+  ],
+  "options": [],
+  "point": "容器内部",
+  "why": "容器内部。原句为 Is there any milk in the bottle?",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:20",
+  "id": "WF1325"
+ },
+ {
+  "level": 1,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "This drawing is a present ____ my aunt.",
+  "cn": "这幅画是送给我姨妈的礼物。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "礼物的接收者",
+  "why": "礼物的接收者。原句为 This drawing is a present for my aunt.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:21",
+  "id": "WF1326"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Please wait ____ the bell rings before you leave.",
+  "cn": "请等到铃响再离开。",
+  "slots": [
+   [
+    "until",
+    "till"
+   ]
+  ],
+  "options": [],
+  "point": "等待的终点",
+  "why": "等待的终点。原句为 Please wait until the bell rings before you leave.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:23",
+  "id": "WF1327"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The bakery stays closed ____ the lunch break.",
+  "cn": "午休期间面包店一直关着门。",
+  "slots": [
+   [
+    "during",
+    "throughout"
+   ]
+  ],
+  "options": [],
+  "point": "整个时段",
+  "why": "整个时段。原句为 The bakery stays closed during the lunch break.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:24",
+  "id": "WF1328"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "I haven't seen my old bike ____ last July.",
+  "cn": "从去年七月起我就没见过我的旧自行车了。",
+  "slots": [
+   [
+    "since"
+   ]
+  ],
+  "options": [],
+  "point": "起始时间点",
+  "why": "起始时间点。原句为 I haven't seen my old bike since last July.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:25",
+  "id": "WF1329"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We stayed at the camp ____ three nights.",
+  "cn": "我们在营地住了三个晚上。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "持续时长",
+  "why": "持续时长。原句为 We stayed at the camp for three nights.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:26",
+  "id": "WF1330"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The ball rolled ____ the open drain and disappeared.",
+  "cn": "球滚进敞开的排水沟，不见了。",
+  "slots": [
+   [
+    "into"
+   ]
+  ],
+  "options": [],
+  "point": "从外部进入内部",
+  "why": "从外部进入内部。原句为 The ball rolled into the open drain and disappeared.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:27",
+  "id": "WF1331"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "She lifted the book ____ the wet floor.",
+  "cn": "她把书从湿地面上拿起来。",
+  "slots": [
+   [
+    "off",
+    "from"
+   ]
+  ],
+  "options": [],
+  "point": "离开接触面",
+  "why": "离开接触面。原句为 She lifted the book off the wet floor.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:28",
+  "id": "WF1332"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The boat passed ____ a low bridge.",
+  "cn": "船从一座矮桥下面驶过。",
+  "slots": [
+   [
+    "under",
+    "beneath",
+    "underneath"
+   ]
+  ],
+  "options": [],
+  "point": "从下方经过",
+  "why": "从下方经过。原句为 The boat passed under a low bridge.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:29",
+  "id": "WF1333"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "He divided the cake ____ six equal pieces.",
+  "cn": "他把蛋糕分成大小相等的六块。",
+  "slots": [
+   [
+    "into"
+   ]
+  ],
+  "options": [],
+  "point": "divide into",
+  "why": "divide into。原句为 He divided the cake into six equal pieces.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:30",
+  "id": "WF1334"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The nurse asked ____ my sleeping habits.",
+  "cn": "护士问起我的睡眠习惯。",
+  "slots": [
+   [
+    "about"
+   ]
+  ],
+  "options": [],
+  "point": "ask about 话题",
+  "why": "ask about 话题。原句为 The nurse asked about my sleeping habits.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:31",
+  "id": "WF1335"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The little girl pointed ____ a bird on the roof.",
+  "cn": "小女孩指着屋顶上的一只鸟。",
+  "slots": [
+   [
+    "at",
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "point at 或 to",
+  "why": "point at 或 to。原句为 The little girl pointed at a bird on the roof.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:32",
+  "id": "WF1336"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "I thanked her ____ saving me a seat.",
+  "cn": "我感谢她给我留了个座位。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "thank someone for doing",
+  "why": "thank someone for doing。原句为 I thanked her for saving me a seat.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:33",
+  "id": "WF1337"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The old bridge is made ____ stone.",
+  "cn": "那座老桥是石头造的。",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "options": [],
+  "point": "可辨认材料",
+  "why": "可辨认材料。原句为 The old bridge is made of stone.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:34",
+  "id": "WF1338"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We all agreed ____ Dan that the room needed more light.",
+  "cn": "我们都同意丹的看法，房间需要更亮些。",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "options": [],
+  "point": "agree with 某人",
+  "why": "agree with 某人。原句为 We all agreed with Dan that the room needed more light.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:35",
+  "id": "WF1339"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Sally is proud ____ the bag she made herself.",
+  "cn": "萨莉为自己做的包感到骄傲。",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "options": [],
+  "point": "proud of",
+  "why": "proud of。原句为 Sally is proud of the bag she made herself.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:36",
+  "id": "WF1340"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "My notes are different ____ yours on this point.",
+  "cn": "关于这一点，我的笔记和你的不一样。",
+  "slots": [
+   [
+    "from",
+    "than",
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "different from 等常见变体",
+  "why": "different from 等常见变体。原句为 My notes are different from yours on this point.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:37",
+  "id": "WF1341"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The door opened ____ a sound; nobody heard it.",
+  "cn": "门无声地开了，谁也没听见。",
+  "slots": [
+   [
+    "without"
+   ]
+  ],
+  "options": [],
+  "point": "缺少某物",
+  "why": "缺少某物。原句为 The door opened without a sound; nobody heard it.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:38",
+  "id": "WF1342"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "No cars are allowed ____ the hall; leave yours outside.",
+  "cn": "汽车不得进入大厅，请把车留在外面。",
+  "slots": [
+   [
+    "inside",
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "在内部",
+  "why": "在内部。原句为 No cars are allowed inside the hall; leave yours outside.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:39",
+  "id": "WF1343"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "I've put a label ____ each drawer.",
+  "cn": "我给每个抽屉都贴了一张标签。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [],
+  "point": "附着于表面",
+  "why": "附着于表面。原句为 I've put a label on each drawer.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:40",
+  "id": "WF1344"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We arrived ____ the bus stop two minutes early.",
+  "cn": "我们提前两分钟到了公交站。",
+  "slots": [
+   [
+    "at"
+   ]
+  ],
+  "options": [],
+  "point": "arrive at 小地点",
+  "why": "arrive at 小地点。原句为 We arrived at the bus stop two minutes early.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:41",
+  "id": "WF1345"
+ },
+ {
+  "level": 2,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Give the key back ____ the caretaker before you go.",
+  "cn": "离开前把钥匙还给管理员。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "give back to",
+  "why": "give back to。原句为 Give the key back to the caretaker before you go.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:42",
+  "id": "WF1346"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The school provides each team ____ a set of tools.",
+  "cn": "学校给每队提供一套工具。",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "options": [],
+  "point": "provide someone with something",
+  "why": "provide someone with something。原句为 The school provides each team with a set of tools.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:44",
+  "id": "WF1347"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The result depends ____ how carefully we measure the wood.",
+  "cn": "结果取决于我们量木材时有多仔细。",
+  "slots": [
+   [
+    "on",
+    "upon"
+   ]
+  ],
+  "options": [],
+  "point": "depend on",
+  "why": "depend on。原句为 The result depends on how carefully we measure the wood.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:45",
+  "id": "WF1348"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "A thick curtain separates the stage ____ the seats.",
+  "cn": "厚布帘把舞台和观众席隔开。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [],
+  "point": "separate one thing from another",
+  "why": "separate one thing from another。原句为 A thick curtain separates the stage from the seats.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:46",
+  "id": "WF1349"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Everyone took part ____ the final discussion.",
+  "cn": "大家都参加了最后的讨论。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "take part in",
+  "why": "take part in。原句为 Everyone took part in the final discussion.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:47",
+  "id": "WF1350"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We replaced the broken handle ____ a wooden one.",
+  "cn": "我们用木把手换下了坏把手。",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "options": [],
+  "point": "replace A with B",
+  "why": "replace A with B。原句为 We replaced the broken handle with a wooden one.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:48",
+  "id": "WF1351"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The price went up ____ two dollars, from eight to ten.",
+  "cn": "价格从八美元涨到十美元，涨了两美元。",
+  "slots": [
+   [
+    "by"
+   ]
+  ],
+  "options": [],
+  "point": "变化幅度用 by",
+  "why": "变化幅度用 by。原句为 The price went up by two dollars, from eight to ten.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:49",
+  "id": "WF1352"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The price fell ____ eight dollars from ten.",
+  "cn": "价格从十美元降到八美元。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "变化后的终值用 to",
+  "why": "变化后的终值用 to。原句为 The price fell to eight dollars from ten.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:50",
+  "id": "WF1353"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The guide translated the notice ____ English.",
+  "cn": "向导把通知译成了英语。",
+  "slots": [
+   [
+    "into"
+   ]
+  ],
+  "options": [],
+  "point": "translate into 目标语",
+  "why": "translate into 目标语。原句为 The guide translated the notice into English.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:51",
+  "id": "WF1354"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The village is famous ____ its stone bridges.",
+  "cn": "这个村子以石桥闻名。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "be famous for 出名的原因",
+  "why": "be famous for 出名的原因。原句为 The village is famous for its stone bridges.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:52",
+  "id": "WF1355"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "I prefer a quiet seat ____ a place near the door.",
+  "cn": "与门边的座位相比，我更喜欢安静的座位。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "prefer A to B",
+  "why": "prefer A to B。原句为 I prefer a quiet seat to a place near the door.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:53",
+  "id": "WF1356"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The teacher congratulated us ____ finishing the survey.",
+  "cn": "老师祝贺我们完成了调查。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [],
+  "point": "congratulate someone on doing",
+  "why": "congratulate someone on doing。原句为 The teacher congratulated us on finishing the survey.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:54",
+  "id": "WF1357"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The warning stopped us ____ turning down the closed road.",
+  "cn": "警示牌阻止我们拐上已封闭的路。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [],
+  "point": "stop someone from doing",
+  "why": "stop someone from doing。原句为 The warning stopped us from turning down the closed road.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:55",
+  "id": "WF1358"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The prize consists ____ books and a visit to a studio.",
+  "cn": "奖品包括图书和一次工作室参观。",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "options": [],
+  "point": "consist of 组成",
+  "why": "consist of 组成。原句为 The prize consists of books and a visit to a studio.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:56",
+  "id": "WF1359"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "He apologized ____ the passenger for blocking the aisle.",
+  "cn": "他因挡住过道向那位乘客道歉。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "apologize to 对象",
+  "why": "apologize to 对象。原句为 He apologized to the passenger for blocking the aisle.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:57",
+  "id": "WF1360"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "She apologized ____ mixing up the dates.",
+  "cn": "她为弄错日期而道歉。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "apologize for 原因",
+  "why": "apologize for 原因。原句为 She apologized for mixing up the dates.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:58",
+  "id": "WF1361"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We succeeded ____ moving the table through the door.",
+  "cn": "我们成功地把桌子搬过了门。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "succeed in doing",
+  "why": "succeed in doing。原句为 We succeeded in moving the table through the door.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:59",
+  "id": "WF1362"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The hall was crowded ____ visitors before noon.",
+  "cn": "不到中午大厅就挤满了游客。",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "options": [],
+  "point": "crowded with",
+  "why": "crowded with。原句为 The hall was crowded with visitors before noon.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:60",
+  "id": "WF1363"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "I learned the address ____ heart before the trip.",
+  "cn": "出发前我把地址记熟了。",
+  "slots": [
+   [
+    "by"
+   ]
+  ],
+  "options": [],
+  "point": "by heart",
+  "why": "by heart。原句为 I learned the address by heart before the trip.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:61",
+  "id": "WF1364"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The bus broke down ____ the way to the museum.",
+  "cn": "去博物馆的路上，公交车坏了。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [],
+  "point": "on the way to",
+  "why": "on the way to。原句为 The bus broke down on the way to the museum.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:62",
+  "id": "WF1365"
+ },
+ {
+  "level": 3,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "These files belong ____ the students who made the posters.",
+  "cn": "这些文件属于制作海报的学生。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "belong to",
+  "why": "belong to。原句为 These files belong to the students who made the posters.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:63",
+  "id": "WF1366"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The class raised money ____ selling used books.",
+  "cn": "班里通过售卖旧书筹款。",
+  "slots": [
+   [
+    "by"
+   ]
+  ],
+  "options": [],
+  "point": "by doing 表示方式",
+  "why": "by doing 表示方式。原句为 The class raised money by selling used books.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:65",
+  "id": "WF1367"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The manager blamed the delay ____ a missing delivery note.",
+  "cn": "经理把延误归因于缺少一张送货单。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [],
+  "point": "blame something on",
+  "why": "blame something on。原句为 The manager blamed the delay on a missing delivery note.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:66",
+  "id": "WF1368"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The photographer focused ____ the reflection rather than the boat.",
+  "cn": "摄影师把焦点放在倒影上，而非船身。",
+  "slots": [
+   [
+    "on",
+    "upon"
+   ]
+  ],
+  "options": [],
+  "point": "focus on",
+  "why": "focus on。原句为 The photographer focused on the reflection rather than the boat.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:67",
+  "id": "WF1369"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The writer refers ____ the old timetable twice.",
+  "cn": "作者两次提到那张旧时刻表。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "refer to",
+  "why": "refer to。原句为 The writer refers to the old timetable twice.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:68",
+  "id": "WF1370"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We mistook the painted door ____ a real exit.",
+  "cn": "我们把画出来的门误认为真的出口。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "mistake A for B",
+  "why": "mistake A for B。原句为 We mistook the painted door for a real exit.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:69",
+  "id": "WF1371"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "This sample differs ____ the others in color alone.",
+  "cn": "这个样品仅在颜色上和其他样品有区别。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [],
+  "point": "differ from",
+  "why": "differ from。原句为 This sample differs from the others in color alone.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:70",
+  "id": "WF1372"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The audience remained seated ____ the long delay.",
+  "cn": "尽管延误很久，观众仍坐在座位上。",
+  "slots": [
+   [
+    "despite",
+    "notwithstanding"
+   ]
+  ],
+  "options": [],
+  "point": "让步介词",
+  "why": "让步介词。原句为 The audience remained seated despite the long delay.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:71",
+  "id": "WF1373"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The committee voted ____ the proposal, so it failed.",
+  "cn": "委员会投票反对提案，因此提案未获通过。",
+  "slots": [
+   [
+    "against"
+   ]
+  ],
+  "options": [],
+  "point": "反对的投票方向",
+  "why": "反对的投票方向。原句为 The committee voted against the proposal, so it failed.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:72",
+  "id": "WF1374"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "They accused the printer ____ changing the wording.",
+  "cn": "他们指责印刷商更改了措辞。",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "options": [],
+  "point": "accuse someone of",
+  "why": "accuse someone of。原句为 They accused the printer of changing the wording.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:73",
+  "id": "WF1375"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Our meeting coincided ____ the start of the concert.",
+  "cn": "我们的会议恰好与音乐会同时开始。",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "options": [],
+  "point": "coincide with",
+  "why": "coincide with。原句为 Our meeting coincided with the start of the concert.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:74",
+  "id": "WF1376"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The plan looks simple ____ paper, but the path is steep.",
+  "cn": "计划在纸面上看似简单，但那条路很陡。",
+  "slots": [
+   [
+    "on"
+   ]
+  ],
+  "options": [],
+  "point": "on paper",
+  "why": "on paper。原句为 The plan looks simple on paper, but the path is steep.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:75",
+  "id": "WF1377"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "She objected ____ moving the shelves during opening hours.",
+  "cn": "她反对在营业时间移动书架。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "object to doing",
+  "why": "object to doing。原句为 She objected to moving the shelves during opening hours.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:76",
+  "id": "WF1378"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The editor insisted ____ checking the quote against the recording.",
+  "cn": "编辑坚持对照录音核实引文。",
+  "slots": [
+   [
+    "on",
+    "upon"
+   ]
+  ],
+  "options": [],
+  "point": "insist on doing",
+  "why": "insist on doing。原句为 The editor insisted on checking the quote against the recording.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:77",
+  "id": "WF1379"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Both entries qualify ____ the final round.",
+  "cn": "两件参赛作品都有资格进入决赛。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "qualify for",
+  "why": "qualify for。原句为 Both entries qualify for the final round.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:78",
+  "id": "WF1380"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The town supplied clean water ____ every household.",
+  "cn": "镇上向每户居民供应洁净的水。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "supply something to someone",
+  "why": "supply something to someone。原句为 The town supplied clean water to every household.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:79",
+  "id": "WF1381"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The total includes everything ____ the return ticket.",
+  "cn": "除返程票之外，其他费用都包括在总额内。",
+  "slots": [
+   [
+    "except",
+    "but"
+   ]
+  ],
+  "options": [],
+  "point": "整体中的例外",
+  "why": "整体中的例外。原句为 The total includes everything except the return ticket.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:80",
+  "id": "WF1382"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Who will act ____ the group's spokesperson?",
+  "cn": "谁将担任小组发言人？",
+  "slots": [
+   [
+    "as"
+   ]
+  ],
+  "options": [],
+  "point": "act as 职能",
+  "why": "act as 职能。原句为 Who will act as the group's spokesperson?",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:81",
+  "id": "WF1383"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The path runs parallel ____ the tracks for half a mile.",
+  "cn": "小路有半英里与铁轨平行。",
+  "slots": [
+   [
+    "to",
+    "with"
+   ]
+  ],
+  "options": [],
+  "point": "parallel to",
+  "why": "parallel to。原句为 The path runs parallel to the tracks for half a mile.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:82",
+  "id": "WF1384"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The archive is open ____ appointment only.",
+  "cn": "档案馆仅接受预约参观。",
+  "slots": [
+   [
+    "by"
+   ]
+  ],
+  "options": [],
+  "point": "by appointment",
+  "why": "by appointment。原句为 The archive is open by appointment only.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:83",
+  "id": "WF1385"
+ },
+ {
+  "level": 4,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We dealt ____ the simplest requests first.",
+  "cn": "我们先处理了最简单的请求。",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "options": [],
+  "point": "deal with",
+  "why": "deal with。原句为 We dealt with the simplest requests first.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:84",
+  "id": "WF1386"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The evidence points ____ a fault in the switch rather than the lamp.",
+  "cn": "证据指向开关故障，而不是灯本身。",
+  "slots": [
+   [
+    "to",
+    "toward",
+    "towards"
+   ]
+  ],
+  "options": [],
+  "point": "线索所指的结论",
+  "why": "线索所指的结论。原句为 The evidence points to a fault in the switch rather than the lamp.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:86",
+  "id": "WF1387"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The estimate was based ____ last year's attendance, which was unusually high.",
+  "cn": "估算依据的是去年异常高的出席人数。",
+  "slots": [
+   [
+    "on",
+    "upon"
+   ]
+  ],
+  "options": [],
+  "point": "be based on",
+  "why": "be based on。原句为 The estimate was based on last year's attendance, which was unusually high.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:87",
+  "id": "WF1388"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The plan was approved subject ____ a final inspection.",
+  "cn": "计划获批，但须以通过最终检查为条件。",
+  "slots": [
+   [
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "subject to 条件限制",
+  "why": "subject to 条件限制。原句为 The plan was approved subject to a final inspection.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:88",
+  "id": "WF1389"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "A lack of labels accounted ____ most of the mix-ups.",
+  "cn": "大部分混乱源于标签不足。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "account for 解释原因",
+  "why": "account for 解释原因。原句为 A lack of labels accounted for most of the mix-ups.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:89",
+  "id": "WF1390"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The spare room was converted ____ a recording studio.",
+  "cn": "闲置房间被改成录音室。",
+  "slots": [
+   [
+    "into",
+    "to"
+   ]
+  ],
+  "options": [],
+  "point": "convert into 用途变化",
+  "why": "convert into 用途变化。原句为 The spare room was converted into a recording studio.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:90",
+  "id": "WF1391"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The two accounts are consistent ____ each other despite the different wording.",
+  "cn": "两份叙述虽措辞不同，内容却相互吻合。",
+  "slots": [
+   [
+    "with"
+   ]
+  ],
+  "options": [],
+  "point": "consistent with",
+  "why": "consistent with。原句为 The two accounts are consistent with each other despite the different wording.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:91",
+  "id": "WF1392"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The result must be interpreted ____ light of the small sample.",
+  "cn": "解读结果时必须考虑样本很小这一点。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "in light of",
+  "why": "in light of。原句为 The result must be interpreted in light of the small sample.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:92",
+  "id": "WF1393"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "We chose the shorter path ____ the assumption that the gate would be open.",
+  "cn": "我们选择近路，是基于大门会开着这一假设。",
+  "slots": [
+   [
+    "on",
+    "under"
+   ]
+  ],
+  "options": [],
+  "point": "on the assumption that",
+  "why": "on the assumption that。原句为 We chose the shorter path on the assumption that the gate would be open.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:93",
+  "id": "WF1394"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "Our estimate is accurate ____ a margin of two minutes.",
+  "cn": "我们估算时间的误差在两分钟以内。",
+  "slots": [
+   [
+    "within"
+   ]
+  ],
+  "options": [],
+  "point": "误差范围以内",
+  "why": "误差范围以内。原句为 Our estimate is accurate within a margin of two minutes.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:94",
+  "id": "WF1395"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The proposal calls ____ a second trial before the equipment is moved.",
+  "cn": "提案要求在移动设备之前再试一次。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "call for 要求",
+  "why": "call for 要求。原句为 The proposal calls for a second trial before the equipment is moved.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:95",
+  "id": "WF1396"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The changes were made ____ response to complaints about noise.",
+  "cn": "这些调整是针对噪声投诉作出的。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "in response to",
+  "why": "in response to。原句为 The changes were made in response to complaints about noise.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:96",
+  "id": "WF1397"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The new sign was added ____ the request of local residents.",
+  "cn": "应当地居民要求增设了新标志。",
+  "slots": [
+   [
+    "at"
+   ]
+  ],
+  "options": [],
+  "point": "at the request of",
+  "why": "at the request of。原句为 The new sign was added at the request of local residents.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:97",
+  "id": "WF1398"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The village relies ____ two wells when the river runs low.",
+  "cn": "河流水位低时，村子依靠两口井供水。",
+  "slots": [
+   [
+    "on",
+    "upon"
+   ]
+  ],
+  "options": [],
+  "point": "rely on",
+  "why": "rely on。原句为 The village relies on two wells when the river runs low.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:98",
+  "id": "WF1399"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The results vary ____ one site to another even on the same day.",
+  "cn": "即便在同一天，不同地点的结果也各不相同。",
+  "slots": [
+   [
+    "from"
+   ]
+  ],
+  "options": [],
+  "point": "from one site to another",
+  "why": "from one site to another。原句为 The results vary from one site to another even on the same day.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:99",
+  "id": "WF1400"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The extra seats were installed ____ anticipation of larger crowds.",
+  "cn": "为应对预计会增加的人流，场地增设了座位。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "in anticipation of",
+  "why": "in anticipation of。原句为 The extra seats were installed in anticipation of larger crowds.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:100",
+  "id": "WF1401"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The outcome is independent ____ the order in which names are read.",
+  "cn": "结果与宣读姓名的顺序无关。",
+  "slots": [
+   [
+    "of"
+   ]
+  ],
+  "options": [],
+  "point": "independent of",
+  "why": "independent of。原句为 The outcome is independent of the order in which names are read.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:101",
+  "id": "WF1402"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The editor shortened the report ____ changing its conclusion.",
+  "cn": "编辑缩短了报告，但没有改变结论。",
+  "slots": [
+   [
+    "without"
+   ]
+  ],
+  "options": [],
+  "point": "without doing 表示未发生的伴随动作",
+  "why": "without doing 表示未发生的伴随动作。原句为 The editor shortened the report without changing its conclusion.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:102",
+  "id": "WF1403"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The two groups differ ____ how often they use the service.",
+  "cn": "两组人在使用服务的频率上有差异。",
+  "slots": [
+   [
+    "in"
+   ]
+  ],
+  "options": [],
+  "point": "differ in 比较的方面",
+  "why": "differ in 比较的方面。原句为 The two groups differ in how often they use the service.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:103",
+  "id": "WF1404"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "A later test cast doubt ____ the first explanation.",
+  "cn": "后来的测试让人对最初的解释产生了怀疑。",
+  "slots": [
+   [
+    "on",
+    "upon"
+   ]
+  ],
+  "options": [],
+  "point": "cast doubt on",
+  "why": "cast doubt on。原句为 A later test cast doubt on the first explanation.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:104",
+  "id": "WF1405"
+ },
+ {
+  "level": 5,
+  "cat": "介词",
+  "kind": "句子填空",
+  "text": "The seats are reserved ____ guests who have difficulty standing.",
+  "cn": "这些座位为站立有困难的客人预留。",
+  "slots": [
+   [
+    "for"
+   ]
+  ],
+  "options": [],
+  "point": "reserved for 使用对象",
+  "why": "reserved for 使用对象。原句为 The seats are reserved for guests who have difficulty standing.",
+  "hint": "根据中文补全英文，每空一词。",
+  "tip": "先辨认所表达的关系，再看前后搭配。",
+  "source": "preposition-drills:105",
+  "id": "WF1406"
+ }
+]
