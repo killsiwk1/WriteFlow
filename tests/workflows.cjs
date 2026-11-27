@@ -83,7 +83,8 @@ ev("go('free')");node('wTitle').value='Lake';node('wBody').value='We walk home.'
 node('wBody').value='We walked home.';node('stage').value='Revised';node('vNote').value='Past tense';await ev('saveWriting()');
 node('wBody').value='Yesterday we walked home.';node('stage').value='Final';await ev('saveWriting()');assert.equal(ev('S.essays[0].versions[0].body'),'We walk home.');assert(ev("diff('We walk home.','We walked home.').includes('<del>walk</del>')"));
 ev("go('words')");node('r_term').value='route';node('r_meaning').value='路线';await ev('saveRecord()');await ev("act('editRecord',S.words[0].id)");node('r_note').value='travel';await ev('saveRecord()');await ev("act('toggleStar',S.words[0].id)");assert(ev("S.words[0].star && S.words[0].note==='travel'"));
-for(const [label,value] of [['白色','white'],['暖纸色','paper'],['深色','dark']]){ev("go('settings')");node('theme').value=label;node('font').value='18';node('goal').value='32';await ev("act('prefs')");assert.equal(doc.body.dataset.theme,value)}
+assert.equal(ev('fresh().prefs.theme'),'mist');
+for(const [label,value] of [['Morning Mist（晨雾蓝）','mist'],['白色','white'],['暖纸色','paper'],['深色','dark']]){ev("go('settings')");node('theme').value=label;node('font').value='18';node('goal').value='32';await ev("act('prefs')");assert.equal(doc.body.dataset.theme,value)}
 const legacy=ev('JSON.stringify(S)');const old=JSON.parse(legacy);delete old.practice;delete old.progressStart;
 ctx.old=old;assert(ev('validateState(old) && questionStates(old).get(old.logs[0].q)==="mastered"'));
 await ev("change(s=>s.prefs.training={save:false,random:false,number:20,level:'2',resume:false})");

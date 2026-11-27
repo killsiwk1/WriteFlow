@@ -1,7 +1,7 @@
 let lastInteraction=Date.now(),clockTick=Date.now();
 function picked(accept,fn){let input=document.createElement('input');input.type='file';input.accept=accept;input.onchange=()=>{if(input.files[0])guard(()=>fn(input.files[0]))};input.click()}
 async function guard(fn){if(busy)return;busy=true;try{await fn()}catch(e){toast(e.message||'操作未完成，请检查本地存储')}finally{busy=false}}
-async function act(a,v){if(a.startsWith('cloud'))return cloudAction(a);if(a==='go'){recEditing='';if(v==='essays')editorId='';go(v);return}
+async function act(a,v){if(a.startsWith('k'))return knowledgeAction(a,v);if(a.startsWith('cloud'))return cloudAction(a);if(a==='go'){recEditing='';if(v==='essays')editorId='';go(v);return}
 if(a==='resume'){S=await loadState();displaySession();go(currentRun()?'quiz':'home')}
 else if(a==='resetCurrent'||a==='resetProgress')await resetPractice(a==='resetProgress');
 else if(a==='bank'){queue=[];quizResult=null;go('quiz')}
@@ -25,20 +25,20 @@ else if(a==='exportTxt'||a==='exportDocx'){let e=S.essays.find(x=>x.id===editorI
 else if(a==='importEssay')picked('.txt,.docx',importEssay);
 else if(a==='editRecord'||a==='cancelRecord'){recEditing=a==='cancelRecord'?'':v;render();if(recEditing)el('recordForm').scrollIntoView({block:'center'})}
 else if(['toggleDone','toggleStar','deleteRecord'].includes(a)){let k=page;if(a==='deleteRecord'&&!confirm('从本机移除这条记录？'))return;await change(s=>{let r=s[k].find(x=>x.id===v);if(!r)return;if(a==='deleteRecord')s[k]=s[k].filter(x=>x.id!==v);else if(a==='toggleDone')r.done=!r.done;else r.star=!r.star});recEditing='';render()}
-else if(a==='retry'||a==='review'){await startQuiz(a==='retry'?BANK.filter(q=>q.id===v):BANK,10,true,'错题复习')}
-else if(a==='prefs'){let goal=Number(el('goal').value);if(!Number.isInteger(goal)||goal<1||goal>500)return toast('每周目标请输入 1–500 之间的整数');let p={theme:{'暖纸色':'paper','白色':'white','深色':'dark'}[el('theme').value],size:Number(el('font').value),goal};await change(s=>Object.assign(s.prefs,p));applyTheme();render();toast('设置已保存')}
-else if(a==='backup'){await pendingDraft;let latest=await loadState();await download('WriteFlow-备份-'+new Date().toISOString().slice(0,10)+'.json',new Blob([JSON.stringify(latest)],{type:'application/json'}))}
+else if(a==='retry'||a==='review'){await startQuiz(a==='retry'?[questionById.get(v)]:[...questionById.values()],10,true,'错题复习')}
+else if(a==='prefs'){let goal=Number(el('goal').value);if(!Number.isInteger(goal)||goal<1||goal>500)return toast('每周目标请输入 1–500 之间的整数');let p={theme:{'Morning Mist（晨雾蓝）':'mist','暖纸色':'paper','白色':'white','深色':'dark'}[el('theme').value],size:Number(el('font').value),goal};await change(s=>Object.assign(s.prefs,p));applyTheme();render();toast('设置已保存')}
+else if(a==='backup'){await pendingDraft;let latest=await loadState();await download('VerbaStep-备份-'+new Date().toISOString().slice(0,10)+'.json',new Blob([JSON.stringify(latest)],{type:'application/json'}))}
 else if(a==='restore')picked('.json',restoreFile);
-else if(a==='clear'&&confirm('清除本机全部作文、草稿、答题记录、词汇和设置？建议先导出备份。')&&confirm('确认永久清除当前设备上的 WriteFlow 学习数据？')){await pendingDraft;await change(s=>Object.assign(s,fresh()));temporaryRun=null;resetView();toast('本机学习数据已清理')}}
+else if(a==='clear'&&confirm('清除本机全部作文、草稿、答题记录、词汇和设置？建议先导出备份。')&&confirm('确认永久清除当前设备上的 VerbaStep 学习数据？')){await pendingDraft;await change(s=>Object.assign(s,fresh()));temporaryRun=null;resetView();toast('本机学习数据已清理')}}
 document.addEventListener('click',e=>{let b=e.target.closest('[data-a]');if(b?.dataset.a==='back')navigateBack();else if(b)guard(()=>act(b.dataset.a,b.dataset.v))});
 el('menu').onclick=()=>el('menu').setAttribute('aria-expanded',String(nav.classList.toggle('open')));
 main.addEventListener('submit',e=>{e.preventDefault();guard(e.target.id==='quizForm'?submitQuiz:saveRecord)});
-main.addEventListener('input',e=>{let id=e.target.id;if(id==='homeCount'){practiceCount=e.target.value;if(el('plannedCount'))el('plannedCount').textContent=Math.min(choosePool(homePool(),S,scopeMode).length,Math.max(0,Math.floor(Number(practiceCount)||0)))}if(['wBody','wTitle','vNote','issues'].includes(id)){if(el('count'))el('count').textContent=wordCount(el('wBody').value)+' 词';saveDraft().catch(()=>{})}
+main.addEventListener('input',e=>{let id=e.target.id;if(id==='kQuery'){kQuery=e.target.value;el('kRows').innerHTML=kRows();if(el('kTable'))el('kTable').innerHTML=verbTable()}if(id==='homeCount'){practiceCount=e.target.value;if(el('plannedCount'))el('plannedCount').textContent=Math.min(choosePool(homePool(),S,scopeMode).length,Math.max(0,Math.floor(Number(practiceCount)||0)))}if(['wBody','wTitle','vNote','issues'].includes(id)){if(el('count'))el('count').textContent=wordCount(el('wBody').value)+' 词';saveDraft().catch(()=>{})}
 else if(id==='rQuery'){recordFilter().query=e.target.value;el('rRows').innerHTML=recordRows()}
 else if(id==='essaySearch'){essaySearch=e.target.value;el('essayRows').innerHTML=essayRows()}});
 main.addEventListener('toggle',e=>{if(writingPages.includes(page)&&e.target.tagName==='DETAILS')showRef[draftKey()]=e.target.open},true);
 main.addEventListener('change',e=>{let id=e.target.id,v=e.target.value;
-if(id==='errorType'){errorType=v;render()}
+if(id==='kFilter'||id==='kSection'){if(id==='kFilter')kFilter=v;else kSection=v;el('kRows').innerHTML=kRows();if(el('kTable'))el('kTable').innerHTML=verbTable()}else if(id==='errorType'){errorType=v;render()}
 else if(id==='selectTopic'){practiceTopic=topicsUI.find(t=>t[1]===v)[0];render()}
 else if(id==='order'){randomOrder=v==='随机'}
 else if(id==='scopeMode'){scopeMode=v;render()}
@@ -57,5 +57,5 @@ document.addEventListener('keydown',e=>{if(e.altKey && e.key==='ArrowLeft'){e.pr
 document.addEventListener('visibilitychange',()=>{if(document.hidden)exitDeadline=0;clockTick=Date.now();if(!document.hidden)lastInteraction=clockTick});
 setInterval(()=>{let t=Date.now(),seconds=Math.floor((t-clockTick)/1000);clockTick=t;if((!db&&!fileStore&&!nativeStore)||busy||document.hidden||!['quiz','sentence','paragraph','translate','free','guided','essays','errors','words','phrases'].includes(page)||t-lastInteraction>60000||seconds<1||seconds>15)return;
 change(s=>{let day=new Date().toLocaleDateString('en-CA'),r=s.sessions.find(x=>new Date(x.at).toLocaleDateString('en-CA')===day);if(r)r.seconds+=seconds;else s.sessions.push({at:now(),seconds})}).catch(()=>toast('学习时长保存失败'))},10000);
-(async()=>{try{await openDB();S=await loadState();applyTheme();if(pref().resume&&S.practice){displaySession();go('quiz')}else render()}catch(e){main.textContent='本地数据库未能打开。请在普通浏览窗口启用本地存储后重新打开 WriteFlow。'}})();
+(async()=>{try{await openDB();S=await loadState();applyTheme();if(pref().resume&&S.practice){displaySession();go('quiz')}else render()}catch(e){main.textContent='本地数据库未能打开。请在普通浏览窗口启用本地存储后重新打开 VerbaStep。'}})();
 

@@ -120,7 +120,11 @@ assert any(name=='onJsPrompt' for _,name in compiled)
 assert any(name=='onActivityResult' for _,name in compiled)
 bank=json.loads(re.search(r'const BANK=(\[.*?\]);\n',html,re.S)[1])
 assert len(bank)==3000 and len(set(q['id'] for q in bank))==3000 and 'writeflow-export' in html
+course=json.loads(re.search(r'const curriculum=(\{.*?\});\n',html,re.S)[1])
+all_questions=bank+course['questions']
+assert len(course['lessons'])==218 and len(all_questions)==len({q['id'] for q in all_questions})==3725
+assert g['manifest']['versionCode']==13 and g['manifest']['versionName']=='3.1.1'
 print('PASS — independent APK v2 content digest, certificate/public key, RSA signature, v1 CMS and per-entry digests')
 print('PASS — binary manifest, launcher, API range and Internet permission only; DEX checksum, method references, branches and register ranges')
-print('PASS —',checked,'compiled methods; 3000 bundled questions; HTML plus Android file import/export hooks')
+print('PASS —',checked,'compiled methods; 3725 bundled questions; HTML plus Android file import/export hooks')
 

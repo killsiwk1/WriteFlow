@@ -1,0 +1,38 @@
+regular plurals|把单数改成复数：two train ____ (ticket)|tickets|两张火车票。|train 修饰后面的 ticket，two 数的是票，所以变的是 tickets。
+regular plurals|改正数量词后的错误：We ordered three sandwich.|sandwiches|我们点了三份三明治。|sandwich 末尾读作 /tʃ/，复数要加 -es。只写改正后的名词。
+sibilant endings|I washed both ____ after dinner. (dish)|dishes|晚饭后我把两个盘子都洗了。|both 指两个；dish 加 -es 便于读出复数。
+sibilant endings|Which form names more than one bus: buses or buss?|buses|哪一种形式指多辆公交车？|bus 的复数加 -es；只双写 s 不能形成复数。
+plural nouns ending in y|The two ____ carried flags. (boy)|boys|两个男孩举着旗子。|y 前是元音字母 o，直接加 s。
+plural nouns ending in y|改正末词：There are two new library.|libraries|有两座新图书馆。|library 以辅音字母加 y 结尾，去 y 加 ies。
+plurals in -ves|Two ____ were missing from the kitchen. (knife)|knives|厨房少了两把刀。|knife 的复数要把 fe 换成 ves。
+plurals in -ves|Several ____ were damaged in the storm. (roof)|roofs|几处屋顶在风暴中受损。|roof 是直接加 s 的常用例子，不能把所有词末 f 都变成 ves。
+irregular plurals|The two ____ helped carry the table. (man)|men|那两名男子帮忙搬了桌子。|man 的复数通过内部元音变化表示。
+irregular plurals|Three ____ waited outside the classroom. (child)|children|三个孩子等在教室外面。|child 有独立的复数 children，末尾不再添 s。
+zero plural|A pair of ____ stood near the trees. (deer)|deer|两只鹿站在树旁。|数量大于一，但 deer 的复数拼写不变。
+zero plural|Only one sheep ____ left in the field. (is / are)|is|田里只剩一只羊。|sheep 形式不变，用 one 判断主语是单数。
+third person singular|Every Friday my dad ____ the bin outside. (put)|puts|每周五我爸爸把垃圾桶放到外面。|dad 是单数第三人称，put 在一般现在时加 s。
+third person singular|改正动词：Does the bell rings at noon?|ring|这口钟中午响吗？|does 已经承担人称和时态，实义动词还原。
+third person spelling|The dog ____ the ball across the yard. (carry)|carries|狗叼着球穿过院子。|carry 的 y 前是辅音 r，第三人称单数为 carries。
+third person spelling|My sister ____ chess on Sundays. (play)|plays|我姐姐星期天常下棋。|play 中的 a 是元音字母，保留 y。
+regular past forms|We have ____ the last box. (pack)|packed|我们已经装好了最后一箱。|have 后用过去分词。pack 是规则动词，末尾 ck 后直接加 ed。
+regular past forms|改正动词：Did they painted the wall?|paint|他们刷墙了吗？|did 标记了过去时间，它后面的动词用原形。
+doubling final consonants|They are ____ a surprise party. (plan)|planning|他们在筹备一个惊喜派对。|plan 以短元音加 n 结尾，双写 n 再加 ing。
+doubling final consonants|Last spring we ____ my aunt. (visit)|visited|去年春天我们看望了姨妈。|visit 的重音在第一音节，末尾 t 不双写。
+dropping silent e|She is ____ the last note now. (write)|writing|她正在写最后一张便条。|write 末尾的 e 不发音，去 e 再加 ing。
+dropping silent e|The cat is ____ on my notes. (lie)|lying|猫正趴在我的笔记上。|lie 是特殊拼写，把 ie 变 y 再加 ing。
+regular comparison|Which route is the ____ of the three? (safe)|safest|三条路线中哪条最安全？|safe 以 e 结尾，加 st 构成最高级。
+regular comparison|The second lesson is ____ than the first. (long)|longer|第二课比第一课长。|than 表明这是两个对象的比较，加 er。
+comparison spelling|This tent is ____ than ours. (big)|bigger|这顶帐篷比我们的大。|big 的短元音后只有一个辅音 g，双写 g 再加 er。
+comparison spelling|That was the ____ task of all. (easy)|easiest|那是所有任务中最简单的。|easy 的 y 前是辅音，改 i 再加 est。
+long adjectives|This seat is ____ comfortable than mine. (more / most)|more|这个座位比我的舒服。|两个座位比较，comfortable 前用 more。
+long adjectives|改正重复的比较形式：more easier → ____|easier|更容易。|easy 的比较级已经有 er，去掉 more。
+irregular comparison|There was ____ noise today than yesterday. (little)|less|今天的噪声比昨天少。|noise 在这里不可数，数量更少用 less。
+irregular comparison|Of all the storms, that one was the ____. (bad)|worst|在所有风暴中，那一场最糟。|bad 的最高级是 worst；worse 只表示更糟。
+forming adverbs|The children waved ____. (happy)|happily|孩子们开心地挥手。|修饰 waved 用副词，辅音字母加 y 变 i 再加 ly。
+forming adverbs|The speaker spoke more ____ this time. (slow)|slowly|演讲者这次说得更慢了。|more 后仍需要修饰 spoke 的副词 slowly。
+good vs well|She is a very ____ swimmer. (good / well)|good|她是个很出色的游泳运动员。|swimmer 是名词，good 描述她的水平。
+good vs well|I can hear you very ____. (good / well)|well|我能很清楚地听见你说话。|此处修饰 hear，用副词 well。
+flat adverbs|He could ____ hear the whisper. (hard / hardly)|hardly|他几乎听不见耳语。|hardly 表示几乎不，符合很轻的耳语这个线索。
+flat adverbs|The new train runs ____ than the old one. (fast)|faster|新列车比旧列车快。|fast 可直接修饰 runs，比较级是 faster。
+late vs lately|Have you seen Kai ____? (late / lately)|lately|你最近见过凯吗？|问最近一段时间的经历，用 lately。
+late vs lately|The second bus arrived ten minutes ____. (late 的比较级)|later|第二辆公交车晚到了十分钟。|比较两次到达时间，用 later；lately 表最近。

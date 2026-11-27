@@ -1,7 +1,7 @@
 'use strict';
 const cats=['动词与句法','写作表达','双向翻译','单词','时态','代词','介词','冠词','词形变化','句子结构','名词量词与主谓一致','情态被动与非谓语','从句与连接词','纠错与句型转换','短文完形','固定搭配与短语动词','阅读理解与语境判断'];
 const errors=['拼写错误','时态错误','代词使用错误','主谓一致','名词单复数','介词','冠词','词形变化','句子结构','表达不准确'];
-const fresh=()=>({schema:1,practice:null,progressStart:null,prefs:{theme:'paper',size:16,goal:20},logs:[],errors:[],essays:[],words:[],phrases:[],drafts:{},sessions:[]});
+const fresh=()=>({schema:1,knowledge:{},practice:null,progressStart:null,prefs:{theme:'mist',size:16,goal:20},logs:[],errors:[],essays:[],words:[],phrases:[],drafts:{},sessions:[]});
 const uid=()=>crypto.randomUUID?crypto.randomUUID():Date.now().toString(36)+Math.random().toString(36).slice(2);
 const now=()=>new Date().toISOString();
 const norm=s=>String(s).normalize('NFKC').trim().toLowerCase().replace(/[’‘]/g,"'").replace(/\s+/g,' ').replace(/[.!?。！？]+$/,'').trim();

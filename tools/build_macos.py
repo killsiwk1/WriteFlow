@@ -8,8 +8,11 @@ with tempfile.TemporaryDirectory() as td:
     mac=app/'Contents/MacOS'
     res=app/'Contents/Resources'
     mac.mkdir(parents=True);res.mkdir()
-    plist={'CFBundleExecutable':'WriteFlow','CFBundleIdentifier':'local.writeflow.desktop','CFBundleName':'WriteFlow','CFBundleDisplayName':'WriteFlow','CFBundlePackageType':'APPL','CFBundleIconFile':'WriteFlow.icns','CFBundleVersion':'33','CFBundleShortVersionString':'3.0.3','LSMinimumSystemVersion':'13.0','NSHighResolutionCapable':True}
+    plist={'CFBundleExecutable':'WriteFlow','CFBundleIdentifier':'local.writeflow.desktop','CFBundleName':'VerbaStep','CFBundleDisplayName':'VerbaStep','CFBundlePackageType':'APPL','CFBundleIconFile':'WriteFlow.icns','CFBundleVersion':'35','CFBundleShortVersionString':'3.1.1','LSMinimumSystemVersion':'13.0','NSHighResolutionCapable':True}
     (app/'Contents/Info.plist').write_bytes(plistlib.dumps(plist))
+    for language in ('en','zh-Hans'):
+        loc=res/(language+'.lproj');loc.mkdir()
+        (loc/'InfoPlist.strings').write_text('"CFBundleDisplayName" = "VerbaStep";\n"CFBundleName" = "VerbaStep";\n',encoding='utf-16')
     shutil.copyfile(dist/'WriteFlow.html',res/'WriteFlow.html')
     shutil.copyfile(root/'assets/WriteFlow.icns',res/'WriteFlow.icns')
     exe=mac/'WriteFlow'
@@ -20,5 +23,5 @@ with tempfile.TemporaryDirectory() as td:
     # Install inside /Applications so future releases use the same file URL.
     comp=Path(td)/'component.plist'
     comp.write_bytes(plistlib.dumps([{'RootRelativeBundlePath':'WriteFlow.app','BundleIsRelocatable':False,'BundleIsVersionChecked':True,'BundleOverwriteAction':'upgrade','BundleHasStrictIdentifier':True}]))
-    subprocess.run(['pkgbuild','--root',str(stage),'--component-plist',str(comp),'--identifier','local.writeflow.installer','--version','3.0.3','--install-location','/Applications',str(dist/'WriteFlow-macOS.pkg')],check=True)
+    subprocess.run(['pkgbuild','--root',str(stage),'--component-plist',str(comp),'--identifier','local.writeflow.installer','--version','3.1.1','--install-location','/Applications',str(dist/'WriteFlow-macOS.pkg')],check=True)
     print('Universal native application, SQLite write/reopen/revision self-test and bundle verification passed.')

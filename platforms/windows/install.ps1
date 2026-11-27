@@ -16,10 +16,10 @@ try {
     if ([IO.File]::Exists($target)) { [IO.File]::Replace($temp,$target,[System.Management.Automation.Language.NullString]::Value) } else { [IO.File]::Move($temp,$target) }
 } finally { if (Test-Path -LiteralPath $temp) { Remove-Item -LiteralPath $temp } }
 $shell = New-Object -ComObject WScript.Shell
-$shortcut = $shell.CreateShortcut((Join-Path ([Environment]::GetFolderPath('Programs')) 'WriteFlow.lnk'))
+$shortcut = $shell.CreateShortcut((Join-Path ([Environment]::GetFolderPath('Programs')) 'VerbaStep.lnk'))
 $shortcut.TargetPath = $target
 $shortcut.WorkingDirectory = $folder
-$shortcut.Description = 'Offline English writing and learning'
+$shortcut.Description = 'English Learning & Practice'
 $shortcut.Save()
-Write-Host 'WriteFlow has been installed. Open WriteFlow from your Start menu.'
+Write-Host 'VerbaStep has been installed. Open VerbaStep from your Start menu.'
 Start-Process -FilePath $target

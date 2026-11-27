@@ -1,5 +1,5 @@
 // Logs keep their original IDs and order across resets. The offset starts the current cycle.
-const questionById = new Map(BANK.map(q => [q.id,q]));
+const questionById = new Map([...BANK,...curriculum.questions].map(q => [q.id,q]));
 function questionStates(s) {
     const states = new Map();
     if (s.progressStart == null) {
@@ -76,16 +76,16 @@ async function advance(){
 }
 async function resetPractice(all){
     if(!confirm(all?'将全部题目恢复为未练习，并结束当前练习。历史答题、作文和词汇会保留。':'结束本轮练习？已提交的结果保留，未提交的题目仍可练习。'))return;
-    if(all&&!confirm('确认重新开始全部 '+BANK.length+' 道题的学习进度？当前待复习列表将清空。'))return;
+    if(all&&!confirm('确认重新开始全部 '+questionById.size+' 道题的学习进度？当前待复习列表将清空。'))return;
     await change(s=>{if(all){s.progressStart=s.logs.length;if(s.cloud){s.cloud.reset=uid();s.cloud.known={}}};s.practice=null});
     temporaryRun=null;displaySession();go('home');scheduleSync();
 }
 function pendingErrors(){
-    const states=questionStates(S),history=new Set([...S.errors.map(e=>e.q),...S.logs.filter(l=>!l.ok).map(l=>l.q)]);const due=available(BANK,S,true);const latest=new Map(S.logs.filter(l=>!l.ok).map(l=>[l.q,l.at]));due.sort((a,b)=>(latest.get(b.id)||'').localeCompare(latest.get(a.id)||''));
+    const states=questionStates(S),history=new Set([...S.errors.map(e=>e.q),...S.logs.filter(l=>!l.ok).map(l=>l.q)]);const due=available([...questionById.values()],S,true);const latest=new Map(S.logs.filter(l=>!l.ok).map(l=>[l.q,l.at]));due.sort((a,b)=>(latest.get(b.id)||'').localeCompare(latest.get(a.id)||''));
     const last=new Map(S.logs.map(l=>[l.q,l]));
     return topbar()+'<section class="card"><div class="row spread"><h2>待复习 · '+due.length+' 题</h2>'+
         (due.length?action('开始复习','review','primary'):'')+'</div>'+select('按题型查看','errorType',['全部',...new Set(due.map(kindOf))],errorType)+due.filter(q=>errorType==='全部'||kindOf(q)===errorType).map(q=>{
         const note=S.errors.find(r=>r.q===q.id);
-        return '<details class="entry"><summary>'+esc(q.id+' · '+q.point)+'</summary><p>'+esc(q.text)+'</p><p>上次作答　'+esc(last.get(q.id)?.values.join(' / ')||note?.wrong)+'</p>'+action('重做此题','retry','',q.id)+'</details>';
+        return '<details class="entry"><summary>'+esc(q.id+' · '+q.point)+'</summary><p>'+esc(q.text)+'</p><p>上次作答　'+esc(last.get(q.id)?.values.join(' / ')||note?.wrong)+'</p>'+action('重做此题','retry','',q.id)+courseLinks(q.id)+'</details>';
     }).join('')+(due.length?'':'<p>当前没有待复习的错题。</p>')+'</section><details class="card"><summary>已掌握的错题</summary>'+[...history].filter(id=>states.get(id)==='mastered').map(id=>'<p>'+esc(id+' · '+questionById.get(id).text)+'</p>').join('')+'</details><details class="card"><summary>历史答错记录</summary>'+S.logs.filter(l=>!l.ok).slice().reverse().map(l=>'<div class="entry"><strong>'+esc(l.q+' · '+questionById.get(l.q).point)+'</strong><p>'+esc(l.values.join(' / '))+'　·　'+dateStr(l.at)+'</p></div>').join('')+'</details><details class="card"><summary>错题笔记与旧记录</summary>'+records()+'</details>';
 }

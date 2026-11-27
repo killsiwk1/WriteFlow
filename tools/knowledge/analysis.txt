@@ -1,0 +1,17 @@
+Relative clauses|The girl=先行词、主句主语|who=关系代词、从句主语|is waving a red cap=从句谓语及宾语|is my sister=主句谓语及表语
+Who whom which and that|The guide=先行词|to whom=介词及其宾语|I handed the camera=从句主语、谓语、宾语|smiled=主句谓语
+Relative adverbs|This is the park=主句，park 是先行词|where=地点状语，相当于 in which|we met=从句的主语和谓语
+Restrictive and nonrestrictive clauses|My backpack=先行词|which weighs almost nothing=补充说明，which 作从句主语|is made of cloth=主句其余部分
+Noun clauses and embedded questions|Do you know=主句的提问部分|where=从句的地点状语|the station=从句主语|is=从句谓语
+Subject predicative and appositive clauses|What=引导从句，同时作 need 的宾语|we need=从句主语及谓语|is=主句系动词|a map=主句表语
+Object clauses|She=主句主语|asked=主句谓语|whether=引出“是否”|I had my ID=从句用陈述语序
+Time and condition clauses|I will leave=主句，表将来|as soon as=引出时间条件|the sky=从句主语|clears=从句中用一般现在时
+Adverbial clauses|I=主语|turned it down=把声音调低|so that=引出目的|the baby could sleep=目的从句
+Subject verb and object|Mina=主语|opened=谓语|the gate=宾语
+Sentence elements and patterns|They=主语|painted=谓语|the door=宾语|blue=宾补，说明刷完后的颜色
+Modifiers and complements|We=主语|found=谓语|the door=宾语|open=补语，说明门的状态
+Participial clauses|Having fixed the bike=已完成的动作，逻辑主语为 Jo|Jo=主句主语|rode=主句谓语|it=宾语|home=方向状语
+Cleft sentences|It was=强调框架的开头|on Tuesday=被强调的时间|that=框架连接词|I found the key=其余主句信息
+Unreal conditionals|If I had an umbrella=与现在情况相反的假设|I=主句主语|would stay=假设中的结果|dry=表语
+Present perfect vs past simple|I=主语|have=助动词|lost=过去分词|my key=宾语
+Past perfect|When I reached the stop=过去参照点|the bus=主句主语|had already left=参照点以前已经发生

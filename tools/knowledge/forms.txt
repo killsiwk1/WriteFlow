@@ -1,0 +1,19 @@
+名词 · 规则|复数 -s|regular plurals|一张票分给五个人可不够。数到五时，名词也要告诉你“有好几张”。|We need five [tickets].|我们需要五张票。|ticket 是可数名词，five 后用复数 tickets。|ticket
+名词 · 拼写|复数 -es|sibilant endings|收拾纸箱时，把一个 box 变成两个，读音末尾要多一拍。|Carry both [boxes] upstairs.|把两个箱子都搬上楼。|box 以 x 结尾，加 -es；类似的还有 buses、dishes。|box
+名词 · 拼写|辅音加 y|plural nouns ending in y|寄信地址有三个城市。试试看 city 和 boy 的 y 前有什么不同。|Three [cities] share the same river.|三个城市共用同一条河。|city 的 y 前是辅音字母，变 y 为 i 再加 -es；boy 前是元音，boys 保留 y。|city
+名词 · 拼写|f 或 fe 的复数|plurals in -ves|扫落叶时，不要把“叶子”的拼写规律套给“屋顶”。|Dry [leaves] covered the roof.|干树叶盖满了屋顶。|leaf 变为 leaves；knife 变 knives，但 roof 是 roofs。按具体单词记。|leaf
+名词 · 不规则|内部变音与特殊复数|irregular plurals|看牙前数一数。哪怕有三颗牙，也没有 tooths 这个标准复数。|Three [teeth] need treatment.|三颗牙齿需要治疗。|tooth → teeth；foot → feet。同样是复数，child 却加特殊词尾成为 children，man 变 men。|tooth
+名词 · 不规则|单复数同形|zero plural|牧羊人多牵来两只羊，你听见的名词还是原来的读音。|Six [sheep] are by the gate.|六只羊在门旁。|sheep 单复数同形。six 和 are 都能告诉我们是复数；deer 也如此。|sheep
+动词 · 规则|第三人称单数|third person singular|校钟每天响两次。主语换成两个钟，动词会变回什么样？|This bell [rings] twice a day.|这口钟每天响两次。|一般现在时中 this bell 是单数第三人称，所以 ring 加 s。换成 these bells 就用 ring。|ring
+动词 · 拼写|第三人称的 -ies 与 -es|third person spelling|同桌每天学一点，你能看出 study 与 play 的不同吗？|My cousin [studies] after dinner.|我表弟晚饭后学习。|study 的 y 前是辅音字母，变 studies；play 是 plays，watch 是 watches。|study
+动词 · 规则|过去式和过去分词 -ed|regular past forms|打开活动记录，看看昨天谁帮忙刷了墙。|We [painted] the wall yesterday.|我们昨天刷了墙。|昨天的动作已结束，paint 加 ed；现在完成时 have painted 也用相同拼写。|paint
+动词 · 拼写|重读短元音后双写|doubling final consonants|公交车突然停了。把 stop 写进昨天的日记时，哪个字母需要写两次？|The bus [stopped] outside the hall.|公交车在大厅外停了。|stop 以重读短元音加单个辅音结尾，双写 p 再加 ed 或 ing。visit 末音节不重读，写 visited。|stop
+动词 · 拼写|进行式去 e|dropping silent e|厨房里此刻正在烤面包。bake 后面的 e 与 ing 相遇了。|We are [baking] bread.|我们正在烤面包。|bake 去掉不发音的 e 再加 ing。see 保留两个 e，写 seeing；lie 则是 lying。|bake
+形容词 · 规则|比较级与最高级|regular comparison|从两条路里选短的，再从所有路线里找最短的。|This path is [shorter] than ours.|这条路比我们的短。|short → shorter → shortest；以 e 结尾的 nice 加 r 或 st。than 提示两个对象比较。|short
+形容词 · 拼写|变 y 和双写|comparison spelling|两只旅行包怎么挑？一个更重，一个更大。|The red bag is [heavier] than mine.|红色包比我的重。|heavy 的 y 前是辅音字母，变为 heavier / heaviest；big 则双写 g：bigger / biggest。|heavy
+形容词 · 规则|more 与 most|long adjectives|挑导览手册时，有一本特别详细。长词比较时常保持本身的拼写。|Of the three guides, this one is the [most] expensive.|三本指南中这本最贵。|expensive 常用 more / most 构成比较级和最高级。of the three 提示在三者中选一个。|most / more
+形容词 · 不规则|不规则比较级|irregular comparison|第二场比赛成绩提高了。与其说“好加一点”，英语直接换个词。|Today's score is [better] than yesterday's.|今天的分数比昨天好。|good → better → best；bad → worse → worst；many/much → more → most；little 表数量时用 less / least。far 有 farther/further、farthest/furthest。|good
+副词 · 拼写|形容词变副词|forming adverbs|画一条清晰的线，或清楚地解释一道题。修饰对象决定了词性。|She explained the rule [clearly].|她把规则解释得很清楚。|clearly 修饰 explained。clear 加 ly；happy 则变 happily。副词的比较常用 more clearly。|clear
+副词 · 特殊|good 与 well|good vs well|评委问的是“她唱得怎么样”，空格要描述唱这个动作。|She sings very [well].|她唱得很好。|good singer 用形容词形容人；sing well 用副词修饰动作。well 还可作形容词，表示身体好。|good
+副词 · 特殊|fast、hard 与 hardly|flat adverbs|队友训练很刻苦。若在 hard 后随手加 ly，就变成“几乎不”了。|They trained [hard] all winter.|他们整个冬天刻苦训练。|hard 本身就能作副词；hardly 意为几乎不。fast 也可直接作副词，比较用 faster。|努力地
+副词 · 特殊|late 与 lately|late vs lately|到站晚了十分钟，和“最近常坐车”是两条不同的信息。|The bus arrived [late] again.|公交车又晚点了。|late 表示晚；lately 意为最近，如 I have been busy lately。比较时间更晚可说 later。|晚

@@ -20,11 +20,11 @@ def manifest():
         return node(0x102,P('IIHHHHHH',NO,idx(n),20,20,len(attrs),0,0,0)+a)
     def end(n):return node(0x103,P('II',NO,idx(n)))
     def leaf(n,attrs):return tag(n,attrs)+end(n)
-    body=ns(True)+tag('manifest',[('package',3,'local.writeflow.app'),('versionCode',16,11),('versionName',3,'3.0.3')])
+    body=ns(True)+tag('manifest',[('package',3,'local.writeflow.app'),('versionCode',16,13),('versionName',3,'3.1.1')])
     body+=leaf('uses-sdk',[('minSdkVersion',16,26),('targetSdkVersion',16,32)])
 
     body+=leaf('uses-permission',[('name',3,'android.permission.INTERNET')])
-    body+=tag('application',[('icon',1,0x7f010000),('label',3,'WriteFlow'),('allowBackup',18,0)])+tag('activity',[('name',3,'local.writeflow.app.MainActivity'),('exported',18,NO),('configChanges',17,0x4a0),('windowSoftInputMode',17,0x10)])+tag('intent-filter')
+    body+=tag('application',[('icon',1,0x7f010000),('label',3,'VerbaStep'),('allowBackup',18,0)])+tag('activity',[('name',3,'local.writeflow.app.MainActivity'),('exported',18,NO),('configChanges',17,0x4a0),('windowSoftInputMode',17,0x10)])+tag('intent-filter')
     body+=leaf('action',[('name',3,'android.intent.action.MAIN')])+leaf('category',[('name',3,'android.intent.category.LAUNCHER')])+end('intent-filter')+end('activity')+end('application')+end('manifest')+ns(False)
     offsets=[];pool=b''
     for s in strings:

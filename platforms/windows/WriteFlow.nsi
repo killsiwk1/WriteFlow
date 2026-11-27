@@ -1,6 +1,6 @@
 Unicode true
 !include "MUI2.nsh"
-Name "WriteFlow 3.0.3 英语学习"
+Name "VerbaStep · English Learning & Practice"
 OutFile "../../dist/WriteFlow-Windows-Setup.exe"
 RequestExecutionLevel user
 InstallDir "$LOCALAPPDATA\Programs\WriteFlow"
@@ -18,6 +18,8 @@ Section
  File "../../dist/WriteFlow.html"
  File "../../assets/WriteFlow.ico"
  WriteRegStr HKCU "Software\WriteFlow" "InstallDir" "$INSTDIR"
- CreateShortCut "$DESKTOP\WriteFlow.lnk" "$INSTDIR\WriteFlow.exe" "" "$INSTDIR\WriteFlow.ico"
- CreateShortCut "$SMPROGRAMS\WriteFlow.lnk" "$INSTDIR\WriteFlow.exe" "" "$INSTDIR\WriteFlow.ico"
+ Rename "$DESKTOP\WriteFlow.lnk" "$DESKTOP\VerbaStep.lnk"
+ Rename "$SMPROGRAMS\WriteFlow.lnk" "$SMPROGRAMS\VerbaStep.lnk"
+ CreateShortCut "$DESKTOP\VerbaStep.lnk" "$INSTDIR\WriteFlow.exe" "" "$INSTDIR\WriteFlow.ico"
+ CreateShortCut "$SMPROGRAMS\VerbaStep.lnk" "$INSTDIR\WriteFlow.exe" "" "$INSTDIR\WriteFlow.ico"
 SectionEnd

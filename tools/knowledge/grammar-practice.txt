@@ -1,0 +1,53 @@
+Present perfect continuous|I have been ____ here for twenty minutes. (wait)|waiting|我已经在这里等了二十分钟。|have been 后再接现在分词，强调等待持续了多久。
+Present perfect continuous|It ____ been raining since dawn. (has / is)|has|从黎明起雨就一直在下。|It 是单数，完成进行时的助动词用 has。
+Present perfect continuous|They have been painting the hall ____ Monday. (since / for)|since|他们从周一起一直在粉刷礼堂。|Monday 是起点；若说 three days 就用 for。
+Present perfect continuous|改正形式：Jo has been prepare for the show all week.|preparing|乔一周来都在为演出做准备。|prepare 去掉不发音的 e 加 ing，放在 has been 后。
+Some and any|I don't have ____ change at all. (some / any)|any|我一点零钱都没有。|一般否定句中用 any 与 not 搭配，at all 加强否定。
+Some and any|Could I have ____ water, please? (some / many)|some|请给我一点水好吗？|在请求对方提供东西时可用 some；问句形式没有排除 some。
+Some and any|Pick ____ seat you like. (any / every)|any|喜欢哪个座位就选哪个。|这里是肯定的祈使句，any 表任意一个。every seat 指每个座位。
+Some and any|Is there ____ milk left at all? (any / every)|any|还有牛奶剩下吗？|中性地询问有没有，用 any；every 不能直接修饰不可数名词 milk。
+Direct and reported speech|Jo told me, “I need help.” → Jo said that ____ needed help. (she / I，指 Jo)|she|乔说她需要帮助。|原话中 I 指 Jo；从转述人的角度应改成 she。
+Direct and reported speech|“Are you ready?” → He asked ____ I was ready. (whether / that)|whether|他问我是否准备好了。|一般疑问句转述时要引出“是否”，用 whether 或 if，然后恢复陈述语序。
+Direct and reported speech|“Where do you work?” → She asked where I ____ at that time. (work)|worked|她问我当时在哪里工作。|过去参照点用 worked；从句不需要疑问助动词 do。
+Direct and reported speech|“Don't touch it.” → He told us ____ to touch it.|not|他告诉我们不要碰它。|转述否定命令可用 tell someone not to do；not 放在不定式前。
+Existence and reported speech|There ____ two empty seats near the door. (are / have)|are|门边有两个空位。|there be 引出 seats；复数对应 are。
+Existence and reported speech|There ____ a concert here last night. (be)|was|昨晚这里有一场音乐会。|last night 表过去，a concert 为单数，所以用 was。
+Existence and reported speech|____ there any bread in the kitchen? (Is / Does)|Is|厨房里有面包吗？|存在句变疑问句把 be 移到 there 前；bread 通常不可数。
+Existence and reported speech|Next week there will ____ a book fair. (be / have)|be|下周有书展。|there will be 表示将有；will 后是原形 be。
+Since and for|We have lived here ____ six months. (since / for)|for|我们在这儿住了六个月了。|six months 是一段时间；若换成 January 就要用 since。
+Since and for|The gate has been locked ____ the last bus left. (since / for)|since|末班车开走后，大门就一直锁着。|后半句交代状态开始的事件，用 since 接从句。
+Since and for|I haven't seen him ____ 2020. (for / since)|since|从 2020 年起我就没见过他。|年份定位起点；从起点延续至现在用 since。
+Since and for|She had taught there ____ ten years before retiring. (since / for)|for|退休前她在那里教了十年。|过去完成时也能用 for + 时长，不要只在现在完成时里找 for。
+Demonstratives and quantifiers|Please pass me ____ books here. (this / these)|these|请把这边的这些书递给我。|近处加复数 books，用 these。this 只能限定单数。
+Demonstratives and quantifiers|Those boxes are too small. Is there ____ one? (another / other)|another|那些盒子太小了。还有别的吗？|不特指的另一个，用 another。other one 前通常需要限定词。
+Personal possessive and reflexive pronouns|She cut ____ while opening the tin. (herself / hers)|herself|她开罐头时割伤了自己。|受伤的人就是主语 she，宾语用反身代词 herself；hers 表示她的某物。
+Relative clauses|The map, ____ was drawn by Jo, shows the old bridge. (which / that)|which|乔画的这张地图上标着老桥。|两逗号之间补充说明，关系词作主语并指物，用 which，不能用 that。
+Relative clauses|This is the room ____ we first met. (where / which，不添介词)|where|这是我们第一次见面的房间。|把 the room 放回小句，要说 we met in the room。缺的是地点状语，所以用 where。
+Relative clauses|This is the room ____ we painted. (which / where)|which|这是我们粉刷的房间。|we painted the room 中 room 是宾语，不能因为 room 是地点就填 where。限定性从句中这里也能省略关系代词。
+Subject predicative and appositive clauses|The news ____ the bridge would reopen spread fast. (that / what)|that|桥将重开的消息很快传开了。|the bridge would reopen 已经完整。that 只引出 news 的具体内容，不在从句里作成分。
+Subject predicative and appositive clauses|The question is ____ the ice is thick enough. (whether / what)|whether|问题是冰层是否够厚。|is 后面是表语从句，结构完整，只缺“是否”这一层意思。
+Adverbial clauses|We walked slowly ____ the path was icy. (because / because of)|because|因为小路结了冰，我们走得很慢。|the path was icy 有主语和谓语，用 because；because of 后应接名词短语。
+Adverbial clauses|It was ____ cold that the pond froze. (so / such)|so|天气冷得池塘都结冰了。|空格直接修饰形容词 cold，so + 形容词 + that 引出结果。
+Adverbial clauses|____ the path was icy, we reached school on time. (Although / Despite)|Although|虽然路上结了冰，我们还是按时到校。|后面是完整分句，although 引让步。despite 后一般接名词或动名词。
+Participial clauses|____ from the hill, the village looks tiny. (Seen / Seeing)|Seen|从山上看，村子显得很小。|主句主语 the village 是被看的对象，分词用 seen。若开头为 Seeing the village，主语应是观察者。
+Participial clauses|____ the smoke, Jo opened the window. (Noticing / Noticed)|Noticing|乔注意到烟后打开了窗户。|Jo 是主动注意的人，选现在分词；全句的限定动词是 opened。
+Reflexive pronouns|The twins made these costumes ____. (themselves / them)|themselves|这对双胞胎亲手做了这些服装。|costumes 已是 made 的宾语。句末强调他们亲手制作，复数主语对应 themselves。
+Reflexive pronouns|The kitten saw ____ in the mirror. (itself / its)|itself|小猫在镜中看见了自己。|看与被看的都是这只猫，用 itself；its 后还需名词。
+Reflexive pronouns|Please help ____ to a sandwich, Leo. (yourself / yourselves)|yourself|利奥，请随意拿个三明治。|help yourself to 是请人自取。只对利奥一个人说话，用单数 yourself。
+Reflexive pronouns|We taught ____ to skate without a coach. (ourselves / us)|ourselves|没有教练，我们自学了滑冰。|教的人和学的人都是 we，动作回到主语，用反身代词。
+Cardinal and ordinal numbers|The lift stopped on the ____ floor, just above the second. (three)|third|电梯停在二楼上一层，即三楼。|floor 指楼层次序，用序数词 third，不能把 three 直接加 th。
+Cardinal and ordinal numbers|He has ____ tickets, one for each child. (two / second，两个孩子)|two|他有两张票，每个孩子一张。|问有多少张，用基数词；second ticket 才表示第二张票。
+Cardinal and ordinal numbers|Today is my ____ day here. I arrived yesterday. (two)|second|今天是我来这里的第二天，我昨天到的。|昨天为第一天，今天是第二天，用 second；my 已充当限定词。
+Cardinal and ordinal numbers|The ____ of May comes right after April 30. (one)|first|五月一日紧接在四月三十日之后。|the first of May 用序数词标出一个月中的顺序。
+Relative adverbs|I remember the day ____ we moved here. (when / which，不加介词)|when|我记得我们搬到这里的那一天。|we moved here 本身已有主谓结构；先行词 the day 说明时间，相当于 on that day。
+Relative adverbs|The village ____ we visited has a stone bridge. (which / where)|which|我们参观过的那个村子有座石桥。|visited 缺宾语 the village，不是地点状语。指物用 which，这里也可以省掉。
+Relative adverbs|This is the reason ____ I came back. (why / who)|why|这就是我回来的原因。|I came back 有完整主谓，补的是原因状语，可还原为 for this reason。
+Relative adverbs|That is the cafe in ____ we met. (which / where)|which|那就是我们见面的咖啡馆。|in 已写出，后面需要关系代词作介词宾语。若用 where 要去掉 in。
+Restrictive and nonrestrictive clauses|My bike, ____ I bought last summer, has a new bell. (which / that)|which|我的自行车是去年夏天买的，现在装了新铃铛。|逗号内补充说明，指物用 which；即使它作 bought 的宾语，也不能直接省掉。
+Restrictive and nonrestrictive clauses|Mina, ____ lives upstairs, lent me a lamp. (who / that)|who|住在楼上的米娜借给我一盏灯。|人已由名字点明，逗号里补充她住哪儿。非限制性从句用 who 作主语。
+Restrictive and nonrestrictive clauses|Students ____ need a ticket should queue here. (who / whom)|who|需要票的学生请在这儿排队。|只对需要票的那一部分学生说话，不加逗号。小句缺主语，用 who。
+Restrictive and nonrestrictive clauses|在哪句可以省去 which？填 A 或 B。A: The book which I bought is here. B: The book which fell is here.|A|A：我买的书在这儿。B：掉下来的书在这儿。|A 的 I 是主语，which 是 bought 的宾语。B 中 which 自己就是 fell 的主语，不能丢掉。
+Purpose and result clauses|The print was so small ____ I needed a magnifier. (that / to)|that|字小得我需要放大镜。|so + 形容词 + that 接完整结果从句。I needed 已有主语和谓语。
+Purpose and result clauses|We moved closer in order ____ hear the guide. (to / that)|to|我们靠近了一点，以便听清导游说话。|in order to 后接动词原形；若用 in order that，后面应是完整分句。
+Purpose and result clauses|She used ____ a loud bell that everyone turned around. (such / so)|such|她用的铃声真响，所有人都回了头。|a loud bell 是带冠词的名词短语，用 such a…that。
+Purpose and result clauses|I kept a copy so that I ____ check it later. (could / could to)|could|我留了一份副本，以便以后核对。|so that 表目的，could 直接接 check 原形，无需 to。

@@ -1,0 +1,50 @@
+un-|lock 是“锁上”，unlock 是把这个动作反过来；unhappy 表示“不开心”。先看后面是动作还是性质。
+in-|inactive 是 not active。inside 里的 in 表示“在里面”，不能看见 in 就猜成否定。
+im-|把双唇合起来读 impossible：m 和后面的 p 都用到双唇。还可比较 imbalance、immature。这是已有词的拼写规律，不能给任何 p 开头的词自由加 im。
+il-|把 legal 与 illegal 并排看：前一个 l 归 il-，后一个 l 是 legal 的开头。原词的 l 保留。
+ir-|regular 本身已有 r，加上 ir- 后写成 irregular。illogical 和 irrelevant 分别随 l、r 改变拼写，意义仍是否定。
+dis-|disconnect 让已连上的两端分开；disagree 表立场不同。discuss 在现代英语里不能照此拆成 dis + cuss 来解释。
+non-|nonfiction 是非虚构这一类作品。non- 多用于划分类别；unhappy 表相反的状态。
+re-|reread 是读过之后再读，read 是一个可独立使用的动词。real 虽以 re 开头，却不能拆成“再一次 + al”。
+pre-|电影正片之前看到 preview，烤箱放入食物之前要 preheat。可以沿着动作先后验证“预先”。
+post-|postwar 是战争结束之后的；prewar 是战前的。单独的名词 post（邮件、职位等）不能总按这个前缀翻译。
+mis-|misread 表示有阅读这个动作，但读错了。读不懂和完全没读是不同情形。
+over-|煮豆子超过合适的程度是 overcook。读 overpass 时则要用“从上方越过”的空间意思。
+under-|收费没有达到应收数额叫 undercharge。underwater 中 under 表位置，意思要由后面的词验证。
+inter-|intercity 是城市与城市之间。intra- 表同一范围内部；intercity train 和市内线路的覆盖范围不同。
+trans-|trans 提供“从一边到另一边”的方向，port 提供“运送”的动作。别把英国到法国的交通误解成只在原地搬动。
+sub-|surface 是表层，subsoil 是表土下面的那一层。subheading 则是层级较低的小标题。
+super-|human 前的 super- 把能力推到普通人的水平之上；supermarket 已成为固定词，具体词义是超市。
+anti-|anti-theft 对抗的是 theft（盗窃行为），antibiotic 中 anti- 也有对抗的方向。记住它针对什么，再判断整词。
+auto-|autopilot 是自动操纵装置；autobiography 是自己写自己的人生。automobile 里的历史构词线索与“自己移动”有关。
+bi-|bilingual 指使用两种语言；bicycle 有两个轮子。biweekly 的实际用法有歧义，安排时间要核实频率。
+co-|coauthor 与人一起写；coworker 与人一起工作。语境强调共同参与，不只表示两件事碰巧同时发生。
+con-|converge 是多条路线汇聚。这里解释的是历史构词关系，con 并不是可以随意附到现代动词前的“共同”按钮。
+com-|compose 可以指把素材组合成作品。作曲是整词的固定意义，逐字译为“一起放”并不自然。
+de-|deice 可理解为除去冰。decode 是把编码还原。遇到 decide 不应硬拆成“去掉 + cide”再猜日常词义。
+ex-|ex-captain 指曾当过队长的人，常用连字符。export 中历史上的 ex- 表“向外”，与前任无关。
+extra-|curricular 与课程有关，extracurricular 在课程范围之外。extra time 中 extra 是独立形容词。
+fore-|foresee 是在事情发生前预见；forehead 中 fore 则用空间上的“前”。时间和空间不能机械互换。
+multi-|multicolored 的 colored 表“有颜色的”，multi- 说明颜色多。先确认形容的是一个物体，再想它有什么特征。
+semi-|两个相同的半圆能拼成一个圆。semifinal 是决赛前一轮，按赛事语境译作“半决赛”。
+tele-|telework 指从远处工作，telescope 是看远处的仪器。tele- 也常称为构词成分，不必再次背一个同义词根。
+-able|washable 描述衣物经得起洗。动作 wash 变为性质，不是“正在洗”；a washable bag 可以静静放在架上。
+-ible|audible 指“能够听见的”。-able 与 -ible 近义，具体拼写要随单词记；不能把 visible 按读音随意改成 visable。
+-ful|careful 是留心的，careless 是粗心的。单独的 full 有两个 l，作后缀 -ful 只留一个 l。
+-less|wireless 指不靠线连接。priceless 常指珍贵到无法定价，并非“一文不值”，要检验语境。
+-ness|kind 是性质，kindness 把这种性质或举动当作一件事来谈。happy 变 happiness 时 y 变 i。
+-ment|agree 是动作，agreement 可以是达成的一份协议。pay 变 payment 时 y 保留。
+-tion|invent 是动词，invention 把发明这项行为或成果当作名词。词干末尾的 t 和词尾写在一起，不能用机械拼接得到 inventtion。
+-sion|decide 变 decision 时拼写改变；不是直接在 decide 末尾加 sion。先认出动词与名词这对亲属。
+-er|teacher 可回答“谁教”，printer 也可指“用什么打印”。taller 中的 -er 表比较，不能翻译成从业者。
+-or|actor 是表演的人。-er 和 -or 都能标出执行者，但 spelling 随具体词记，teacher 不写作 teachor。
+-ly|quietly 修饰动作，说明怎么做。friendly、lovely 虽以 -ly 结尾却是形容词，判断时要看句中位置。
+-en|short → shorten 是“让长度变短”，shortened 是在 shorten 上再标过去式。wooden 中的 -en 则产生形容词。
+-y|cloudy 是“有云的”。若是 heavy → heavier，y 的变化承担比较级拼写，和名词 cloud 变形容词是两件不同的事。
+port|portable stove 可以搬着走，transport 是把东西搬运到别处。名词 port 也能指港口，不能凭同样四个字母认定意思一样。
+scrib / script|手写是 manu + script 中的 script。inscribe 用 scrib 这一形式，可把两项和“写”放在同一张记忆卡上。
+vis / vid|visible 与 vision 都有关“看”，video 里见到 vid 这一形态。看见共同拼写只提供线索，拼写相似本身不能证明词源。
+ped / pod|tripod 的 tri- 指三，pod 指脚；pedal 与脚踏有关。pediatric 中相似的 ped 指儿童，不能望文生义。
+path|sympathy 与感受有关；pathology 研究疾病。单独的英语单词 path（小径）不是这里的希腊构词成分。
+log|biology 和 geology 的 -logy 表“……学”。log 作为独立词还可指日志或原木，别把电脑日志拆成学科名。
+serv|conserve 和 preserve 都可用“保持、保护”理解。service 等词不应一概按本组词义翻译。

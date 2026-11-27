@@ -1,0 +1,91 @@
+un-|否定或逆转|un+lock|v.|开锁|Please unlock the gate.|请把大门打开。|unhappy 不高兴的
+in-|不|in+active|adj.|不活跃的|The account is inactive.|这个账号不活跃。|incomplete 不完整的
+im-|不，常见于 p、b、m 前|im+possible|adj.|不可能的|Finishing by noon seems impossible.|中午前完成似乎不可能。|impolite 不礼貌的
+il-|不，否定前缀在 l 前的形式|il+legal|adj.|违法的|Dumping waste here is illegal.|在这里倾倒废物是违法的。|illogical 不合逻辑的
+ir-|不，否定前缀在 r 前的形式|ir+regular|adj.|不规则的|The stones have irregular shapes.|这些石头形状不规则。|irrelevant 不相关的
+dis-|相反或分离|dis+connect|v.|断开|Disconnect the cable first.|先断开这根电缆。|disagree 不同意
+non-|非，不属某类|non+fiction|n.|非虚构作品|She reads nonfiction about oceans.|她阅读关于海洋的非虚构作品。|nonverbal 非言语的
+re-|再一次|re+read|v.|重读|Reread the last line.|把最后一行再读一遍。|rebuild 重建
+pre-|在前，预先|pre+view|n.|预览|The preview shows the first page.|预览里显示了第一页。|preheat 预热
+post-|在……之后|post+war|adj.|战后的|The photos show postwar life.|这些照片展示战后生活。|postmatch 赛后的
+mis-|错误地|mis+read|v.|读错|Did I misread the sign?|我看错指示牌了吗？|misjudge 判断错误
+over-|过度|over+cook|v.|把食物煮过头|Don't overcook the beans.|别把豆子煮过头。|overpay 多付钱
+under-|不足|under+charge|v.|收费过低|We undercharge for delivery.|我们的配送费收得太低。|undercook 未煮熟
+inter-|在……之间|inter+city|adj.|城际的|We took an intercity train.|我们乘坐了城际列车。|international 国际的
+trans-|跨越，转移|trans+port|v.|运输|Boats transport grain across the lake.|船只把粮食运过湖。|transatlantic 横跨大西洋的
+sub-|在下，次级|sub+soil|n.|底土|Roots reached the subsoil.|根伸到了底土层。|subzero 零下的
+super-|超出，超级|super+human|adj.|超出常人的|The hero has superhuman strength.|这位英雄力大超人。|superpower 超能力
+anti-|反对，对抗|anti+theft|adj.|防盗的|The bike has an anti-theft alarm.|这辆自行车装有防盗警报器。|antiwar 反战的
+auto-|自行，自己|auto+pilot|n.|自动驾驶仪|The plane is on autopilot.|飞机正处于自动驾驶状态。|autobiography 自传
+bi-|二，两|bi+lingual|adj.|双语的|This bilingual map uses English and Chinese.|这张双语地图使用中英文。|bicycle 自行车
+co-|共同|co+author|n.|合著者|Her coauthor wrote the last chapter.|她的合著者写了最后一章。|coworker 同事
+con-|一起（拉丁来源）|con+verge|v.|汇聚|Three trails converge at the lake.|三条小径在湖边交汇。|confluence 汇流处
+com-|共同（历史构词形式）|com+pose|v.|创作，组成|They compose songs together.|他们一起作曲。|combine 结合
+de-|去除或逆转|de+ice|v.|除冰|Workers deice the plane.|工人给飞机除冰。|defrost 除霜
+ex-|前任的|ex+captain|n.|前队长|Our ex-captain came to watch.|我们的前队长来观赛了。|ex-president 前总统
+extra-|在……以外|extra+curricular|adj.|课外的|Chess is an extracurricular activity.|国际象棋是一项课外活动。|extraterrestrial 地球以外的
+fore-|在前，预先|fore+see|v.|预见|Nobody could foresee the delay.|谁也没有料到会延误。|forewarn 预先警告
+multi-|多|multi+color+ed|adj.|多色的|A multicolored kite rose above us.|一只彩色风筝升到我们头顶。|multilingual 多语言的
+semi-|半|semi+circle|n.|半圆|We sat in a semicircle.|我们坐成半圆形。|semifinal 半决赛
+tele-|远距离|tele+work|v.|远程工作|They telework on Fridays.|他们星期五远程办公。|telescope 望远镜
+-able|能够被……的|wash+able|adj.|可清洗的|The cover is washable.|这个罩子可以清洗。|readable 易读的
+-ible|可……的|aud+ible|adj.|听得见的|The bell was barely audible.|铃声勉强能听见。|visible 可见的
+-al|与……有关的|season+al|adj.|季节性的|The market sells seasonal fruit.|市场出售当季水果。|national 国家的
+-ial|与……有关的|editor+ial|adj.|编辑的|The editorial team met today.|编辑团队今天开了会。|industrial 工业的
+-ful|充满，具有|care+ful|adj.|小心的|Be careful on the wet floor.|地板湿，小心走。|hopeful 满怀希望的
+-less|缺少|care+less|adj.|粗心的|A careless slip changed the total.|一处粗心的失误改变了总数。|wireless 无线的
+-ness|性质或状态|kind+ness|n.|善意|I remember her kindness.|我记得她的善意。|darkness 黑暗
+-ment|动作或结果|agree+ment|n.|协议|They signed the agreement.|他们签了协议。|payment 支付款
+-tion|行为或结果|inven+tion|n.|发明|The invention saves water.|这项发明能节水。|collection 收藏
+-sion|行为或结果|deci+sion|n.|决定|Her decision surprised us.|她的决定让我们吃惊。|division 分割
+-er|做某事的人或物|teach+er|n.|教师|Our teacher drew a map.|老师画了张地图。|printer 打印机
+-or|执行动作的人或物|act+or|n.|演员|The actor changed costumes.|演员换了戏服。|visitor 访客
+-ist|从业者|art+ist|n.|艺术家|An artist painted our wall.|一位艺术家给我们的墙作了画。|violinist 小提琴手
+-ism|思想或倾向|optim+ism|n.|乐观|Her optimism lifted the team's spirits.|她的乐观鼓舞了全队。|realism 现实主义
+-ity|性质|equal+ity|n.|平等|The club promotes equality.|社团提倡平等。|activity 活动
+-ty|状态或性质|loyal+ty|n.|忠诚|The dog's loyalty moved us.|这只狗的忠诚打动了我们。|safety 安全
+-ous|具有某种性质|danger+ous|adj.|危险的|The ice is dangerous today.|今天冰面很危险。|poisonous 有毒的
+-ive|具有某种倾向|act+ive|adj.|活跃的|The club is active in winter.|这个社团冬天也很活跃。|creative 有创造力的
+-ly|以某种方式|quiet+ly|adv.|安静地|Close the door quietly.|请轻轻关门。|slowly 缓慢地
+-en|使变得|short+en|v.|缩短|Please shorten the strap.|请把带子调短。|widen 加宽
+-ize|使……化|modern+ize|v.|使现代化|They plan to modernize the station.|他们计划让车站设施现代化。|digitize 数字化
+-ify|使变得|solid+ify|v.|凝固|Let the wax solidify.|让蜡凝固。|purify 净化
+-ship|关系或身份|friend+ship|n.|友谊|Their friendship lasted years.|他们的友谊持续了多年。|membership 会员资格
+-hood|时期或状态|child+hood|n.|童年|She spent her childhood by the sea.|她在海边度过童年。|adulthood 成年
+-ance|行动或状态|attend+ance|n.|出席|Attendance rose this week.|本周出席人数增加了。|assistance 援助
+-ence|性质或状态|differ+ence|n.|差别|Can you hear the difference?|你听得出差别吗？|existence 存在
+-ic|与……有关|poet+ic|adj.|富有诗意的|Her letter was poetic.|她的信很有诗意。|atomic 原子的
+-ical|具有……性质|theatr+ical|adj.|戏剧性的|He gave a theatrical bow.|他夸张地鞠了一躬。|historical 与历史有关的
+-y|多……的|cloud+y|adj.|多云的|It turned cloudy at noon.|中午转阴了。|dusty 多尘的
+port|搬运|port+able|adj.|便携的|We packed a portable stove.|我们带了一个便携炉。|transport 运输
+spect|看|in+spect|v.|检查|Inspect the brakes before riding.|骑车前检查车闸。|spectator 观众
+dict|说|pre+dict|v.|预测|Can you predict the next move?|你能预测下一步吗？|dictate 口述
+struct|建造|con+struct|v.|建造|They construct shelters from wood.|他们用木材搭棚。|structure 结构
+form|形状，形成|re+form|v.|改革|The team hopes to reform the rules.|团队希望改革规则。|transform 改变形态
+scrib / script|写|manu+script|n.|手稿|The manuscript had notes in blue ink.|手稿上有蓝墨水写的批注。|inscribe 刻写
+vis / vid|看|vis+ion|n.|视力|Good lighting helps people with poor vision.|良好照明能帮助视力差的人。|video 视频
+aud|听|aud+ience|n.|听众|The audience fell silent.|听众安静下来了。|audible 听得见的
+phon|声音|micro+phone|n.|麦克风|Please speak into the microphone.|请对着麦克风说话。|phonetic 语音的
+graph|写，记录|auto+graph|n.|亲笔签名|She asked the runner for an autograph.|她找跑步运动员要了个签名。|photograph 照片
+bio|生命|bio+logy|n.|生物学|Biology helps us understand plants.|生物学帮助我们了解植物。|biography 传记
+geo|地球|geo+logy|n.|地质学|Geology explains how rocks form.|地质学解释岩石如何形成。|geography 地理学
+photo|光|photo+graph|n.|照片|The photograph shows a frozen lake.|照片上是一个结冰的湖。|photosynthesis 光合作用
+chron|时间|chron+ology|n.|事件时序|We checked the chronology of the trip.|我们核对了旅程中各件事的先后顺序。|chronometer 精密计时器
+cycle|圈，轮转|bi+cycle|n.|自行车|His bicycle has a flat tire.|他的自行车有一个轮胎瘪了。|recycle 回收利用
+cred|相信|cred+ible|adj.|可信的|We need a credible witness.|我们需要可信的目击者。|incredible 难以置信的
+rupt|破裂，中断|dis+rupt|v.|扰乱|Roadworks disrupt traffic.|修路扰乱交通。|interrupt 打断
+tract|拉|at+tract|v.|吸引|The flowers attract bees.|这些花吸引蜜蜂。|tractor 拖拉机
+mit / miss|送，发送|trans+mit|v.|传送|Radios transmit signals.|无线电设备传送信号。|transmission 传输
+duc / duct|引导|con+duct|v.|指挥，引导|She will conduct the orchestra.|她将指挥乐团。|aqueduct 输水渠
+ject|投，抛|e+ject|v.|弹出|Press this button to eject the disc.|按这个按钮弹出光盘。|projectile 抛射物
+pose / posit|放置|de+posit|v.|存放|Deposit the key at reception.|把钥匙存到前台。|compose 组成
+manu|手|manu+al|adj.|手工的|The lift has a manual control.|电梯有手动控制装置。|manuscript 手稿
+ped / pod|脚|tri+pod|n.|三脚架|Set the camera on a tripod.|把相机架到三脚架上。|pedal 踏板
+aqua|水|aqua+tic|adj.|水生的|The pond is home to aquatic plants.|池塘里长着水生植物。|aquarium 水族箱
+therm|热|thermo+meter|n.|温度计|The thermometer read ten degrees.|温度计显示十度。|thermal 与热有关的
+scope|观察用的仪器|micro+scope|n.|显微镜|A microscope reveals tiny cells.|显微镜让人看清微小的细胞。|periscope 潜望镜
+path|感受或疾病（不同词族）|sym+pathy|n.|同情|Her note expressed sympathy.|她在便条中表达了同情。|pathology 病理学
+log|言说，研究|bio+logy|n.|生物学|He studies biology to learn about insects.|他学生物学以了解昆虫。|geology 地质学
+liter|字母，文字|liter+acy|n.|读写能力|The library runs a literacy class.|图书馆开设读写课。|literate 有读写能力的
+migr|迁移|migr+ation|n.|迁徙|Rain delayed the migration.|雨推迟了迁徙。|migrate 迁移
+serv|保存，守护（以 conserve 为例）|con+serve|v.|节约，保护|We conserve water in summer.|我们在夏天节约用水。|preserve 保存

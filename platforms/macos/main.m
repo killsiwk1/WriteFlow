@@ -58,11 +58,11 @@
     WKWebViewConfiguration *cfg=[WKWebViewConfiguration new];
     [cfg.userContentController addScriptMessageHandlerWithReply:self contentWorld:WKContentWorld.pageWorld name:@"writeflow"];
     self.window=[[NSWindow alloc] initWithContentRect:NSMakeRect(0,0,1080,760) styleMask:NSWindowStyleMaskTitled|NSWindowStyleMaskClosable|NSWindowStyleMaskMiniaturizable|NSWindowStyleMaskResizable backing:NSBackingStoreBuffered defer:NO];
-    self.window.title=@"WriteFlow · 英语学习手册"; self.window.minSize=NSMakeSize(400,470);
+    self.window.title=@"VerbaStep · English Learning & Practice"; self.window.minSize=NSMakeSize(400,470);
     self.web=[[WKWebView alloc] initWithFrame:self.window.contentView.bounds configuration:cfg];
     self.web.UIDelegate=self; self.web.navigationDelegate=self;
     self.window.contentView=self.web;
-    NSMenu *menu=[NSMenu new]; NSMenuItem *appItem=[NSMenuItem new]; [menu addItem:appItem]; NSMenu *appMenu=[NSMenu new]; [appMenu addItemWithTitle:@"退出 WriteFlow" action:@selector(terminate:) keyEquivalent:@"q"]; appItem.submenu=appMenu;
+    NSMenu *menu=[NSMenu new]; NSMenuItem *appItem=[NSMenuItem new]; [menu addItem:appItem]; NSMenu *appMenu=[NSMenu new]; [appMenu addItemWithTitle:@"退出 VerbaStep" action:@selector(terminate:) keyEquivalent:@"q"]; appItem.submenu=appMenu;
     NSMenuItem *editItem=[NSMenuItem new]; [menu addItem:editItem]; NSMenu *edit=[[NSMenu alloc] initWithTitle:@"编辑"]; editItem.submenu=edit;
     [edit addItemWithTitle:@"撤销" action:@selector(undo:) keyEquivalent:@"z"]; [edit addItemWithTitle:@"剪切" action:@selector(cut:) keyEquivalent:@"x"]; [edit addItemWithTitle:@"复制" action:@selector(copy:) keyEquivalent:@"c"]; [edit addItemWithTitle:@"粘贴" action:@selector(paste:) keyEquivalent:@"v"]; [edit addItemWithTitle:@"全选" action:@selector(selectAll:) keyEquivalent:@"a"]; NSApp.mainMenu=menu;
     [self.web loadFileURL:self.page allowingReadAccessToURL:self.page];

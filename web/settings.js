@@ -1,5 +1,5 @@
 function statistics(){const n=S.logs.length,correct=S.logs.filter(x=>x.ok).length,days=S.sessions.reduce((v,s)=>v+s.seconds,0),wk=weekStart(),prev=new Date(wk);prev.setDate(prev.getDate()-7);let thisWeek=S.logs.filter(l=>new Date(l.at)>=wk).length;let errCounts=errors.map(t=>[t,S.errors.filter(e=>e.type===t&&new Date(e.at)>=prev&&new Date(e.at)<wk).length,S.errors.filter(e=>e.type===t&&new Date(e.at)>=wk).length]).filter(x=>x[1]||x[2]);
-const lookup=new Map(BANK.map(q=>[q.id,q]));
+const lookup=questionById;
 const answered=new Set(S.logs.map(l=>l.q));
 const titles=new Set(BANK.filter(q=>q.article).map(q=>q.article));
 const completed=[...titles].filter(title=>BANK.filter(q=>q.article===title).every(q=>answered.has(q.id))).length;
@@ -7,12 +7,13 @@ const levels=[1,2,3,4,5].map(k=>{const rows=S.logs.filter(l=>lookup.get(l.q)?.le
 return topbar()+'<div class="grid">'+[['完成整篇训练',completed],['已开始作答的练习组',new Set(S.logs.map(l=>l.batch||l.id)).size],['完成练习（题次）',n],['答题正确率',n?Math.round(100*correct/n)+'%':'—'],['已保存作品',S.essays.length],['活跃学习时间',Math.floor(days/60)+' 分 '+days%60+' 秒']].map(([label,v])=>'<div class="card"><h2>'+label+'</h2><span class="stat">'+v+'</span></div>').join('')+'</div><div class="card gap"><h2>每周计划</h2><p>本周已完成 '+thisWeek+' 题，目标 '+S.prefs.goal+' 题。'+action('调整目标','go','','settings')+'</p><h3>各知识点答题记录</h3>'+cats.map(c=>{let ls=S.logs.filter(l=>lookup.get(l.q)?.cat===c);return ls.length?'<div class="entry row spread"><span>'+c+'</span><span>'+ls.filter(l=>l.ok).length+' / '+ls.length+' 答对</span></div>':''}).join('')+(n?'':'<p class="mut">完成填空后显示。</p>')+'</div><div class="card"><h2>各难度答题记录</h2>'+levels+'</div><div class="card"><h2>新增错误记录变化</h2>'+errCounts.map(([t,a,b])=>'<div class="entry row spread"><span>'+t+'</span><span>上周 '+a+'　 本周 '+b+'</span></div>').join('')+(errCounts.length?'':'<p class="mut">最近两周还没有记录错误。</p>')+'<small>按错题记录日期统计。活跃时间累计学习页面中有近期操作的可见时间段，每十秒记录一次。</small></div>'}
 const str=s=>typeof s==='string',rec=s=>!!s&&typeof s==='object'&&!Array.isArray(s),dateOk=s=>str(s)&&Number.isFinite(Date.parse(s)),imageOK=s=>!s||str(s)&&/^data:image\/(jpeg|png|webp);base64,[A-Za-z0-9+/=\s]+$/.test(s);
 function validateState(s){function want(b){if(!b)throw Error('备份内容不完整或版本不兼容，原数据已保留')}
-want(rec(s)&&s.schema===1&&rec(s.prefs)&&['paper','white','dark'].includes(s.prefs.theme)&&[14,16,18,20,22].includes(s.prefs.size)&&Number.isInteger(s.prefs.goal)&&s.prefs.goal>=1&&s.prefs.goal<=500);
+want(rec(s)&&s.schema===1&&rec(s.prefs)&&['mist','paper','white','dark'].includes(s.prefs.theme)&&[14,16,18,20,22].includes(s.prefs.size)&&Number.isInteger(s.prefs.goal)&&s.prefs.goal>=1&&s.prefs.goal<=500);
+if(s.knowledge!=null)want(rec(s.knowledge)&&Object.entries(s.knowledge).every(([id,v])=>rec(v)&&(!v.visited||dateOk(v.visited))&&['star','read'].every(k=>v[k]==null||typeof v[k]==='boolean')));
 if(s.prefs.training!=null){const t=s.prefs.training;want(rec(t)&&(t.number==null||[5,10,20,30].includes(t.number))&&(t.level==null||['全部','1','2','3','4','5'].includes(t.level))&&['random','resume','save'].every(k=>t[k]==null||typeof t[k]==='boolean'))}
 for(const k of ['logs','errors','essays','words','phrases','sessions'])want(Array.isArray(s[k]));
 for(const k of ['logs','errors','essays','words','phrases']){let ids=new Set();for(const r of s[k]){want(rec(r)&&str(r.id)&&!ids.has(r.id));ids.add(r.id)}}
-for(const r of s.logs)want(BANK.some(q=>q.id===r.q)&&dateOk(r.at)&&typeof r.ok==='boolean'&&Array.isArray(r.values)&&r.values.every(str));
-for(const r of s.errors)want(dateOk(r.at)&&errors.includes(r.type)&&[r.wrong,r.right,r.why].every(str)&&typeof r.done==='boolean'&&(!r.q||BANK.some(q=>q.id===r.q)));
+for(const r of s.logs)want(questionById.has(r.q)&&dateOk(r.at)&&typeof r.ok==='boolean'&&Array.isArray(r.values)&&r.values.every(str));
+for(const r of s.errors)want(dateOk(r.at)&&errors.includes(r.type)&&[r.wrong,r.right,r.why].every(str)&&typeof r.done==='boolean'&&(!r.q||questionById.has(r.q)));
 for(const k of ['words','phrases'])for(const r of s[k])want(specs[k].every(([p])=>str(r[p]))&&typeof r.done==='boolean'&&typeof r.star==='boolean'&&dateOk(r.at));
 for(const e of s.essays){want(str(e.title)&&writingPages.includes(e.kind)&&imageOK(e.photo)&&Array.isArray(e.versions)&&e.versions.length);for(const v of e.versions)want(rec(v)&&dateOk(v.at)&&str(v.body)&&['Original','Revised','Final','AI修改稿'].includes(v.stage))}
 for(const r of s.sessions)want(rec(r)&&dateOk(r.at)&&Number.isInteger(r.seconds)&&r.seconds>=0);
@@ -20,5 +21,5 @@ want(rec(s.drafts));for(const [k,d] of Object.entries(s.drafts))want(/^(sentence
 if(s.practice!=null){const r=s.practice;want(rec(r)&&str(r.id)&&str(r.label)&&Array.isArray(r.ids)&&r.ids.length&&r.ids.every(id=>questionById.has(id))&&new Set(r.ids).size===r.ids.length&&Number.isInteger(r.index)&&r.index>=0&&r.index<r.ids.length)}
 return s}
 function resetView(){temporaryRun=null;for(const k of Object.keys(draftCache))delete draftCache[k];editorId=recEditing='';queue=[];quizResult=null;applyTheme();go('home')}
-async function restoreFile(f){if(f.size>200*1024*1024)throw Error('备份文件超过 200 MB');let s=validateState(JSON.parse(await f.text()));if(!confirm('将用备份中的 '+s.essays.length+' 篇作品和 '+s.logs.length+' 条答题记录替换本机现有数据。确认恢复？'))return;await pendingDraft;await change(current=>{if(current.cloud?.owner && current.cloud.owner!==s.cloud?.owner)throw Error('请在独立本地资料中恢复其他账号的备份');Object.assign(current,{practice:null,progressStart:null},s)});resetView();toast('备份已恢复')}
+async function restoreFile(f){if(f.size>200*1024*1024)throw Error('备份文件超过 200 MB');let s=validateState(JSON.parse(await f.text()));if(!confirm('将用备份中的 '+s.essays.length+' 篇作品和 '+s.logs.length+' 条答题记录替换本机现有数据。确认恢复？'))return;await pendingDraft;await change(current=>{if(current.cloud?.owner && current.cloud.owner!==s.cloud?.owner)throw Error('请在独立本地资料中恢复其他账号的备份');Object.assign(current,{practice:null,progressStart:null,knowledge:{}},s)});resetView();toast('备份已恢复')}
 

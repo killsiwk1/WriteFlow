@@ -6,8 +6,8 @@ android {
         applicationId 'local.writeflow.app'
         minSdk 26
         targetSdk 32
-        versionCode 11
-        versionName '3.0.3'
+        versionCode 13
+        versionName '3.1.1'
     }
     sourceSets.main.assets.srcDirs = [layout.buildDirectory.dir('writeflow-assets').get().asFile]
 }
